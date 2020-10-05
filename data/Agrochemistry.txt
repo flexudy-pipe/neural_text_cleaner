@@ -1,0 +1,415 @@
+
+
+
+Agricultural chemistry - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Agricultural chemistry}
+
+From Wikipedia, the free encyclopedia
+  (Redirected from Agrochemistry)
+
+
+Jump to navigation
+Jump to search
+
+Agricultural chemistry is the study of chemistry, especially organic chemistry and biochemistry, as they relate to agriculture—agricultural production, the processing of raw products into foods and beverages, and environmental monitoring and remediation. These studies emphasize the relationships between plants, animals and bacteria and their environment. As a branch of agricultural science, agricultural chemistry studies the chemical compositions and reactions involved in the production, protection, and use of crops and livestock. Its basic science aspects embrace, in addition to test-tube chemistry, all the life processes through which humans obtain food and fiber for themselves and feed for their animals. Its applied science and technology aspects are directed toward control of those processes to increase yields, improve quality, and reduce costs. One important branch of it, chemurgy, is concerned chiefly with utilization of agricultural products as chemical raw materials.
+
+[TITLE]{Contents}
+
+1 Sciences
+2 History
+3 See also
+4 Notes and references
+
+
+[TITLE]{Sciences[edit]}
+The goals of agricultural chemistry are to expand understanding of the causes and effects of biochemical reactions related to plant and animal growth, to reveal opportunities for controlling those reactions, and to develop chemical products that will provide the desired assistance or control. Every scientific discipline that contributes to agricultural progress depends in some way on chemistry. Hence agricultural chemistry is not a distinct discipline, but a common thread that ties together genetics, physiology, microbiology, entomology, and numerous other sciences that impinge on agriculture.
+Chemical materials developed to assist in the production of food, feed, and fiber include scores of herbicides, insecticides, fungicides, and other pesticides, plant growth regulators, fertilizers, and animal feed supplements. Chief among these groups from the commercial point of view are manufactured fertilizers, synthetic pesticides (including herbicides), and supplements for feeds. The latter include both nutritional supplements (for example, mineral nutrients) and medicinal compounds for the prevention or control of disease.
+Agricultural chemistry often aims at preserving or increasing the fertility of soil, maintaining or improving the agricultural yield, and improving the quality of the crop.
+When agriculture is considered with ecology, the sustainablility of an operation is considered. Modern agrochemical industry has gained a reputation for its maximising profits while violating sustainable and ecologically viable agricultural principles. Eutrophication, the prevalence of genetically modified crops and the increasing concentration of chemicals in the food chain (e.g. persistent organic pollutants) are only a few consequences of naive industrial agriculture.
+
+[TITLE]{History[edit]}
+In 1761 Johan Gottschalk Wallerius publishes his pioneering work, Agriculturae fundamenta chemica (Åkerbrukets chemiska grunder).[1]
+In 1815 Humphry Davy publishes Elements of agricultural chemistry[2]
+In 1842 Justus von Liebig publishes Animal Chemistry or Organic Chemistry in its applications to Physiology and Pathology.[3][4]
+Jöns Jacob Berzelius publishes Traité de chimie minérale, végétale et animal [REF]{(6 vols., 1845–50)}[5]
+Jean-Baptiste Boussingault publishes Agronomie, chimie agricole, et physiologie [REF]{(5 vols., 1860–1874; 2nd ed., 1884)}.
+In 1868 Samuel William Johnson publishes How Crops Grow.[6]
+In 1870 S. W. Johnson publishes How Crops Feed: A treatise on the atmosphere and soil as related to the nutrition of agricultural plants.[7]
+In 1872 Karl Heinrich Ritthausen publishes Protein bodies in grains, legumes, and linseed. Contributions to the physiology of seeds for cultivation, nutrition, and fodder[8]
+[TITLE]{See also[edit]}
+Agronomy
+Fertilizer
+[TITLE]{Notes and references[edit]}
+
+
+^ Translated into French in 1766: Elémens d'agriculture physique et chymique at Google Books
+
+^ Humphry Davy [REF]{(1815)} Elements of agricultural chemistry from Google Books.
+
+^ Justus von Liebig [REF]{(1842)} Animal Chemistry or Organic Chemistry
+
+^ Liebig [REF]{(1847)} Philadelphia edition
+
+^ J. J. Berzelius Traite de chimie minerale, vegetale et animal from Bibliothèque nationale de France
+
+^ Samuel William Johnson [REF]{(1868)} How Crops grow
+
+^ S.W. Johnson [REF]{(1870)} How Crops Feed: A treatise on the atmosphere and soil as related to the nutrition of agricultural plants
+
+^ Die Eiweisskörper der Getreidearten, Hülsenfrüchte und Ölsamen. Beiträge zur Physiologie der Samen der Kulturgewachese, der Nahrungs- und Futtermitel, Bonn, 1872
+
+
+vteBranches of chemistry
+Glossary of chemical formulae
+List of biomolecules
+List of inorganic compounds
+Periodic table
+Physical
+Electrochemistry
+Thermochemistry
+Chemical thermodynamics
+Surface science
+Interface and colloid science
+Micromeritics
+Cryochemistry
+Sonochemistry
+Spectroscopy
+Structural chemistry / Crystallography
+Chemical physics
+Chemical kinetics
+Femtochemistry
+Quantum chemistry
+Spin chemistry
+Photochemistry
+Equilibrium chemistry
+Organic
+Biochemistry
+Molecular biology
+Cell biology
+Bioorganic chemistry
+Chemical biology
+Clinical chemistry
+Neurochemistry
+Biophysical chemistry
+Stereochemistry
+Physical organic chemistry
+Organic reaction
+Retrosynthetic analysis
+Enantioselective synthesis
+Total synthesis / Semisynthesis
+Medicinal chemistry
+Pharmacology
+Fullerene chemistry
+Polymer chemistry
+Petrochemistry
+Dynamic covalent chemistry
+Inorganic
+Coordination chemistry
+Magnetochemistry
+Organometallic chemistry
+Organolanthanide chemistry
+Bioinorganic chemistry
+Bioorganometallic chemistry
+Physical inorganic chemistry
+Cluster chemistry
+Crystallography
+Solid-state chemistry
+Metallurgy
+Ceramic chemistry
+Materials science
+Analytical
+Instrumental chemistry
+Electroanalytical methods
+Spectroscopy
+IR
+Raman
+UV-Vis
+NMR
+Mass spectrometry
+EI
+ICP
+MALDI
+Separation process
+Chromatography
+GC
+HPLC
+Femtochemistry
+Crystallography
+Characterization
+Titration
+Wet chemistry
+Others
+Nuclear chemistry
+Radiochemistry
+Radiation chemistry
+Actinide chemistry
+Cosmochemistry / Astrochemistry / Stellar chemistry
+Geochemistry
+Biogeochemistry
+Environmental chemistry
+Atmospheric chemistry
+Ocean chemistry
+Clay chemistry
+Carbochemistry
+Petrochemistry
+Food chemistry
+Carbohydrate chemistry
+Food physical chemistry
+Agricultural chemistry
+Chemistry education
+Amateur chemistry
+General chemistry
+Clandestine chemistry
+Forensic chemistry
+Post-mortem chemistry
+Nanochemistry
+Supramolecular chemistry
+Chemical synthesis
+Green chemistry
+Click chemistry
+Combinatorial chemistry
+Biosynthesis
+Computational chemistry
+Mathematical chemistry
+Theoretical chemistry
+See also
+History of chemistry
+Nobel Prize in Chemistry
+Timeline of chemistry
+of element discoveries
+"The central science"
+Chemical reaction
+Catalysis
+Chemical element
+Chemical compound
+Atom
+Molecule
+Ion
+Chemical substance
+Chemical bond
+
+ Category
+ Commons
+Portal
+ WikiProject
+
+Authority control 
+GND: 4000788-1
+NDL: 00568600
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Agricultural_chemistry&oldid=967872071"
+Categories: AgricultureBiochemistryHidden categories: Use dmy dates from March 2012Articles containing Latin-language textArticles containing Swedish-language textArticles containing French-language textWikipedia articles with GND identifiersWikipedia articles with NDL identifiers
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+In other projects
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربيةAsturianuБеларускаяБеларуская (тарашкевіца)‎БългарскиCatalàČeštinaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیGalegoՀայերենहिन्दीHrvatskiქართულიҚазақшаКыргызчаമലയാളം日本語Oʻzbekcha/ўзбекчаਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSlovenčinaSlovenščinaСрпски / srpskiSuomiதமிழ்ТоҷикӣTürkçeУкраїнськаTiếng Việt中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 15 July 2020, at 20:47 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

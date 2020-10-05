@@ -1,0 +1,352 @@
+
+
+
+Luftfahrt – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Luftfahrt}
+
+aus Wikipedia, der freien Enzyklopädie
+(Weitergeleitet von Aeronautik)
+
+
+Zur Navigation springen
+Zur Suche springen
+ Kondensstreifen zeigen die Verkehrsdichte
+Die Luftfahrt, auch Fliegerei, Aviatik, Aeronautik oder seltener Flugkunst, ist der Transport von Personen oder Gütern durch die Erdatmosphäre ohne Verbindung zur Erdoberfläche (Ausnahme: Bodeneffektfahrzeuge). Der Begriff umfasst alle Personen, Unternehmen, Tätigkeiten und Teilgebiete (auch auf dem Boden), die den Betrieb von Fluggeräten betreffen.
+Juristisch wird die Bezeichnung Luftverkehr verwendet (siehe Luftverkehrsgesetz). Zum ingenieurwissenschaftlichen Bereich siehe Luft- und Raumfahrttechnik.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Geschichte
+2 Herkunft der Bezeichnungen
+3 Unterscheidungen nach Einsatz
+
+3.1 Zivile Luftfahrt
+3.2 Militärische Luftfahrt
+
+
+4 Unterscheidung nach Prinzip
+5 Internationale Luftfahrt
+6 Luftfahrt und Treibhauseffekt
+
+6.1 Treibhausgasemissionen
+6.2 Maßnahmen
+
+
+7 Gesetzliche Bestimmungen
+8 Siehe auch
+9 Literatur
+10 Weblinks
+11 Einzelnachweise
+
+
+[TITLE]{Geschichte[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Geschichte der Luftfahrt und Chronologie der Luftfahrt
+Siehe auch:
+
+Listen von Flugunfällen
+Liste bekannter Personen der Luftfahrt
+[TITLE]{Herkunft der Bezeichnungen[Bearbeiten | Quelltext bearbeiten]}
+Die Bezeichnung „Luftfahrt“ wurde im 19. Jahrhundert in Anlehnung an die Seefahrt geprägt. Diese Verwandtschaft hat sich bis heute darin erhalten, dass für Luftschiffe das Verb „fahren“ gebraucht wird. Der weitgehend veraltete Begriff Aeronautik (altgriechisch ἀήρ aēr „Luft“ und -nautik; französisch aéronautique, englisch aeronautics) stammt ebenfalls aus der Zeit der Luftschiffe (zum Beispiel Ballone oder Zeppeline).
+Aviatik leitet sich von lateinisch avis „Vogel“ ab. Dieselbe Herkunft hat im Französischen und Englischen das Wort aviation, das ebenfalls „Luftfahrt“ bedeutet.
+Gelegentlich wird das Wort Aviation (mit englischer Aussprache) als Fremdwort im Deutschen verwendet; zum Beispiel bezeichnete sich die Lufthansa als „Aviation-Konzern“.[1], inzwischen jedoch als Luftverkehrskonzern.[2]
+
+[TITLE]{Unterscheidungen nach Einsatz[Bearbeiten | Quelltext bearbeiten]}
+Man unterscheidet zwei Bereiche bzw. Arten der Luftfahrt:
+
+[TITLE]{Zivile Luftfahrt[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Zivile Luftfahrt
+Die zivile Luftfahrt kann man aufteilen in:
+
+Gewerbsmäßige Luftfahrt
+Dies ist regelmäßiger, öffentlicher und kommerzieller Luftverkehr bzw. Charter- und Gelegenheitsverkehr.
+Allgemeine Luftfahrt
+Dazu gehören der private Luftsport, kommerzielle Geschäftsflüge aber auch Flüge mit hoheitlichem Auftrag, beispielsweise solche der Polizei oder der Luftrettung.
+[TITLE]{Militärische Luftfahrt[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Militärische Luftfahrt
+Dies betrifft jeglichen Flugbetrieb mit militärischen Luftfahrzeugen oder zu militärischen Zwecken.
+
+[TITLE]{Unterscheidung nach Prinzip[Bearbeiten | Quelltext bearbeiten]}
+Bei der Luftfahrt wird außerdem nach der Art des Auftriebs in zwei Arten eingeteilt:
+
+Schwerer als Luft (dynamischer Auftrieb): Flugzeuge, Hubschrauber, Bodeneffektfahrzeuge
+Leichter als Luft (statischer Auftrieb): Ballone, Luftschiffe (Zeppelin als der bekannteste Vertreter)
+Weiter gibt es noch sog. Hybridluftschiffe, die sich beide Auftriebsarten zunutze machen. Schließlich gibt es noch Luftfahrzeuge ohne Auftrieb, welche durch Rückstoß fliegen. Diese haben sich aber in der Luftfahrt bisher nicht etabliert.
+
+[TITLE]{Internationale Luftfahrt[Bearbeiten | Quelltext bearbeiten]}
+Zur Koordination in der internationalen Luftfahrt sind zahlreiche Übereinkommen geschlossen worden, zum Beispiel im Dezember 1944 das Chicagoer Abkommen, mit dem die International Civil Aviation Organization (ICAO) gegründet wurde. Als einheitliches Alphabet wurde für die Luftfahrt das ICAO-Alphabet festgelegt. Uhrzeiten werden grundsätzlich in UTC angegeben.
+Die International Air Transport Association (IATA) ist der Dachverband von weltweit 250 Fluggesellschaften an, die rund 94 % aller internationalen Flüge durchführen.
+
+[TITLE]{Luftfahrt und Treibhauseffekt[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Umweltauswirkungen des Luftverkehrs
+
+[TITLE]{Treibhausgasemissionen[Bearbeiten | Quelltext bearbeiten]}
+Der Anteil des Flugverkehrs an den weltweiten CO2-Emissionen des Verkehrs betrug lt. IPCC im Jahre 1999 etwa 12 %. Der Anteil an allen globalen CO2-Emissionen beträgt rund 2,4 %.
+Der Anteil der Luftfahrt an der weltweit durch Menschen verursachten globalen
+Erwärmung beträgt laut einer 2020 erschienen internationalen Studie etwa 3,5 Prozent [REF]{(1,5 Prozent durch CO2-Emissionen, 2 Prozent durch Nicht-CO2-Effekte).[3][4] Eine 1999 veröffentlichte IPCC-Studie kam ebenfalls auf einen Anteil von etwa 3,5 Prozent.[5] In der Schweiz betrug der Anteil gemäß WWF Schweiz 18,8 % (nationale und internationale Luftfahrt)} bei einem weltweiten Durchschnitt von 5 %.[6]
+Eine bedeutendere Rolle als früher angenommen spielen nach Forschungsergebnissen von 2019 die aus Wasserdampf und Ruß aus den Abgasen der Flugzeuge entstehenden Kondensstreifen. Besonders die sich in etwa acht Kilometer Höhe bildenden Eiswolken würden die Wärmeabstrahlung von der Erde ins All verhindern und stärker zur Erderwärmung beitragen als das von Flugzeugen emittierte CO2.[7]
+
+[TITLE]{Maßnahmen[Bearbeiten | Quelltext bearbeiten]}
+Mit dem EU-Emissionshandel (Emissions Trading Scheme, ETS), der am 1. Januar 2005 europaweit in Kraft trat, versucht die Europäische Union die Emission von Treibhausgasen zu steuern. Im Dezember 2006 schlug die EU-Kommission vor, den Flugverkehr in das EU-Emissionshandelssystem aufzunehmen. Fluggesellschaften müssen ab 2012 Emissionsrechte auf Flugstrecken, die Flughäfen der EU berühren, nachweisen.[8]
+Zusätzlich können Passagiere ihre CO2-Emissionen durch Spenden an Organisationen wie Atmosfair, myclimate und Klima-Kollekte kompensieren.
+
+[TITLE]{Gesetzliche Bestimmungen[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Luftfahrtrecht
+Gesetzliche Bestimmungen sind im Luftfahrtrecht enthalten.
+
+[TITLE]{Siehe auch[Bearbeiten | Quelltext bearbeiten]}
+Portal: Luftfahrt – Übersicht zu Wikipedia-Inhalten zum Thema Luftfahrt
+Luftverkehr
+Unbemannte Luftfahrt, Unbemanntes Luftfahrzeug
+Abkürzungen/Luftfahrt
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Herbert Groß: Luftfahrt-Wissen. Von den Grundlagen bis zur Pilotenlizenz. 2. Auflage. Motorbuch, Stuttgart 2005. ISBN 3-613-02378-4 (Inhaltsangabe).
+Helmuth Trischler, Kai-Uwe Schrogl (Hrsg.): Ein Jahrhundert im Flug. Luft- und Raumfahrtforschung in Deutschland 1907–2007. Campus, Frankfurt am Main u. a. 2007, ISBN 978-3-593-38330-9.
+Niels Klußmann, Arnim Malik: Lexikon der Luftfahrt. Springer, Berlin 2007, ISBN 978-3-540-49095-1.
+Bharat Kumar et al.: An illustrated dictionary of aviation. McGraw-Hill, New York, NY 2005, ISBN 0-07-139606-3 (englisch).
+Ahmed K. Noor: Future aeronautical and space systems. American Institute of Aeronautics & Astronautics, Reston 1997, ISBN 1-56347-188-4 (englisch).
+E. Charles Vivian: A History of Aeronautics. 1920, ISBN 978-1-4142-1702-4 (online (englisch)).
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Wiktionary: Luftfahrt – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Wikinews: Luftfahrt – in den Nachrichten
+Wikisource: Luftfahrt – Quellen und Volltexte
+Commons: Luftfahrt – Sammlung von Bildern
+Europäische Agentur für Flugsicherheit
+Luftfahrt-Bundesamt
+Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation: Luftfahrt
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ Homepage der Lufthansa [REF]{(Januar 2011) (Memento vom 17. Mai 2011 im Internet Archive)}.
+
+↑ Lufthansa Group AG: Unternehmen. Abgerufen am 29. Mai 2019. 
+
+↑ dlr.de: Der globale Luftverkehr trägt 3,5 Prozent zur Klimaerwärmung bei (internationale Studie unter der Leitung der Manchester Metropolitan University unter Beteiligung des Deutschen Zentrums für Luft- und Raumfahrt (DLR))
+
+↑ www.sciencedirect.com: The contribution of global aviation to anthropogenic climate forcing for 2000 to 2018
+
+↑ Joyce E Penner: IPCC special report on Aviation and the Global Atmosphere. Intergovernmental Panel on Climate Change, 1999. ISBN 92-9169-111-9.
+
+↑ Gregory Remez: Trend aus Schweden: Wie das Phänomen Flugscham die Schweiz erobert. In: aargauerzeitung.ch. 2. Mai 2019, abgerufen am 13. Mai 2019. 
+
+↑ Julia Merlot: Effekt von Kondensstreifen: Flugverkehr schadet dem Klima mehr als gedacht. In: Spiegel online. 26. Juli 2019, abgerufen am 2. August 2019. 
+
+↑ umweltbundesamt.de: "Der Europäische Emissionshandel"
+
+
+Normdaten [REF]{(Sachbegriff): GND: 4036557-8 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Luftfahrt&oldid=204071373“
+Kategorie: Luftfahrt
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+CommonsWikinewsWikisource
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+AfrikaansالعربيةAsturianuAzərbaycancaŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीবাংলাBosanskiCatalàČeštinaЧӑвашлаCymraegDanskΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalegoעבריתहिन्दीHrvatskiMagyarInterlinguaBahasa IndonesiaItaliano日本語QaraqalpaqshaTaqbaylitҚазақша한국어КыргызчаLatinaLëtzebuergeschLimburgsLietuviųLatgaļuLatviešuМакедонскиМонголBahasa MelayuЭрзяньNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsRomânăРусскийसंस्कृतम्SicilianuScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSundaSvenskaதமிழ்ТоҷикӣไทยTürkmençeTagalogTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语ייִדיש中文Bân-lâm-gú粵語
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 28. September 2020 um 20:57 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

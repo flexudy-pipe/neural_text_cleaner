@@ -1,0 +1,397 @@
+
+
+
+Archéologie aérienne — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+БългарскиČeštinaDanskDeutschEnglishMagyarМакедонскиPolskiPortuguêsShqipTürkçe
+Modifier les liens
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Archéologie aérienne}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+ Photographie aérienne du site protohistorique de Grézac (Charente-Maritime). Grande nécropole gauloise avec diverses structures funéraires. Circulaires ou carrés, de toutes tailles, ces « monuments funéraires » abritaient des sépultures à incinération.
+L'archéologie aérienne est une méthode d'archéologie non destructive qui consiste à photographier à moyenne altitude des zones dégagées et à étudier et interpréter les indices recueillis, invisibles au sol.
+Trois sortes de modifications, dues à la présence de vestiges enfouis, sont observables sur les photographies obtenues dans des conditions optimales de saison et d'éclairage : modification de niveaux, de couleur du sol ou de développement des cultures. Ces modifications permettent de déceler d'anciennes structures anthropiques qu'il reste ensuite à dater et à préciser.
+
+[TITLE]{Sommaire}
+
+1 Historique
+2 Principes
+3 Origine des traces archéologiques visibles en surface
+4 Acquisition et exploitation des données
+
+4.1 Observation
+4.2 Interprétation
+4.3 Publication et prolongement
+
+
+5 Liste de prospecteurs archéologiques aériens
+6 Notes et références
+
+6.1 Notes
+6.2 Références
+
+
+7 Voir aussi
+
+7.1 Bibliographie
+7.2 Articles connexes
+7.3 Liens externes
+
+
+
+
+[TITLE]{Historique[modifier | modifier le code]}
+ Raymond Chevallier.
+Le révérend père jésuite Antoine Poidebard, observateur aérien militaire, remarque en 1925 en Syrie sous mandat français qu'au soleil couchant, avec la lumière rasante, des reliefs infimes du sol apparaissaient, trahissant des ruines enfouies qu'il photographie, localise et déclare. Ces micro-reliefs sont associés, vus du ciel, à des ombres allongées démesurément. Poidebard reconnaît ainsi les forts du limes romain et le tracé des routes caravanières traversant le désert pour atteindre au Sud l'Arabie[1].
+Le colonel Baradez réalise des prospections en Afrique du nord, mais les Anglais sont les premiers à institutionnaliser ces recherches, grâce aux moyens techniques du Department of Survey de l'université de Cambridge. Le pionnier anglais de la photographie aérienne, Kenneth St Joseph (en), développe après la Seconde Guerre mondiale, cette discipline dans les pays tempérés, mettant en évidence dans les champs labourés, nus, les différences de teinte de leur sol (indices pédographiques ou « soil marks (en) »[2]) qui témoignent d'une occupation ou d'une activité de l'homme[3].
+C'est dans les années 1960 que dans plusieurs régions françaises, des chercheurs commencent à utiliser de manière spécifique cette méthode de prospection. Le séminaire de topographie historique et de photo-interprétation de l'École des hautes études en sciences sociales de Paris, organisé en 1977 par Raymond Chevallier, a une influence décisive sur le développement et la vulgarisation de cette technique.
+
+
+[TITLE]{Principes[modifier | modifier le code]}
+L'archéologie aérienne associe un support aérien, généralement l'avion de tourisme, aux prospections archéologiques. L'avion permet de s'éloigner de la surface terrestre, pour prendre du recul afin de mieux saisir les éventuelles traces d'occupation humaine (creusement de fondations ou fossés, édification de murs) qui ont bouleversé la stratigraphie naturelle d'un sol.
+
+[TITLE]{Origine des traces archéologiques visibles en surface[modifier | modifier le code]}
+ Photographie aérienne du site néolithique de Balzac, Les Coteaux de Coursac (Charente)[Note 1].
+Naturel ou cultivé, le sol est un milieu homogène où la croissance de la végétation est régulière sur un territoire donné. Les interventions humaines passées, en rompant cette homogénéité, se signalent par des anomalies de croissance de la végétation[4].
+Sur sol nu et asséché en surface, la remontée capillaire d'humidité à la verticale des fossés provoque l'apparition de figures géométriques où le sol apparaît d'une couleur différente ; l'inverse peut également se produire lorsque des fondations enfouies diminuent la réserve d'eau disponible : ce sont des indices hydrographiques[5].
+Des interventions agricoles récentes (labours profonds) peuvent faire affleurer des vestiges se traduisant par des traces de couleur différente qui forment les indices pédographiques[6].
+Les traces laissées par les interventions humaines affectent en général des formes géométriques, ce qui permet de les différencier des anomalies naturelles aux formes plus irrégulières, et le recul permis par l'observation aérienne aide à cette discrimination.
+Les principales périodes de visibilité des traces archéologiques se situent à la fin du printemps, sur les terres cultivées, lorsque les champs de céréales arrivant à maturité trahissent la présence de structures anthropiques. La seconde période correspond à l'hiver, lorsque l'assèchement des terres nues permet les remontées capillaires plus foncées. Les résultats sont toutefois très inégaux selon les années et dépendent en particulier de la géologie et la pédologie du lieu, de la climatologie régionale annuelle (influant sur les réserves hydriques et le niveau phréatique), de la nature des cultures et de la présence au moment opportun, d'un prospecteur archéologique aérien.
+
+[TITLE]{Acquisition et exploitation des données[modifier | modifier le code]}
+ Photographie aérienne du site médiéval de Champdolent (Charente-Maritime), près du Vieux Château[Note 2].
+[TITLE]{Observation[modifier | modifier le code]}
+Un moyen idéal de prospection est l'avion de tourisme à aile basse avec un pilote et un passager observateur. Un jeu de cartes de l'IGN, au 1/50 000 sera indispensable pour localiser toute découverte nouvelle, qui sera attestée par un groupe suffisant de photographies. Les appareils photographiques reflex modernes, équipés d'un zoom sont suffisants. La localisation des prises de vues par GPS est indispensable.
+Les étés secs ou de grandes vagues de chaleur sont propices à la découverte de nouveaux sites, permettant de visualiser ces artéfacts de manière beaucoup plus contrastée[7].
+
+[TITLE]{Interprétation[modifier | modifier le code]}
+Au retour de mission, les images peuvent immédiatement être visionnées, enregistrées et traitées. Chaque vue est géolocalisée précisément et tous les détails nécessaires à son interprétation sont notés : description des conditions de prise de vue, date, heure, orientation de l'axe du paysage représenté et description des indices archéologiques observés. Chaque photo fait ensuite l'objet d'une analyse archéologique : origine naturelle ou anthropique et, dans ce cas, proposition de datation et de typologie (habitat, enceinte, fossé...). Il faut décréter si les traces sont d'origine naturelle ou anthropique. L'examen de leurs formes et styles permettra d'établir un diagnostic d'appartenance chronologique préliminaire. L'ensemble des données est transmis à l'autorité de tutelle compétente en matière d'archéologie, le Service régional de l'archéologie (ministère de la Culture).
+
+[TITLE]{Publication et prolongement[modifier | modifier le code]}
+ Photographie aérienne du site antique de Barzan (Charente-Maritime)[Note 3].
+Ces données ont vocation à être portées à la connaissance du monde scientifique mais aussi du public, permettant ainsi la sensibilisation du plus grand nombre de personnes et parfois, l'organisation d'un chantier de fouilles sur un site se révélant particulièrement prometteur.
+L'archéologie aérienne est un outil précieux et de mise en œuvre rapide, notamment en préalable à des chantiers de grand ampleur, travaux urbains mais surtout périurbains, construction de routes ou de voies de chemin de fer.
+
+
+[TITLE]{Liste de prospecteurs archéologiques aériens[modifier | modifier le code]}
+ Jacques Dassié en vol.
+Roger Agache [REF]{(1926-2011)}. Docteur en histoire de l'art et d’archéologie, il commence dès 1959 à réaliser des vues aériennes de vestiges archéologiques dans le nord de la France, et notamment dans la Somme.
+Jean Baradez [REF]{(1895-1969)}. Responsable des antiquités de l'Algérie coloniale française après la Seconde Guerre mondiale, il réalise de nombreuses prises de vue à a caractère archéologique.
+Raymond Chevallier [REF]{(1929-2004)}. Professeur d'université, il perfectionne les techniques de prospection aérienne et contribue aux échanges scientifiques entre les opérateurs de ce domaine.
+Jacques Dassié [REF]{(né en 1928)}. Aviateur de formation, il découvre, grâce à l'archéologie aérienne, de très nombreux sites en Saintonge, dont celui de Barzan dont il révèle l'étendu et la structure.
+Jacques Dubois [REF]{(1929-2016)}. Ce professeur de physique et de chimie découvre plusieurs dizaines de sites archéologiques en Touraine dans le cadre de la mission qui lui est confiée par le ministère de la Culture.
+René Goguey [REF]{(1921-2015)}. Pilote dans l'Armée de l'air française, il se consacre à l'archéologie aérienne en Bourgogne, mais aussi en Europe de l'Est, missionné par le Ministère des Affaires étrangères.
+Antoine Poidebard [REF]{(1878-1955)}. Jésuite, envoyé au Proche Orient pour le compte de la Société de géographie, il réalise les premiers clichés connus en 1925 et cartographie ainsi l'ensemble du limes romain de cette région.
+[TITLE]{Notes et références[modifier | modifier le code]}
+[TITLE]{Notes[modifier | modifier le code]}
+
+↑ Ensemble complexe de fossés de défense d'un éperon barré dominant la Charente. Ces ensembles de fossés avec portes et chicanes complexes étaient destinés à protéger une zone susceptible d'accueillir une population de cueilleurs-chasseurs fraîchement sédentarisés, grâce au climat régional et aux céréales sauvages.
+
+↑ Vision des douves, des murailles et du donjon d'un château disparu.
+
+↑ Moulin du Fâ et traces de la ville gallo-romaine de Novioregum. On distingue à gauche la Grande Avenue, bordée de boutiques. Au centre, les horrea, entrepôts d'État, impliquant des stockages de marchandises, prélude à un transbordement vers la zone portuaire et l'embarquement sur les navires de cabotage côtier. Novioregum était incontestablement un port.
+
+
+
+[TITLE]{Références[modifier | modifier le code]}
+
+↑ Lévon Nordiguian et Jean-François Salles, [REF]{Aux origines de l'archéologie aérienne : A. Poidebard [REF]{(1878-1955)}}, Presses de l'Université Saint-Joseph, 2000, p. 59.
+
+↑ Les labours peuvent faire remonter jusqu'à la surface  des vestiges enfouis maçonnés, entraînant la formation d'affleurements pierreux qui se distinguent de leur environnement par un soil mark, coloration plus claire du sol.
+
+↑ (en) John Kenneth Sinclair St. Joseph, [REF]{The Uses of Air Photography}, J. Baker, 1977, p. 7.
+
+↑ Page « Les anomalies de la croissance des cultures » sur le site L'archéologie aérienne dans la France du nord. Page consultée le 24 août 2011.
+
+↑ Page « Les anomalies de l'humidité différentielle des sols » sur le site L'archéologie aérienne dans la France du nord. Page consultée le 24 août 2011.
+
+↑ Page « Les anomalies de la couleur du sol » sur le site L'archéologie aérienne dans la France du nord. Page consultée le 24 août 2011.
+
+↑ Le Matin [REF]{(2018)} article intitulé Royaume-Uni ; La sécheresse fait ressurgir des sites archéo ; La sécheresse de cet été au Royaume-Uni a fait surgir des marques dans des champs remontant parfois à la préhistoire 16.08.2018 
+
+
+
+[TITLE]{Voir aussi[modifier | modifier le code]}
+[TITLE]{Bibliographie[modifier | modifier le code]}
+R. Goguey et Alexandra Cordier, Photographie aérienne et archéologie. Infolio éditions. 2015. 339 pages.
+Une aventure archéologique, Antoine Poidebard, photographe, Éditions USJ, Beyrouth, 2003 & Éditions Parenthèses, Marseille, 2004, catalogue d'exposition [REF]{(Université Saint Joseph/USJ-Beyrouth, 2003 & Musée de l'Arles et de la Provence Antiques en collaboration avec l'USJ, 2004)}.
+Collectif, L'archéologie vue du ciel, éditions Hazan, 2002, 255 pages  [REF]{(ISBN 2-7028-5859-7)}
+Jacques Dassié, Manuel d'archéologie aérienne, Éditions Technip, 1978, 350 p., 170 photographies.
+Jacques Dassié, [REF]{Archéologie aérienne. Patrimoine archéologique et touristique des Charentes}, Joué-lès-Tours, France, éd. Alan Sutton, 2001, 261 photos, 176 p. [REF]{(ISBN 978-2-84253-607-7, notice BnF no FRBNF37653615)}
+Henri Delétang [REF]{(sous la direction de), L'archéologie aérienne en France - le passé vu du ciel, éditions Errance, 1999, 173 pages  (ISBN 2-87772-169-8)}
+Jacques Dubois, [REF]{Archéologie aérienne : Patrimoine de Touraine}, Saint-Cyr-sur-Loire, Éditions Alan Sutton, 2003, 190 p. [REF]{(ISBN 978-2-84253-935-1, notice BnF no FRBNF39092902)}
+Alain Ferdière, La prospection, éditions Errance, collection « Archéologiques », 1998, 224 pages  [REF]{(ISBN 2-87772-160-4)}
+Daniel Jalmain, Archéologie aérienne en Ile-de-France, Beauce, Brie, Champagne, Editions TECHNIP, 1970, 172 pages  [REF]{(ISBN 9782710801290)}
+L. Langouet et M.-Y. Daire, Le passé vu d'avion dans le nord de la Haute-Bretagne. Apports de la prospection aérienne et la sécheresse de 1989, Les Dossiers du CeRAA, n° M, Saint-Malo, 1990, 118 p.
+G. Leroux, M. Gautier, J.-C. Meuret et P. Naas, Enclos gaulois et gallo-romains en Armorique. De la prospection aérienne à la fouille. Documents Archéologiques de l'Ouest. Université Rennes 1 et UMR 6566 du CNRS, Rennes, 1999, 335 p., 204 photographies, 204 plans.
+P. Naas, Histoire rurale des Vénètes armoricains (Ve s. av. J.-C. - IIIe s. ap. J.-C.), Saint-Malo, Éditions du CeRAA, 1999, 238 p., 152 planches
+[TITLE]{Articles connexes[modifier | modifier le code]}
+Archéologie
+Prospection aérienne
+Photo cervolisme
+Centuriation romaine
+Cercle de Goseck
+[TITLE]{Liens externes[modifier | modifier le code]}
+Répertoire de sites traitant d'archéologie aérienne
+Agache, R. [REF]{(2005)} - Empreintes du passé. Introduction à l'archéologie aérienne, DVD, Scérén CRDP Académie d'Amiens, 2005,  : Site d'accompagnement.
+Archéologue Aérien [REF]{(2009)}, documentaire réalisé par Denis Becker, CasaDei Production en coproduction avec France Télévisions site du film
+
+
+v · mArchéologie
+ 
+Histoire
+Société des antiquaires 
+ 
+Personnalités
+Liste d'archéologues · Liste de préhistoriens
+ 
+Méthodologie
+Prospection au sol · Fouille
+ 
+Disciplines
+Archéoacoustique · Archéoastronomie · Archéobiologie · Archéobotanique · Archéogénétique · A. aérienne · A. biblique · A. classique · A. du bâti · A. expérimentale · A. féministe · A. du genre · A. industrielle · A. maritime · A. médiévale · A. numérique · A. paléochrétienne · A. subaquatique · A. sous-marine · A. durant le Troisième Reich · Archéométrie · Archéozoologie · Égyptologie · Géoarchéologie · Ostéologie · Paléopathologie · Préhistoire · Protohistoire · Pseudoarchéologie
+ 
+Catégorie · Portail de l'Histoire
+
+ Portail de l’archéologie   Portail de l’aéronautique  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Archéologie_aérienne&oldid=172064251 ».
+Catégories : Discipline de l'archéologiePhotographie aérienneCatégories cachées : Article contenant un appel à traduction en anglaisPortail:Archéologie/Articles liésPortail:Sciences humaines et sociales/Articles liésPortail:Aéronautique/Articles liésPortail:Transports/Articles liés
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 16 juin 2020 à 18:19.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

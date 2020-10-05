@@ -1,0 +1,872 @@
+
+
+
+ISBN-Suche – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{ISBN-Suche}
+
+
+
+
+Zur Navigation springen
+Zur Suche springen
+
+ Die Diskussion zu dieser Seite befindet sich hier. 
+Auf dieser Spezialseite kannst du eine ISBN eingeben und erhältst dann eine Liste mit Informations- und Bezugsmöglichkeiten zur gesuchten ISBN. Bindestriche oder Leerzeichen zwischen den Ziffern spielen für die Suche keine Rolle. Siehe auch Wikipedia:Literatur.
+
+Suche nach Bezugsquellen für BücherISBN:
+Suchen
+
+
+Wo suchen?
+
+
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Inhaltsverzeichnisse und Rezensionen
+2 Bibliotheken
+
+2.1 Nationalbibliotheken
+2.2 Verbünde
+2.3 Spezialbibliotheken
+
+
+3 Buchhandel
+
+3.1 Gebrauchtbücher
+3.2 Buchsuchmaschinen
+
+
+4 Buchcommunities und Digitalisierungsprojekte
+5 Validierung
+6 Andere Wikipedia-Versionen
+7 Literatur in der deutschsprachigen Wikipedia
+8 Siehe auch
+
+
+
+Die folgende Liste enthält Links zu Bibliothekskatalogen, Buchhändlern und anderen Quellen, um dort nach der Publikation mit der ISBN 0801821088 zu suchen. Wikipedia ist weder mit einem der Anbieter geschäftlich verbunden, noch stellt die Nennung und Reihenfolge eine Wertung dar.
+Bei den Anbietern bedeutet die Angabe „Suche“, dass ein Link direkt zu einer Seite mit Suchergebnissen führt. Ist dies nicht möglich, erreicht man mit dem Link „Eingabe“ ein Suchformular, wo man die entsprechenden Angaben selbst eintragen muss. Die Direktsuche funktioniert möglicherweise nicht immer mit allen Browsern. Angaben über ein bestimmtes Buch findet man am schnellsten über die Nationalbibliotheken, die umfangreiche Datenbanken mit den Pflichtangaben der Verlage unterhalten, auch über Bücher, die zurzeit weder in den gewöhnlichen Bibliotheken noch bei den Buchhändlern verfügbar sind.
+
+[TITLE]{Inhaltsverzeichnisse und Rezensionen}
+
+
+Suche
+
+isbn2toc
+
+online vorhandene Inhaltsverzeichnisse (basiert auf den Daten zahlreicher Bibliotheksverbünde)
+
+
+Suche
+
+isbn-rez
+
+online vorhandene Rezensionen (basiert auf den Daten des Bibliotheksverbunds SWB)
+
+[TITLE]{Bibliotheken}
+[TITLE]{Nationalbibliotheken}
+
+
+Suche
+
+Deutsche Nationalbibliothek
+
+Suche in der Deutschen Nationalbibliothek
+
+
+Suche
+
+Österreichische Nationalbibliothek
+
+Suche in der Österreichischen Nationalbibliothek
+
+
+Suche
+
+Schweizerische Nationalbibliothek
+
+Suche im Helveticat
+
+
+Suche
+
+Nationalbibliothek Luxemburg
+
+Suche in der Nationalbibliothek Luxemburg
+
+
+Suche
+
+British Library
+
+Nationalbibliothek des Vereinigten Königreichs
+
+
+Suche
+
+Bibliothèque nationale de France
+
+Nationalbibliothek Frankreichs
+
+
+Suche (OPAC)Suche (PICA)
+
+Königliche Bibliothek der Niederlande
+
+Nationalbibliothek der Niederlande
+
+
+Suche
+
+Library of Congress
+
+Nationalbibliothek der USA
+
+
+Suche
+
+National Library of Australia
+
+Nationalbibliothek Australiens
+
+
+Suche
+
+Russische Nationalbibliothek
+
+Nationalbibliothek Russlands
+
+[TITLE]{Verbünde}
+Die Bibliotheksverbünde umfassen oft nur wissenschaftliche Bibliotheken. 
+
+
+
+Suche
+
+WorldCat
+
+Weltweite Verbunddatenbank
+
+
+Eingabe
+
+Karlsruher Virtueller Katalog (KVK)
+
+Suche in mehreren Bibliotheksverbünden gleichzeitig möglich
+
+
+Eingabe
+
+hbz OpenURL Gateway
+
+Leitet weiter zu den Besitznachweisen und Diensten (inkl. Fernleihe) von über 420 öffentlichen und wissenschaftlichen Bibliotheken aus ganz Deutschland
+
+
+Eingabe
+
+openURL.de
+
+Linkliste zu verschiedenen Katalogen
+
+
+Suche
+
+Bibliotheksverbund GBV
+
+Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen und Stiftung Preußischer Kulturbesitz
+
+
+Suche
+
+HBZ-Verbundkatalog
+
+Verbundkatalog der Hochschulbibliotheken Nordrhein-Westfalens und eines großen Teils von Rheinland-Pfalz
+
+
+Suche
+
+SWB Online-Katalog
+
+Südwestdeutscher Bibliotheksverbund mit über 1000 Bibliotheken der Bundesländer Baden-Württemberg, Sachsen, Saarland und Rheinland-Pfalz
+
+
+Suche
+
+BVB – BibliotheksVerbund Bayern
+
+BibliotheksVerbund Bayern
+
+
+Suche
+
+KOBV – Verbund für Berlin und Brandenburg
+
+Berliner und Brandenburger Hochschulen (Eingabeformular)
+
+
+Suche
+
+HeBIS-Verbundkatalog
+
+Hessen und Rheinhessen
+
+
+Suche
+
+Österreichischer Bibliothekenverbund
+
+Wissenschaftliche und administrative Bibliotheken in Österreich
+
+
+Suche
+
+Büchereiverband Österreichs
+
+Von der Stadt- bis zur Schulbücherei, Einträge dort teilweise ohne ISBN: Eingabeformular
+
+
+Suche
+
+swissbib
+
+Durchsucht die Sammlungen von rund 900 Bibliotheken, Mediotheken und Archiven aus allen Landesteilen der Schweiz
+
+
+Suche
+
+Netzwerk von Bibliotheken und Informationsstellen in der Schweiz (NEBIS)
+
+80 Bibliotheken von Hochschulen, Fachhochschulen und Forschungsanstalten aus allen Sprachregionen
+
+[TITLE]{Spezialbibliotheken}
+
+
+Eingabe
+
+BBM – Bibliotheksverbund Bistum Mainz
+
+Bibliotheksverbund Bistum Mainz
+
+
+Eingabe
+
+Online-Katalog des GIGA-Informationszentrums
+
+Suche im Katalog der Bibliotheken des GIGA German Institute of Global and Area Studies und des Fachinformationsverbundes Internationale Beziehungen und Länderkunde
+
+
+Eingabe
+
+Art Discovery Group Catalogue
+
+Suchmaschine für Kunstliteratur
+
+
+Suche
+
+Katalog der Kunst- und Museumsbibliothek der Stadt Köln
+
+Eine der größten öffentlichen Kunst- und Museumsbibliotheken der Welt
+
+[TITLE]{Buchhandel}
+Durch die Buchpreisbindung gibt es außer den Versandkosten in Deutschland und Österreich im Regelfall keine Preisunterschiede unter den Anbietern von neuen, deutschsprachigen Büchern. In der Schweiz gilt die Buchpreisbindung seit Frühjahr 2007 nicht mehr. Buchhändler aus dem Ausland unterliegen der nationalen Buchpreisbindung nicht, so dass unter Umständen der Online-Kauf im (EU-)Ausland trotz Versandkosten günstiger ist.
+
+
+
+Suche
+
+Verzeichnis Lieferbarer Bücher (VLB)
+
+Online-Katalog des deutschen Buchhandels mit allen lieferbaren Titeln des deutschen Buchhandels (etwa 500.000).
+
+
+Suche
+
+Buchkatalog.de
+
+Mit Bestellmöglichkeit in vielen Buchhandlungen
+
+
+[TITLE]{Gebrauchtbücher}
+
+
+Suche
+
+AbeBooks
+
+
+
+
+Suche
+
+Amazon
+
+Online-Handelsplattform. Hier werden neben neuen viele gebrauchte Bücher verkauft. Nutzer können auch eigene Bücher verkaufen und Rezensionen lesen/verfassen.
+
+
+Suche
+
+antikbuch24.de
+
+Suche über mehrere Antiquariate
+
+
+Suche
+
+antiquariat.de
+
+
+
+
+Suche
+
+arvelle.de
+
+Schwerpunkt im Bereich Belletristik und Sachbücher
+
+
+Suche
+
+biblio.com
+
+
+
+
+Suche
+
+Berliner Büchertisch
+
+
+
+
+Suche
+
+bookcrossing.com
+
+Netzwerk für kostenlosen Büchertausch („Bookcrossing“)
+
+
+Suche
+
+booklooker.de
+
+Online-Marktplatz für neue und gebrauchte Bücher, Tonträger und Filme
+
+
+Suche
+
+bookmooch.com
+
+Netzwerk für kostenlosen Büchertausch
+
+
+Suche
+
+buchfreund.de
+
+Suche über mehrere Antiquariate
+
+
+Suche
+
+Tauschticket
+
+Netzwerk für gebührenpflichtigen Büchertausch
+
+
+Suche
+
+jokers.de
+
+Allgemeines Sortiment
+
+
+Suche
+
+terrashop.de
+
+Reduzierte Mängelware und ältere Auflagen
+
+
+Suche
+
+zvab.com
+
+Zentrales Verzeichnis Antiquarischer Bücher
+
+[TITLE]{Buchsuchmaschinen}
+Neue Bücher deutscher und österreichischer Verlage unterliegen der Buchpreisbindung und dürfen von Händlern in Deutschland und Österreich nur zu dem vom Verlag festgelegten Preis abgegeben werden (nur Händler aus dem Ausland bieten die Bücher evtl. günstiger an). Daher beziehen sich die Buchsuchdienste größtenteils auf gebrauchte Bücher. Sie geben teilweise die unterschiedlichen Versandkosten an.
+
+
+
+Suche
+
+billigbuch.ch
+
+sucht in den online-Buchhandlungen der Schweiz (nur neue Bücher) und listet deren Angebote jeweils nach dem Preis geordnet
+
+
+Suche
+
+buchhai.de
+
+
+
+
+Suche
+
+Buchpreis24.de
+
+
+
+
+Suche
+
+BuchSuch.ch
+
+Schweizer Preisvergleich für neue und gebrauchte Bücher.
+
+
+Suche
+
+buch.archinform.net
+
+Mediendatenbank archINFORM
+
+
+Suche
+
+daistesja.de
+
+
+
+
+Suche
+
+DieBuchSuche.de
+
+
+
+
+Suche
+
+eurobuch.com
+
+Metasuche für antiquarische und neue Bücher
+
+
+Suche
+
+findmybook.de
+
+
+
+
+Suche
+
+JustBooks.de
+
+Metasuche für neue, gebrauchte und antiquarische Bücher, bezieht auch ausländische, nicht preisgebundene Händler ein
+
+
+Suche
+
+lalisio.com
+
+
+
+
+Suche
+
+marelibri.com
+
+
+
+
+Suche
+
+getprice.de
+
+
+
+
+Suche
+
+PreisTester.de
+
+
+
+[TITLE]{Buchcommunities und Digitalisierungsprojekte}
+
+
+Suche
+
+LibraryThing
+
+Webseite nach dem Muster sozialer Netzwerke für Lesende
+
+
+Suche
+
+Lovelybooks.de
+
+Webseite nach dem Muster sozialer Netzwerke für Lesende
+
+
+Suche
+
+Google Bücher
+
+Volltextsuche in Büchern und Anzeige von Scans in Ausschnitten (ältere, gemeinfreie Bücher sind teilweise auch vollständig einsehbar)
+
+[TITLE]{Validierung}
+Die Korrektheit der aktuellen ISBN kann mit diesem Tool geprüft werden. Außerdem werden gegebenenfalls Korrekturvorschläge gemacht, eine Umrechnung zwischen 10stelliger und 13stelliger ISBN vorgenommen und die korrekte Formatierung der ISBN angezeigt.
+
+[TITLE]{Andere Wikipedia-Versionen}
+Insbesondere bei fremdsprachigen Büchern kann es sinnvoll sein, mit der ISBN-Suche einer anderen Wikipedia zu suchen, da sich die angebotenen Links zwischen den einzelnen Wikipedias unterscheiden. Anhand der ISBN-Gruppennummer kann man schnell die passende Sprache finden.
+Die folgenden Wikipedias haben besonders viele Bücherlinks oder sind für den deutschen Kulturraum besonders interessant. Für die Suche auf anderen Wikipedias benutze bitte die Sprachlinks „Andere Sprachen“ auf dieser Seite.
+
+
+
+
+
+
+Gruppennummer
+Wikipedia
+
+
+0, 1
+
+Englisch
+
+
+2
+
+Französisch
+
+
+4
+
+Japanisch
+
+
+5
+
+Russisch
+
+
+7, 957, 986 (Taiwan), 962, 988 (Hong Kong)
+
+Chinesisch
+
+
+80
+
+Tschechisch und Slowakisch
+
+
+82
+
+Norwegisch: Bokmål und Nynorsk
+
+
+83
+
+Polnisch
+
+
+84, 950, 987 [REF]{(Argentinien), 956 (Chile), 958 (Kolumbien), 959 (Kuba), 968, 970 (Mexiko), 980 (Venezuela), 9942, 9978 (Ecuador), 9945, 99934 (Dominikanische Republik), 9962 (Panama), 9968, 9977 (Costa Rica), 9972 (Peru), 9974 (Uruguay), 99905, 99954 (Bolivien), 99922, 99939 (Guatemala), 99923 (El Salvador), 99924 (Nicaragua), 99925, 99953 (Paraguay), 99926 (Honduras)}
+
+Spanisch
+
+
+
+
+
+Gruppennummer
+Wikipedia
+
+
+85, 972, 989 (Portugal)
+
+Portugiesisch
+
+
+87
+
+Dänisch
+
+
+88
+
+Italienisch
+
+
+89, 9946
+
+Koreanisch
+
+
+90
+
+Niederländisch
+
+
+91
+
+Schwedisch
+
+
+951, 952
+
+Finnisch
+
+
+954
+
+Bulgarisch
+
+
+960, 9963
+
+Griechisch
+
+
+961
+
+Slowenisch
+
+
+963
+
+Ungarisch
+
+
+965
+
+Hebräisch
+
+
+966
+
+Ukrainisch
+
+
+974
+
+Thailändisch
+
+
+975, 9944
+
+Türkisch
+
+
+9935, 9979
+
+Isländisch
+
+
+9949, 9985
+
+Estnisch
+
+
+7, 8, …
+
+Meta
+
+
+[TITLE]{Literatur in der deutschsprachigen Wikipedia}
+Für Literaturangaben in Wikipedia-Artikeln beachte bitte Wikipedia:Literatur.
+Eine Literaturangabe zur ISBN 0801821088 liefert dieses Tool. (Hinweis: Die Ausgabe des Tools entspricht nicht der vorgeschlagenen Formatierung von Wikipedia:Literatur.)
+Hilfe zur Erstellung von ISBN-Links innerhalb der Wikipedia findet sich unter Hilfe:Datenbanklinks.
+Wikipedianer mit Büchern sind in der Wikipedia:Bibliothek gelistet.
+Bücher, die für die Arbeit an Artikeln abzugeben sind, finden sich in der Wikipedia:Bücherbörse.
+Tipps und Hilfe in Sachen Literatur bietet die Wikipedia:Bibliotheksrecherche.
+[TITLE]{Siehe auch}
+Wikipedia:Internationale Standardbuchnummer
+ISBN-Suchformular in der Wikipedia
+Vorlage:Falsche ISBN
+Abgerufen von „https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/0801821088“
+
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+Spezialseite
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+SpezialseitenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+AlemannischالعربيةBoarischCatalàČeštinaDanskDolnoserbskiΕλληνικάEnglishEspañolفارسیSuomiFrançaisArpetanNordfriiskFryskעבריתहिन्दीHrvatskiHornjoserbsceMagyarBahasa IndonesiaItaliano日本語한국어RipoarischLatinaLëtzebuergeschLimburgsLumbaartPlattdüütschNederlandsNorsk bokmålDeitschPolskiPortuguêsRumantschRomânăРусскийSlovenčinaSlovenščinaShqipСрпски / srpskiSeelterskSvenskaไทยTürkçeУкраїнськаTiếng Việtייִדיש中文
+
+
+
+
+
+
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+

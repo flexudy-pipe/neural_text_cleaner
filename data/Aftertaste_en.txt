@@ -1,0 +1,336 @@
+
+
+
+Aftertaste - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Aftertaste}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+Aftertaste is the taste intensity of a food or beverage that is perceived immediately after that food or beverage is removed from the mouth.[1] The aftertastes of different foods and beverages can vary by intensity and over time, but the unifying feature of aftertaste is that it is perceived after a food or beverage is either swallowed or spat out. The neurobiological mechanisms of taste (and aftertaste) signal transduction from the taste receptors in the mouth to the brain have not yet been fully understood. However, the primary taste processing area located in the insula has been observed to be involved in aftertaste perception.[2]
+
+[TITLE]{Contents}
+
+1 Temporal taste perception
+
+1.1 Variability of human taste perception
+
+
+2 Taste receptor dynamics
+3 Processing in the cerebral cortex
+4 Distinguishing aftertaste and flavor
+5 Foods with distinct aftertastes
+
+5.1 Artificial sweeteners
+5.2 Wine
+
+
+6 References
+
+
+[TITLE]{Temporal taste perception[edit]}
+Characteristics of a food's aftertaste are quality, intensity, and duration.[1] Quality describes the actual taste of a food and intensity conveys the magnitude of that taste. Duration describes how long a food's aftertaste sensation lasts. Foods that have lingering aftertastes typically have long sensation durations.
+Because taste perception is unique to every person, descriptors for taste quality and intensity have been standardized, particularly for use in scientific studies.[3] For taste quality, foods can be described by the commonly used terms "sweet", "sour", "salty", "bitter", "umami", or "no taste". Description of aftertaste perception relies heavily upon the use of these words to convey the taste that is being sensed after a food has been removed from the mouth.
+The description of taste intensity is also subject to variability among individuals. Variations of the Borg Category Ratio Scale or other similar metrics are often used to assess the intensities of foods.[1][3][4] The scales typically have categories that range from either zero or one through ten (or sometimes beyond ten) that describe the taste intensity of a food. A score of zero or one would correspond to unnoticeable or weak taste intensities, while a higher score would correspond to moderate or strong taste intensities. It is the prolonged moderate or strong taste intensities that persist even after a food is no longer present in the mouth that describe aftertaste sensation.
+Foods that have distinct aftertastes are distinguished by their temporal profiles, or how long their tastes are perceived during and after consumption. A sample testing procedure to measure a food's temporal profile would entail first recording the time of onset for initial taste perception when the food is consumed, and then recording the time at which there is no longer any perceived taste.[5] The difference between these two values yields the total time of taste perception. Match this with intensity assessments over the same time interval and a representation of the food's taste intensity over time can be obtained. With respect to aftertaste, this type of testing would have to measure the onset of taste perception from the point after which the food was removed from the mouth.
+
+[TITLE]{Variability of human taste perception[edit]}
+The categorization of people into  "tasters" or "nontasters" - based on their sensitivity to the bitterness of propylthiouracil and the expression of fungiform papillae on their tongues - has suggested a genetic basis for the variations observed in taste perception from person to person.[6]
+This might imply that the activities of specific genes that affect an individual's perception of different foods' sensations of aftertaste could also affect an individual's perception of different foods. For example, the intensity of the aftertaste sensations "nontasters" experienced after caffeine consumption was found[by whom?] to diminish faster than the sensations "tasters" experienced.[1] This may imply that because of their taste-bud profiles, "tasters" may be more sensitive to the tastes of different foods, and thus experience a more persistent sensation of those foods' tastes.
+
+[TITLE]{Taste receptor dynamics[edit]}
+Because a lingering taste sensation is intrinsic to aftertaste, the molecular mechanisms that underlie aftertaste are presumed to be linked to either the continued or delayed activation of receptors and signaling pathways in the mouth that are involved in taste processing. The current understanding of how a food's taste is communicated to the brain is as follows:[7]
+
+Chemicals in food interact with receptors on the taste receptor cells located on the tongue and the roof of the mouth. These interactions can be affected by temporal and spatial factors like the time of receptor activation or the particular taste receptors that are activated (sweet, salty, bitter, etc.).
+The chorda tympani (cranial nerve VII), the glossopharyngeal nerve (cranial nerve IX), and the vagus nerve (cranial nerve X) carry information from the taste receptors to the brain for cortical processing.
+In the context of aftertaste, the combination of both receptor-dependent and receptor-independent processes have been proposed to explain the signal transduction mechanisms for foods with distinct aftertastes, particularly those that are bitter.[8] The receptor-dependent process is the same as what was described above. However, the receptor-independent process involves the diffusion of bitter, amphiphilic chemicals like quinine across the taste receptor cell membranes. Once inside the taste receptor cell, these compounds have been observed to activate intracellular G-proteins and other proteins that are involved in signaling pathways routed to the brain.[8] The bitter compounds thus activate both the taste receptors on the cell surface, as well as the signaling pathway proteins in the intracellular space. Intracellular signaling may be slower than taste cell receptor activation since more time is necessary for the bitter compounds to diffuse across the cell membrane and interact with intracellular proteins. This delayed activation of intracellular signaling proteins in response to the bitter compounds, in addition to the extracellular receptor signaling is proposed to be related to the lingering aftertaste associated with bitter foods.[9] The combination of both mechanisms leads to an overall longer response of the taste receptor cells to the bitter foods, and aftertaste perception subsequently occurs.
+
+[TITLE]{Processing in the cerebral cortex[edit]}
+The primary taste perception areas in the cerebral cortex are located in the insula and regions of the somatosensory cortex; the nucleus of the solitary tract located in the brainstem also plays a major role in taste perception.[7][10] These regions were identified when human subjects were exposed to a taste stimulus and their cerebral blood flow measured with magnetic resonance imaging. Although these regions have been identified as the primary zones for taste processing in the brain, other cortical areas are also activated during eating, as other sensory inputs are being signaled to the cortex.
+For aftertaste, much is unclear about the cortical processing related to its perception. The first neuroimaging study to evaluate the temporal taste profile of aspartame, an artificial sweetener, in humans was published in 2009.[2] In it, the insula was observed to be activated for a longer period of time than other sensory processing areas in the brain when the aftertaste profile of aspartame was measured. Subjects were administered a solution of aspartame for a specific amount of time before being instructed to swallow the solution. Functional magnetic resonance images of the blood flow in the subjects' brains were recorded before and after they swallowed the aspartame solution. Before swallowing, the amygdala, somatosensory cortex, thalamus, and basal ganglia were all activated. After swallowing, only the insula remained activated and the response of the other brain regions was not evident. This suggests that the insula may be a primary region for aftertaste sensation because it was activated even after the aspartame solution was no longer present in the mouth. This finding aligns with the insula's identification as a central taste processing area and simply expands its function. An explanation for less activation of the amygdala was that because it is a reward center in the brain, less reward would be experienced by the subjects during prolonged exposure to the aspartame solution.
+
+[TITLE]{Distinguishing aftertaste and flavor[edit]}
+Flavor is an emergent property that is the combination of multiple sensory systems including olfaction, taste, and somatosensation.[11] How the flavor of a food is perceived, whether it is unpleasant or satisfying, is stored as a memory so that the next time the same (or a similar) food is encountered, the previous experience can be recalled and a decision made to consume that food. This process of multisensory inputs to the brain during eating, followed by learning from eating experiences is the central idea of flavor processing.[12][13]
+Richard Stevenson mentions in The Psychology of Flavour that people often do not realize that a food's flavor can be described by the food's smell, taste, or texture. Instead, he claims, people perceive flavor as a "unitary percept", in which a descriptor for either taste or smell is used to describe a food's flavor.[11] Consider the terms that are used to describe the flavors of foods. For instance, a food may taste sweet, but often its flavor is described as such while not considering its smell or other sensory characteristics. For example, honey tastes sweet so its smell is associated with that descriptor, and sweet is also used to describe its flavor. In fact, sweetness is one of the four basic taste qualities and only comprises part of a food's flavor.
+Unlike flavor, aftertaste is a solely gustatory event that is not considered to involve any of the other major senses. The distinction of being based on one (aftertaste) versus multiple (flavor) sensory inputs is what separates the two phenomena.
+
+[TITLE]{Foods with distinct aftertastes[edit]}
+[TITLE]{Artificial sweeteners[edit]}
+Low-calorie artificial sweeteners like saccharin and acesulfame-K are known for their bitter aftertastes.[14] Recently, GIV3727 (4-(2,2,3-trimethylcyclopentyl) butanoic acid), a chemical that blocks saccharin and acesulfame-K activation of multiple bitter taste receptors has been developed.[15] In the study, the addition of the bitter taste receptor antagonist GIV3727 to the saccharin and acesulfame-K solutions resulted in significantly lower taste intensity ratings when compared to the solutions that were not treated with GIV3727. This suggests that GIV3727 inhibits the normal functions of the bitter taste receptors because saccharin and acesulfame-K's bitter aftertastes were not observed. The ability to inhibit activation of the bitter taste receptors can have far-reaching effects if the bitter aftertastes of not only these two artificial sweeteners but also other foods, beverages, and even pharmaceuticals can be minimized.
+
+[TITLE]{Wine[edit]}
+In wine tasting the aftertaste or finish of a wine, is an important part of the evaluation.[16] After tasting a wine, a taster will determine the wine's aftertaste, which is a major determinant of the wine's quality. The aftertaste of a wine can be described as bitter, persistent, short, sweet, smooth, or even non-existent. Included in assessing the aftertaste of a wine is consideration of the aromas still present after swallowing. High quality wines typically have long finishes accompanied by pleasant aromas.[16] By assessing the combination of olfactory and aftertaste sensations, wine tasting actually determines not only the aftertaste profile of a wine, but its flavor profile as well.
+
+[TITLE]{References[edit]}
+
+
+^ a b c d [REF]{Neely, G.; Borg, G. [REF]{(1999). "The Perceived Intensity of Caffeine Aftertaste: Tasters Versus Nontasters". Chemical Senses. 24 (1)}: 19–21. doi:10.1093/chemse/24.1.19. PMID 10192472.}
+
+^ a b [REF]{James, G. A.; Li, X.; DuBois, G. E.; Zhou, L.; Hu, X. P. [REF]{(2009). "Prolonged insula activation during perception of aftertaste". NeuroReport. 20 (3)}: 245–250. doi:10.1097/WNR.0b013e32831d2441. PMID 19444946. S2CID 22846384.}
+
+^ a b [REF]{Just, T.; Pau, H. W.; Engel, U.; Hummel, T. [REF]{(2008). "Cephalic phase insulin release in healthy humans after taste stimulation?". Appetite. 51 (3)}: 622–627. doi:10.1016/j.appet.2008.04.271. PMID 18556090. S2CID 11623863.}
+
+^ [REF]{Valentová, H.; Skrovánková, S.; Panovská, Z.; Pokorný, J. [REF]{(2002). "Time–intensity studies of astringent taste". Food Chemistry. 78 (1): 29–37. doi:10.1016/S0308-8146(01)}00330-2.}
+
+^ [REF]{DuBois, G. E.; Lee, J. F. [REF]{(1983). "A simple technique for the evaluation of temporal taste properties". Chemical Senses. 7 (3–4)}: 237–247. doi:10.1093/chemse/7.3-4.237.}
+
+^ 
+[REF]{Duffy, V. B.; Davidson, A. C.; Kidd, J. R.; Kidd, K. K.; Speed, W. C.; Pakstis, A. J.; Reed, D. R.; Snyder, D. J.; Bartoshuk, L. M. [REF]{(2004). "Bitter Receptor Gene (TAS2R38), 6-n-Propylthiouracil (PROP) Bitterness and Alcohol Intake". Alcoholism: Clinical & Experimental Research. 28 (11)}: 1629–1637. doi:10.1097/01.ALC.0000145789.55183.D4. PMC 1397913. PMID 15547448.}
+
+^ a b [REF]{Reed, D. R.; Tanaka, T.; McDaniel, A. H. [REF]{(2006). "Diverse tastes: Genetics of sweet and bitter perception". Physiology & Behavior. 88 (3)}: 215–226. doi:10.1016/j.physbeh.2006.05.033. PMC 1698869. PMID 16782140.}
+
+^ a b [REF]{Peri, I.; Mamrud-Brains, H.; Rodin, S.; Krizhanovsky, V.; Shai, Y.; Nir, S.; Naim, M. [REF]{(2000). "Rapid entry of bitter and sweet tastants into liposomes and taste cells: implications for signal transduction". American Journal of Physiology. Cell Physiology. 278 (1)}: C17–25. doi:10.1152/ajpcell.2000.278.1.c17. PMID 10644507.}
+
+^ Naim M, Nir S, Spielman AI, Noble AC, Peri I, et al. Hypothesis of receptordependent and receptor-independent mechanisms for bitter and sweet taste transduction: implications for slow taste onset and lingering aftertaste. In: Given P, Parades D, editors. Chemistry of Taste: Mechanisms, Behaviors, and Mimics ACS Symposium Series. Vol. 825. Washington, DC: Am. Chem. Soc; 2002. pp. 2–17.
+
+^ [REF]{Shepherd, G. M. [REF]{(2006). "Smell images and the flavour system in the human brain". Nature. 444 (7117)}: 316–321. doi:10.1038/nature05405. PMID 17108956. S2CID 4325645.}
+
+^ a b Stevenson, R.J. [REF]{(2009)}. The psychology of flavour. Oxford: Oxford University Press.
+
+^ [REF]{Small, D. M.; Prescott, J. [REF]{(2005). "Odor/taste integration and the perception of flavor". Experimental Brain Research. 166 (3–4)}: 345–357. doi:10.1007/s00221-005-2376-9. PMID 16028032. S2CID 403254.}
+
+^ [REF]{Verhagen, J. V.; Engelen, L. [REF]{(2006). "The neurocognitive bases of human multimodal food perception: Sensory integration". Neuroscience & Biobehavioral Reviews. 30 (5)}: 613–650. doi:10.1016/j.neubiorev.2005.11.003. PMID 16457886. S2CID 22560560.}
+
+^ [REF]{Kuhn, C.; Bufe, B.; Winnig, M.; Hofmann, T.; Frank, O.; Behrens, M.; Lewtschenko, T.; Slack, J. P.; Ward, C. D.; Meyerhof, W. [REF]{(2004). "Bitter Taste Receptors for Saccharin and Acesulfame K". Journal of Neuroscience. 24 (45)}: 10260–10265. doi:10.1523/JNEUROSCI.1225-04.2004. PMC 6730199. PMID 15537898.}
+
+^ [REF]{Slack, J. P.; Brockhoff, A.; Batram, C.; Menzel, S.; Sonnabend, C.; Born, S.; Galindo, M. M.; Kohl, S.; Thalmann, S.; Ostopovici-Halip, L.; Simons, C. T.; Ungureanu, I.; Duineveld, K.; Bologa, C. G.; Behrens, M.; Furrer, S.; Oprea, T. I.; Meyerhof, W. [REF]{(2010). "Modulation of Bitter Taste Perception by a Small Molecule hTAS2R Antagonist". Current Biology. 20 (12)}: 1104–1109. doi:10.1016/j.cub.2010.04.043. PMC 2925244. PMID 20537538.}
+
+^ a b Stone, H, & L., J. [REF]{(2004)}. Sensory evaluation practices. Amsterdam: Elsevier Academic Press.
+
+
+vteTasteBasic tastes
+Bitterness
+Saltiness
+Sourness
+Sweetness
+Umami
+Anatomy
+Epiglottis
+Pharynx
+Soft palate
+Tongue
+Gustology
+Ageusia
+Dysgeusia
+Hypogeusia
+Other
+Aftertaste
+Acquired taste
+Pungency
+Scoville scale
+Supertaster
+Tongue map
+See also
+Sight
+Hearing
+Smell
+Touch
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Aftertaste&oldid=976029840"
+Categories: Sensory systemsGustationGustatory systemHidden categories: Articles with specifically marked weasel-worded phrases from January 2020
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربيةCatalàEspañolفارسیFrançaisBahasa IndonesiaУкраїнська
+Edit links
+
+
+
+
+
+
+ This page was last edited on 31 August 2020, at 20:00 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

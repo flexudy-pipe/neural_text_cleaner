@@ -1,0 +1,2251 @@
+
+
+
+Acoustique — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia CommonsWikiversité
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+العربيةAsturianuAzərbaycancaBoarischБеларускаяБългарскиবাংলাBosanskiCatalàکوردیČeštinaЧӑвашлаCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiNa Vosa VakavitiGaeilgeGalegoעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենBahasa IndonesiaIdoItaliano日本語Қазақша한국어КыргызчаLatinaLëtzebuergeschLietuviųLatviešuМакедонскиമലയാളംBahasa MelayuPlattdüütschNederlandsNorsk nynorskNorsk bokmålPolskiPiemontèisPortuguêsRomânăРусскийSicilianuSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТыва дылУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语中文粵語
+Modifier les liens
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Acoustique}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+ Source sonore omni-directionnelle dans une chambre anéchoïque (Czech Technical Univerzity, Prague).
+L’acoustique est la science du son. La discipline a étendu son domaine à l'étude des ondes mécaniques au sein des gaz, des liquides et des solides, quelles que soient les fréquences, audibles ou non (infrasons, sons et ultrasons). On parle de vibroacoustique quand l'étude se porte particulièrement sur l'interaction entre solides et fluides[1].
+L'acoustique comprend de nombreuses ramifications comme l'électroacoustique (microphones, haut-parleurs), l’acoustique musicale, l'acoustique architecturale.
+L'acoustique a des applications dans les domaines des sciences de la terre et de l'atmosphère, des sciences de l'ingénieur, des sciences de la vie et de la santé, ainsi que dans les sciences humaines et sociales.
+
+[TITLE]{Sommaire}
+
+1 Histoire
+
+1.1 Acoustique empirique
+1.2 Acoustique expérimentale, mesures et instrumentation acoustiques
+
+
+2 Domaines de l'acoustique
+
+2.1 Acoustique physique
+2.2 Acoustique humaine
+2.3 Domaines transversaux
+
+
+3 Acoustique théorique
+
+3.1 Domaine d'étude
+3.2 Lois fondamentales de l'acoustique
+
+3.2.1 Milieu fluide
+
+3.2.1.1 Équation d'Euler
+3.2.1.2 Conservation de la masse
+3.2.1.3 Loi de compressibilité du fluide
+3.2.1.4 Équation de propagation
+
+
+3.2.2 Milieu solide
+
+
+
+
+4 Anatomie - physiologie
+5 Propagation - Acoustique des salles
+6 Nuisances et pollution sonores
+7 Facture instrumentale
+8 Institutions
+9 Annexes
+
+9.1 Étymologie
+9.2 Bibliographie
+9.3 Articles connexes
+9.4 Liens externes
+9.5 Notes et références
+
+
+
+
+[TITLE]{Histoire[modifier | modifier le code]}
+ Les principes de l'acoustique sont appliqués dès l'antiquité : Théâtre romain de Bosra, Syrie.
+Science dont les bases remontent à l'Antiquité, Pythagore étudie au VIe siècle av. J.-C. l'acoustique musicale, notamment les intervalles. Le théâtre d'Épidaure témoigne que dès le IVe siècle av. J.-C. les Grecs maîtrisaient les propriétés sonores des matériaux pour construire des amphithéâtres : l'agencement périodique des rangées de sièges du théâtre d'Épidaure permet de filtrer les basses fréquences (inférieures à 500 Hz) du bruit de fond (bruissement des arbres, auditoire)[2].
+
+[TITLE]{Acoustique empirique[modifier | modifier le code]}
+L'origine de l'acoustique est attribuée à Pythagore (VIe siècle av. J.-C.), qui étudia le fonctionnement des cordes vibrantes produisant des intervalles musicaux plaisants à l'oreille[3]. Ces intervalles sont à l'origine de l'accord pythagoricien portant aujourd'hui son nom[4]. Aristote (IVe siècle av. J.-C.) anticipa correctement que le son se générait de la mise en mouvement de l'air[3] par une source « poussant vers l'avant l'air contigu de telle manière que le son voyage »[4],[5]. Son hypothèse était basée sur la philosophie plus que sur la physique expérimentale. D'ailleurs, il suggéra de manière erronée que les hautes fréquences se propageaient plus rapidement que les basses fréquences, erreur qui perdura plusieurs siècles[3].
+La spéculation que le son est un phénomène ondulatoire doit son origine à l'observation des ondes à la surface de l'eau. En effet, la notion d'onde peut être considérée, de manière rudimentaire, comme une perturbation oscillatoire qui se propage à partir d'une source et ne transporte pas de matière sur des grandes distances de propagation[5],[4]. Le philosophe grec Chrysippe au IIIe siècle av. J.-C. et l'architecte et ingénieur romain Vitruve, environ 25 av. J.-C., évoquèrent la possibilité que le son présente un comportement analogue[5],[4]. Vitruve contribua par ailleurs à la conception de l'acoustique de théâtres antiques[3]. Le philosophe romain Boèce (470-525 ap. J.-C.) formula aussi l'hypothèse d'un comportement similaire aux ondes sur l'eau, de même qu'il suggéra que la perception humaine de la hauteur était liée à la propriété physique de la fréquence[3].
+
+[TITLE]{Acoustique expérimentale, mesures et instrumentation acoustiques[modifier | modifier le code]}
+Un premier résultat expérimental important a été obtenu au début du XVIIe siècle, dont la découverte est due principalement à Marin Mersenne et Galileo Galilei : le mouvement de l'air généré par un corps vibrant à une certaine fréquence est aussi un mouvement vibratoire de fréquence identique à la fréquence de vibration du corps vibrant[5],[4]. Dans l'Harmonie Universelle [REF]{(1637), Mersenne décrivit la première détermination absolue de la fréquence d'un son audible (à 84 Hz)[5]. Cette description impliquait que Mersenne avait déjà démontré que le rapport de fréquences absolues de deux cordes vibrantes, l'une créant une première note musicale et l'autre la même note une octave au-dessus, était de 1/2. La consonance harmonique qui était perçue par l'oreille à l'écoute de ces deux notes ne pouvait s'expliquer que si le rapport des fréquences d'oscillation de l'air était lui aussi de 1/2[5],[4]. L'histoire de cette découverte, qui est le fruit des réflexions antérieures menées sur le sujet, dont certaines remontent à Pythagore (550 av. J.-C.), s'entrelace donc avec le développement des lois de fréquences naturelles des cordes vibrantes et de l'interprétation physique des consonances musicales. Galiléi, dans ses discours mathématiques concernant deux sciences nouvelles (1638)}, dévoile les discussions et les explications les plus lucides données jusque-là sur la notion de fréquence[5],[4].
+
+[TITLE]{Domaines de l'acoustique[modifier | modifier le code]}
+[TITLE]{Acoustique physique[modifier | modifier le code]}
+L'acoustique physique (encore appelée acoustique fondamentale ou bien acoustique théorique) détermine les principes de la génération et de la propagation des sons et en développe le formalisme mathématique. Son domaine n'est pas nécessairement limité par la perception humaine ; elle s'intéresse aussi bien aux ultrasons et infrasons, qui obéissent aux mêmes lois physiques[a].
+L'acoustique théorique a de nombreux domaines d'application spécialisés[7].
+
+L'acoustique architecturale étudie la propagation des sons dans les salles et les bâtiments y compris l'isolation phonique.
+L'électroacoustique étudie spécialement les transducteurs électroacoustiques (microphones, haut-parleurs, hydrophones).
+La vibroacoustique (encore appelée acoustique des structures) étudie les ondes mécaniques dans les structures et comment celles-ci interagissent et rayonnent dans les fluides environnants.
+La thermoacoustique, se basant sur l'effet thermoacoustique, étudie la conversion de chaleur en énergie acoustique et vice-versa.
+L'imagerie médicale utilise pour les échographies, les échographies Doppler, les techniques chirurgicales par ultrasons focalisés de haute intensité, des applications acoustiques des ultrasons.
+L'acoustique non linéaire étudie les cas où les écarts à la linéarité postulée dans les équations de l'acoustique générale sont trop importants pour qu'on puisse, comme dans le cas général, les négliger.
+
+Le contrôle non destructif utilise les résultats de l'acoustique non linéaire pour caractériser l'état d'intégrité et la « santé » de structures ou de matériaux, sans les dégrader, soit au cours de la production, soit en cours d'utilisation, soit dans le cadre de maintenance.
+L'acoustique sous-marine étudie la propagation du son dans l'eau et l'interaction des ondes mécaniques constituant le son avec l'eau et les frontières avec d'autres milieux.
+L'aéroacoustique étudie la génération d'un bruit par un écoulement turbulent (ex : turbulence d’un jet libre), ou interagissant avec une surface (profil d’aile, pales de rotor d’un hélicoptère, roues de compresseur ou de turbine, cavité, ...)[réf. nécessaire].
+
+[TITLE]{Acoustique humaine[modifier | modifier le code]}
+L'audition détaille la physiologie de l'oreille (oreille externe, moyenne et interne) et explique les mécanismes de la perception des sons par l'ouïe, et mesure la sensibilité acoustique des individus.
+La psychoacoustique étudie comment les sons captés par le système auditif sont interprétés par le cerveau humain.
+La phonétique acoustique se consacre notamment à l’aspect physique des sons produits par l'appareil phonatoire humain, débouchant sur les systèmes de reconnaissance automatique de la parole et de synthèse vocale.
+[TITLE]{Domaines transversaux[modifier | modifier le code]}
+ Étude acoustique automobile
+L’acoustique musicale s'intéresse à la production et à la perception des sons musicaux.
+L'instrumentation et la métrologie acoustiques.
+L’acoustique environnementale se préoccupe des nuisances sonores.
+L'acoustique des transports (maritime, ferroviaire, aérien et automobile) s'intéresse aux questions relatives au domaine de l'acoustique intérieure des véhicules ainsi que la réduction des bruits extérieurs dus à leur circulation.
+L'acoustique industrielle regroupe l'ensemble des techniques servant à modifier la production et la transmission des sons et des bruits propres à l'industrie[réf. nécessaire], ainsi que les techniques qui utilisent les vibrations sonores et ultrasonores à des fins d'applications mécaniques[b].
+Le contrôle du bruit s'intéresse aux solutions actives ou passives permettant d'éviter la propagation du bruit.
+[TITLE]{Acoustique théorique[modifier | modifier le code]}
+[TITLE]{Domaine d'étude[modifier | modifier le code]}
+L'acoustique théorique détermine les principes de la génération et de la propagation des sons et en développe le formalisme mathématique. Comme la physique théorique, elle constitue un champ d'études intermédiaire entre l'acoustique expérimentale et les mathématiques, au développement desquelles elle a également contribué.
+La théorie ondulatoire des phénomènes acoustiques constitue la pierre angulaire de l'acoustique théorique. Elle démontre notamment que la propagation des sons satisfait l'équation des ondes[9], et s'intéresse aux hypothèses effectuées afin de délimiter son domaine de validité : on distingue par exemple l'acoustique linéaire d'un fluide parfait[10],[11], de l'acoustique linéaire d'un fluide dissipatif[12], de l'acoustique linéaire d'un solide[13] ou encore de l'acoustique non linéaire[14],[15] qui s'attache à étudier les effets non linéaires dans la propagation des sons.
+L'acoustique théorique s'intéresse aussi à l'étude d'autres phénomènes en relation avec la propagation des ondes acoustiques, tels que la réflexion[16],[17], la transmission[16],[17], la diffusion[18] et la diffraction[19],[20],[21] de celles-ci. D'autres thématiques étudiées dans le cadre de l'acoustique théorique sont les sources acoustiques[22] (type, directivité), l'étude des fonctions de Green[23] associées à un problème acoustique déterminé, la formulation intégrale des champs acoustiques[24] (intégrale de Kirchhoff-Helmholtz[25], extension du principe de Huygens pour les ondes acoustiques, intégrale de Rayleigh[26]), les circuits acoustiques[27],[28] et les guides d'onde acoustiques[29],[30],[31].
+
+[TITLE]{Lois fondamentales de l'acoustique[modifier | modifier le code]}
+[TITLE]{Milieu fluide[modifier | modifier le code]}
+Les trois lois fondamentales[32] de l'acoustique en milieu fluide sont l'équation d'Euler, l'équation de conservation de la masse et l'équation d'état (thermodynamique) du fluide. Ce système d'équations met en relation les paramètres caractérisant le fluide, tels que la pression, la masse volumique et la vitesse. Lorsque ce système d'équation est manipulé afin d'éliminer deux des trois paramètres mentionnés précédemment, on aboutit à l'équation des ondes, qui régit la propagation du son en milieu fluide.
+
+[TITLE]{Équation d'Euler[modifier | modifier le code]}
+L'équation d'Euler[33],[34],[35] s'obtient en appliquant le principe fondamental de la dynamique à un volume élémentaire de fluide. Son expression est la suivante (en l'absence de sources de force extérieure) :
+
+[MATH]{ole) Be (Ft) = ~arad (7)}
+Dans cette équation, 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+, [MATH]{sl} et 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ désignent respectivement les champs de la masse volumique, de la vitesse et de la pression associées au fluide, à la position repérée par le vecteur position [MATH]{+}, à l'instant 
+
+
+
+t
+
+
+{\displaystyle t}
+
+. Il est à noter que ces grandeurs dénotent les grandeurs totales considérées : par exemple 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ est la somme de la pression qui existerait sans l'existence d'une onde acoustique [MATH]{Pr} (qui est généralement prise égale à la pression statique [MATH]{Po}) et d'une fluctuation de pression due à l'onde acoustique 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ : [MATH]{P=p+P,}. L'équation d'Euler utilise une description eulérienne pour le fluide, utilisant des variables [MATH]{+} et 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ attachées au point géométrique du référentiel considéré ; elle n'utilise pas la description lagrangienne, utilisant des variables liées à une particule du fluide suivie dans son mouvement. La notation [MATH]{D/Dt} désigne la dérivée particulaire ou dérivée totale, attachée à une particule suivie dans son mouvement, par opposition à la dérivée en un point géométrique fixe du référentiel ou dérivée locale, notée [MATH]{a/at}.
+
+[TITLE]{Conservation de la masse[modifier | modifier le code]}
+L'équation de conservation de la masse[36],[37],[38] s'écrit (équation valide en l'absence de sources de débit) :
+
+
+[MATH]{ap(r.t)
+
+at
+
+xt
+
+ 
+
++ div(o(
+
+.t) v(F,t))} ou encore 
+[MATH]{Pol”). o(z.saw(e(F.e)) <0}
+
+
+[TITLE]{Loi de compressibilité du fluide[modifier | modifier le code]}
+Quatre variables thermodynamiques permettent de caractériser le fluide : la pression 
+
+
+
+P
+
+
+{\displaystyle P}
+
+, la température 
+
+
+
+T
+
+
+{\displaystyle T}
+
+, le volume 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ (ou bien la masse volumique 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+) et l'entropie 
+
+
+
+S
+
+
+{\displaystyle S}
+
+. Les différentielles associées à ces grandeurs sont respectivement notées 
+
+
+
+
+d
+
+P
+
+
+{\displaystyle \mathrm {d} P}
+
+, 
+
+
+
+
+d
+
+T
+
+
+{\displaystyle \mathrm {d} T}
+
+, 
+
+
+
+
+d
+
+V
+
+
+{\displaystyle \mathrm {d} V}
+
+ (ou bien 
+
+
+
+
+d
+
+ρ
+
+
+{\displaystyle \mathrm {d} \rho }
+
+), et 
+
+
+
+
+d
+
+S
+
+
+{\displaystyle \mathrm {d} S}
+
+.
+Il est possible de démontrer l'identité thermodynamique suivante[39] :
+
+ [MATH]{cy
+
+1
+as=°“ fap-a
+ral PXs °|} 
+où 
+
+
+
+
+c
+
+V
+
+
+
+
+{\displaystyle c_{V}}
+
+ désigne la capacité calorifique massique à volume constant, 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ le coefficient d'augmentation de pression isochore ([MATH]{B=(@p/dT),/P})et [MATH]{Xs} le coefficient de compressibilité adiabatique ([MATH]{X,= — @V/AP) IV}).
+Les transformations acoustiques peuvent généralement être considérées comme adiabatiques[39],[40] (
+
+
+
+
+d
+
+S
+=
+0
+
+
+{\displaystyle \mathrm {d} S=0}
+
+ dans l'équation précédente) dans le cas où le fluide est supposé ne pas être le siège d'effets dissipatifs (viscosité, transferts thermiques et phénomènes de relaxation moléculaire négligeables[41]). Cela conduit à la loi suivante caractérisant la compressibilité du fluide (valide uniquement en l'absence de sources de chaleur) :
+
+[MATH]{dP=
+
+=a
+PXs
+
+dp=c2dp} avec 
+
+
+
+c
+=
+
+
+
+1
+
+ρ
+
+χ
+
+S
+
+
+
+
+
+
+
+
+{\displaystyle c={\sqrt {\frac {1}{\rho \chi _{S}}}}}
+
+
+La grandeur 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ est homogène à une vitesse.
+
+[TITLE]{Équation de propagation[modifier | modifier le code]}
+Il est possible de manipuler le système d'équations précédent (équation d'Euler, équation de conservation de la masse, et loi de compressibilité du fluide) afin d'obtenir une équation ne faisant intervenir que la pression 
+
+
+
+P
+
+
+{\displaystyle P}
+
+. Les autres paramètres (vitesse et masse volumique) peuvent être obtenus en reportant la pression dans l'une quelconque des équations précédentes. L'équation suivante est obtenue pour la pression[42] :
+
+
+
+
+
+
+(
+
+
+
+1
+
+c
+
+2
+
+
+
+
+
+
+
+∂
+
+2
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+Δ
+
+)
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+=
+0
+
+
+{\displaystyle \left({\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}-\Delta \right)P\left({\vec {r}},t\right)=0}
+
+
+Cette équation est appelée équation d'onde, équation de d'Alembert, ou encore parfois équation de propagation. Elle est valide en dehors des sources, dans l'hypothèse où le fluide est homogène (ses caractéristiques thermodynamiques sont indépendantes du point considéré) et invariant (ses caractéristiques thermodynamiques sont indépendantes du temps)[42].
+
+
+Démonstration
+En appliquant l'opérateur divergence sur l'équation d'Euler et l'opérateur de dérivée totale sur l'équation de conservation de la masse, après avoir divisé préalablement ces deux équations par la masse volumique, les équations suivantes sont obtenues[42] :
+
+[MATH]{a(S + jared P(r, ‘)) =0
+
+2 (ag +awe(F.1)) <0}
+En utilisant la loi de compressibilité du fluide, et en tenant compte du fait que les opérateurs divergence et dérivée totale sont commutables, la deuxième équation devient : 
+
+
+
+
+
+
+
+
+D
+
+
+
+D
+
+t
+
+
+
+
+(
+
+
+χ
+
+S
+
+
+
+
+
+
+D
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+t
+
+
+
++
+
+d
+i
+v
+
+
+
+
+v
+→
+
+
+
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+)
+
+=
+0
+⇔
+
+
+
+D
+
+
+
+D
+
+t
+
+
+
+
+(
+
+
+χ
+
+S
+
+
+
+
+
+
+D
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+t
+
+
+
+
+)
+
++
+
+d
+i
+v
+
+
+
+
+
+D
+
+
+
+
+v
+→
+
+
+
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+t
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {\mathrm {D} }{\mathrm {D} t}}\left(\chi _{S}{\frac {\mathrm {D} P\left({\vec {r}},t\right)}{\mathrm {D} t}}+\mathrm {div} {\vec {v}}\left({\vec {r}},t\right)\right)=0\Leftrightarrow {\frac {\mathrm {D} }{\mathrm {D} t}}\left(\chi _{S}{\frac {\mathrm {D} P\left({\vec {r}},t\right)}{\mathrm {D} t}}\right)+\mathrm {div} {\frac {\mathrm {D} {\vec {v}}\left({\vec {r}},t\right)}{\mathrm {D} t}}=0}
+
+
+Finalement, en retranchant la première équation de la deuxième équation modifiée, il s'ensuit que :
+
+
+
+
+
+
+
+
+
+
+d
+i
+v
+
+
+(
+
+
+
+1
+
+ρ
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+
+
+
+g
+r
+a
+d
+
+→
+
+
+ 
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+)
+
+−
+
+
+
+D
+
+
+
+D
+
+t
+
+
+
+
+(
+
+
+χ
+
+S
+
+
+
+
+
+
+D
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+t
+
+
+
+
+)
+
+
+
+
+=
+0
+⇔
+
+
+
+
+
+
+1
+
+ρ
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+Δ
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
++
+
+
+
+g
+r
+a
+d
+
+→
+
+
+
+
+1
+
+ρ
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+⋅
+
+
+
+g
+r
+a
+d
+
+→
+
+
+ 
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+−
+
+
+
+
+D
+
+
+χ
+
+S
+
+
+
+
+
+D
+
+t
+
+
+
+
+
+
+
+D
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+t
+
+
+
+−
+
+χ
+
+S
+
+
+
+
+
+
+
+D
+
+
+2
+
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+
+t
+
+2
+
+
+
+
+
+
+
+
+=
+0
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\mathrm {div} \left({\frac {1}{\rho \left({\vec {r}},t\right)}}{\overrightarrow {\mathrm {grad} }}\ P\left({\vec {r}},t\right)\right)-{\frac {\mathrm {D} }{\mathrm {D} t}}\left(\chi _{S}{\frac {\mathrm {D} P\left({\vec {r}},t\right)}{\mathrm {D} t}}\right)&=0\Leftrightarrow \\{\frac {1}{\rho \left({\vec {r}},t\right)}}\Delta P\left({\vec {r}},t\right)+{\overrightarrow {\mathrm {grad} }}{\frac {1}{\rho \left({\vec {r}},t\right)}}\cdot {\overrightarrow {\mathrm {grad} }}\ P\left({\vec {r}},t\right)-{\frac {\mathrm {D} \chi _{S}}{\mathrm {D} t}}{\frac {\mathrm {D} P\left({\vec {r}},t\right)}{\mathrm {D} t}}-\chi _{S}{\frac {\mathrm {D} ^{2}P\left({\vec {r}},t\right)}{\mathrm {D} t^{2}}}&=0\end{aligned}}}
+
+
+Si le fluide est supposé homogène et invariant, les termes en [MATH]{grad 1/p(F.t)} et en [MATH]{Dy,/Dt} peuvent être considérés comme négligeables dans l'équation précédente. L'équation de propagation obtenue pour la pression est donc  :
+
+[MATH]{aP(7.t)-(7.t)xs
+
+p*p(7,t)
+a},  soit finalement :
+
+
+
+
+Δ
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+−
+
+
+1
+
+c
+
+2
+
+
+
+
+
+
+
+
+
+D
+
+
+2
+
+
+P
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+
+
+D
+
+
+t
+
+2
+
+
+
+
+
+=
+0
+
+
+{\displaystyle \Delta P\left({\vec {r}},t\right)-{\frac {1}{c^{2}}}{\frac {\mathrm {D} ^{2}P\left({\vec {r}},t\right)}{\mathrm {D} t^{2}}}=0}
+
+ où 
+
+
+
+
+c
+
+2
+
+
+=
+
+
+1
+
+ρ
+
+(
+
+
+
+
+r
+→
+
+
+
+,
+t
+
+)
+
+
+χ
+
+S
+
+
+
+
+
+.
+
+
+{\displaystyle c^{2}={\frac {1}{\rho \left({\vec {r}},t\right)\chi _{S}}}.}
+
+
+
+
+[TITLE]{Milieu solide[modifier | modifier le code]}
+La loi fondamentale caractérisant le déplacement au sein d'un solide est donnée par l'équation de Navier :
+
+[MATH]{au
+
+(4+ 2ugrad (div(u)) ~ prot (Fot(t)) = p34}
+où 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ et [MATH]{u} sont les coefficients de Lamé et [MATH]{sl} le champ des déformations.
+Via le théorème de Helmholtz-Hodge, il est alors possible de décomposer cette équation en deux équations d'ondes :
+
+[MATH]{2
+S4-ciay=0}
+correspondant à la propagation des ondes longitudinales et 
+
+
+
+
+
+
+
+
+
+∂
+
+2
+
+
+
+
+
+A
+→
+
+
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+C
+
+T
+
+
+2
+
+
+
+
+
+Δ
+→
+
+
+
+
+
+
+A
+→
+
+
+
+=
+
+
+
+0
+→
+
+
+
+
+
+{\displaystyle {\frac {\partial ^{2}{\vec {A}}}{\partial t^{2}}}-C_{T}^{2}{\vec {\Delta }}{\vec {A}}={\vec {0}}}
+
+
+correspondant à la propagation des ondes transversales.
+Dans les deux équations ci-dessus, 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ représente le potentiel scalaire de la déformation due à l'onde longitudinale et [MATH]{Bl} le vecteur potentiel de la déformation due à l'onde transversale. Donc contrairement au cas du fluide, il existe deux types d'ondes acoustiques pour un matériau solide. Ces deux ondes se propagent à des vitesses distinctes, ce phénomène s'expliquant par la différence entre les interactions des atomes du solide pour une onde de cisaillement et pour une onde de compression-traction. Ces ondes sont plus connues sous le nom d'onde élastiques[43].
+
+
+Démonstration
+En posant [MATH]{(A+2p)
+c=} la vitesse de propagation des ondes longitudinales et  [MATH]{CE}  la vitesse de propagation des ondes transversales, l'équation devient :
+
+[MATH]{2 ~ wn 2a
+C? grad (div(u)) - C2rot (rot(u)) = ed}
+Utilisons maintenant le théorème de Helmholtz-Hodge, on peut alors décomposer le champ des déformations :
+[MATH]{uy +Ur} avec [MATH]{rot u;,
+
+ol} et  
+
+
+
+
+d
+i
+v
+
+
+
+
+
+u
+
+T
+
+
+→
+
+
+
+=
+
+
+
+0
+→
+
+
+
+
+
+{\displaystyle \mathrm {div} {\vec {u_{T}}}={\vec {0}}}
+
+. Nous avons ainsi séparé la déformation due à l'onde longitudinale (
+
+
+
+
+
+
+
+u
+
+L
+
+
+→
+
+
+
+
+
+{\displaystyle {\vec {u_{L}}}}
+
+) de celle due à l'onde transversale (
+
+
+
+
+
+
+
+u
+
+T
+
+
+→
+
+
+
+
+
+{\displaystyle {\vec {u_{T}}}}
+
+).
+Il vient alors [MATH]{uy = grady} et [MATH]{uy =rotA}, avec 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ le potentiel scalaire de la déformation due à l'onde longitudinale et [MATH]{Bl} le vecteur potentiel de la déformation due à l'onde transversale. Comme seul le rotationnel de [MATH]{Bl} nous intéresse, nous fixerons arbitrairement [MATH]{diva =0}.
+En réinjectant la décomposition du champ des déformations dans l'équation de Navier, on obtient :
+
+
+
+
+
+
+
+
+
+∂
+
+2
+
+
+
+
+
+
+u
+
+L
+
+
+→
+
+
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+C
+
+L
+
+
+2
+
+
+
+
+
+Δ
+→
+
+
+
+
+
+
+
+u
+
+L
+
+
+→
+
+
+
++
+
+
+
+
+∂
+
+2
+
+
+
+
+
+
+u
+
+T
+
+
+→
+
+
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+C
+
+T
+
+
+2
+
+
+
+
+
+Δ
+→
+
+
+
+
+
+
+
+u
+
+T
+
+
+→
+
+
+
+=
+
+
+
+0
+→
+
+
+
+
+
+{\displaystyle {\frac {\partial ^{2}{\vec {u_{L}}}}{\partial t^{2}}}-C_{L}^{2}{\vec {\Delta }}{\vec {u_{L}}}+{\frac {\partial ^{2}{\vec {u_{T}}}}{\partial t^{2}}}-C_{T}^{2}{\vec {\Delta }}{\vec {u_{T}}}={\vec {0}}}
+
+
+En utilisant les propriétés des composantes du champ des déformations :
+
+[MATH]{— ey (923
+grad( 4 2 vA _¢2Ra|-0
+ape Ct Ay] trot FCT AA =0}
+L'unicité de la décomposition d'Helmholtz nous donne :
+
+[MATH]{—ay
+rad —C?A v)} donc [MATH]{ay oe
+are CLAW = 9)}
+[MATH]{ol} donc 
+
+
+
+
+
+
+
+∂
+
+2
+
+
+
+
+
+A
+→
+
+
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+C
+
+T
+
+
+2
+
+
+
+
+
+Δ
+→
+
+
+
+
+
+
+A
+→
+
+
+
+=
+
+
+
+
+G
+(
+
+
+
+r
+→
+
+
+
+)
+
+→
+
+
+
+
+
+{\displaystyle {\frac {\partial ^{2}{\vec {A}}}{\partial t^{2}}}-C_{T}^{2}{\vec {\Delta }}{\vec {A}}={\vec {G({\vec {r}})}}}
+
+
+Les solutions recherchées ne dépendent pas des fonctions [MATH]{g(t)} et 
+
+
+
+
+
+
+
+G
+(
+
+
+
+r
+→
+
+
+
+)
+
+→
+
+
+
+
+
+{\displaystyle {\vec {G({\vec {r}})}}}
+
+, nous les fixerons donc à 0. Et finalement nous obtenons les équations des ondes régissant les propagations des ondes longitudinale et transversale dans un solide isotrope :
+
+
+
+
+
+
+
+
+
+∂
+
+2
+
+
+ψ
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+C
+
+L
+
+
+2
+
+
+Δ
+ψ
+=
+0
+ 
+,
+ 
+
+
+
+
+∂
+
+2
+
+
+
+
+
+A
+→
+
+
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+C
+
+T
+
+
+2
+
+
+
+
+
+Δ
+→
+
+
+
+
+
+
+A
+→
+
+
+
+=
+
+
+
+0
+→
+
+
+
+
+
+{\displaystyle {\frac {\partial ^{2}\psi }{\partial t^{2}}}-C_{L}^{2}\Delta \psi =0\ ,\ {\frac {\partial ^{2}{\vec {A}}}{\partial t^{2}}}-C_{T}^{2}{\vec {\Delta }}{\vec {A}}={\vec {0}}}
+
+
+
+
+[TITLE]{Anatomie - physiologie[modifier | modifier le code]}
+Article détaillé : Ouïe.
+L'oreille est un organe très particulier, et l'ouïe est considérée comme le plus fin des sens. L'acoustique explore donc la physiologie, qui va du pavillon de l'oreille jusqu'aux corrélations synaptiques dans le cerveau, et la psychoacoustique les interprétations de ces perceptions au niveau cortical et cérébral. On peut définir l'acoustique par la propagation dans l'air d'un son constitué par un mouvement d'air rapide qui vient à l'oreille humaine.
+
+[TITLE]{Propagation - Acoustique des salles[modifier | modifier le code]}
+Article connexe : acoustique architecturale.
+En appliquant la théorie de la propagation des ondes aux vibrations sonores, on touche à un domaine déjà fort bien maîtrisé depuis l'Antiquité, celui de l'acoustique des salles. Pour amplifier un son, les Grecs se servaient des propriétés physiques des matériaux, de la connaissance qu'ils avaient acquise sur les phénomènes de résorption et de réfraction des sons, et construisaient des amphithéâtres en leur donnant une forme particulière. Ainsi, les constructions où devaient se produire des orateurs ou des musiciens avaient une acoustique très étudiée. Le théâtre d'Épidaure en Grèce est le témoin de l'avancement des connaissances en acoustique dès l'Antiquité.
+Les connaissances en acoustique des salles au temps de la Grèce antique étaient cependant avant tout empiriques. Ce domaine de connaissance restera très longtemps presque entièrement basée sur l'expérience, se développant par suite d'essais aboutissant parfois à des échecs, parfois à de grandes réussites pouvant ensuite servir de modèle pour les salles suivantes. Le physicien américain Wallace Clement Sabine est généralement considéré comme le père de l'acoustique des salles en tant que domaine scientifique. C'est en 1900 qu'il publie l'article Reverberation qui pose les bases de cette science toute jeune.
+
+[TITLE]{Nuisances et pollution sonores[modifier | modifier le code]}
+Nuisances : Les phénomènes de couplage vibro-acoustique sont très présents dans les industries aéronautiques, automobiles, ferroviaires et dans les industries mécaniques en général. Les problèmes liés à l'amélioration du confort intérieur et à la réduction des nuisances externes s'y posent de façon cruciale. Des problèmes similaires se posent aussi dans l'industrie du bâtiment où les cloisons et les façades d'immeuble doivent être convenablement dimensionnées de façon à réduire la transmission du bruit. L'ingénieur acousticien doit être capable d'appréhender et de modéliser les phénomènes physiques mis en jeu. Il doit acquérir les connaissances nécessaires pour mettre en œuvre à la fois des méthodes analytiques et des outils numériques pour rechercher des solutions d'amélioration des produits en matière de réduction des nuisances sonores.
+Pollutions : Selon le dictionnaire français du vocabulaire normalisé de l'environnement, on peut parler de « pollution » sonore quand les conséquences du son propagé dans l'environnement génèrent une « altération » du fonctionnement de l'écosystème, généralement à la suite de la disparition ou du recul de certaines espèces, qui ne remplissent donc plus leurs fonctions écosystémiques.
+Article détaillé : Polluant.
+Voir aussi : Isolation phonique
+
+[TITLE]{Facture instrumentale[modifier | modifier le code]}
+Jusqu'au dix-neuvième siècle, la fabrication des instruments de musique est l'affaire d'artisans qui font appel à un savoir-faire qui doit peu aux modèles scientifiques, bien que les théoriciens de la musique rattachent les principes de leur art à ceux de la physique.
+Les sons instrumentaux, stables et répétables, se prêtant le mieux aux expériences scientifiques, les instruments qui les produisent, soit à partir de la vibration de cordes, soit à partir de celle d'une colonne d'air, vont servir à l'établissement des modèles physiques sur lesquels se construit l'acoustique.
+De l'étude des modes de vibration des cordes et colonnes d'air qui donnent la note, l'acoustique musicale est passée à celle des couplages qui transmettent l'énergie emmagasinée dans la partie vibrante à l'air, afin de créer le son.  Le volume sonore de l'instrument dépend de ce couplage. Pour des instruments à cordes frappées ou pincées, ce couplage détermine la durée pendant laquelle une note peut tenir. L'énergie est emmagasinée dans la corde au moment de l'attaque, et plus on transfère de puissance à l'air, plus la vibration faiblit vite. On étudie donc l'impédance acoustique des éléments et les transferts d'énergie entre eux. Pour les instruments à cordes :  violon, guitare, piano..., ce sont principalement les caisses de résonance ; pour les instruments à vent : flûte, hautbois, trompette ... ce sont les extrémités libres des tuyaux. Ces couplages ont aussi un rôle important dans la compréhension des caractéristiques du timbre des instruments.
+Enfin, la qualité musicale des instruments attire l'attention de chercheurs, qui à partir de modèles de préférences de musiciens, examinent les possibilités d'utiliser de nouveaux matériaux et de nouvelles technologies pour la fabrication d'instruments et la synthèse de leur son.
+
+[TITLE]{Institutions[modifier | modifier le code]}
+La Société Française d'Acoustique (SFA), association de type "loi de 1901" fondée en 1948 par Yves Rocard, regroupe des acousticiens francophones, praticiens et universitaires. Son but est de favoriser la circulation des informations scientifiques et techniques entre les différents acteurs de l'acoustique ainsi que les contacts entre les laboratoires de recherche et les industriels[réf. souhaitée]. Elle est structurée en deux sections régionales et neuf groupes spécialisés. Elle organise tous les deux ans un Congrès Français d'Acoustique[44].
+
+[TITLE]{Annexes[modifier | modifier le code]}
+[TITLE]{Étymologie[modifier | modifier le code]}
+L'acoustique, définie en 1770 par l'Académie française comme « la partie de la physique qui étudie les sons », est un néologisme que le physicien Joseph Sauveur a construit à la fin du XVIIe siècle à partir du grec ancien ἀκουστικός [akoustikos] signifiant « de l'ouïe », lui-même dérivant de  ἀκούειν [akouein], signifiant « entendre »[45].
+
+[TITLE]{Bibliographie[modifier | modifier le code]}
+Jean-Louis Migeot, Jean-Pierre Coyette, Grégory Lielens: Phénomènes fondamentaux de l’acoustique linéaire. Hermes/Lavoisier, 2015.
+Michel Bruneau, [REF]{Manuel d'acoustique fondamentale}, Hermes, 1998 [REF]{(ISBN 2866017129) ; aussi disponible en version anglaise (en) Michel Bruneau, [REF]{Fundamentals of acoustics}, ISTE, 2006 (ISBN 1-905209-25-8)}
+Catherine Potel, Michel Bruneau, [REF]{Acoustique générale}, Ellipses, 2006 [REF]{(ISBN 2-7298-2805-2)}
+[REF]{(en) Leo L. Beranek, [REF]{Acoustics}, Acoustical Society of America, 1993 (ISBN 0-88318-494-X)}
+[REF]{(en) Allan D. Pierce, [REF]{Acoustics, An Introduction to Its Physical Principles and Applications}, Acoustical Society of America, 1989 (ISBN 0-88318-612-8)}
+[REF]{(en) Richard E. Berg, [REF]{« Acoustics »}, dans [REF]{Encyclopædia Britannica}, Encyclopædia Britannica Online Academic Edition, 2012 (lire en ligne)}
+[TITLE]{Articles connexes[modifier | modifier le code]}
+
+Sur les autres projets Wikimedia :
+
+acoustique, sur le WiktionnaireAcoustique, sur Wikiversity
+
+
+Electroacoustique
+Musique électroacoustique
+Acoustique architecturale
+Sonorisation
+Sonification
+THX
+Acoustique musicale
+Psychoacoustique
+Audionumérique
+Thermoacoustique
+Acoustique industrielle
+Couplage fluide-structure
+Applications industrielles de l'acoustique
+Acoustique environnementale
+Sonar
+Échographie
+Aéroacoustique
+Ambisonie
+technique acoustique picoseconde
+Cartographie du bruit
+Acoustique non linéaire
+Onde acoustique de surface
+[TITLE]{Liens externes[modifier | modifier le code]}
+Société Française d'Acoustique (SFA)
+Groupement de l'Ingénierie Acoustique (GIAc), syndicat regroupant près de 80 % de la profession
+Acoustique et aéraulique Dossier technique appliqué à l'acoustique en aéraulique du bâtiment
+[TITLE]{Notes et références[modifier | modifier le code]}
+
+↑ « Le terme ... [peut] inclure les longueurs d'onde  infrasonores ou ultrasonores »[6].
+
+↑ « On parle par exemple d'acoustique industrielle pour désigner les techniques de décapage et de découpe à l'aide d'ultrasons »[8].
+
+
+
+
+
+↑ « [REF]{vibroacoustique} », sur ume.ensta-paristech.fr [REF]{(consulté le 18 février 2017)}.
+
+↑ (en) N.F. Declercq & C.S.A. Dekeyser, « [REF]{Acoustic diffraction effects at the Hellenistic amphitheater of Epidaurus : seat rows responsible for the marvelous acoustics} », Journal of the Acoustical Society of America, vol. 121, no 4,‎ 2007, p. 2011-22.
+
+↑ a b c d et e Berg2012.
+
+↑ a b c d e f et g Potel et Bruneau 2006, p. 11-17, chapitre I, section 2, "Éléments d'histoire de l'acoustique".
+
+↑ a b c d e f et g Pierce 1989, p. 3-6, section 1.1 "A Little History".
+
+↑ Richard Taillet, Loïc Villain et Pascal Febvre, [REF]{Dictionnaire de physique}, Bruxelles, De Boeck, 2013, p. 10.
+
+↑ Le livre blanc de l'acoustique en france en 2010 publié par la Société française d'acoustique présente un répertoire des domaines d'expertise des acousticiens en France.
+
+↑ Dic. Phys..
+
+↑ Potel et Bruneau 2006, p. 60-74, chapitre III, section 3, "Les équations de l'acoustique en milieu fluide".
+
+↑ Potel et Bruneau 2006, p. 74-82, chapitre III, section 4, "Hypothèses conduisant à une simplification des équations fondamentales de l'acoustique en milieu fluide".
+
+↑ Bruneau 2006, p. 15-49, chapitre 1, "Equations of Motion in Non-dissipative Fluid".
+
+↑ Bruneau 2006, p. 55-110, chapitre 2, "Equations of Motion in Dissipative Fluid".
+
+↑ [REF]{(en) B. A. Hamilton, [REF]{Acoustic Fields and Waves in Solids}, Krieger Publishing Company, 1990 (ISBN 0894644904)}.
+
+↑ Bruneau 2006, p. 511-576, chapitre 10, "Introduction to Non-linear Acoustics, Acoustics in Uniform Flow, and Aero-acoustics".
+
+↑ [REF]{(en) M.F. Hamilton et D.T. Blackstock, [REF]{Nonlinear Acoustics}, Academic Press, 1998 (ISBN 0-12-321860-8)}, p. 55.
+
+↑ a et b Bruneau 2006, p. 187-193, chapitre 4, section 4.4, "Reflection and transmission at the interface between two different fluids".
+
+↑ a et b Potel et Bruneau 2006, p. 128-141, chapitre IV, section 2.2, "Réflexion et transmission à l'interface entre deux milieux fluides différents".
+
+↑ Bruneau 2006, p. 357-362, chapitre 7, section 7.1, "Acoustic diffusion: examples".
+
+↑ Potel et Bruneau 2006, p. 172-175, chapitre V, section 3, "Diffraction d'une onde plane par un cylindre dont la surface est caractérisée par son impédance acoustique".
+
+↑ Potel et Bruneau 2006, p. 211-213, chapitre VI, section 3, "Diffraction d'une onde plane par une sphère dont la surface est caractérisée par son impédance acoustique".
+
+↑ Bruneau 2006, p. 362-385, chapitre 7, section 7.2, "Acoustic diffraction by a screen".
+
+↑ Potel et Bruneau 2006, p. 59-60, chapitre III, section 2, "Les différentes sources acoustiques".
+
+↑ Potel et Bruneau 2006, p. 222-233, chapitre VII, section 1, "La fonction de Green".
+
+↑ Potel et Bruneau 2006, p. 234-240, chapitre VII, section 2, "La formulation intégrale".
+
+↑ Bruneau 2006, p. 297-300, chapitre 6, section 6.2.2, "Integral formalism".
+
+↑ Potel et Bruneau 2006, p. 240-249, chapitre VII, section 3, "Rayonnement de sources de frontières en espace semi-infini (intégrale de Rayleigh)".
+
+↑ Beranek 1993, p. 128-143, part XIII, "Acoustic Elements".
+
+↑ Pierce 1989, p. 319-324, section 7.2 "Lumped-Parameter Models".
+
+↑ Bruneau 2006, p. 193-205, chapitre 4, section 4.5, "Harmonic waves propagation in an infinite waveguide with rectangular cross-section".
+
+↑ Bruneau 2006, p. 238-245, chapitre 5, section 5.1.4, "Propagation of harmonic waves in cylindrical waveguides".
+
+↑ Pierce 1989, p. 313-319, section 7.1 "Guided Waves".
+
+↑ Potel et Bruneau 2006, p. 72.
+
+↑ Potel et Bruneau 2006, p. 63-66.
+
+↑ Pierce 1989, p. 8-11.
+
+↑ Beranek 1993, p. 17-18.
+
+↑ Potel et Bruneau 2006, p. 66-70, chapitre III, section 3.3, "L'équation de conservation de la masse : traduction de l'élasticité (compressibilité du fluide)".
+
+↑ Beranek 1993, p. 20-21, section"The Continuity Equation".
+
+↑ Pierce 1989, p. 6-8, section 1.2 "The conservation of mass".
+
+↑ a et b Bruneau 2006, p. 20-25, section 1.2.1, "Basis of thermodynamics".
+
+↑ Potel et Bruneau 2006, p. 57-58, chapitre III, section 1.3.1, "Transformations adiabatiques".
+
+↑ Potel et Bruneau 2006, p. 25-26, chapitre I, section 4.3, "Les effets dissipatifs".
+
+↑ a b et c Potel et Bruneau 2006, p. 73-74, chapitre III, section 3.6, "L'équation de propagation".
+
+↑ Daniel Royer et Eugène Dieulesaint, [REF]{Ondes élastiques dans les solides tome 1 et 2}, Masson, 1997 [REF]{(ISBN 222585422X)}.
+
+↑ Congrès français d'acoustique.
+
+↑ Alain Rey (dir.), [REF]{Dictionnaire historique de la langue française} [détail des éditions], 3e éd., 2010.
+
+
+
+
+
+v · mBranches de la physique
+ 
+Catégories
+
+Appliquée
+Expérimentale
+Théorique
+
+ 
+Champs et ondes
+
+Champ gravitationnel
+Champ électromagnétique
+Champ de Higgs électrofaible
+Théorie quantique des champs
+Relativité
+Générale
+Restreinte
+
+ 
+Énergie et mouvement
+
+Mécanique
+Classique
+Céleste
+Fluides
+Milieux continus
+Quantique
+Thermodynamique
+
+ 
+Spécialités
+
+Acoustique
+Astrophysique
+Atomique
+Industrielle
+Matière condensée
+Nucléaire
+Optique
+Particules
+Statistique
+
+ 
+Autres sciences
+
+Atmosphérique
+Biophysique
+Biomécanique
+Médicale
+Éconophysique
+Géophysique
+Physico-chimie
+Mathématique
+Psychophysique
+
+ 
+
+ Portail de la musique   Portail de la physique  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Acoustique&oldid=174873819 ».
+Catégories : AcoustiqueSonCatégories cachées : Article à référence nécessaireArticle à référence souhaitéePortail:Musique/Articles liésPortail:Physique/Articles liésPortail:Sciences/Articles liés
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 20 septembre 2020 à 15:21.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

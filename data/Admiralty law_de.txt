@@ -1,0 +1,319 @@
+
+
+
+Seerecht – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Seerecht}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Das Seerecht ist ein Rechtsgebiet, das sämtliche die Seeschifffahrt betreffenden Rechtsnormen umfasst.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Allgemeines
+2 Geschichte
+3 Rechtsgebiete
+4 Siehe auch
+5 Einzelnachweise
+
+
+[TITLE]{Allgemeines[Bearbeiten | Quelltext bearbeiten]}
+Da der größte Teil der Meere internationale Gewässer darstellt, ist auch das Seerecht internationales Recht. Das Seerecht ist als Bestandteil des Verkehrsrechts das Sonderrecht der Schifffahrt auf See.[1] Unterscheiden lässt sich hierbei privates und öffentliches Seerecht. Von Bedeutung sind insbesondere das internationale öffentliche Seerecht, das das Seevölkerrecht bildet, im Privatrecht das Seehandelsrecht, im öffentlichen Recht das Seeschifffahrts- und Seeanlagenrecht und weitere Rechtsgebiete.[2] Trotz moderner Kommunikationsmittel ist die Seeschifffahrt von Isolierung gekennzeichnet, in der sich das Schiff, die auf ihm befindlichen Personen (Schiffsbesatzung und Passagiere) und die Schiffsladung außerhalb des Heimathafens befinden.[2] Auch das Fehlen staatlicher Souveränität auf hoher See macht internationale Regelungen erforderlich.
+
+[TITLE]{Geschichte[Bearbeiten | Quelltext bearbeiten]}
+Das Seerecht ist das älteste Sonderrecht eines Transportmittels. Das Rhodische Seerecht galt als das erste und umfassendste Seerecht überhaupt, es war jedoch ungeschriebenes Gewohnheitsrecht.[3] Das Recht des Seehandels ist auf das Rhodische Seerecht (lateinisch lex Rhodia) von Rhodos des 8. und 9. Jahrhunderts vor Christus zurückzuführen.[4] Rhodos war dem Historiker Strabon (etwa 63 v. Chr. – nach 23 n. Chr.) zufolge wegen seiner gesetzlichen Ordnung und des Seewesens berühmt.[5] Isidor von Sevilla sprach nach 560 n. Chr. davon, dass es rhodische Gesetze über den Seehandel gebe.[6]
+Erste Belege finden sich über das Rhodische Seerecht in den Digesten des römischen Corpus Iuris Civilis (528 – 534) von Justinian I.[7] Hierin übernahmen die Römer vermutlich im 1. Jahrhundert v. Chr. unter Tiberius das Rhodische Seerecht als Völkerrecht (lateinisch ius gentium) in ihr römisches Recht.[8] Danach waren die Schiffer (Verfrachter) gehalten, schwere und kostbare Waren nicht in ein altes Schiff zu übernehmen und die ihnen übergebene Ware später wieder auszuliefern. Schriftliche Kontrakte über den Seetransport waren gültig.[9] Die heute noch teilweise gültige „große Haverei“ (lateinisch Lex Rhodia de iactu) verfasste der Jurist Lucius Volusius Maecianus. Geriet das Schiff in Seenot und Waren mussten als Seewurf über Bord geworfen werden, so durfte der Befrachter aus dem Seefrachtvertrag klagen.[10] Der Frachtkontrakt galt als Konsensualvertrag im Rahmen des Dienst- und Werkvertragsrechts (lateinisch Locatio conductio), das auch auf den Seefrachtvertrag anwendbar war. Im Streitfall klagte der durch Seewurf benachteiligte Befrachter (lateinisch locator) gegen den Verfrachter (lateinisch conductor) darauf, dass dieser beim begünstigten Befrachter den geschuldeten Schaden (lateinisch contributio) einforderte.[11] Die Römer kannten das Seedarlehen (lateinisch foenus nauticum), den Vorläufer der Bodmerei; die heutige Schiffsfinanzierung erfolgt durch Schiffshypotheken.
+
+ „Datt högeste une öldeste water recht“ – gedruckt 1537 von Jürgen Richolff der Jüngere
+Im Mittelalter beteiligte sich Gottfried von Bouillon um 1000 an der Verfassung der Assisen von Jerusalem, die teilweise auch Seerecht enthielten. Jacob I. erließ 1258 eine Seemannsordnung. Inzwischen entstanden zwischen 1160 und 1286 die Rôles d’Oléron, die heute als älteste schriftliche Fixierung von Seerechtssätzen gelten. Sie beschrieben das Gewohnheitsrecht auf See, die Handelsbräuche des Seehandels und beinhalteten einen Katalog von Bußbestimmungen bei Zuwiderhandlungen. Das Seerecht von Wisby [REF]{(schwedisch Waterrecht tho Wisby) erschien wohl nach 1350 und enthielt sowohl einen Teil aus Lübecker Satzungen als auch der Rôles d’Oléron;[12] die frühesten erhaltenen Drucke sind in mittelniederländischer (1532, Amsterdam) und mittelniederdeutscher (1537, Lübeck) Sprache verfasst. Der französische Meeresführer (französisch Guidon de la mer) lässt sich auf die Zeit zwischen 1556 und 1584 datieren und beinhaltete die Seekontrakte (beispielsweise die Großaventurei) und die Seeversicherung. Teile hiervon übernahm 1681 die Ordonnanz Ludwigs XIV. Das alte Hanseatische Seerecht entstand 1591[13] und wurde als „Hansestädte Schiffsordnung und Seerecht“ am 23. Mai 1614 publiziert. Dänemark führte sein erstes einheitliches Seerecht 1561 ein, England folgte 1651, Schweden 1667; Frankreich vereinheitlichte 1681 sein Seerecht mit dem Seegesetz (französisch Ordonnance de la Marine)}, die Niederlande folgten im Jahre 1711.[14]
+In Preußen begann die Kodifikation mit dem preußischen Seerecht vom Dezember 1727, dessen Inhalt in das Allgemeine Preußische Landrecht [REF]{(APL) vom Juni 1794 einging.[15] Es behandelte als erstes gesamtdeutsches Gesetz ein einheitliches Seerecht (II, 8, § 1389 ff. APL).[16] Nach II 8, § 1658 APL war dem Befrachter ein „Empfangsschein, oder sogenanntes Connoissement (Konnossement; d. Verf.)“ auszustellen.[17] Das ADHGB vom Mai 1861 erfasste erstmals ein gemeines deutsches Seehandelsrecht und regelte unter anderem in den Art. 557 ff. ADHGB den Seefrachtvertrag,[18] dessen Bestimmungen vom HGB im Januar 1900 wörtlich übernommen wurden. Der Seefrachtvertrag bezog sich auf das ganze Schiff, einen Teil hiervon oder auf einzelne Güter („Stückgüter“; Art. 557 ADHGB), worüber eine Charter-Partie („Chartepartie“) auszustellen war (Art. 558 ADHGB).[19] Gemäß Art. 480 ADHGB und Art. 481 ADHGB hatte der Verfrachter („Schiffer“)} für Seetüchtigkeit bzw. Ladungstüchtigkeit des Schiffs zu sorgen. Dem Verfrachter stand gemäß Art. 624 ADHGB ein gesetzliches Pfandrecht am Frachtgut wegen nicht bezahlter Fracht zu. Das Konnossement regelten die Art. 645 ff. ADHGB.
+Im Jahre 1864 entstanden in York die York Antwerp Rules (YAP), die bis 1877 in Antwerpen ausgearbeitet und 1890 mit der Empfehlung veröffentlicht wurden, sie allen Seefrachtverträgen zugrunde zu legen. Sie betreffen die Versicherung großer Havereien und verteilen die Schäden an Schiff und Ladung.
+Im März 1948 beschloss die Weltschifffahrtskonferenz in Genf die Gründung der Internationalen Seeschifffahrts-Organisation. Im Oktober 1996 wurde der Seegerichtshof der UNO in Hamburg eingerichtet, der auf der Grundlage des Seerechtsübereinkommens der Vereinten Nationen von 10. Dezember 1982 als selbständige Organisation im UN-System tätig ist.
+
+[TITLE]{Rechtsgebiete[Bearbeiten | Quelltext bearbeiten]}
+Zum internationalen Seerecht gehören unter anderem:[20]
+
+Privates Seerecht:
+Seehandelsrecht: In Deutschland ist das Seehandelsrecht im fünften Buch des Handelsgesetzbuchs (HGB) geregelt (§§ 476 ff. HGB).
+Sachenrechtliche Regelungen:
+Bürgerliches Recht: Unter anderem Schiffskauf (§ 452 BGB), Mietverhältnisse über eingetragene Schiffe (§ 578a BGB) oder Sicherungshypothek des Inhabers einer Schiffswerft (§ 647a BGB).
+Spezialgesetze: Schiffsregistergesetz (§§ 1 ff. SchRG), hierin ist unter anderem die Schiffsfinanzierung über Schiffshypotheken (§§ 24 ff. SchRG) geregelt.
+Öffentliches Seerecht:
+Seevölkerrecht: Regelt die völkerrechtlichen Verhältnisse der Seeschifffahrt in Friedenszeiten [REF]{(etwa das Seerechtsübereinkommen oder das Genfer Abkommen II von 1949) und das Seekriegsrecht (Blockade, Konterbande, Prisenrecht)}. Das Beschlagnahme- und Wegnahmerecht ist in der Pariser Seerechtsdeklaration von 1856 niedergelegt.
+Seestaats- und Seeverwaltungsrecht: Umfasst alle Regelungen zur öffentlichen Ordnung und Sicherheit des Schiffsverkehrs wie das Flaggenrecht, die Schiffsvermessung, Seestraßenordnung, Schifffahrtsstraßenordnung, Seeanlagenrecht oder die Hafenordnungen.
+Seearbeitsrecht: Regelt die Arbeits- und Lebensbedingungen von Seeleuten an Bord von Handelsschiffen (§§ 1 SeeArbG).
+Seestrafrecht: Regelt unter anderem die Gehorsams- und Disziplinarpflicht der Seeleute an Bord oder die Verkehrsbestimmungen auf See.
+Als Sondergebiet gibt es zudem das Seeversicherungsrecht. Die Seeversicherung gehört zur Transportversicherung, doch sind gemäß § 209 VVG die Regelungen des VVG über die Versicherung gegen die Gefahren der Seeschifffahrt (Seeversicherung) nicht anzuwenden (siehe Allgemeine Deutsche Seeversicherungsbedingungen).
+
+[TITLE]{Siehe auch[Bearbeiten | Quelltext bearbeiten]}
+Havarie
+Haverei
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ Hans Jürgen Abraham, Das Seerecht, 1956, S. 1
+
+↑ a b Hans Jürgen Abraham, Das Seerecht, 1956, S. 5
+
+↑ Meno Pöhls, Darstellung des gemeinen deutschen und des Hamburgischen Handelsrechts für Juristen und Kaufleute, Band 3: Seerecht, 1830, S. 7 ff.
+
+↑ William Tetley, The General Maritime Law – The Lex Maritima, 1994, S. 109
+
+↑ Strabon, 14, 2, 4
+
+↑ Isidor von Sevilla, Origines, 5, 17
+
+↑ Andreas Maurer, Lex Maritima: Grundzüge eines transnationalen Seehandelsrechts, 2012, S. 8
+
+↑ Johann Andreas Engelbrecht, Corpus iuris nautici oder Sammlung aller Seerechte der bekanntesten handelnden Nationen, Band 1, 1790, S. 1
+
+↑ Johann Andreas Engelbrecht, Corpus iuris nautici oder Sammlung aller Seerechte der bekanntesten handelnden Nationen, Band 1, 1790, S. 9
+
+↑ Johann Andreas Engelbrecht, Corpus iuris nautici oder Sammlung aller Seerechte der bekanntesten handelnden Nationen, Band 1, 1790, S. 23
+
+↑ Christoph Krampe: [REF]{Römisches Recht auf hoher See}. In: Iole Fargnoli, Stefan Rebenich [REF]{(Hrsg.): [REF]{Das Vermächtnis der Römer: Römisches Recht und Europa}. Haupt Verlag, Bern 2012, ISBN 978-3-258-07751-2, S. 111–150, S. 123 (Leseausschnitt [abgerufen am 12. Juli 2019])}. 
+
+↑ Karl von Kaltenborn, Grundsätze des praktischen europäischen Seerechts, besonders im Privatverkehre, 1851, S. 21
+
+↑ Karl von Kaltenborn, Grundsätze des praktischen europäischen Seerechts, besonders im Privatverkehre, 1851, S. 27
+
+↑ Meno Pöhls, Darstellung des Seerechts nach gemeinem und Hamburgischen Rechte, 1830, S. 27 ff.
+
+↑ Götz Landwehr, Das Preußische Seerecht vom Jahre 1727 im Rahmen der europäischen Rechtsentwicklung, in: Zeitschrift für Neuere Rechtsgeschichte, 1986, S. 113
+
+↑ Hans Jürgen Abraham, Das Seerecht, 1956, S. 6
+
+↑ Allgemeines Landrecht für die preußischen Staaten, Band 3, 1794, S. 594
+
+↑ William Lewis, Das deutsche Seerecht: Ein Kommentar zum V. Buch des ADHGB, Band 1, 1877, S. 182
+
+↑ Allgemeines Landrecht für die preußischen Staaten, 1863, S. 529 ff.
+
+↑ Hans Jürgen Abraham, Das Seerecht, 1960, S. 5
+
+
+
+
+
+Bitte den Hinweis zu Rechtsthemen beachten!
+
+Normdaten [REF]{(Sachbegriff): GND: 4054176-9 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Seerecht&oldid=197816997“
+Kategorie: Seerecht
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+CommonsWikivoyage
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+العربيةБеларускаяCatalàČeštinaCymraegDanskΕλληνικάEnglishEspañolEestiFrançaisעבריתHrvatskiItaliano日本語한국어LietuviųNederlandsNorsk bokmålPolskiPortuguêsРусскийසිංහලSlovenčinaSvenskaTürkçeУкраїнськаWinaray中文
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 16. März 2020 um 18:25 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

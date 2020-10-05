@@ -1,0 +1,513 @@
+
+
+
+Academic journal - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Academic journal}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+ There are different types of peer-reviewed research journals; these specific publications are about food science
+An academic or scholarly journal is a periodical publication in which scholarship relating to a particular academic discipline is published. Academic journals serve as permanent and transparent forums for the presentation, scrutiny, and discussion of research. They are usually peer-reviewed or refereed.[1] Content typically takes the form of articles presenting original research, review articles, and book reviews. The purpose of an academic journal, according to Henry Oldenburg (the first editor of Philosophical Transactions of the Royal Society), is to give researchers a venue to "impart their knowledge to one another, and contribute what they can to the Grand design of improving natural knowledge, and perfecting all Philosophical Arts, and Sciences."[2]
+The term academic journal applies to scholarly publications in all fields; this article discusses the aspects common to all academic field journals. Scientific journals and journals of the quantitative social sciences vary in form and function from journals of the humanities and qualitative social sciences; their specific aspects are separately discussed.
+The first academic journal was Journal des sçavans [REF]{(January 1665), followed soon after by Philosophical Transactions of the Royal Society (March 1665), and Mémoires de l'Académie des Sciences (1666). The first fully peer-reviewed journal was Medical Essays and Observations (1733)}.[3]
+
+[TITLE]{Contents}
+
+1 History
+2 Scholarly articles
+3 Reviewing
+
+3.1 Review articles
+3.2 Book reviews
+
+
+4 Prestige and ranking
+5 Costs
+6 New developments
+7 Lists of Academic Journals
+8 See also
+9 Notes
+10 References
+11 Further reading
+12 External links
+
+
+[TITLE]{History[edit]}
+ Adrien Auzout's "A TABLE of the Apertures of Object-Glasses" from a 1665 article in Philosophical Transactions, showing a table
+The idea of a published journal with the purpose of "[letting] people know what is happening in the Republic of Letters" was first conceived by François Eudes de Mézeray in 1663. A publication titled Journal littéraire général was supposed to be published to fulfill that goal, but never was. Humanist scholar Denis de Sallo (under the pseudonym "Sieur de Hédouville") and printer Jean Cusson took Mazerai's idea, and obtained a royal privilege from King Louis XIV on 8 August 1664 to establish the Journal des sçavans. The journal's first issue was published on 5 January 1665. It was aimed at people of letters, and had four main objectives:[4]
+
+review newly published major European books,
+publish the obituaries of famous people,
+report on discoveries in arts and science, and
+report on the proceedings and censures of both secular and ecclesiastical courts, as well as those of Universities both in France and outside.
+Soon after, the Royal Society established Philosophical Transactions of the Royal Society in March 1665, and the Académie des Sciences established the Mémoires de l'Académie des Sciences in 1666, which more strongly focused on scientific communications.[5] By the end of the 18th century, nearly 500 such periodical had been published,[6] the vast majority coming from Germany (304 periodicals), France (53), and England (34). Several of those publications however, and in particular the German journals, tended to be short lived (under 5 years). A.J. Meadows has estimated the proliferation of journal to reach 10,000 journals in 1950, and 71,000 in 1987. However, Michael Mabe warns that the estimates will vary depending on the definition of what exactly counts as a scholarly publication, but that the growth rate has been "remarkably consistent over time", with an average rates of 3.46% per year from 1800 to 2003.[7]
+In 1733, Medical Essays and Observations was established by the Medical Society of Edinburgh as the first fully peer-reviewed journal.[3] Peer review was introduced as an attempt to increase the quality and pertinence of submissions.[8] Other important events in the history of academic journals include the establishment of Nature [REF]{(1869) and Science (1880)}, the establishment of Postmodern Culture in 1990 as the first online-only journal, the foundation of arXiv in 1991 for the dissemination of preprints to be discussed prior to publication in a journal, and the establishment of PLOS One in 2006 as the first megajournal.[3]
+
+[TITLE]{Scholarly articles[edit]}
+There are two kinds of article or paper submissions in academia: solicited, where an individual has been invited to submit work either through direct contact or through a general submissions call, and unsolicited, where an individual submits a work for potential publication without directly being asked to do so.[9] Upon receipt of a submitted article, editors at the journal determine whether to reject the submission outright or begin the process of peer review. In the latter case, the submission becomes subject to review by outside scholars of the editor's choosing who typically remain anonymous. The number of these peer reviewers (or "referees") varies according to each journal's editorial practice – typically, no fewer than two, though sometimes three or more, experts in the subject matter of the article produce reports upon the content, style, and other factors, which inform the editors' publication decisions. Though these reports are generally confidential, some journals and publishers also practice public peer review. The editors either choose to reject the article, ask for a revision and resubmission, or accept the article for publication. Even accepted articles are often subjected to further (sometimes considerable) editing by journal editorial staff before they appear in print. The peer review can take from several weeks to several months.[10]
+
+[TITLE]{Reviewing[edit]}
+[TITLE]{Review articles[edit]}
+Main article: Review article
+Review articles, also called "reviews of progress," are checks on the research published in journals. Some journals are devoted entirely to review articles, some contain a few in each issue, and others do not publish review articles. Such reviews often cover the research from the preceding year, some for longer or shorter terms; some are devoted to specific topics, some to general surveys. Some reviews are enumerative, listing all significant articles in a given subject; others are selective, including only what they think worthwhile. Yet others are evaluative, judging the state of progress in the subject field.  Some journals are published in series, each covering a complete subject field year, or covering specific fields through several years. Unlike original research articles, review articles tend to be solicited submissions, sometimes planned years in advance. They are typically relied upon by students beginning a study in a given field, or for current awareness of those already in the field.[11]
+
+[TITLE]{Book reviews[edit]}
+Not to be confused with Literary book review.
+Reviews of scholarly books are checks upon the research books published by scholars; unlike articles, book reviews tend to be solicited. Journals typically have a separate book review editor determining which new books to review and by whom. If an outside scholar accepts the book review editor's request for a book review, he or she generally receives a free copy of the book from the journal in exchange for a timely review. Publishers send books to book review editors in the hope that their books will be reviewed. The length and depth of research book reviews varies much from journal to journal, as does the extent of textbook and trade book review.[12]
+
+[TITLE]{Prestige and ranking[edit]}
+Main article: Journal ranking
+An academic journal's prestige is established over time, and can reflect many factors, some but not all of which are expressible quantitatively. In each academic discipline, there are dominant journals that receive the largest number of submissions, and therefore can be selective in choosing their content. Yet, not only the largest journals are of excellent quality.[13]
+In the natural sciences and in the social sciences, the impact factor is an established proxy, measuring the number of later articles citing articles already published in the journal. There are other quantitative measures of prestige, such as the overall number of citations, how quickly articles are cited, and the average "half-life" of articles. Clarivate Analytics' Journal Citation Reports, which among other features, computes an impact factor for academic journals, draws data for computation from  the Science Citation Index Expanded (for natural science journals), and from the Social Sciences Citation Index (for social science journals).[13] Several other metrics are also used, including the SCImago Journal Rank, CiteScore, Eigenfactor, and Altmetrics.
+In the Anglo-American humanities, there is no tradition (as there is in the sciences) of giving impact-factors that could be used in establishing a journal's prestige. Recent moves have been made by the European Science Foundation (ESF) to change the situation, resulting in the publication of preliminary lists for the ranking of academic journals in the humanities.[13] These rankings have been severely criticized, notably by history and sociology of science British journals that have published a common editorial entitled "Journals under Threat."[14] Though it did not prevent ESF and some national organizations from proposing journal rankings, it largely prevented their use as evaluation tools.[15]
+In some disciplines such as knowledge management/intellectual capital, the lack of a well-established journal ranking system is perceived by academics as "a major obstacle on the way to tenure, promotion and achievement recognition".[16]  Conversely, a significant number of scientists and organizations consider the pursuit of impact factor calculations as inimical to the goals of science, and have signed the San Francisco Declaration on Research Assessment to limit its use.
+The categorization of journal prestige in some subjects has been attempted, typically using letters to rank their academic world importance.
+Three categories of techniques have developed to assess journal quality and create journal rankings:[17]
+
+stated preference;
+revealed preference; and
+publication power approaches[18]
+[TITLE]{Costs[edit]}
+Main article: Academic publishing § Publishers and business aspects
+See also: Scientific journal § Cost
+Many academic journals are subsidized by universities or professional organizations, and do not exist to make a profit. However, they often accept advertising, page and image charges from authors to pay for production costs. On the other hand, some journals are produced by commercial publishers who do make a profit by charging subscriptions to individuals and libraries. They may also sell all of their journals in discipline-specific collections or a variety of other packages.[19]
+Journal editors tend to have other professional responsibilities, most often as teaching professors. In the case of the largest journals, there are paid staff assisting in the editing. The production of the journals is almost always done by publisher-paid staff. Humanities and social science academic journals are usually subsidized by universities or professional organization.[20]
+The cost and value proposition of subscription to academic journals is being continuously re-assessed by institutions worldwide. In the context of the big deal cancellations by several library systems in the world,[21] data analysis tools like Unpaywall Journals are used by libraries to estimate the specific cost and value of the various options: libraries can avoid subscriptions for materials already served by instant open access via open archives like PubMed Central.[22]
+
+[TITLE]{New developments[edit]}
+The Internet has revolutionized the production of, and access to, academic journals, with their contents available online via services subscribed to by academic libraries. Individual articles are subject-indexed in databases such as Google Scholar. Some of the smallest, most specialized journals are prepared in-house, by an academic department, and published only online – such form of publication has sometimes been in the blog format though some, like the open access journal Internet Archaeology, use the medium to embed searchable datasets, 3D models, and interactive mapping.[23] Currently, there is a movement in higher education encouraging open access, either via self archiving, whereby the author deposits a paper in a disciplinary or institutional repository where it can be searched for and read, or via publishing it in a free open access journal, which does not charge for subscriptions, being either subsidized or financed by a publication fee. Given the goal of sharing scientific research to speed advances, open access has affected science journals more than humanities journals.[24] Commercial publishers are experimenting with open access models, but are trying to protect their subscription revenues.[25]
+The much lower entry cost of on-line publishing has also raised concerns of an increase in publication of "junk" journals with lower publishing standards. These journals, often with names chosen as similar to well-established publications, solicit articles via e-mail and then charge the author to publish an article, often with no sign of actual review. Jeffrey Beall, a research librarian at the University of Colorado, has compiled a list of what he considers to be "potential, possible, or probable predatory scholarly open-access publishers"; the list numbered over 300 journals as of April 2013, but he estimates that there may be thousands.[26] The OMICS Publishing Group, which publishes a number of the journals on this list, has threatened to sue Beall.[27]
+Some academic journals use the registered report format, which aims to counteract issues such as data dredging and hypothesizing after the results are known. For example, Nature Human Behaviour has adopted the registered report format, as it "shift[s] the emphasis from the results of research to the questions that guide the research and the methods used to answer them".[28] The European Journal of Personality defines this format: "In a registered report, authors create a study proposal that includes theoretical and empirical background, research questions/hypotheses, and pilot data (if available). Upon submission, this proposal will then be reviewed prior to data collection, and if accepted, the paper resulting from this peer-reviewed procedure will be published, regardless of the study outcomes."[29]
+
+[TITLE]{Lists of Academic Journals[edit]}
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. [REF]{(July 2020) (Learn how and when to remove this template message)}
+Wikipedia has many Lists of Academic Journals by discipline, such as List of African Studies Journals and List of Forestry Journals. The largest database providing detailed information about journals is Ulrichs Global Serials Directory. Other databases providing detailed information about journals are the Modern Language Association Directory of Periodicals and Genamics JournalSeek. Journal hosting websites like Project MUSE, JSTOR, Pubmed, Ingenta Web of Science, and Informaworld also provide journal lists. Some sites evaluate journals, providing information such as how long a journal takes to review articles and what types of articles it publishes.[note 1]
+
+[TITLE]{See also[edit]}
+
+Academic authorship
+Academic conference
+Academic writing
+arXiv
+IMRAD
+Journal Citation Reports
+Law review
+Medical journal
+Publish or perish
+Scientific journal
+Lists of academic journals
+List of scholarly publishing stings
+
+[TITLE]{Notes[edit]}
+
+
+^ For example the Reviews of Peer-Reviewed Journals in the Humanities and Social Sciences
+
+
+[TITLE]{References[edit]}
+
+
+^ 
+[REF]{Gary Blake; Robert W. Bly [REF]{(1993)}. The Elements of Technical Writing. Macmillan Publishers. p. 113. ISBN 978-0-02-013085-7.}
+
+^ The Royal Society: Royal Society journal archive made permanently free to access, 26 October 2011.
+
+^ a b c [REF]{Mudrak, Ben. "Scholarly Publishing: A Brief History". American Journal Experts. Retrieved 2018-06-18.}
+
+^ "Histoire du Journal des Savants", p. 1-2
+
+^ [REF]{"History of Philosophical Transactions – The Secret History of the Scientific Journal". arts.st-andrews.ac.uk.}
+
+^ [REF]{Kronick, David A. [REF]{(1962)}. "Original Publication: The Substantive Journal". A history of scientific and technical periodicals:the origins and development of the scientific and technological press, 1665-1790. New York: The Scarecrow Press.}
+
+^ [REF]{Mabe, Michael [REF]{(1 July 2003). "The growth and number of journals". Serials: The Journal for the Serials Community. 16 (2)}: 191–197. doi:10.1629/16191. S2CID 904752.}
+
+^ [REF]{"Preface". Medical Essays and Observations (2nd ed.): v–xvi. 1737.}
+
+^ 
+[REF]{Gwen Meyer Gregory [REF]{(2005)}. The successful academic librarian: Winning strategies from library leaders. Information Today. pp. 36–37. ISBN 978-1-57387-232-4.}
+
+^ 
+[REF]{Michèle Lamont [REF]{(2009)}. How professors think: Inside the curious world of academic judgment. Harvard University Press. pp. 1–14. ISBN 978-0-674-05733-3.}
+
+^ 
+[REF]{Deborah E. De Lange [REF]{(2011)}. Research Companion to Green International Management Studies: A Guide for Future Research, Collaboration and Review Writing. Edward Elgar Publishing. pp. 1–5. ISBN 978-1-84980-727-2.}
+
+^ 
+[REF]{Rita James Simon; Linda Mahan [REF]{(1969). "A Note on the Role of Book Review Editor as Decision Maker". The Library Quarterly. 39 (4)}: 353–56. doi:10.1086/619794. JSTOR 4306026.}
+
+^ a b c 
+[REF]{Rowena Murray [REF]{(2009). Writing for Academic Journals (2nd ed.)}. McGraw-Hill Education. pp. 42–45. ISBN 978-0-335-23458-5.}
+
+^ [REF]{"Journals under Threat: A Joint Response from History of Science, Technology and Medicine Editors". Medical History. 53 (1): 1–4. 2009. doi:10.1017/s0025727300003288. PMC 2629173. PMID 19190746.}
+
+^ [REF]{Pontille, David; Torny, Didier [REF]{(2010). "The controversial policies of journal ratings: Evaluating social sciences and humanities". Research Evaluation. 19 (5)}: 347. doi:10.3152/095820210X12809191250889.}
+
+^ 
+[REF]{Nick Bontis; Alexander Serenko [REF]{(2009). "A follow-up ranking of academic journals". Journal of Knowledge Management. 13 (1)}: 17. CiteSeerX 10.1.1.178.6943. doi:10.1108/13673270910931134.}
+
+^ 
+[REF]{Paul Benjamin Lowry; Sean LaMarc Humpherys; Jason Malwitz; Joshua Nix [REF]{(2007). "A scientometric study of the perceived quality of business and technical communication journals". IEEE Transactions on Professional Communication. 50 (4)}: 352–78. doi:10.1109/TPC.2007.908733. S2CID 40366182. SSRN 1021608.}
+
+^ 
+[REF]{Alexander Serenko; Changquan Jiao [REF]{(2011). "Investigating Information Systems Research in Canada" (PDF). Canadian Journal of Administrative Sciences. 29 (1)}: 3–24. doi:10.1002/cjas.214.}
+
+^ 
+[REF]{Theodore C. Bergstrom [REF]{(2001). "Free Labor for Costly Journals?". Journal of Economic Perspectives. 15 (3)}: 183–98. doi:10.1257/jep.15.4.183.}
+
+^ 
+[REF]{Robert A. Day; Barbara Gastel [REF]{(2011). How to Write and Publish a Scientific Paper (7th ed.)}. ABC-CLIO. pp. 122–24. ISBN 978-0-313-39195-8.}
+
+^ [REF]{Fernández-Ramos, Andrés; Rodríguez Bravo, María Blanca; Alvite Díez, María Luisa; Santos de Paz, Lourdes; Morán Suárez, María Antonia; Gallego Lorenzo, Josefa; Olea Merino, Isabel [REF]{(2019). "Evolution of the big deals use in the public universities of the Castile and Leon region, Spain = Evolución del uso de los big deals en las universidades públicas de Castilla y León". El Profesional de la Información (in Spanish). 28 (6)}. doi:10.3145/epi.2019.nov.19.}
+
+^ [REF]{Denise Wolfe [REF]{(2020-04-07)}. "SUNY Negotiates New, Modified Agreement with Elsevier - Libraries News Center University at Buffalo Libraries". library.buffalo.edu. University at Buffalo. Retrieved 2020-04-18.}
+
+^ [REF]{Greene, Kevin [REF]{(2003). "Review: Internet Archaeology. Published twice yearly; ISSN 1363-5387. £105 and US$190 to instructions (access to Volume 1 free)". Antiquity. 77 (295)}: 200–202. doi:10.1017/S0003598X0006155X.}
+
+^ [REF]{Davis, Philip M; Walters, William H [REF]{(July 2011). "The impact of free access to the scientific literature: A review of recent research". Journal of the Medical Library Association. 99 (3)}: 208–217. doi:10.3163/1536-5050.99.3.008. ISSN 1536-5050. PMC 3133904. PMID 21753913.}
+
+^ [REF]{James Hendler [REF]{(2007). "Reinventing Academic Publishing-Part 1". IEEE Intelligent Systems. 22 (5)}: 2–3. doi:10.1109/MIS.2007.4338485.}
+
+^ [REF]{Kolata, Gina [REF]{(April 7, 2013). "Scientific Articles Accepted (Personal Checks, Too)}". New York Times. Retrieved 23 September 2013.}
+
+^ [REF]{Deprez, Esme [REF]{(August 29, 2017)}. "Medical journals have a fake news problem". Bloomberg. Retrieved 30 August 2017.}
+
+^ [REF]{"Promoting reproducibility with registered reports". Nature Human Behaviour. 1 (1): 0034. 10 January 2017. doi:10.1038/s41562-016-0034. S2CID 28976450.}
+
+^ [REF]{"Streamlined review and registered reports soon to be official at EJP". THE EJP BLOG. European Journal of Personality. Retrieved 8 April 2018.}
+
+
+[TITLE]{Further reading[edit]}
+[REF]{Kronick, David A. [REF]{(1962)}. "Original Publication: The Substantive Journal". A history of scientific and technical periodicals:the origins and development of the scientific and technological press, 1665-1790. New York: The Scarecrow Press.}
+[REF]{Bakkalbasi, N; Bauer, K; Glover, J; Wang, L [REF]{(2006)}. "Three options for citation tracking: Google Scholar, Scopus and Web of Science". Biomedical Digital Libraries. 3: 7. doi:10.1186/1742-5581-3-7. PMC 1533854. PMID 16805916.}
+[REF]{Bontis, Nick; Serenko, A. [REF]{(2009). "A follow-up ranking of academic journals". Journal of Knowledge Management. 13 (1): 16–26. CiteSeerX 10.1.1.178.6943. doi:10.1108/13673270910931134.}CS1 maint: ref=harv (link)}
+[REF]{Hendler, James [REF]{(2007). "Reinventing Academic Publishing – Part 1". IEEE Intelligent Systems. 22 (5): 2–3. doi:10.1109/mis.2007.4338485.}CS1 maint: ref=harv (link)}
+[REF]{Paul Benjamin Lowry; Sean LaMarc Humpherys; Jason Malwitz; Joshua Nix [REF]{(2007). "A scientometric study of the perceived quality of business and technical communication journals". IEEE Transactions on Professional Communication. 50 (4)}: 352–78. doi:10.1109/TPC.2007.908733. S2CID 40366182. SSRN 1021608.}
+[REF]{Waller, A.C. [REF]{(2001)}. Editorial Peer Review Its Strengths and Weaknesses. ASIST monograph series. Information Today. ISBN 978-1-57387-100-6.}
+[REF]{Serenko, Alexander; Jiao, C. [REF]{(2011). "Investigating information systems research in Canada" (PDF). Canadian Journal of Administrative Sciences. 29 (1): 3–24. doi:10.1002/CJAS.214.}CS1 maint: ref=harv (link)}
+[REF]{Ware, Mark; Mabe, Michael [REF]{(2015). The STM Report: An overview of scientific and scholarly journal publishing (PDF) (4th ed.)}. International Association of Scientific, Technical and Medical Publishers.}
+[TITLE]{External links[edit]}
+
+
+
+Wikisource has several original texts related to:
+Research articles
+
+
+
+
+Wikimedia Commons has media related to Academic journals.
+
+Journal Collection at the Internet Archive
+ERIH 'Initial' lists, European Science Foundation
+JournalSeek – A Searchable Database of Online Scholarly Journals
+Master Journal List (Thomson Reuters) – a list of selected, and notable academic journals in the arts, humanities, sciences, and social sciences.
+Links to electronic journals
+JURN directory of Arts & Humanities ejournals
+Academic Journals: What are They? and Academic Journals Compared to Magazines. Academic Writing. Dennis G. Jerz. Seton Hill University. 2001.
+Peer reviewed articles. San Diego State University.
+Directory of Open Access Journals
+vteAcademic publishingJournals
+Academic journal
+Scientific journal
+Open access journal
+Public health journal
+Papers
+Scholarly paper
+Review article
+Position paper
+Literature review
+Grey literature
+Working paper
+White paper
+Technical report
+Annual report
+Pamphlet
+Essay
+Lab notes
+Other types of publication
+Thesis (Collection of articles, Monograph)
+Specialized patent (biological, chemical)
+Book
+Book chapter
+Preprint
+Poster session
+Abstract
+Impact and ranking
+Acknowledgment index
+Altmetrics
+Article-level metrics
+Author-level metrics
+Bibliometrics
+Citation impact
+Citation index
+Journal ranking
+Eigenfactor
+h-index
+Impact factor
+SCImago Journal Rank
+Scientometrics
+Reform
+Academic journal publishing reform
+Full-text-on-the-Net bias (FUTON bias)
+Open access
+Serials crisis
+Sci-Hub
+Indexes and search engines
+Google Scholar
+PubMed
+PubMed Central
+Scopus
+Web of Science
+CiteSeerx
+Semantic Scholar
+Scirus (defunct)
+BASE
+Related topics
+Imprint
+Scientific writing
+Peer review
+Proceedings
+Grey literature
+Scientific literature
+Learned society
+Open research
+Open science data
+ORCID
+Electronic publishing
+Ingelfinger rule
+Lists
+Academic journals
+Scientific journals
+Open-access journals
+Academic databases and search engines
+University presses
+Style/formatting guides
+Category:Academic publishing
+Category:Scientific documents
+ Portal
+Authority control 
+GND: 4121932-6
+
+Science portal
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Academic_journal&oldid=980863383"
+Categories: Academic journalsAcademic publishingScholarly communicationPeer reviewHidden categories: CS1 Spanish-language sources (es)Articles needing additional references from July 2020All articles needing additional referencesCS1 maint: ref=harvCommons category link is on WikidataArticles with Internet Archive linksWikipedia articles with GND identifiers
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+In other projects
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربيةবাংলাBân-lâm-gúБългарскиCatalàČeštinaCymraegEspañolفارسیFrançais한국어Bahasa IndonesiaItalianoBahasa Melayu日本語Simple EnglishไทยTürkçeTiếng Việt中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 28 September 2020, at 22:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,625 @@
+
+
+
+Agroécologie — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Agroécologie}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+Sauter à la navigation
+Sauter à la recherche
+Ne doit pas être confondu avec Écoagriculture.
+
+ Industrie agroalimentaire vs agroécologie
+L’agroécologie, ou agro-écologie, est un ensemble de théories et de pratiques agricoles nourries ou inspirées par les connaissances de l'écologie, de la science agronomique et du monde agricole. Ces idées concernent donc l'agriculture, l'écologie, et l'agronomie, mais aussi des mouvements sociaux ou politiques, notamment écologistes[1],[2]. Dans les faits, ces diverses dimensions de théorie, pratique et mouvements, s'expriment en interaction les unes avec les autres, mais de façon différente selon les milieux ou régions[2].
+
+[TITLE]{Sommaire}
+
+1 Histoire et définitions
+
+1.1 Agroécologie en France
+
+
+2 Agroécologie comme mouvement
+3 Agroécologie comme ensemble de pratiques agricoles
+
+3.1 Pratiques agroécologiques
+3.2 Infrastructures agroécologiques
+3.3 Développement rural des pays pauvres
+3.4 Revitalisation des sols cultivés
+
+
+4 Agroécologie comme discipline scientifique
+5 Transition agroécologique
+
+5.1 Verrous
+5.2 Leviers
+
+
+6 Acteurs de la « filière agroécologique »
+7 Filmographie
+8 Bibliographie
+9 Notes et références
+10 Voir aussi
+
+10.1 Articles connexes
+
+10.1.1 Auteurs de référence
+
+
+10.2 Cours en ligne
+10.3 Liens externes
+
+
+
+
+[TITLE]{Histoire et définitions[modifier | modifier le code]}
+L’agroécologie comme science apparaît dans les champs de recherche de l’agronomie et de l’écologie. Au cours de son développement, elle mobilise largement toutes les sciences sociales.
+Le terme est utilisé pour la première fois en 1928 par Basil Bensin, un agronome américain d’origine russe, pour décrire l'utilisation de méthodes écologiques appliquées à la recherche agronomique[2],[3]. Dans les années 1950, l'écologue et zoologiste allemand Tischler utilise le terme pour décrire le résultat de ses recherches sur la régulation des ravageurs par la gestion des interactions entre les composantes physiques, chimiques, biotiques et humaines des agrosystèmes[2]. Différents travaux de recherche, à ces époques, mobilisent des approches d'agroécologie, sans explicitement utiliser le terme[2]. C'est le cas des travaux du zoologiste allemand Friederichs sur la défense des cultures dans les années 1930, des travaux de l'agronome américain Klages sur les systèmes de culture dans les années 1920-1940, ou de la définition de l'agronomie proposée par Hénin dans les années 1960[2].
+L'agroécologie, en tant que science appliquant les principes de l'écologie à l'agriculture, continue à se développer aux cours des années 1960 et 1970. Une des évolutions importantes de cette période est la création du concept d'agroécosystème, par l'écologue Odum[2]. Mais c'est dans les années 1980 que l'agroécologie émerge véritablement, dans les travaux d'agronomes et d'écologues étudiant les systèmes agricoles de l'Amérique latine. Ces chercheurs cherchent des alternatives au modèle de développement de la révolution verte, dont ils observent les limites sur le terrain (dégradations environnementales, impacts sociaux, économiques et culturels)[4]. Un événement marquant est la publication en 1983 du livre Agroécologie, les bases scientifiques d'une agriculture alternative, par Miguel Altieri, professeur à l’université de Berkeley[4]. Ce livre est traduit en espagnol et en français dès 1986[5]. Une des nouveautés des années 1980 et 1990 est l'application de l'agroécologie aux objectifs de durabilité de l'agriculture[2]. En 1995, Altieri définit l'agroécologie ainsi : « L'agro-écologie est la science de la gestion des ressources naturelles au bénéfice des plus démunis confrontés à un environnement défavorable »[6]. Au-cours des années 1990 et 2000, l'agroécologie étend son champ d'étude, passant de l'échelle de l'agroécosystème à l'échelle de la ferme, du paysage, puis du système agraire, c'est-à-dire à l'ensemble des composantes écologiques et sociales contribuant à la production, la distribution et la consommation de la nourriture[2]. L'agroécologie est définie par Francis, en 2003, comme "l'écologie des systèmes alimentaires"[7].
+Ces approches développées dans le cadre de la recherche scientifique ont rapidement rencontré les préoccupations de mouvements sociaux ruraux d'Amérique latine[4], qui sont à l'origine du développement des pratiques agroécologiques, dans les années 1980, et de l'agroécologie comme mouvement social interrogeant les relations entre agriculture et société, dans les années 1990[2]. Les pratiques agroécologiques apparaissent dans l'Amérique latine des années 1980, particulièrement au Mexique, comme alternatives aux pratiques agricoles promues par la révolution verte. Elles visent à augmenter la production agricole des petits producteurs sans recours massif aux intrants issus de la synthèse chimique[2]. Le mouvement de l'agriculture alternative[8], né au Brésil dans les années 1970, opposé aux politiques de modernisation de l'agriculture et défendant les intérêts des petits agriculteurs, est une des bases de l'agroécologie en tant que mouvement[2]. Les mouvements agroécologiques, très divers dans leurs formes, mettent en avant les questions de souveraineté et de sécurité alimentaire, de développement rural, et d'autonomie des agriculteurs[2].
+
+[TITLE]{Agroécologie en France[modifier | modifier le code]}
+En France, à partir des années 1970, des personnages emblématiques comme René Dumont, Pierre Rabhi[9], Georges Toutain, Marc Dufumier, Dominique Soltner ont suggéré ou évoqué explicitement un rapprochement entre agrosystèmes et écosystèmes, prônant le respect de la nature, intégrant les dimensions économiques, sociales et politiques et visant à une meilleure intégration de l'agriculture dans la société. Néanmoins, le concept d'agroécologie a été utilisé tardivement en France, surtout à partir des années 2000. Selon Wezel, cela est dû d'une part à la dissociation des disciplines de l'agronomie et de l'écologie dans le système d'enseignement et de recherche français, et d'autre part au développement d'une approche holistique propre à l'agronomie française, incluant les sciences sociales, qui a mené au développement d'approches similaires à celles de l'agroécologie sans nécessiter de changer le nom de la discipline[2].
+Dans les années 2000, la notion de services écosystémiques (parfois critiquée parce qu'utilitariste), et celle d'agriculture écologiquement intensive, introduites suite au Grenelle de l'environnement, prennent de l'importance. La pratique agroécologique est aussi devenue un mode de production agricole faisant l'objet d'études, à l'image des travaux menés dans ce domaine par le CIRAD et l'INRA[2]. En 2010, l'INRA fait de l'agroécologie un de ses deux axes de recherche prioritaires[10],[11].
+En raison des enjeux économiques agricoles qui lui sont liés, il pèse sur elle d'importantes tensions liés à sa définition. Certains acteurs du monde agricole, de tradition productiviste, tendent à la définir comme un "verdissement" de l'agriculture industrielle ou à l'assimiler à d'autres notions comme l'Agriculture écologiquement intensive[12],[13],[14] [REF]{(adoptée dans les années 2010 en France comme axe stratégique par la coopérative Terrena et comme orientation pour la chambre d’agriculture de Bretagne[15])}.
+Le 5 septembre 2012, Stéphane Le Foll, ministre de l'Agriculture, a commandé à Marion Guillou [REF]{(ex-PDG de l'INRA) un rapport[16],[17] sur l'agro-écologie (AEF no 14773), pour un modèle de production « plus économe en intrants et en énergie, tout en assurant durablement leur compétitivité ». Marion Guillou, à partir des retours d'expériences pionnières (françaises ou étrangères), propose un modèle à la française, avec des accompagnements et des efforts de formation passant par une réforme de l'enseignement et de la formation agricoles et peut-être un « certificat d'économie d'intrants » (eau, engrais, produits phytosanitaires). Pour inciter à réduire l'utilisation d'intrants (qui a encore augmenté en 2012)}, Marion Guillou propose :
+
+de s'inspirer des certificats d'économie d'énergie pour inciter les vendeurs de pesticides et d'engrais à en vendre moins, en rémunérant les efforts, plutôt qu'en taxant ;
+d'étudier (au cas par cas) des projets de retenues collinaires ;
+avec éventuel relèvement du prix de l'eau d'irrigation afin de « créer une séparation nette entre les activités de conseil et de vente » (comme Delphine Batho l'avait proposé 3 mois plus tôt[18]).
+En 2013, un rapport thématique intitulé « La thématique « biodiversité et agriculture » dans les projets de recherche et développement français » (Rapport d’étude ACTA/FRB)[19] a été produit par l'association de coordination technique agricole (ACTA) et la Fondation pour la recherche sur la biodiversité (FRB), afin d'aider à une mobilisation de tous les acteurs de la biodiversité pour notamment « co-construire des projets de recherche à l’interface science / société ». Ce rapport analyse des projets de R&D agricole « CASDAR » portant sur la biodiversité, pour faire un point sur :
+- « l’évolution de la prise en compte de la biodiversité et des approches adoptées dans les projets »
+- « les acteurs impliqués et leurs réseaux de collaborations », dans le monde de la recherche sur agriculture & biodiversité.
+En 2013, un appel à projets intitulé « Mobilisation collective pour l’agro-écologie » a été lancé par le CASDAR pour « soutenir et amplifier la diffusion de démarches collectives territoriales ascendantes en faveur de l’agro-écologie et de formes d’agricultures performantes sur les plans économique et environnemental »[20].
+Le projet agroécologique pour la France, publié par le ministère de l'agriculture en 2013[21], constitue la première étape de l'inscription de l'agroécologie dans les politiques agricoles françaises[10].
+La Loi d’Avenir pour l’Agriculture, l’Alimentation et la Forêt, adoptée en 2014, vise à promouvoir le développement des pratiques agroécologiques, notamment par la création des Groupements d'Intérêt Economique et Environnemental et par l'introduction de l'agroécologie dans l'enseignement agricole[22].
+
+[TITLE]{Agroécologie comme mouvement[modifier | modifier le code]}
+L'agroécologie comme mouvement apparaît en Amérique latine, lorsque des mouvements sociaux commencent à s'intéresser aux pratiques agroécologiques. C'est le cas, au Brésil, du mouvement de l'agriculture alternative et du mouvement des sans-terres, qui constatent dans les années 1980-1990 l'incapacité des paysans à sortir de la misère, même après l'accès à la terre, en raison d'une production trop faible et d'une incapacité à acheter des intrants. Ils se tournent alors vers les pratiques agroécologiques[23]. MAELA (Movimiento Agroecológico de América Latina y el Caribe) et La Via Campesina font également partie de ces mouvements[23]. En Europe, l'agroécologie comme mouvement social est quasi absente, son rôle étant plutôt rempli par le mouvement de l'agriculture biologique[24]. Pierre Rabhi représente une exception notable en France, avec Terre et Humanisme et le mouvement des colibris, un mouvement ayant la particularité de toucher plus les urbains que les agriculteurs[24]. Les ONG AVSF et Agrisud International rejoindront ensuite cette mobilisation[25].
+Ces mouvements développent une approche explicitement politique de l'agroécologie, comme dans la déclaration du Forum International sur l'Agroécologie de 2015 : « L'agroécologie est politique ; elle nous demande de remettre en cause et de transformer les structures de pouvoir de nos sociétés. Nous devons placer le contrôle des semences, de la biodiversité, des terres et territoires, de l'eau, des savoirs, de la culture, des biens communs et des espaces communautaires entre les mains de celles et ceux qui nourrissent le monde »[26].
+Le « mouvement de l'agroécologie » est lié à la pratique agroécologique de terrain, puisque le mouvement s'enracine dans les pratiques locales et que les pratiques prennent du sens dans un mouvement global. En effet, les tenants de l'agroécologie se défendent d'une approche uniquement technique ou techniciste. Ils prônent une approche globale (holistique), la reconnaissance des savoirs et savoir-faire paysans, et une valorisation des synergies[27].
+La démarche vise à (ré)associer ou (ré)concilier[28] le développement agricole à la protection de l'environnement et à la biodiversité (sauvage et domestique[29]) : utilisation respectueuse des ressources locales, application du biomimétisme, c'est-à-dire "copier" la nature pour ce qui concerne les processus intéressants pour l'agriculture. Cela peut passer, le cas échéant, par des opérations de renaturation[30].
+Les mouvements agroécologiques accordent une grande importance aux questions de souveraineté et de sécurité alimentaire, de développement rural, et d'autonomie des agriculteurs[2]. Maria Elena Martinez-Torres et Peter Rosset [REF]{(2014)} indiquent en s'appuyant sur l'activité de La Via Campesina que l'agroécologie et la souveraineté alimentaire n'ont pas de sens l'un sans l'autre[31]. L'argument avancé est que l'agroécologie systémique est vouée à l'échec si elle ne prend pas en considération et ne se met pas au service des dimensions et revendications humaines portées par le mouvement de la souveraineté alimentaire.
+Il s'agit souvent aussi de faire évoluer une agriculture à orientation quantitative vers une agriculture plus qualitative, ce qui implique un changement de buts et de moyens[32]. Une dimension de commerce de proximité est souvent présente.
+
+[TITLE]{Agroécologie comme ensemble de pratiques agricoles[modifier | modifier le code]}
+L'agroécologie propose avant tout des systèmes de production agricole basés sur les processus et fonctions écosystémiques[33] alors que l'agriculture industrielle issue de la révolution agricole ou de la Révolution verte pense la production à partir des intrants. Pour C. Dupraz l'agriculture pourrait évoluer à moyen ou long terme en passant d'une logique d'exploitation du sol et d'autres ressources naturelles à une logique de « gestion d’écosystèmes cultivés »[34].
+Le conseil prescriptif, c'est-à-dire la préconisation de pratiques agricoles « clé en main », est problématique en agroécologie, en raison des caractéristiques des organismes qui sont à l'origine des services écosystémiques[35] : manque de connaissances sur le comportement des organismes dans les agroécosystèmes ; effet important du contexte local sur l'activité et le développement des organismes ; difficulté à contrôler les organismes et présence de conséquences inattendues ou indésirables ; difficulté à évaluer l'effet des organismes sur le fonctionnement de l'agroécosystème. Dans ces conditions, caractérisées par un déficit de connaissance et la difficulté d'évaluer les conséquences des décisions, la gestion adaptative est souvent mieux adaptée[35]. La gestion adaptative est un processus d'apprentissage itératif, qui est basé sur un suivi constant de l'agroécosystème afin d'adapter les pratiques agricoles, de produire de la connaissance et de réduire l'incertitude[36].
+Altieri propose cinq principes pour développer les pratiques agroécologiques[37] :
+
+permettre le recyclage de la biomasse et des nutriments ;
+maintenir des conditions de sol favorables à la croissance végétale, en maintenant un niveau de matière organique suffisant dans le sol[38] ;
+optimiser l'utilisation des ressources (eau, sol, lumière, nutriments) et minimiser leurs pertes[39] ;
+augmenter la diversité des espèces et des variétés cultivées, dans l'espace et dans le temps ;
+favoriser les interactions positives entre les différents organismes présents dans l'agroécosystème.
+Depuis 2017, GECO[40] une application Web sémantique et collaborative dédiée à la transition agroécologique basée sur de nouvelles pratiques a été mise en ligne. Développé par l'ACTA, Irstea, l’Inra et le RMT "Systèmes de culture innovants", l’outil se compose d’un espace de connaissances à base de fiches classées par type (Technique, Auxiliaire, Bio-agresseur, Culture…), reliées entre elles, et d’un espace d’échanges permettant de partager des expériences entre les acteurs de la filière (agriculteurs, conseillers, formateurs, chercheurs…) et de réagir aux fiches de l'outil. 
+
+[TITLE]{Pratiques agroécologiques[modifier | modifier le code]}
+Article connexe : Bonne pratique agricole.
+ Association culturale maïs-haricot-courge, cultures complémentaires dites des trois sœurs, dans la région du Mixtepec au Mexique.
+Les principales[réf. souhaitée] pratiques agroécologiques sont :
+
+Accroissement de la biodiversité en évitant les monocultures qui ont besoin d'intrants en énergie, pesticides et engrais. Ceci inclut l'utilisation de rotations longues et de cultures associées[41], qui permettent de profiter de la facilitation ou de la complémentarité des niches écologiques des différentes espèces (milpa, associations céréales-légumineuses, jardins créoles...).
+Le travail du sol qui respecte sa structure et maintient les populations des divers micro-organismes et animaux dans les horizons du sol. Un couvert végétal quasi permanent est recherché pour limiter l'érosion et structurer le sol. Des techniques comme le non labour ou le paillis sont encouragées.
+La fertilisation obtenue au moyen des engrais verts, de compost ou de digestat. L'objectif est le maintien d'un taux d'humus élevé assurant une fertilité durable et garantissant une alimentation hydrique plus régulière. Ces moyens, souvent peu coûteux, sont accessibles aux paysans les plus pauvres. L'agroforesterie peut s'inscrire dans ce processus comme le montrent les expériences pratiques utilisant le Gliricidia sepium.
+Les traitements phytosanitaires naturels, réduits au minimum, biodégradables et traditionnellement utilisés dans la lutte contre les parasites. Des méthodes comme le Push-pull sont encouragées et la recherche d'équilibres écologiques à l'aide de cultures associées, de plantes de service ou par le maintien de zones refuges en bordure des parcelles sont recherchés, afin de défavoriser les ravageurs et de favoriser les auxiliaires des cultures[42]. Ils s'inscrivent dans le cadre de la lutte biologique par conservation. Des phénomènes d'allélopathie peuvent également être favorisés[42].
+La présence d'antagonistes des pathogènes et ravageurs telluriques peut être favorisée, ainsi que le développement de la suppressivité du sol[42].
+L'utilisation de plantes constituant une barrière physique au déplacement des ravageurs, comme Crotalaria juncea, utilisée contre Bemisia tabaci[43].
+La lutte biologique par lâchers inondation ou par acclimatation peut également être utilisée.
+La sélection des variétés les plus adaptées aux terres cultivées, espèces locales reproductibles localement qui permettent une véritable autonomie.
+L'économie et l'optimisation de la consommation d'eau et de l'irrigation par une meilleure compréhension de l’équilibre terre/eau.
+La source d'énergie mécanique ou animale pour éviter le gaspillage d'énergies et les équipements coûteux, sans nier le progrès mais en l'ajustant aux réalités.
+Les aménagements pour lutter contre l'érosion des surfaces (diguettes, microbarrages, digues filtrantes) et utiliser les eaux de pluie, recharger les nappes phréatiques.
+L'agroforesterie peut être utilisée pour diversifier les productions, réguler les flux hydriques, éventuellement fixer de l'azote si les arbres sont des légumineuses et favoriser les auxiliaires de culture[44].
+Un meilleur couplage de l'élevage avec les productions végétales permet de diversifier les productions, de valoriser des zones à végétation spontanée (landes, steppes, prairies permanentes, prés-vergers, estives...) de valoriser les résidus de culture, les déchets de l’alimentation humaine et les effluents d'élevage et d'améliorer la fertilité des sols (cultures de plantes fourragères pérennes, fixatrices d'azote ou à forte production de biomasse ; utilisation des déjections comme fertilisants, ce qui permet des transferts de fertilité)[45]. Les animaux peuvent également fournir une force de travail et un moyen de transport.
+Les haies vives pour la protection des terres cultivées.
+Le reboisement des terrains non utilisés pour produire des sources de combustibles, une pharmacopée naturelle, l’art et l’artisanat, la nourriture humaine et animale, la régénération des sols.
+La réhabilitation des savoir-faire traditionnels et à la gestion écologique économique.
+Pédagogie adaptée aux acteurs de terrain[46].
+[TITLE]{Infrastructures agroécologiques[modifier | modifier le code]}
+Article détaillé : Infrastructure agroécologique.
+Les infrastructures agroécologiques fournissent de nombreux services écosystémiques et aménités, en termes de paysage, de protection du sol, de l'eau et de l'air, d'habitat pour des espèces dont certaines sont des auxiliaires de l'agriculture). Elles jouent un rôle majeur dans le maintien ou la restauration de la connectivité biologique de la partie rurale la trame verte et bleue. Elles peuvent contribuer à améliorer la production en diminuant les besoins en intrants chimiques et énergétiques[47].
+Parmi elles, l'association CDA (Centre de développement de l'agroécologie) oeuvre pour le progrès et le développement de l'agroécologie en France. Elle travaille en étroite collaboration avec les agriculteurs mais aussi les entreprises de l'agroalimentaire, les acteurs publics et les organisations professionnelles agricoles. 
+
+[TITLE]{Développement rural des pays pauvres[modifier | modifier le code]}
+L'agroécologie représente une vraie alternative aux systèmes de production dits conventionnels (industriels) dans les pays en développement. En effet, en mettant l'accent sur l'équilibre durable du système sol-culture, elle permet une réduction des apports d'intrants à long terme. Pour Olivier De Schutter, rapporteur spécial pour le droit à l'alimentation (en) du Conseil des droits de l’homme à l'Organisation des Nations unies, « il faut changer de cap, les recettes anciennes ne valent plus aujourd’hui. Les politiques de soutien à l'agriculture visaient à orienter l'agriculture vers l'agriculture industrielle ; il faut à présent qu'elles s'orientent vers l'agro-écologie partout où cela est possible »[48],[49].
+La prise en compte de cet équilibre entraîne aussi une meilleure capacité de résistance des cultures aux conditions difficiles : épisodes de sécheresse, pression des adventices, sols appauvris, conditions fréquentes dans les pays en développement, notamment sur le continent africain[50].
+Exemple : Le Programme de Promotion des Revenus Ruraux ou PPRR[51], projet du FIDA à Madagascar, soutient à travers le financement de microprojets les exploitants ayant choisi d'appliquer les principes de l'agroécologie sur leur ferme (voir le témoignage vidéo d'un paysan malgache dans les liens externes).
+Certaines associations de solidarité internationale ont fait le choix de poser l'agroécologie comme vecteur de développement local. Pour Patrice Burger, Directeur du CARI[52] et Représentant de la Société civile dans le cadre de la Convention des Nations unies sur la Lutte Contre la Désertification (CNULCD)[53], « l'agro-écologie, au-delà d'un ensemble de techniques, doit être considérée comme une véritable démarche »[54].
+
+[TITLE]{Revitalisation des sols cultivés[modifier | modifier le code]}
+ Semis direct (non labour) de soja sur une céréale
+Selon des études scientifiques, les sols cultivés présentent des signes de régression et de dégradation essentiellement de l'érosion, de l'acidification, du tassement, des baisses du niveau de matière organique. Les causes en sont diverses mais l'action de l'homme peut les favoriser. Dans les terrains agricoles en pente, en zones de montagne, les risques d'érosion sont encore plus importants[55].
+Pour endiguer cette dégradation des sols, le compost et le fumier peuvent être répandus sur les sols mais les produits chimiques doivent être limités. Enfin, certaines variétés modernes, notamment hybrides, sont plus fragiles que des variétés traditionnelles, qui demandent moins d'irrigation. Celles-ci, bien associées avec d'autres plantes ou arbres, légumes, fruits ou condiments, sont parfaitement rentables et leur croissance est même plus forte que les hybrides. Les besoins en pesticides et en irrigation sont alors beaucoup moins importants.
+
+[TITLE]{Agroécologie comme discipline scientifique[modifier | modifier le code]}
+L’agroécologie est également une discipline scientifique émergente. Elle a pour objet l'étude des agroécosystèmes et l'application des connaissances de l'écologie à l'agriculture.
+Miguel Altieri de l'université de Berkeley est un pionnier de cette discipline et est régulièrement sollicité par le PNUE. Il en propose cette définition [REF]{(1995) [2] : « L'agro-écologie est la science de la gestion des ressources naturelles au bénéfice des plus démunis confrontés à un environnement défavorable. Cette science, de nature biophysique au sens large, porte ainsi sur l'accumulation de connaissances sur les fonctionnements des écosystèmes (cultivés)}. Elle conduit à la conception, à la création et à l'adaptation sous la forme participative de systèmes de culture complexes productifs et par suite attractifs malgré un milieu défavorable et malgré un recours très faible aux intrants… ». 
+La recherche en agroécologie peut se mener à différentes échelles : parcelle, exploitation agricole, paysage, système agraire[2]. Francis, en 2003, propose une définition de l'agroécologie à l'échelle des systèmes agraires ou systèmes alimentaires : "l'étude intégrative de l'écologie de l'ensemble du système alimentaire, comprenant les dimensions écologiques, économiques et sociales"[7]. L'agroécologie se caractérise également par son approche transdisciplinaire (incluant l'agronomie, l'écologie, les sciences humaines et sociales), par la prise en compte des savoirs locaux et par l'analyse des systèmes[2].
+En raison de la multiplicité des thèmes de recherche pouvant s'inscrire dans l'agroécologie et par conséquent des différences épistémologiques naissantes, certains auteurs tels que Van Dam et al. [REF]{(2012)} suggèrent de distinguer 3 branches au sein de l'agroécologie scientifique[56] :
+
+l'agroécologie systémique qui traite de la dimension « bio-technique » en prenant largement appui sur l'écologie, les travaux de Miguel Altieri se sont par exemple inscrits dans cette branche dans un premier temps,
+l'agroécologie humaine pour rendre compte des organisations sociales impliquées dans les agroécosystèmes, les travaux de Victor M. Toledo ou ceux de Eduardo Sevilla Guzman sont une bonne illustration de ce que peut produire cette branche,
+enfin, l'agroécologie politique entend aborder la relation entre les mesures, configurations politiques et les agroécosystèmes, en relation avec les systèmes sociaux auxquels nous faisons référence ci-dessus, pour cette dernière branche, les travaux de Manuel Luis Gonzalez de Molina Navarro (MG de Molina) sont des références incontournables.
+[TITLE]{Transition agroécologique[modifier | modifier le code]}
+[TITLE]{Verrous[modifier | modifier le code]}
+Des verrouillage socio-techniques peuvent empêcher, à plusieurs niveaux, la transition vers l'agroécologie[35]: 
+
+Au niveau individuel, le manque de connaissances sur de nouvelles pratiques agricoles ;
+Au niveau de l'exploitation agricole, le manque de terres disponibles pour développer des pratiques alternatives ou l'importance des investissements déjà réalisés, qui doivent être rentabilisés dans un système technique donné ;
+Au niveau du territoire, l'absence de filière de collecte et de commercialisation de produits portant un label de qualité environnemental, l'absence de systèmes de conseil adaptés ;
+Au niveau national, le manque de connaissances scientifiques ou de soutien des politiques publiques.
+[TITLE]{Leviers[modifier | modifier le code]}
+En Europe, l'agroécologie pourrait être progressivement encouragée par la conditionnalité des aides compensatrices PAC qui a évolué vers une « écoconditionnalité », aides versées sous réserve du respect de bonnes conditions agricoles et environnementales. 
+A une échelle plus locale et humaine, la transition agroécologique est facilitée par les démarches collectives d'échanges entre pairs : échanges de partiques, mais aussi confrontation des retours d'expériences pour aider à passer le cap de changements de pratiques, de systèmes, de stratégies d'entreprises, d'implantation territoriale, etc. 
+
+[TITLE]{Acteurs de la « filière agroécologique »[modifier | modifier le code]}
+Au niveau international, elle est aujourd'hui officiellement portée par des réseaux comme La Via Campesina (200 millions de paysans sur tous les continents), pratiquée par un nombre vraisemblablement aussi important d'agriculteurs à petite échelle dans le monde entier, et enfin appréhendée explicitement ou implicitement comme science par un nombre croissant d'enseignants-chercheurs à travers des équipes de recherche, laboratoires, importantes revues à comité de lecture (Agroecology and sustainable food systems, The journal of peasant studies…). 
+En France, il n'existe pas encore d'institut réellement spécialisé, mais une constellation d'acteurs[57] (référencés dans une base de données nationales[58])  est plus ou moins impliquée ou intéressée par l'agroécologie et la restauration ou le développement d'infrastructures agroécologiques[59]. Leurs intérêts convergent souvent, et ils peuvent de mieux en mieux s'appuyer sur la recherche et sur des analyses multicritères, modélisations, réseaux d’essai, traitement d’image, web 2.0, etc. Ces acteurs comptent notamment : 
+
+les ministères chargés de l'Agriculture, de l'Écologie et de la Recherche, qui notamment au travers du CASDAR soutiennent la recherche sur des thèmes en rapport avec l'agroécologie (30 % des projets financés entre 2004 et 2012 traitent de la biodiversité, et le nombre de projet incluant la biodiversité tend à croître depuis 2007, sans doute à la suite du Grenelle de l’environnement au plan Écophyto 2018[59].
+INRA ; Un bilan publié en 2014 montre que parmi les 96 unités de recherche publique ou associations d’unités (GIS) présentes dans les projets CASDAR « biodiversité », 69 impliquent des équipes de l’INRA[59].
+IRSTEA ; qui travaille notamment sur la trame verte et bleue, les économies d'eau pour l'irrigation[39], et l'agriculture numérique de précision[60].
+Solagro, qui est spécialisé sur les infrastructures agroécologiques et anime un projet intitulé « Osez l'agroécologie » visant à faciliter la diffusion des savoirs des agriculteurs en matière d'agroécologie.
+De nombreux instituts techniques agricoles (ITA) sont également concernés, dont :
+ACTA ; intéressé par les pratiques agronomiques via notamment les CIPAN (en lien avec l’apiculture), l'écologie des agropaysages et ses liens avec la protection phytosanitaire (contre les nématode, taupins... notamment), les adventice, messicoles, la lutte biologique et la biodiversité des auxiliaires des cultures. D'autres thèmes d'intérêt sont le plan Écophyto, les bandes enherbées et les infrastructures agroécologiques au sein de la trame verte et bleue. L'ACTA se positionne aussi dans les interfilières (apiculture, grandes cultures, tournesol[59].
+ARVALIS - Institut du végétal ; intéressé par le rôle des associations végétales, assolement, CIPAN, effet précédent, légumineuse, rotation, taupins dans les pratiques agronomiques et phytosanitaires (Écophyto, gestion des adventices & messicoles, utilisation des auxiliaires des cultures, biofongicide, protection intégrée contre les ravageurs, lutte contre les résistances aux pesticides ou antibiorésistances. Rôle des infrastructures agroécologiques[59] ;
+ASTREDHOR ; notamment intéressé par le prototypage de solutions phytosanitaires innovantes et plus respectueuses de l'environnement, avec notamment ECOPHYTO 2018[59] ;
+Terres Inovia ; intéressé — en interfilière — par les pratiques agroécologiques (dont ECOPHYTO, protection intégrée et lutte biologique) concernant le contrôle des adventices, les cultures d’hiver, CIPAN, séquelles de pratiques antérieures, intérêt des légumineuses et de la rotation, etc.[59] ;
+CTIFL ; intéressé par la protection phytosanitaire, les aménagements parcellaires, les auxiliaires des grandes cultures ;
+FN3PT ; intéressé par la protection phytosanitaire[59] ;
+IDELE ; intéressé par la gestion et l'écologie du paysage agricole (Cf. bois, embroussaillement...), la diversité biologique en tant que ressource génétique, la conduite de troupeaux, les diagnostics d’exploitation et de systèmes agricoles (cf. indicateurs, évaluation des infrastructures agro-écologiques via des observatoires, la télédétection, le traitement d’images)[59] ;
+IFIP ; intéressé par la gestion des territoires et des paysages[59] ;
+IFPC (Interfilière vin), intéressé par l'impact du paysage et de la gestion sur les arômes, la fermentation, les levures, qualité La protection phytosanitaire : réduction des intrants phytosanitaires[59] ;
+IFV ; intéressé par la transformation (diversité génétique des levures, fermentation, arômes), la gestion des agropaysages[59] ;
+ITAB ; intéressé par la biodiversité comme ressources génétique (cf génotype, phénotype, races menacées...) et dans les pratiques agronomiques d'assolement, de rotation et de synergies par associations végétales, ainsi qu'pour la transformation (fermentation) et la protection phytosanitaire (gestion des adventices, protection biologique et intégrée), avec les interfilières agroforesterie, blé dur, poulet, productions fourragères, tomate, vin[59] ;
+ITAVI ; intéressé par la biodiversité comme ressources génétique (génotype, phénotype, races rustiques et menacées) dans le cadre d'une gestion des territoires et paysages qu'on voudrait plus résilients, y compris grâce à l'agroforesterie ;
+Institut technique de la betterave ; intéressé par la protection phytosanitaire : adventices, auxiliaires des cultures, champignons phytopathogènes, ECOPHYTO, lutte biologique[59] ;
+Institut technique interprofessionnel des plantes à parfum, médicinales, aromatiques et industrielles (ITEIPMAI); intéressé par la protection phytosanitaire (ex : phytoplasme du Stolbur, variétés tolérantes)[59] ;
+ITSAP ; qui accompagne les CIPAN (avec des réseaux d’essai)[59] ;
+UNIP ; qui travaille notamment sur l'importance des associations végétales[59].
+[TITLE]{Filmographie[modifier | modifier le code]}
+À Madagascar, de nouvelles pratiques agricoles se mettent en place pour lutter contre les changements climatiques et préserver la sécurité alimentaire des familles, un film (8 min) de l'institut de recherche pour le développement.
+
+[TITLE]{Bibliographie[modifier | modifier le code]}
+CDC Biodiversité [REF]{(2018)} [ Transition écologique de l'agriculture et biodiversité BIODIV’2050 CDC  N°15 ; Septembre
+Centre d’études et de prospective du ministère de l’Agriculture [REF]{(2013)}, L’agroécologie : des définitions variées, des principes communs ; analyses publiées par le Centre d’études et de prospective du ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt ; Analyse n° 59, juillet 2013 ;  téléchargeable : http://agriculture.gouv.fr/publications-du-cep ou http://agreste.agriculture.gouv.fr/publications/analyse/
+Coulon Fet Pointereau P. [REF]{(2007)}, Pertinence des infrastructures agro-écologiques au sein d’un territoire dans le cadre de la politique agricole commune, SOLAGRO ; étude réalisée pour le MEDDE/CGDD.
+France nature environnement [REF]{(2008), Mettre en place des infrastructures agroécologiques (IAE)} sur son exploitation agricole : pourquoi ? comment ?, réalisé avec le soutien du ministère de l’Agriculture et de la Pêche ; PDF, 34 p.
+Gautronneau Y. [REF]{(1997). Une agriculture écologique pour des zones à enjeux environnementaux majeurs. Courrier de L'environnement de l'INRA, (32)}, 5-10.
+GTD [REF]{(2012), Agroécologie, une transition vers des modes de vie et de développement viables - Paroles d'acteurs. Publication du Groupe de Travail Désertification (GTD)}.
+Hainzelin E. [REF]{(coord.) (2013)}, Cultiver la biodiversité pour transformer l’agriculture, éditions Quae, 264 p.
+Le Roux X., Barbault R., Baudry J., Burel F., Doussan I., Garnier E., Herzog F., Lavorel S., Lifran R., Roger-Estrade J., Sarthou J.-P., Trommetter M. [REF]{(éditeurs) (2008)}, Agriculture et biodiversité. Valoriser les synergies, Expertise scientifique collective, synthèse du rapport, INRA, 116 p.
+Morez R. [REF]{(1998)}, Les Cahiers de l'Agroécologie, Perrault [présentation en ligne]. Disponible sur le site www.cariassociation.org.
+Silvia Pérez-Vitoria et Eduardo Sevilla, Petit précis d'agroécologie. Nourriture, autonomie, paysannerie, Guzman, 2008.
+Robin M.-M., Les moissons du futur : Comment l'agroécologie peut nourrir le monde , La Découverte, 2012, 297 p. [REF]{(ISBN 978-2707171542)}.
+MEDDE, SOLAGRO [REF]{(2008)}, Les infrastructures agro-écologiques au service de notre agriculture.
+MEDDE, SOLAGRO [REF]{(2009)}, Les infrastructures agro-écologiques - La biodiversité pour une agriculture productive et de qualité.
+Pointereau P., Coulon F., Fleutiaux C. [REF]{(2007)}, Pertinence des infrastructures agroécologiques au sein d’un territoire dans le cadre de la Politique agricole commune, Solagro – juin 2007 – étude réalisée pour le compte du MEDDT.
+Phocas F. et al. [REF]{(2016), Outils et le leviers pour favoriser le développement d'une génétique animale adaptée aux enjeux de l'agro-écologie, étude réalisée par l'Inra, Idele, Ifip, Itavi et Sysaf sous la coordination de Phocas F. et Brochard M. pour le compte du ministère de l'Agriculture (Rapport final de l'étude SSP-2014-061)}.
+Commissariat général au développement durable [REF]{(2012), Le point sur les « infrastructures agro-écologiques » : état des lieux dans les communes françaises, no 145, oct 2012 (PDF, 4 p.)}.
+Tardieu V. [REF]{(2012), Vive l'agro-révolution française, Éditions Belin, 480 p. (ISBN 978-2701159737)}.
+Schaller N. [REF]{(2013)}, L'agroécologie : des définitions variées, des principes communs. Analyse, Centre d'études et de prospective, 4 p., http://agriculture.gouv.fr/IMG/pdf/Analyse_CEP_59_Agroecologie_definitions_variees_principes_communs_cle051634.pdf
+Schaller N. [REF]{(2013)}, Des systèmes de production visant la double performance économique et environnementale. Analyse, Centre d'études et de prospective, 4 p., http://agriculture.gouv.fr/IMG/pdf/Analyse_CEP_60_Systeme_double_performance_cle4691cb.pdf
+Sorel B. [REF]{(2015), L'agroécologie - Cours Théorique, Éditions BoD (ISBN 9782322042760), 252 p. et L'agroécologie - Cours Technique, Éditions BoD,  (ISBN 9782322015948)}, 68 p.
+Sorel B [REF]{(2016), Les cinq pratiques du jardinage agroécologique, Éditions BoD,  (ISBN 9782322077632)}
+Wezel A et al. [REF]{(2014) Agroecological practices for sustainable agriculture. A review. Agron. Sustain. Dev. 34, 1–20 (résumé)}.
+[TITLE]{Notes et références[modifier | modifier le code]}
+
+↑ « [REF]{Agroécologie - Les Mots de l'agronomie} », sur mots-agronomie.inra.fr [REF]{(consulté le 12 juin 2016)}
+
+↑ a b c d e f g h i j k l m n o p q r et s [REF]{(en) A. Wezel, S. Bellon, T. Doré et C. Francis, « [REF]{Agroecology as a science, a movement and a practice. A review} », Agronomy for Sustainable Development, vol. 29, no 4,‎ 2009, p. 503–515 (ISSN 1774-0746 et 1773-0155, DOI 10.1051/agro/2009004, lire en ligne, consulté le 2 mars 2017)}
+
+↑ « [REF]{Qu'est ce que l'agroécologie ?} », France Culture.com Science publique [REF]{(consulté le 6 juillet 2014)}
+
+↑ a b et c « [REF]{MOOC Agroécologie, Montpellier SupAgro} », sur www.fun-mooc.fr [REF]{(consulté le 22 février 2017)}
+
+↑ « [REF]{CV de Miguel Altieri} » (consulté le 12 juin 16)
+
+↑ Par : Benjamin Baatard [REF]{(AgroParisTech), Matthieu Carof (AGROCAMPUS OUEST), Cathy Clermont-Dauphin (IRD), Thierry Doré (AgroParisTech), Gérome Fitoussi (AgroParisTech), Antoine Gardarin (AgroParisTech), Catherine Herry (Inra) et Jean-Pierre Sarthou (ENSAT)., « [REF]{Qu'est-ce que l'agroécologie ? - * M. Altieri} », sur tice.agroparistech.fr (consulté le 9 juin 2016)}
+
+↑ a et b C. Francis, G. Lieblein, S. Gliessman et T. A. Breland, « [REF]{Agroecology: The Ecology of Food Systems} », Journal of Sustainable Agriculture, vol. 22, no 3,‎ 17 juillet 2003, p. 99–118 [REF]{(ISSN 1044-0046, DOI 10.1300/J064v22n03_10, lire en ligne, consulté le 2 mars 2017)}
+
+↑ Alfio Brandenburg, « [REF]{Mouvement agroécologique au Brésil : trajectoire, contradictions et perspectives*} », Natures Sciences Sociétés, vol. 16, no 2,‎ 1er avril 2008, p. 142–147 [REF]{(ISSN 1240-1307 et 1765-2979, DOI 10.1051/nss:2008036, lire en ligne, consulté le 2 mars 2017)}
+
+↑ Denise Van Dam, [REF]{Agroécologie: entre pratiques et sciences sociales}, Educagri Editions, 2012 [REF]{(ISBN 978-2-84444-876-7, lire en ligne)}, p. 308 : « Pierre Rabhi, figure représentative du mouvement politique et scientifique de l'agroécologie en France »
+
+↑ a et b Angela Bolis, « [REF]{L'agroécologie est-elle l'avenir de l'agriculture française ?} », Le Monde.fr,‎ 24 avril 2013 [REF]{(ISSN 1950-6244, lire en ligne, consulté le 3 mars 2017)}
+
+↑ Angela Bolis, « [REF]{L'agroécologie, un chantier prioritaire pour l'INRA} », Le Monde.fr,‎ 24 avril 2013 [REF]{(ISSN 1950-6244, lire en ligne, consulté le 3 mars 2017)}
+
+↑ Bonny, S. [REF]{(2011). L’agriculture écologiquement intensive: nature et défis. Cahiers Agricultures, 20(6)}, 451-462.
+
+↑ Griffon, M. [REF]{(2013)}. Qu'est ce que l'agriculture écologiquement intensive ?. Éditions Quae.
+
+↑ Goulet, F. [REF]{(2012)}. La notion d'intensification écologique et son succès auprès d'un certain monde agricole français : une radiographie critique. Courrier de l’environnement de l’INRA, 62, p. 19-29.
+
+↑ Léger f [REF]{(2014)} L’agroécologie en sciences - AgroParisTech 28/11/2014 Séminaire Agroécologie ; Lycée agricole de Tilloy-les-Mofflaines ; voir - p 21
+
+↑ Marion Guillou [REF]{(2013) « Le projet agro-écologique : Vers des agricultures doublement performantes pour concilier compétitivité et respect de l’environnement » ; PDF - 737.1 ko (synthèse, PDF, 737.1 ko)}
+
+↑ http://agriculture.gouv.fr/Remise-du-rapport-sur-l-agro
+
+↑ Delphine Batho, lors du congrès de France Nature Environnement en avril 2013
+
+↑ La thématique « biodiversité et agriculture » dans les projets de recherche et développement français [REF]{(Étude ACTA/FRB 2013 ; PDF, 3,97 Mo)}, et Dépliant afférent
+
+↑ « [REF]{Appel à projets CASDAR  « mobilisation collective pour l'agro-écologie » | Alim'agri} », sur agriculture.gouv.fr [REF]{(consulté le 3 mars 2017)}
+
+↑ « [REF]{Le projet agro-écologique pour la France | Alim'agri} », sur agriculture.gouv.fr [REF]{(consulté le 3 mars 2017)}
+
+↑ Audrey Garric, « [REF]{Pesticides, loups, forêts... que contient la loi d'avenir de l'agriculture ?} », Le Monde.fr,‎ 11 septembre 2014 [REF]{(ISSN 1950-6244, lire en ligne, consulté le 3 mars 2017)}
+
+↑ a et b « [REF]{Une alternative sociale - Brésil : l'agroécologie comme réponse à l'exclusion sociale} », sur www.supagro.fr [REF]{(consulté le 3 mars 2017)}
+
+↑ a et b « [REF]{Une alternative sociale - France : l'exception Pierre Rahbi} », sur www.supagro.fr [REF]{(consulté le 3 mars 2017)}
+
+↑ « [REF]{Une alternative sociale - La mobilisation des acteurs du développement international} », sur www.supagro.fr [REF]{(consulté le 3 mars 2017)}
+
+↑ Déclaration du Forum International sur l’Agroécologie. Nyéléni, Mali - 27 février 2015
+
+↑ INRA [REF]{(2008)}, Agriculture et biodiversité – valoriser les synergies. Expertise scientifique collective INRA, synthèse du rapport d’expertise
+
+↑ Eure-et-Loir Nature. Concilier agriculture et biodiversité. Guide et fiches pratiques.
+
+↑ INRA. Agriculture et biodiversité des plantes. Les dossiers de l’environnement, 2001
+
+↑ AgroParisTech : « pour préserver la biodiversité, il est nécessaire de renaturer l’agriculture, tout en ne mettant pas de côté les aspects économiques. Des pratiques agricoles, notamment celles préconisées par l’agroécologie, vont dans ce sens. », dans la présentation du programme de formation continue intitulé Concilier l’agriculture et la préservation de la biodiversité (qui s'est déroulé du 11 au 13 juin 2013, consulté 2013-10-04
+
+↑ « [REF]{Mouvements sociaux ruraux, dialogues de savoirs et agroécologie} », sur CETRI, Centre Tricontinental [REF]{(consulté le 9 juin 2016)}
+
+↑ « [REF]{Agroécologie-agroécologie} », sur www.agroecologie.fr [REF]{(consulté le 11 juin 2016)}
+
+↑ « [REF]{Qu'est-ce que l'agro-écologie ? | Alim'agri} », sur agriculture.gouv.fr [REF]{(consulté le 8 juin 2016)}.
+
+↑ Dupraz, C. [REF]{(2005)} Entre agronomie et écologie : vers la gestion d’écosystèmes cultivés. Cahier d’étude Demeter, économie et stratégies agricoles, PDF, 16 pages.
+
+↑ a b et c S Thoyer, R Le Vely, 2017, L'accompagnement de la transition agroécologique, MOOC Agroécologie, Montpellier Supagro.
+
+↑ « [REF]{La gestion forestière adaptative : Intégrer l'acquisition de connaissances parmi ls objectifs de gestion} », Revue forestière française, vol. 61, no 2,‎ 2009 [REF]{(ISSN 0035-2829, lire en ligne, consulté le 7 avril 2017)}
+
+↑ M Altieri, 1995, Agroecology: the science of sustainable agriculture, Westview Press, Boulder, Colorado. 433 pp.
+
+↑ J.F. Briat et D. Job (coord), [REF]{Les sols et la vie souterraine - des enjeux majeurs en agroécologie}, Editions Quae, 2017.
+
+↑ a et b « [REF]{Agriculture, économiser et recycler l'eau d'irrigation} », sur Irstea, 2017 [REF]{(consulté le 15 novembre 2018)}.
+
+↑ L'[ http://geco.ecophytopic.fr/ outil GECO] est intégré dans le portail EcophytoPIC [REF]{(consulté le 15 novembre 2018)}.
+
+↑ C Marsden, L Bedoussac, 2017, Mise en oeuvre en "Cultures associées", MOOC Agroécologie, Monpellier Supagro.
+
+↑ a b et c « [REF]{UVED - La conception de systèmes horticoles écologiquement innovants} », sur www.supagro.fr [REF]{(consulté le 16 avril 2017)}.
+
+↑ Peninna Deberdt et Paula Fernandes - UR Hortsys Cirad, « [REF]{UTILISATION DES PLANTES DE SERVICES EN CULTURES MARAICHERES - Un exemple d'effet barrière} », sur www.supagro.fr [REF]{(consulté le 16 avril 2017)}.
+
+↑ A Metay, D Mézière, Mise en oeuvre en Agroforesterie, MOOC Agroécologie, 2017, Montpellier Supagro.
+
+↑ M Jouven, Mise en oeuvre en élevage, MOOC Agroécologie, 2017, Montpellier Supagro.
+
+↑ Magazine Passerelle Éco no 9, 2005.
+
+↑ Ministère de l'Écologie [REF]{(2012), Infrastructures agro-écologiques, 7 février 2012 (mis à jour le 14 mai 2013)}.
+
+↑ Olivier De Schutter 'Agroecology: A Tool for the Realization of the Right to Food', in Lichthouse (ed.), Agroecology and strategies for climate change, Sustainable Agriculture Reviews, vol. 8, Springer Verlag, 2012, p. 1-16.
+
+↑ Olivier De Schutter Accounting for Hunger. The Right to Food in the Era of Globalisation, Hart Publishing, Oxford and Portland, Oregon, 2011 [REF]{(with Kaitlin Cordes, co-editors), 288 pages, [1] (ISBN 9781849462266)}.
+
+↑ Site réseau agroécologie du CIRAD.
+
+↑ Les microprojets soutenus par le PPRR.
+
+↑ « [REF]{Centre d'Actions et de Réalisations Internationales} ».
+
+↑ (en + fr) « [REF]{Convention des Nations Unies sur la Lutte Contre la Désertification} ».
+
+↑ CARI / GTD, [REF]{Agroécologie, une transition vers des modes de vie et de développement viables - Paroles d’acteurs}, 2013, 95 p. (lire en ligne).
+
+↑ Voir le documentaire Solutions locales pour un désordre global.
+
+↑ VAN DAM Denise et al., [REF]{Agroécologie, Entre pratiques et sciences sociales}, EducAgri Editions, 2012, 309 p. [REF]{(ISBN 978-2-84444-876-7, lire en ligne)}
+
+↑ ACTA [REF]{(2012)} Le Réseau des instituts techniques agricoles et les structures adossées de recherche appliquée, ACTA édition 2012, 96 p.
+
+↑ Chaveriat C., Ghitalla F., Pelegrin F., Fadil F. et Le Roux X. [REF]{(2011)} La Base de données nationale des acteurs, structures et projets de recherche sur la biodiversité : présentation et analyse du paysage de la recherche, rapport FRB, Série Expertise et synthèse, 36 p.
+
+↑ a b c d e f g h i j k l m n o p et q Rapport « biodiversité et agriculture » dans les projets de recherche et développement français(Rapport d'Étude ACTA/FRB ; PDF, 3,97 MO)
+
+↑ « [REF]{Agriculture de précision : traiter efficacement sans léser l’environnement} », sur Irstea, 2017 [REF]{(consulté le 15 novembre 2018)}
+
+
+
+[TITLE]{Voir aussi[modifier | modifier le code]}
+[TITLE]{Articles connexes[modifier | modifier le code]}
+Bonne pratique agricole
+Biodiversité agricole
+Agroécosystème
+Agriculture durable, Agriculture biologique, Agriculture biodynamique, Agriculture de conservation, Agriculture régénératrice
+Permaculture
+Agroforesterie, Sylvopastoralisme
+Métabolisme social
+Pédologie, Humus, Terra preta
+Bande enherbée, Trame verte, Trame bleue, Trame verte et bleue française
+Lutte intégrée
+Travail du sol
+Plantation sur sol inversé
+Semis direct
+Pesticide
+Régression et dégradation des sols
+Technique culturale simplifiée (Strip-till)
+[TITLE]{Auteurs de référence[modifier | modifier le code]}
+René Dumont, Pierre Rabhi, Georges Toutain, Marc Dufumier, Claude Bourguignon
+[TITLE]{Cours en ligne[modifier | modifier le code]}
+Cours en ligne sur l'Agroécologie, AgroParisTech
+Cours en ligne sur l'Agroécologie sur la plate-forme FUN, Montpellier Supagro
+Université virtuelle d'agroécologie
+[TITLE]{Liens externes[modifier | modifier le code]}
+Portail de Ressources sur l'Agro Écologie
+Séminaire scientifique sur l'agroécologie - Consultez les vidéos en différé
+Présentation de l'agroécologie sur le site de l'association Terre et humanisme
+Site du CIRAD sur l'agroécologie
+Portail d'information sur l'agriculture/agroécologie dans l'océan Indien
+L'agroécologie, vous connaissez ? Dossier web de l'Institut national de la recherche agronomique (Inra)
+Agroécologie : de la recherche à l'action. Dossier web Inra
+Biodiversité et agroécologie. Vidéo Inra
+Agroécologie, une transition vers des modes de vie et de développement viables - Paroles d'acteurs. Publication du Groupe de Travail Désertification (GTD)
+Site internet du CARI (Centre d'Actions et de Réalisations Internationales)
+« [REF]{Un Sol commun} », sur www.wildproject.org [REF]{(consulté le 5 octobre 2019)}
+
+
+v · mCulture (agriculture)
+ 
+Systèmes et concepts
+Agriculture biodynamique · Agriculture biologique · Agriculture familiale · Agriculture de précision · Agriculture de proximité · Agriculture de subsistance · Agriculture durable · Agriculture extensive · Agriculture intensive · Agriculture itinérante · Agriculture naturelle · Agriculture pacifique · Agriculture paysanne · Agriculture raisonnée · Agriculture tropicale · Agriculture urbaine · Agriculture verticale · Agriculture vivrière · Agroécologie · Agroforesterie · Agropastoralisme · Agrosylvopastoralisme · Aquaponie · Arboriculture · Aridoculture · Hydroponie · Ligniculture · Micro-agriculture biointensive · Monoculture · Permaculture · Polyculture · Rizipisciculture · Serriculture · Viticulture raisonnée · Viticulture biologique · Viticulture biodynamique
+ 
+Cultures spécialisées
+Acériculture (Érable) · Agrumiculture (Agrume) · Arboriculture fruitière · Arboriculture ornementale · Arboriculture sur terrain sableux · Bulbiculture (Plante ornementale à bulbe) · Cacaoculture · Cacticulture (Cactus) · Caféiculture · Castanéiculture (Châtaignier) · Céréaliculture · Cressiculture et Cressonnière (Cresson) · Culture de la pomme de terre · Floriculture · Fraisiculture (Fraise) · Horticulture · Lavandiculture (Lavande) · Liniculture (Lin) · Maïsiculture (Maïs) · Maraîchage · Myciculture ou Fungiculture · Nuciculture (Noyer) · Oléiculture (Olivier) · Osiériculture (Osier) · Phœniciculture (Dattier) · Pomiculture (Pommier) · Populiculture (Peuplier) · Praticulture (Prairie) · Pruniculture (Prunier) · Riziculture · Sylviculture · Tabaculture (Tabac) · Théiculture · Trufficulture · Vaniculture (Vanille) · Viticulture (Vigne)
+ 
+Agriculture · Liste de champignons comestibles · Liste de légumes · Liste de fruits comestibles
+
+ Portail de la permaculture   Portail de l’agriculture et l’agronomie   Portail de l’écologie  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Agroécologie&oldid=174340097 ».
+Catégories : Agriculture durableDiscipline agronomiqueDiscipline écologiqueScience de l'environnementPermacultureTerminologie agricoleCatégories cachées : Article à référence souhaitéeArticle contenant un appel à traduction en anglaisPortail:Permaculture/Articles liésPortail:Agriculture et agronomie/Articles liésPortail:Biologie/Articles liésProjet:Biologie/Pages liéesPortail:Sciences/Articles liésPortail:Écologie/Articles liésPortail:Environnement/Articles liés
+
+
+
+
+
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+العربيةAsturianuAzərbaycancaБългарскиCatalàDanskDeutschEnglishEspañolEestiEuskaraفارسیहिन्दीՀայերենBahasa IndonesiaItalianoҚазақшаLatviešuBahasa MelayuNederlandsPolskiPortuguêsRomânăРусскийSlovenščinaСрпски / srpskiSvenskaУкраїнськаWinaray中文
+Modifier les liens
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 1 septembre 2020 à 15:02.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

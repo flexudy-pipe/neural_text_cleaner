@@ -1,0 +1,246 @@
+
+
+
+Versicherungsmathematik – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Versicherungsmathematik}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Die Versicherungsmathematik ist ein Teilgebiet der Mathematik. Als ihr Begründer  gilt Johan de Witt. Sie beschäftigt sich hauptsächlich mit der mathematischen Modellierung sowie der statistischen Schätzung der versicherten Risiken (insbesondere Schäden an Personen oder Sachen), der Kalkulation des benötigten Preises für die Übernahme solcher Risiken (Beitragskalkulation), der Berechnung von versicherungstechnischen Rückstellungen oder der benötigten Eigenmittelausstattung, Controlling inkl. Berichtswesen, Risikomanagement und dem Bilanzstrukturmanagement. Die Versicherungsmathematik gehört zur angewandten Mathematik und stellt ein wesentliches Anwendungsgebiet der Wahrscheinlichkeitstheorie und der Statistik dar. Zur Darstellung der in Versicherungsverträgen meist ebenso enthaltenen Finanzrisiken werden auch Methoden der Finanzmathematik verwendet. Sie kann wie folgt unterteilt werden: 
+
+[TITLE]{Teilgebiete der Versicherungsmathematik[Bearbeiten | Quelltext bearbeiten]}
+Lebensversicherungsmathematik,
+Krankenversicherungsmathematik,
+Pensionsversicherungsmathematik,
+Schadensversicherungsmathematik
+Die Mathematik der Bausparkassen wird traditionell der Versicherungsmathematik zugerechnet, da auch hier Kollektive betrachtet werden, wenn auch mit rein finanzmathematischen Methoden. Diese Tradition ist auch dadurch mitgeprägt, dass früher die für Versicherungen zuständige Aufsichtsbehörde auch für Bausparkassen zuständig war.
+Auf Grund der umfassenderen Ausrichtung der Versicherungsmathematik auf alle Arten von Risiken kann auch die Finanzmathematik als auf Finanzrisiken ausgerichteter Spezialfall der Versicherungsmathematik verstanden werden.
+Die Berufsbezeichnung eines Experten der Versicherungsmathematik ist Versicherungsmathematiker. Sie bezeichnen sich auch als Aktuar, insbesondere wenn sie umfassende Kenntnisse des Versicherungswesens auch außerhalb der reinen Versicherungsmathematik besitzen und dies gemäß den Anforderungen einer nationalen Aktuarvereinigung nachgewiesen haben. Die nationale Aktuarvereinigung in Deutschland ist die Deutsche Aktuarvereinigung (DAV) mit Sitz in Köln. Nach erfolgreich absolvierter Prüfung bei der DAV darf sich der Versicherungsmathematiker Aktuar DAV nennen.
+
+[TITLE]{Siehe auch[Bearbeiten | Quelltext bearbeiten]}
+Versicherungstarif
+Versicherungsmathematische Funktion
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Thomas Mack: Schadenversicherungsmathematik. Verlag Versicherungswirtschaft 1997 Heft 28, ISBN 3-88487-582-5.
+Klaus D. Schmidt: Versicherungsmathematik. Springer 2009 (3. Auflage).
+Normdaten [REF]{(Sachbegriff): GND: 4063194-1 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Versicherungsmathematik&oldid=178122216“
+Kategorien: VersicherungsmathematikWirtschafts- und SozialstatistikTeilgebiet der MathematikMathematische Modellierung
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+AfrikaansالعربيةAzərbaycancaБеларускаяবাংলাCymraegDanskΕλληνικάEnglishEsperantoEspañolEestiفارسیFrançaisעבריתहिन्दीBahasa Indonesia日本語ਪੰਜਾਬੀPolskiPortuguêsРусскийไทยTagalogУкраїнськаاردو中文
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 8. Juni 2018 um 00:01 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

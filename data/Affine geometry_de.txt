@@ -1,0 +1,953 @@
+
+
+
+Affine Geometrie – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Affine Geometrie}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Die affine Geometrie ist eine Verallgemeinerung der euklidischen Geometrie, in der zwar das euklidische Parallelenaxiom gilt, aber Abstand und Winkel keine Bedeutung haben. Der Begriff „affine Geometrie“ wird für das mathematische Teilgebiet und für die dadurch beschriebenen „Räume“ aus Punkten und Geraden (und daraus abgeleitet, Ebenen etc.) verwendet. Eine affine Geometrie als Raum wird auch als affiner Raum bezeichnet. Dabei ist zu beachten, dass jeder affine Raum, wie ihn die Lineare Algebra charakterisiert, auch den Anforderungen einer affinen Geometrie genügt, aber nicht umgekehrt. Die affine Geometrie verallgemeinert den bekannteren Begriff aus der Linearen Algebra. In diesem Artikel wird der allgemeinere Begriff, mit dem sich die synthetische Geometrie befasst, daher durchgehend als „affine Geometrie“ bezeichnet.
+Im Sinne des Erlanger Programms von Felix Klein kann die affine Geometrie auch als Inbegriff der unter bijektiven affinen Abbildungen invarianten geometrischen Eigenschaften eingeführt werden.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Definition
+2 Schreib- und Sprechweisen, Grundeigenschaften
+
+2.1 Inzidenz mengentheoretisch
+2.2 Ebenen
+
+
+3 Beispiele
+4 Desarguessche und nichtdesarguessche Geometrien
+5 Einbettungsproblem und Koordinatenbereiche
+6 Literatur
+7 Einzelnachweise und Anmerkungen
+
+
+[TITLE]{Definition[Bearbeiten | Quelltext bearbeiten]}
+Von einer affinen Geometrie spricht man, wenn eine Menge von Punkten 
+
+
+
+
+
+P
+
+
+
+
+{\displaystyle {\mathfrak {P}}}
+
+, eine Menge von Geraden
+
+
+
+
+
+
+G
+
+
+
+
+{\displaystyle {\mathfrak {G}}}
+
+, eine Inzidenzrelation 
+
+
+
+
+I
+
+
+
+{\displaystyle \mathrm {I} }
+
+ zwischen 
+
+
+
+
+
+P
+
+
+
+
+{\displaystyle {\mathfrak {P}}}
+
+ und 
+
+
+
+
+
+G
+
+
+
+
+{\displaystyle {\mathfrak {G}}}
+
+ sowie eine Parallelitätsrelation 
+
+
+
+‖
+
+
+{\displaystyle \|}
+
+ auf 
+
+
+
+
+
+G
+
+
+
+
+{\displaystyle {\mathfrak {G}}}
+
+ gegeben ist und folgende Axiome erfüllt werden:[1]
+
+Durch zwei verschiedene Punkte 
+
+
+
+A
+,
+
+B
+
+
+{\displaystyle A,\,B}
+
+ geht genau eine Gerade 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ (d. h. [MATH]{Alg} und [MATH]{BIg}), die Verbindungsgerade [MATH]{g=AB} (auch [MATH]{g=AVB} geschrieben).
+Auf jeder Gerade liegen mindestens zwei Punkte.
+Die Parallelitätsrelation 
+
+
+
+∥
+
+
+{\displaystyle \parallel }
+
+ ist eine Äquivalenzrelation
+Durch jeden Punkt geht genau eine Gerade, die zu einer gegebenen Gerade parallel ist.
+Wenn ein Dreieck (drei nicht auf einer Gerade liegende Punkte) [MATH]{ABC} gegeben ist und zwei Punkte 
+
+
+
+
+A
+′
+
+
+
+{\displaystyle A'}
+
+ und 
+
+
+
+
+B
+′
+
+
+
+{\displaystyle B'}
+
+ derart, dass die Gerade 
+
+
+
+A
+B
+
+
+{\displaystyle AB}
+
+ parallel zu der Geraden 
+
+
+
+
+A
+′
+
+
+B
+′
+
+
+
+{\displaystyle A'B'}
+
+ liegt, so gibt es einen Punkt 
+
+
+
+
+C
+′
+
+
+
+{\displaystyle C'}
+
+ so, dass auch 
+
+
+
+A
+C
+
+
+{\displaystyle AC}
+
+ parallel zu 
+
+
+
+
+A
+′
+
+
+C
+′
+
+
+
+{\displaystyle A'C'}
+
+ und 
+
+
+
+B
+C
+
+
+{\displaystyle BC}
+
+ parallel zu 
+
+
+
+
+B
+′
+
+
+C
+′
+
+
+
+{\displaystyle B'C'}
+
+ liegen.
+[TITLE]{Schreib- und Sprechweisen, Grundeigenschaften[Bearbeiten | Quelltext bearbeiten]}
+Punkte werden mit großen lateinischen Buchstaben bezeichnet. [MATH]{A,B,C,...
+
+ep}
+Geraden werden mit kleinen lateinischen Buchstaben bezeichnet. 
+
+
+
+a
+,
+b
+,
+c
+,
+.
+.
+.
+∈
+
+
+G
+
+
+
+
+{\displaystyle a,b,c,...\in {\mathfrak {G}}}
+
+
+Gilt für [MATH]{Aey} und [MATH]{geGAlg} so sagt man, A inzidiert mit g, oder A liegt auf g oder g geht durch A.
+Gilt für [MATH]{ghe&glh} so sagt man, g und h sind parallel.
+Die zu einem Paar [MATH]{(A. ghePxG} nach dem vierten Axiom eindeutig gegebene Parallele zu 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ durch 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ wird gelegentlich als [MATH]{(A; Ig)} notiert.
+[TITLE]{Inzidenz mengentheoretisch[Bearbeiten | Quelltext bearbeiten]}
+Die Menge der Punkte, die mit einer bestimmten Gerade [MATH]{ge} inzidieren, heißt Trägermenge der Geraden, diese Menge wird häufig als 
+
+
+
+
+g
+
+∘
+
+
+
+
+{\displaystyle g^{\circ }}
+
+ notiert. Formalisiert: [MATH]{g° ={Ae P:Alg}}
+Aus den ersten beiden Axiomen folgt, dass zwei Geraden genau dann übereinstimmen, wenn sie mit denselben Punkten inzidieren, das heißt, wenn ihre Trägermengen gleich sind. Aus diesem Grund wird in der neueren Literatur oft gleich davon ausgegangen, dass jede Gerade die Menge der mit ihr inzidierenden Punkte ist,[2] also 
+
+
+
+g
+=
+
+g
+
+∘
+
+
+
+
+{\displaystyle g=g^{\circ }}
+
+. Dann gilt [MATH]{Alg} genau dann, wenn [MATH]{Aeg} gilt und die Inzidenzrelation kann vollständig durch die mengentheoretische Enthalten-Relation ersetzt werden.
+[TITLE]{Ebenen[Bearbeiten | Quelltext bearbeiten]}
+Aus dem dritten Axiom folgt, dass jede Gerade zu sich selbst parallel ist, aus dem vierten folgt dann, dass Geraden, die parallel sind und einen Punkt gemeinsam haben, identisch sind. Mit anderen Worten: Sind zwei Geraden verschieden und parallel, dann sind sie disjunkt.
+Disjunkte Geraden müssen im Allgemeinen nicht parallel sein.
+Das fünfte Axiom kann man mit Hilfe des vierten gleichwertig auch so formulieren:
+Wenn ein Dreieck [MATH]{ABC} gegeben ist und zwei Punkte 
+
+
+
+
+A
+′
+
+
+
+{\displaystyle A'}
+
+ und 
+
+
+
+
+B
+′
+
+
+
+{\displaystyle B'}
+
+ derart, dass die Gerade 
+
+
+
+A
+B
+
+
+{\displaystyle AB}
+
+ parallel zu der Geraden 
+
+
+
+
+A
+′
+
+
+B
+′
+
+
+
+{\displaystyle A'B'}
+
+ liegt, dann schneiden sich [MATH]{(A% | AC)} und [MATH]{(B’; || BC)}.
+Insbesondere ist der Punkt 
+
+
+
+
+C
+′
+
+
+
+{\displaystyle C'}
+
+ aus dem fünften Axiom eindeutig bestimmt.
+Wenn es nun ein Dreieck gibt, also drei Punkte die nicht auf der gleichen Geraden liegen, dann kann man mit dem fünften Axiom einen sinnvollen Begriff einer Ebene [MATH]{(ABC)} definieren, die durch das Dreieck [MATH]{ABC} bestimmt ist. Eine mögliche Definition lautet so: Ein Punkt 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ liegt genau dann in [MATH]{(ABC)}, wenn [MATH]{(D; || BC)} die Geraden 
+
+
+
+A
+B
+
+
+{\displaystyle AB}
+
+ und 
+
+
+
+A
+C
+
+
+{\displaystyle AC}
+
+ schneidet.
+Aus dem fünften Axiom kann man nun (mit einigem technischen Aufwand und mehreren Fallunterscheidungen) nachweisen, dass für Geraden, die in [MATH]{(ABC)} liegen, gilt: Sind zwei Geraden der Ebene disjunkt, dann sind sie parallel. Damit erfüllen diese „Ebenen“ alle Axiome einer affinen Ebene.
+Zusammenfassend gilt:
+
+Eine affine Geometrie, die zusätzlich das Reichhaltigkeitsaxiom
+„Es gibt drei verschiedene Punkte aus 
+
+
+
+
+
+P
+
+
+
+
+{\displaystyle {\mathfrak {P}}}
+
+ (ein „Dreieck“), die nicht alle auf einer Geraden aus 
+
+
+
+
+
+G
+
+
+
+
+{\displaystyle {\mathfrak {G}}}
+
+ liegen.“
+erfüllt, enthält eine Ebene 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+, so dass die Punkte auf dieser Ebene (als Punktmenge [MATH]{BP.= Poe}) mit ihren Verbindungsgeraden ([MATH]{G, ={AB:(A, B) EP, xP, AA B}} als Geradenmenge) mit der eingeschränkten Parallelität ([MATH]{gli_-hegihag heb,}) die Axiome einer affinen Ebene erfüllen.
+Genau dann, wenn außerdem 
+
+
+
+
+
+
+P
+
+
+
+ε
+
+
+=
+
+
+P
+
+
+
+
+{\displaystyle {\mathfrak {P}}_{\varepsilon }={\mathfrak {P}}}
+
+ gilt, wenn es also keine vier Punkte gibt, die nicht auf einer gemeinsamen Ebene liegen, ist die affine Geometrie eine affine Ebene.
+[TITLE]{Beispiele[Bearbeiten | Quelltext bearbeiten]}
+Durch Vektorräume über einem Körper erzeugte affine Räume:
+Der euklidische Anschauungsraum kann durch einen dreidimensionalen Vektorraum über 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ erzeugt werden.
+Die euklidische Ebene kann durch einen zweidimensionalen Vektorraum über 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ erzeugt werden.
+Triviale Beispiele sind:
+Kein Punkt, keine Geraden (
+
+
+
+−
+1
+
+
+{\displaystyle -1}
+
+-dimensionale affine Geometrie)
+ein einzelner Punkt und keine Geraden  (nulldimensionale affine Geometrie),
+eine Gerade, auf der alle Punkte liegen (eindimensionale affine Geometrie),
+Eine höchstens nulldimensionale Geometrie kann als Vektorraum über jedem beliebigen Körper angesehen werden, ist also auch ein affiner Raum der gleichen Dimension. Aus jeder Menge M, die wenigstens zwei Elemente enthält, kann man eine eindimensionale affine Geometrie machen: [MATH]{B= M;6 ={M}, I= {((M,M)}}. Als eine affine Gerade über einem Körper kann diese genau dann angesehen werden, wenn der Körper sich bijektiv auf 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ abbilden lässt.
+Die kleinste affine Geometrie, die eine Ebene enthält, ist die affine Ebene, die durch den zweidimensionalen Vektorraum über dem endlichen Körper [MATH]{F,} erzeugt werden kann. Sie besteht aus den Punkten [MATH]{$B ={A, B,C, D}} und den Geraden [MATH]{6 ={AB, AC, AD, BC, BD,CD}}, die Verbindungsgeraden bestehen hier genau aus den beiden angegebenen Punkten. Ferner gilt [MATH]{AB||CD,AC|| BD, AD|| BC}. → Siehe dazu auch die Abbildungen in Affine Ebene.
+[TITLE]{Desarguessche und nichtdesarguessche Geometrien[Bearbeiten | Quelltext bearbeiten]}
+Alle durch Vektorräume über einem Körper und sogar alle auf die gleiche Weise durch Linksvektorräume über einem Schiefkörper erzeugten affinen Geometrien erfüllen den großen affinen Satz von Desargues, sie sind affine Räume im Sinne der linearen Algebra. Für mindestens dreidimensionale affine Geometrien gilt auch die Umkehrung: Sie lassen sich immer durch Linksvektorräume über einem Schiefkörper beschreiben. Es gibt aber auch ebene affine ("nichtdesarguessche") Geometrien (→ siehe Affine Ebene), die den desarguesschen Satz nicht erfüllen. Sie können mithin nicht durch einen Vektorraum erzeugt werden. Stattdessen kann man ihnen als Koordinatenbereich stets einen Ternärkörper zuordnen.
+
+[TITLE]{Einbettungsproblem und Koordinatenbereiche[Bearbeiten | Quelltext bearbeiten]}
+Ein affiner Raum 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ (im Sinne der linearen Algebra) ist immer zusammen mit seinem Koordinatenbereich, einem (Schief-)Körper 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ und einem   
+
+
+
+K
+
+
+{\displaystyle K}
+
+-(Links-)Vektorraum 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ definiert (mit der Ausnahme des leeren affinen Raumes, der aber doch als Teilraum eines bestimmten Raumes zu einem Schiefkörper angesehen wird). In der linearen Algebra beschränkt man sich in der Regel auf Vektorräume über kommutativen Körpern, aber die wesentlichen geometrischen Tatsachen (außer dem Satz von Pappus) gelten auch allgemeiner für Linksvektorräume über Schiefkörpern.
+Dadurch gilt für affine Räume:[1]
+
+Der Raum hat eine bestimmte Dimension [MATH]{n=dim(A)}, das ist die Dimension des Vektorraumes. Zusatzdefinition: Die leere Menge hat die Dimension 
+
+
+
+−
+1
+
+
+{\displaystyle -1}
+
+.
+Durch die algebraische Struktur des Vektorraums ist bei jeder Dimension klar, was die strukturerhaltenden Selbstabbildungen sind: Sie lassen sich als Affinitäten im Wesentlichen durch die strukturerhaltenden Abbildungen der Vektorräume beschreiben. Berücksichtigt man allein die Inzidenzstruktur und nicht die Vektorraumstruktur, dann kommt man zur größeren Gruppe der (ebenentreuen[3]) Kollineationen, die aber für mindestens zweidimensionale affine Räume auch durch Affinitäten und Körperautomorphismen darstellbar ist.
+Zu jeder kleineren Dimension 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ als [MATH]{n(-1<m<n)} gibt es affine Teilräume [MATH]{BCA}, denen sich ein 
+
+
+
+m
+
+
+{\displaystyle m}
+
+-dimensionaler  
+
+
+
+K
+
+
+{\displaystyle K}
+
+-Unterraum zuordnen lässt.
+Zu jeder größeren Dimension [MATH]{M>n} lässt sich 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ als Teilraum eines affinen Raumes der Dimension 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ auffassen, dem ein 
+
+
+
+M
+
+
+{\displaystyle M}
+
+-dimensionaler  
+
+
+
+K
+
+
+{\displaystyle K}
+
+-Vektorraum zugeordnet ist (Einbettung).
+Für affine Geometrien gilt nun:[4]
+
+Wenn die Geometrie eine Ebene enthält, aber nicht mit ihr zusammenfällt, dann ist sie desarguesch und durch ihre Inzidenzstruktur und ihre Parallelität ist ein eindeutiger Schiefkörper 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ und eine eindeutige Dimension (mindestens 3) über 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ für den „Koordinatenvektorraum“ gegeben.
+Wenn die Geometrie eine Ebene ist, die den Satz von Desargues erfüllt, gilt das Gleiche mit der Dimension 2.[4]
+Genau in diesen Fällen werden die Begriffe affine Geometrie und affiner Raum gleichbedeutend. Man übernimmt in den Punkten 1. bis 4. einfach die Begriffe der linearen Algebra.
+
+Eine nichtdesarguesche Ebene bestimmt ebenfalls eine eindeutige Koordinatenstruktur, einen Ternärkörper, der allerdings im Allgemeinen viel schwächere Eigenschaften als ein Schiefkörper hat.
+Die Dimension der Geometrie ist vereinbarungsgemäß 2, denn die Geometrie hat mehr als eine Gerade (daher mehr als eindimensional) und disjunkte Geraden sind immer parallel (daher weniger als dreidimensional).
+Die strukturerhaltenden Abbildungen sind geradentreue (und damit im ebenen Fall trivialerweise auch parallelentreue) bijektive Selbstabbildungen der Ebene, die affinen Kollineationen.
+Jede Gerade der Ebene ist ein Teilraum und natürlich eine eindimensionale affine Geometrie, die einpunktigen Teilmengen sind 0-dimensionale Teilräume.
+Eine Einbettung in eine Geometrie mit höherer Dimension ist unmöglich.[5]
+Für null- und eindimensionale Geometrien, die nicht als Teilräume von mindestens zweidimensionalen Geometrien auftreten, ist offenbar eine Strukturuntersuchung uninteressant: Durch ihre Inzidenzstruktur ist über die reine Punktmenge hinaus nichts gegeben.
+Eine Verallgemeinerung des Begriffes affine Geometrie ist der Begriff schwach affiner Raum. Jede affine Geometrie ist auch ein schwach affiner Raum. Einige nichtdesarguessche affine Ebenen sind echte Teilräume von schwach affinen Räumen, obwohl solche Ebenen niemals in umfassendere affine Geometrien eingebettet werden können.
+
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Günter Ewald: [REF]{Geometrie}. Eine Einführung für Studenten und Lehrer [REF]{(= [REF]{Moderne Mathematik in elementarer Darstellung; 14}). Vandenhoeck & Ruprecht, Göttingen 1974, ISBN 3-525-40536-7 (Inhaltsverzeichnis: DNB 750005521/04 [abgerufen am 25. Dezember 2011] amerikanisches Englisch: [REF]{Geometry, an introduction}. Übersetzt von Anneliese Oberschelp)}. 
+Rudolf Fritzsch: [REF]{Synthetische Einbettung Desarguesscher Ebenen in Räume}. Mathematisch-Physikalische Semesterberichte, Nr. 21. 1974, S. 237–249 ((noch ohne Volltext)). 
+Jeremy Gray: [REF]{Worlds out of nothing: a course of the history of geometry of the 19. Century}. 1. Auflage. Springer, Berlin / Heidelberg / New York 2007, ISBN 978-0-85729-059-5. 
+Günter Pickert: [REF]{Projektive Ebenen} (= [REF]{Die Grundlehren der mathematischen Wissenschaften in Einzeldarstellungen mit besonderer Berücksichtigung der Anwendungsgebiete.} Band 80). 2. Auflage. Springer, Berlin / Heidelberg / New York 1975, ISBN 3-540-07280-2. 
+Daniel Richard Hughes, Fred. C. Piper: [REF]{Projective planes}. Springer, Berlin / Heidelberg / New York 1973, ISBN 0-387-90044-6. 
+[TITLE]{Einzelnachweise und Anmerkungen[Bearbeiten | Quelltext bearbeiten]}
+
+↑ a b Ewald [REF]{(1974)}
+
+↑ Gray [REF]{(2007)}
+
+↑ Man kann zeigen, dass für einen Raum mit mehr als 2 Punkten auf jeder Geraden jede geradentreue, bijektive Selbstabbildung, also jede Kollineation, zugleich ebenentreu ist. Für Räume mit genau zwei Punkten auf jeder Geraden muss die Ebenentreue zusätzlich gefordert werden. Dieser Sonderfall ist im Artikel „Kollineation“ ausführlich dargestellt.
+
+↑ a b Pickert [REF]{(1975)}
+
+↑ Fritzsch [REF]{(1974)}
+
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Affine_Geometrie&oldid=179436827“
+Kategorie: Synthetische Geometrie
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+العربيةБеларускаяБеларуская (тарашкевіца)‎БългарскиCatalàČeštinaEnglishEspañolفارسیFrançaisMagyarIdoItalianoҚазақша한국어КыргызчаമലയാളംNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsRomânăРусскийسنڌيSlovenščinaУкраїнськаOʻzbekcha/ўзбекчаTiếng Việt中文
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 25. Juli 2018 um 13:09 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

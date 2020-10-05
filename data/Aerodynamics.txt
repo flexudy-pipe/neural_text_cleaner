@@ -1,0 +1,944 @@
+
+
+
+Aérodynamique — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+AfrikaansالعربيةAsturianuAzərbaycancaتۆرکجهBoarischБеларускаяБългарскиBosanskiCatalàНохчийнکوردیČeštinaCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiGaeilgeGalegoעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano日本語ქართულიҚазақшаಕನ್ನಡ한국어कॉशुर / کٲشُرКыргызчаLatinaLatviešuമലയാളംМонголBahasa Melayuမြန်မာဘာသာNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsRomânăРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்ТоҷикӣไทยTürkçeУкраїнськаOʻzbekcha/ўзбекчаTiếng Việt吴语中文粵語
+Modifier les liens
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Aérodynamique}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+L'aérodynamique (Écouter) est une branche de la dynamique des fluides qui étudie les écoulements d'air, et leurs effets sur des éléments solides. Dans des domaines d'application tel que le design, des éléments d'aérodynamique sont repris du point de vue humain et subjectif, sous le nom d'aérodynamisme, avec des considérations, par exemple, sur les formes pouvant apparaître comme favorables à l'avancement.
+L'aérodynamique s'applique aux déplacements des véhicules (aérodynes, automobiles, trains), aux systèmes de propulsion (hélices, rotors, turbines, turboréacteurs), aux installations fixes dans un air en mouvement subissant les effets du vent (bâtiments, tours, ponts) ou destinés à la production d'énergie (éoliennes), aux systèmes transformant une énergie aérodynamique en énergie mécanique et vice-versa (turbines, compresseurs).
+
+ Test aérodynamique sur une voiture.
+ Quelques profils et leur traînée aérodynamique.
+ Aérodynamique de deux formes de carrosseries.
+[TITLE]{Sommaire}
+
+1 Types d’aérodynamique
+2 Modèle mathématique
+3 Efforts aérodynamiques
+
+3.1 Forces
+3.2 Surface de référence
+3.3 Coefficients
+
+3.3.1 Cas des fusées et missiles
+
+
+3.4 La traînée
+3.5 La portance
+3.6 Rapport Portance / Traînée
+
+
+4 Bilan des traînées et Puissance de vol
+
+4.1 La traînée totale
+
+4.1.1 Traînée induite
+4.1.2 Traînée de frottement
+4.1.3 Traînée de forme
+4.1.4 Traînée de profil
+4.1.5 Traînée d’interférence
+4.1.6 Traînée de compressibilité
+
+
+4.2 La puissance totale de vol
+
+4.2.1 Puissance minimale de vol
+
+
+
+
+5 Les termes de l'aérodynamique de l'aile
+
+5.1 Termes géométriques
+5.2 Termes aérodynamiques
+
+
+6 Aérodynamique numérique
+7 Articles connexes
+8 Notes et références
+
+8.1 Notes
+8.2 Références
+
+
+9 Annexes
+
+9.1 Articles connexes
+9.2 Liens externes
+
+
+
+
+[TITLE]{Types d’aérodynamique[modifier | modifier le code]}
+Le champ d’études peut se subdiviser en aérodynamique incompressible et compressible en fonction du nombre de Mach, c'est-à-dire en fonction du rapport entre la vitesse de l'écoulement et celle du son.
+
+L’aérodynamique incompressible concerne les écoulements pour lesquels le nombre de Mach est inférieur à 0,2 environ, ce qui autorise certaines hypothèses simplificatrices.
+L’aérodynamique compressible quant à elle se subdivise en aérodynamique :
+subsonique à  Mach <1 et le Mach critique, ce qui correspond à une vitesse d'écoulement localement supérieure à la vitesse du son ;
+transsonique à Mach compris entre le Mach critique et 1 ;
+supersonique à Mach entre 1 et 5 et hypersonique au-delà.
+[TITLE]{Modèle mathématique[modifier | modifier le code]}
+L'aérodynamique est une science qui fait partie de la mécanique des fluides, appliquée au cas particulier de l'air. À ce titre, les modèles mathématiques qui s'appliquent sont :
+
+les équations de Navier-Stokes lorsque les effets visqueux ne sont pas négligeables. Le paramètre principal quantifiant ces effets est le nombre de Reynolds ;
+les équations d'Euler ou de fluide parfait, lorsque les effets visqueux sont négligeables ;
+l'équation d'état du gaz (modèle du gaz parfait pour l'air).
+[TITLE]{Efforts aérodynamiques[modifier | modifier le code]}
+
+
+[TITLE]{Forces[modifier | modifier le code]}
+Le champ de pression s'exerçant sur un obstacle induit globalement un torseur d'efforts où l'on considère généralement :
+
+une force de traînée
+Fx, parallèle à la direction moyenne de l'écoulement ;
+une force de dérive
+Fy, perpendiculaire à la direction moyenne de l'écoulement, dans le plan horizontal ;
+une force de portance
+Fz, perpendiculaire à la direction moyenne de l'écoulement, dans le plan vertical.
+L'expression de la force est de la forme générale :
+
+[MATH]{F=qxSxC}
+q étant la pression dynamique, [MATH]{3x pv?}
+d'où : [MATH]{F=4xpxV2xSxC}
+
+
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+ (rhô) = masse volumique de l'air (
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+ varie avec la température et la pression) ;
+S = surface de référence ;
+C = coefficient aérodynamique ;
+V = Vitesse de déplacement.
+[TITLE]{Surface de référence[modifier | modifier le code]}
+Définition de la surface de référence :
+
+pour une surface portante généralement bien profilée, S est la surface projetée dans le plan horizontal (ou dans le plan vertical pour un empennage vertical ou une dérive),
+pour un objet à forte traînée de forme (traînée de pression) comme une automobile, dont le Cx est 5 à 8 fois celui d'un fuselage d'avion[réf. souhaitée], on utilise plutôt le maître-couple ou la surface frontale[Note 1],
+pour un objet à faible traînée de forme comme un fuselage d'avion, on utilise le maître-couple (la surface frontale) ou la surface mouillée.
+[TITLE]{Coefficients[modifier | modifier le code]}
+Les coefficients aérodynamiques sont des coefficients adimensionnels servant à quantifier les forces en x, y, z :
+
+Cx : le coefficient de traînée ;
+Cy : le coefficient de portance latérale ;
+Cz : le coefficient de portance.
+Dans la littérature anglo-saxonne le coefficient Cx est désigné par Cd (drag) et Cz par Cl (lift) la portance. Dans la littérature allemande, Cx et Cz sont désignés respectivement par Cw (Widerstand) et Ca (Achsauftrieb). Les coefficients Cx, Cy et Cz sont sans dimension (ils n'ont pas d’unité).
+Les forces étant calculées ou mesurées expérimentalement (en soufflerie), les coefficients sont déterminés en posant  
+
+
+
+C
+=
+
+
+F
+
+q
+×
+S
+
+
+
+
+
+{\displaystyle C={\frac {F}{q\times S}}}
+
+
+
+[MATH]{XYZ
+
+ixpxV°xs
+
+XYZ}
+avec :
+
+S : surface de référence
+V : vitesse relative du vent.
+[TITLE]{Cas des fusées et missiles[modifier | modifier le code]}
+ Conversion des coefficients adimensionnels fuséistes Cn et Ca en coefficients des avionneurs Cz et Cx
+Les fuséistes utilisent pour leurs calculs le coefficient de force normale 
+
+
+
+
+C
+
+n
+
+
+
+
+{\displaystyle C_{n}}
+
+ et le coefficient de force axiale 
+
+
+
+
+C
+
+a
+
+
+
+
+{\displaystyle C_{a}}
+
+.
+
+La force normale est la projection sur un plan normal à l'axe de l'engin de la résultante aérodynamique développée par le fuselage ou un organe aérodynamique.
+La force axiale est la projection sur l'axe de l'engin de la résultante aérodynamique développée par le fuselage ou un organe.
+La surface de référence utilisée dans l'établissement du 
+
+
+
+
+C
+
+n
+
+
+
+
+{\displaystyle C_{n}}
+
+ et du 
+
+
+
+
+C
+
+a
+
+
+
+
+{\displaystyle C_{a}}
+
+ est fréquemment la maîtresse section du fuselage de l'engin. Cependant, comme toujours en Mécanique des fluides, le choix de la surface de référence est libre : la seule obligation impérative est de toujours préciser ce choix (il faut toujours penser qu'il n'y a jamais de surface de référence évidente).
+Ce qui rend pratique l'usage des coefficients fuséistes 
+
+
+
+
+C
+
+n
+
+
+
+
+{\displaystyle C_{n}}
+
+ et 
+
+
+
+
+C
+
+a
+
+
+
+
+{\displaystyle C_{a}}
+
+, c'est que le 
+
+
+
+
+C
+
+a
+
+
+
+
+{\displaystyle C_{a}}
+
+ d'un engin (ou d'un de ses organes) ne peut avoir aucun effet directionnel sur cet engin (ce qui n'est pas le cas du 
+
+
+
+
+C
+
+z
+
+
+
+
+{\displaystyle C_{z}}
+
+ ou même du 
+
+
+
+
+C
+
+x
+
+
+
+
+{\displaystyle C_{x}}
+
+ lorsque l'incidence est non nulle[1]).
+Les coefficients fuséistes 
+
+
+
+
+C
+
+n
+
+
+
+
+{\displaystyle C_{n}}
+
+ et 
+
+
+
+
+C
+
+a
+
+
+
+
+{\displaystyle C_{a}}
+
+ sont évidemment liés aux coefficient des avionneurs Cx, Cy ou Cz par des formules simples de conversions (pourvu que la même surface de référence soit utilisée pour tous ces coefficients).
+Ces formules de conversion sont :
+
+[MATH]{C, = C,cos(a) — C,sin(a)}
+et :
+[MATH]{C,, = C,sin(a) + C,cos(a)}
+Et dans l’autre sens :
+
+[MATH]{C,,sin(a) + C,cos(a)}
+et :
+[MATH]{C, =C,,cos(a) — C,sin(a)}
+[TITLE]{La traînée[modifier | modifier le code]}
+Article détaillé : Traînée.
+Le coefficient de traînée est le rapport : traînée / (surface de référence × pression dynamique).
+En aviation, le coefficient de résistance est désigné par le coefficient de traînée, rapporté dans le cas de l'aile à sa surface projetée. La traînée totale est la somme de la traînée parasite (non liée à la portance) et de la traînée induite par la portance. On peut quantifier la traînée totale :
+
+par un coefficient global rapporté à la surface projetée de l'aile ou à la surface mouillée totale de l'avion,
+par une "surface de traînée équivalente" ou "surface de plaque plane" qui aurait un Cx = 1. C'est l'équivalent du produit S.Cx pour une automobile :
+En aérodynamique automobile, connaître le Cx n’est pas suffisant, il est nécessaire de connaître aussi la surface frontale du véhicule. Dans un bilan de traînées comparées, on utilise le produit S . Cx. On obtient une "surface de traînée" équivalente qui aurait un Cx = 1[Note 2].
+
+la force de traînée est : [MATH]{Fy = Gx8xC. = 5% p44. XV2xSxC,}
+ρair : masse volumique de l’air (1,225 kg/m3 à 15 °C au niveau de la mer)[2]
+V : vitesse de déplacement (en m/s)
+S : surface de référence (surface projetée, surface mouillée, maître couple)
+Cx : coefficient de traînée
+L'équation fondamentale 
+
+
+
+
+
+F
+→
+
+
+=
+m
+
+
+a
+→
+
+
+
+
+{\displaystyle {\overrightarrow {F}}=m{\overrightarrow {a}}}
+
+ permet de calculer cette force de traînée :
+la masse d'air concernée est (à un coefficient caractéristique près) : [MATH]{M=P4i,.XSXVXT}
+l'accélération est (à un autre coefficient caractéristique près) : [MATH]{Sib
+
+IN}
+La force de traînée est :
+[MATH]{Fy = 3% Pair XV? XSXCy}
+
+[TITLE]{La portance[modifier | modifier le code]}
+L’équation de la portance est similaire à celle de la traînée avec Cx remplacé par Cz ou bien Cy pour une portance latérale, d'où :
+
+[MATH]{F =4xpxV?xSxC,}
+[TITLE]{Rapport Portance / Traînée[modifier | modifier le code]}
+Le rapport portance/traînée Cz / Cx d'un corps ou d'une aile est nommé finesse aérodynamique. Comme pour un aérodyne la portance est égale au poids, la finesse aérodynamique est le quotient du poids de l'engin par sa traînée ; elle représente donc le rendement de l'aérodyne en tant que générateur de portance[3]
+
+[TITLE]{Bilan des traînées et Puissance de vol[modifier | modifier le code]}
+Nous considérerons ici seulement l’aérodynamique en régime subsonique à petit Nombre de Mach (avec peu ou pas d'effets dus à la  compressibilité de l'air). La connaissance des forces agissant sur un avion permet d’en déduire le comportement dans les différentes phases du vol.
+
+[TITLE]{La traînée totale[modifier | modifier le code]}
+En aérodynamique, il est d’usage de décomposer la traînée totale d’un avion en trois grandes catégories :
+
+la traînée induite (par la portance)
+la traînée parasite que l’on décompose elle-même en :
+traînée de frottement
+traînée de forme ou traînée de pression
+traînée d’interférence
+la traînée de compressibilité, ou traînée d'onde.
+Cette multiplicité de dénomination est un découpage analytique visant à mettre en avant la contribution à la traînée de tel ou tel phénomène aérodynamique. Par exemple, la traînée induite renvoie à l'énergie induite par la portance de l'aile. La traînée d'onde renvoie à l'énergie dissipée au niveau de l'onde de choc.
+En conséquence, Il convient de garder en mémoire qu'en termes physiques, seuls deux mécanismes contribuent à la traînée : le bilan de pression et le frottement pariétal (tangentiel). Ainsi, si on considère un élément de surface élémentaire de l'avion 
+
+
+
+d
+S
+
+
+{\displaystyle dS}
+
+ au point 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ muni d'une normale [MATH]{st} et d'une tangente 
+
+
+
+
+
+
+t
+~
+
+
+
+
+
+{\displaystyle {\tilde {t}}}
+
+, l'effort élémentaire sur cette surface s'écrit :
+
+[MATH]{F = (p(M)n+T,,t)dS}
+On voit que si on connaît en tout point de la surface de l'avion la pression [MATH]{p(M)} et le frottement [MATH]{T,(M)}, on est en mesure d'exprimer l'ensemble des efforts aérodynamiques s'exerçant sur celui-ci. Pour ce faire, il suffit d'intégrer 
+
+
+
+
+
+
+F
+~
+
+
+
+
+
+{\displaystyle {\tilde {F}}}
+
+ sur toute la surface de l'avion. En particulier, la traînée s'obtient en projetant 
+
+
+
+
+
+
+F
+~
+
+
+
+
+
+{\displaystyle {\tilde {F}}}
+
+ sur un vecteur unitaire [MATH]{at} opposé à la vitesse de l'avion. On obtient alors :
+
+[MATH]{i={ paniiias + | Tyt.uds
+s s}
+Dans cette expression de la traînée, le premier terme donne la contribution de la pression. C'est dans ce terme qu'intervient, via une altération du champ de pression, la traînée induite et la traînée d'onde. Le second terme regroupe la traînée de frottement, due au phénomène de couche limite liée à la viscosité de l'air.
+
+[TITLE]{Traînée induite[modifier | modifier le code]}
+L'expression complète est traînée induite par la portance. Elle est causée par tout ce qui crée de la portance, proportionnelle au carré du coefficient de portance (Cz en français, Cl en anglais), et inversement proportionnelle à l'allongement effectif[Note 3] de l'aile. La traînée induite minimale est obtenue en théorie par une distribution de portance en envergure de forme elliptique. Cette distribution est obtenue en jouant sur la forme en plan de l'aile et sur son vrillage (variation du calage des profils en envergure).
+Calcul de la résistance induite Ri :
+[MATH]{R,= ev?sc,}
+avec S surface de référence et Ci coefficient de traînée induite :
+[MATH]{C, = Cz/(mhe)}
+avec λ = allongement effectif de l'aile (allongement géométrique corrigé) et e = Oswald factor, inférieur à 1 (valeur variable, environ 0,75 à 0.85), pour tenir compte d'une répartition de portance en envergure non optimale.
+La traînée induite est maximale à Cz élevé, donc à basse vitesse et/ou à haute altitude [REF]{(jusqu’à plus de 50 % de la traînée totale). Le mécanisme de la traînée induite a été théorisé par Ludwig Prandtl (1918)} de la manière suivante : Pour avoir une portance, il faut une surpression relative à l’intrados de l’aile et/ou une dépression relative à l’extrados de l’aile. Sous l'effet de cette différence de pression, l’air passe directement de l’intrados à l’extrados en contournant l'extrémité de l'aile. Il en résulte que, sous l’intrados, le flux d’air général se trouve dévié latéralement vers l’extrémité de l’aile, et que sur l’extrados le flux d’air se trouve dévié vers le centre de l’aile. Lorsque les flux respectifs de l’intrados et de l’extrados finissent par se rejoindre au bord de fuite de l’aile, leurs directions divergent, ce qui cause à la fois la traînée induite et des tourbillons en arrière du bord de fuite.[réf. souhaitée]
+La puissance de ces tourbillons est maximale à l’extrémité de l’aile (tourbillons marginaux).
+L'énergie invisible contenue dans ces masses d'air en rotation constitue un danger pour la navigation aérienne. Elle impose une distance de séparation minimale entre avions, spécialement pour des avions légers suivant des avions de ligne.
+La traînée induite est une composante importante de la traînée totale, notamment aux basses vitesses (forts coefficients de portance, et de même pour les voiles de bateaux). Réduire la traînée induite à une vitesse donnée suppose de diminuer le Cz de vol (diminuer la charge alaire), augmenter l'allongement effectif et répartir la portance en envergure de façon optimale (répartition elliptique).
+Pour diminuer la traînée induite :
+
+les planeurs ont des ailes à grand allongement,
+les extrémités d’ailes d'avions de ligne peuvent porter des ailettes ou winglets qui augmentent l'allongement effectif et peuvent récupérer une partie de l’énergie du tourbillon marginal (vortex).
+les avions rapides ont des ailes dont la forme en plan et le vrillage des profils donnent une répartition de portance proche de l'ellipse :
+soit un trapèze d'effilement voisin de 0.5. Les avions de ligne qui volent à Mach élevé (0.85) présentent un effilement supérieur, de l'ordre de 0.3, à cause de l'angle de flèche des ailes (environ 25-30°) qui a pour effet de surcharger les extrémités de la voilure.
+soit une ellipse comme l'aile du Spitfire. Il semble néanmoins que le plan en ellipse n'amène pas d'avantage vraiment significatif ; il n'a pas été repris depuis.
+[TITLE]{Traînée de frottement[modifier | modifier le code]}
+Dans l’écoulement d’un fluide sur une surface on constate au voisinage immédiat de la surface un ralentissement du fluide. L’épaisseur où le fluide est ralenti s’appelle la couche limite. Dans la couche limite les molécules d'air sont ralenties, ce qui se traduit par une perte d'énergie qui doit être compensée par l’énergie fournie par la propulsion de l’avion.
+Nombre de Reynolds (à développer)  [MATH]{Re = VE} avec
+
+
+
+
+
+V
+
+
+{\displaystyle V}
+
+ : vitesse en m/s
+
+
+
+
+L
+
+
+{\displaystyle L}
+
+ : longueur du corps ou corde du profil en m,
+
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+ : viscosité cinématique du fluide (varie avec la température, environ 15.6 10-6 à 25 °C pour l'air).
+[TITLE]{Traînée de forme[modifier | modifier le code]}
+La résistance aérodynamique d’un objet dépend de sa forme. Si l’on compare les traînées d'un disque perpendiculaire à l'écoulement, d'une sphère de même diamètre et d'une forme profilée également de même diamètre (présentant la forme dite de façon abusive "en goutte d’eau"), on constate que la sphère suscite 50 % de la résistance du disque, et la "goutte d’eau" à peine 5 % de la résistance de ce même disque. La traînée de forme est minimale quand l'écoulement n'est pas décollé. Les variations de section brutales du corps amènent des décollements, de la turbulence et donc de la traînée. Afin de réduire les décollements et la turbulence, il faut "profiler" le corps.
+
+[TITLE]{Traînée de profil[modifier | modifier le code]}
+Le coefficient de traînée d'un profil, valable pour une incidence, un allongement, un nombre de Reynolds et un état de surface (rugosité) donnés, est la somme de la traînée de frottement et de la traînée de forme (décollements). Un corps bien profilé a une composante de traînée de forme nettement plus faible que sa traînée de frottement ; son coefficient de traînée est alors rapporté à sa surface mouillée ou à sa surface en plan. Les avions les mieux profilés (les planeurs) ont un coefficient de traînée global rapporté à leur surface mouillée à peine supérieur au coefficient de frottement d'une plaque plane de même surface.
+Un corps mal profilé a une composante de traînée de forme nettement plus forte que sa traînée de frottement ; son coefficient de traînée Cx est alors rapporté à sa surface frontale S (le produit S.Cx donnant la "surface de traînée" en automobile).
+
+[TITLE]{Traînée d’interférence[modifier | modifier le code]}
+La distribution de portance en envergure est localement perturbée par la présence du fuselage ou des nacelles moteurs. Elle présente en général des pics (aux emplantures d'ailes) et un creux (au niveau du fuselage, entre ces deux pics).
+
+[TITLE]{Traînée de compressibilité[modifier | modifier le code]}
+C'est une traînée rencontrée lorsque la vitesse d'écoulement impose une variation de densité au fluide, comme les ondes de chocs en aérodynamique transsonique et supersonique.
+
+[TITLE]{La puissance totale de vol[modifier | modifier le code]}
+La puissance de vol est le produit de la somme des traînées par la vitesse :
+
+[MATH]{P=RigV}
+La traînée totale étant :
+
+[MATH]{Reot = qx SX Cy}
+avec la pression dynamique :
+
+[MATH]{I xv?
+= 3% Pair}
+La puissance résistante (l'énergie dépensée par unité de temps) est :
+
+[MATH]{P= Roe XV = 5% Pyip XVIXSXCY}
+avec P en watts, Rtot en newtons et V en m/s,
+ρair étant la masse volumique de l'air en kg/m3
+Cx étant le coefficient de traînée totale rapporté à la surface portante S en m2
+
+[TITLE]{Puissance minimale de vol[modifier | modifier le code]}
+La traînée de frottement varie (et augmente) à peu de chose près (influence du Reynolds) avec le carré de la vitesse. Par contre la traînée induite diminue avec la vitesse et tend vers zéro à très grande vitesse. Il existe une vitesse, supérieure à la vitesse de décrochage mais inférieure à la vitesse de finesse max, où la puissance de vol est minimale. Cette vitesse est celle du taux de chute minimum pour un planeur.
+
+[TITLE]{Les termes de l'aérodynamique de l'aile[modifier | modifier le code]}
+[TITLE]{Termes géométriques[modifier | modifier le code]}
+Allongement
+L’allongement d'une surface portante, sur un aérodyne à voilure fixe (non tournante), est le rapport entre l’envergure et la corde moyenne ; c'est aussi le rapport du carré de l'envergure à la surface. C’est une caractéristique essentielle pour la finesse. Plus l’allongement est grand, plus la finesse de l’aile est grande (plus l’angle de plané est faible). La pente de portance dépend de l'allongement.
+Angle de calage
+Angle formé par la corde de l’aile et l’axe de référence du fuselage.
+Angle d’incidence
+Angle formé par la corde de profil de l’aile et le vecteur vitesse, aussi appelé angle d’attaque.
+Bord d’attaque
+Dans le sens de l'écoulement, c'est la partie avant du profil. Il est généralement de forme arrondie, de rayon plus important sur les machines subsoniques et plus fin sur les machines supersoniques.
+Bord de fuite
+Dans le sens de l'écoulement, c'est la partie arrière et amincie du profil.
+Corde de profil
+C'est le segment de droite reliant le bord d’attaque au bord de fuite (voir aussi profil).
+Dièdre
+(voir dièdre (avion))
+Effilement
+c'est le rapport de la corde d'extrémité sur la corde d'emplanture; il peut être égal à 1 (aile dite "à corde constante") ou inférieur à 1 (aile trapézoïdale "effilée").
+Emplanture
+Partie de l’aile en contact avec le fuselage.
+Envergure
+Distance entre les deux bouts d’aile.
+Épaisseur relative
+Rapport de l'épaisseur (distance maximum entre intrados et extrados) à la corde du profil.
+Extrados
+Surface supérieure de l’aile ou du profil.
+Intrados
+Surface inférieure de l’aile ou du profil.
+Hypersustentateurs
+Les dispositifs hypersustentateurs sont le plus souvent des surfaces mobiles dont la fonction est de modifier la courbure de profil de l’aile afin d’en augmenter la portance. Ils sont généralement constitués de becs de bord d’attaque et de volets de courbure disposés au bord de fuite. Le bec de bord d’attaque prolonge vers l’avant et vers le bas la courbure du profil pour augmenter l'incidence maximale et donc la portance maximale du profil. Les volets de courbure sont braqués vers le bas pour augmenter la portance, mais cela augmente aussi la traînée aérodynamique (cet effet de freinage est recherché à l'atterrissage, mais pas au décollage). Ils sont utilisés pour les phases de vol à basse vitesse (décollage, atterrissage, ravitaillement en vol d'un chasseur à réaction supersonique par un avion ravitailleur subsonique). Les volets de courbure sont parfois braqués vers le haut à vitesse élevée pour réduire et adapter la cambrure (courbure) du profil au Cz de vol, ce qui réduit légèrement la traînée (planeurs).  Il existe d'autres dispositifs hypersustentateurs faisant appel au contrôle de l'écoulement : soufflage, aspiration de la couche limite. Le souffle des hélices augmente de façon très importante la portance des surfaces placées derrière elles.
+Profil
+voir profil (aéronautique).
+Saumon
+Carénage de forme variable, le plus souvent arrondi, disposé à l'extrémité de l’aile. Une aile peut cependant être coupée net, sans présenter de saumon.
+Surface alaire
+C’est la surface projetée de l’aile dans le plan horizontal, y compris la surface incluse dans le fuselage.
+Winglet
+Ce sont des extensions généralement verticales fixées à l’extrémité de l’aile dans le but d’augmenter l'envergure efficace de l’aile (et donc son allongement effectif) pour diminuer la traînée induite par la portance. Correctement installés, les winglets peuvent récupérer une partie de l'énergie dissipée dans les tourbillons marginaux.
+[TITLE]{Termes aérodynamiques[modifier | modifier le code]}
+Angle de plané
+Angle compris entre l’horizontale et la trajectoire (descendante).
+Couche limite
+Couche d’air au contact de la surface de l’aile. Les particules au voisinage immédiat de l’aile sont dotées d’une vitesse propre inférieure à celles situées dans la couche plus externe. Des études récentes (référence?) montrent que dans ce cadre la traînée aérodynamique d'une surface très finement striée peut être inférieure à celle d'une surface lisse.
+Décrochage du profil
+Lorsque, à vitesse constante du fluide on accroît la valeur de l'angle d'incidence, la portance générée par le profil augmente, passe par un maximum (entre 15 et 18 degrés, approx.) et diminue plus ou moins brutalement. Les caractéristiques de ce phénomène dépendent du profil considéré, de l'allongement de la surface et des conditions de l'écoulement (nombre de Reynolds, nombre de Mach, état de la couche-limite).
+Décrochage de l'aile
+Le décrochage commence localement à l'endroit le plus chargé aérodynamiquement, et s'étend plus ou moins brusquement à toute la surface de l'aile. L'asymétrie du décrochage (qui peut amener une perte de contrôle en roulis) est plus dangereuse que le décrochage lui-même.
+Finesse
+Rapport entre la portance et la traînée. C'est aussi le rapport de la vitesse horizontale sur la vitesse de chute : pour un appareil volant à 180 km/h (soit 50 m/s) et une vitesse de chute de 5 m/s la valeur du rapport est de 10. C'est aussi le rapport entre la distance parcourue et la perte d'altitude : pour une finesse de 10, quand l'avion parcourt 10 m, il descend de 1 m. La finesse maximale ne dépend pas du poids mais du coefficient de portance et donc de l'incidence de l’aile. La vitesse de finesse maximale augmente avec le poids pour un même avion.
+ Étude de la NASA sur les tourbillons créés par les extrémités de voilure qui a montré l'évolution de nuages  de fumées dans le sillage d'un avion, illustrant ainsi leur taille et leur puissance.
+Moments aérodynamiques
+Ce sont les couples qui s’appliquent sur les trois axes d'un aéronef. On distingue les moments de tangage, de roulis et de lacet.
+Nombre de Reynolds
+Nombre sans dimension représentant le ratio entre les forces d'inerties et les forces visqueuses. Pour une viscosité et une géométrie données il sert à déterminer la transition théorique entre un écoulement laminaire et un écoulement turbulent.
+Portance
+Force perpendiculaire au flux de l’air et orientée vers l’extrados (surface extérieure de l’aile située sur le dessus). Pour comprendre la portance, il faut se remémorer nos cours de physique newtonienne. Tout corps au repos reste au repos, et tout corps animé d’un mouvement continu rectiligne conserve cette quantité de mouvement jusqu’à ce qu’il soit soumis à l’application d’une force extérieure. Si l’on observe une déviation dans le flux de l’air, ou si l’air à l’origine au repos est accéléré, alors une force y a été imprimée. La physique newtonienne stipule que pour chaque action il existe une réaction opposée de force égale. Ainsi, pour générer une portance, l’aile doit créer une action sur l’air qui génère une réaction appelée portance. Cette portance est égale à la modification de la quantité de mouvement de l’air qu’elle dévie vers le bas. La quantité de mouvement est le produit de la masse par la vitesse. La portance d’une aile est donc proportionnelle à la quantité d’air dévié vers le bas multipliée par la vitesse verticale de cet air. Pour obtenir plus de portance, l’aile peut soit dévier plus d’air, soit augmenter la vitesse verticale de cet air. Cette vitesse verticale derrière l’aile est le flux descendant.
+Tourbillon marginal
+Tourbillon présent à l'extrémité d'une surface portante, généré par la différence de pression entre l’intrados et l’extrados. Ce tourbillon peut être très marqué dans le cas d'une aile à faible allongement et à forte incidence (aile delta, Concorde au décollage). Une partie de l'énergie dissipée dans ce tourbillon peut être récupérée en prolongeant l'aile par des ailettes spécifiques appelées winglets.
+Traînée
+La traînée aérodynamique est la résultante des forces qui s’opposent au mouvement d’un mobile dans un gaz; c’est la résistance à l’avancement. Elle s’exerce dans la direction opposée à la vitesse du mobile et s’accroît avec le carré de la vitesse, excepté pour la composante de traînée induite par la portance qui diminue avec la vitesse.
+Ordre de grandeur : la traînée aérodynamique est de l'ordre de :
+2 à 3 % de la portance pour un planeur de compétition (finesse 50),
+5 % pour un avion de ligne récent ou pour un moto-planeur (finesse 20),
+7 à 12 % pour un avion léger (finesse 14 à 8),
+12 à 25 % pour une machine à faible allongement (Concorde) ou peu profilée (ULM pendulaire).
+À vitesse stabilisée, la traînée est équilibrée par une force propulsive : 
+
+pour un avion à moteur en vol en palier, c'est la poussée du propulseur (hélice, réacteur),
+pour un planeur (ou un avion moteur coupé) en descente, c'est la composante propulsive de la portance de l'aile (la perte d'altitude étant une perte d’énergie potentielle).
+[TITLE]{Aérodynamique numérique[modifier | modifier le code]}
+Article détaillé : Aérodynamique numérique.
+Les essais en soufflerie sont le plus souvent inaccessibles aux particuliers de par leur coût très élevé. Depuis les années 1980, plusieurs logiciels ont été développés permettant de traiter numériquement l'aérodynamique de corps fuselés (en écoulement peu ou pas décollé) et sont maintenant disponibles sur Internet. La puissance de calcul croissante des ordinateurs personnels depuis les années 1990 a rendu la plupart de ces logiciels facilement exploitables, avec des temps de calcul très courts.
+
+[TITLE]{Articles connexes[modifier | modifier le code]}
+Aérodynamique des éoliennes
+[TITLE]{Notes et références[modifier | modifier le code]}
+[TITLE]{Notes[modifier | modifier le code]}
+
+↑ Le maître couple peut être plus petit que la surface frontale.
+
+↑ Une voiture de surface frontale 2 m2 ayant un Cx de 0.3 a une "surface de traînée" de 2 × 0,3 = 0,6 m2
+
+↑ L'allongement effectif de l'aile peut être différent de l'allongement géométrique; généralement plus petit; quelquefois plus grand (effet de plaque d'extrémité, winglets)
+
+
+
+[TITLE]{Références[modifier | modifier le code]}
+
+↑ Sauf position particulière du Centre des masses.
+
+↑ Paramètres atmosphériques standards définis par l'OACI : air sec, P0 = 1015 hPa, T0 = 288 K (15 °C), Ra = 287 ρ0 = P0/RaT0, ρ = 1,228 kg/m3
+
+↑ Ce concept de finesse (à savoir le quotient du poids d'un véhicule par sa traînée totale) peut être étendu à des véhicules terrestres ou aquatiques, car il indique très clairement le rendement du type de transport choisi : on sait que les transports par eau sont les plus économiques, puis viennent les transports par rail, puis les transports routiers).
+
+
+
+[TITLE]{Annexes[modifier | modifier le code]}
+[TITLE]{Articles connexes[modifier | modifier le code]}
+
+
+Il existe une catégorie consacrée à ce sujet : Aérodynamique.
+
+
+Aérodynamique automobile
+Aérodynamique de la pointe avant
+[TITLE]{Liens externes[modifier | modifier le code]}
+Aerodynamique: analogies entre l'oiseau et l'avion..., une introduction accessible à l'aérodynamique, niveau collège ou lycée
+
+
+v · mAvion
+ 
+Composants principaux
+Cellule : (Aile · Fuselage · Nacelle · Empennage · Train d'atterrissage) · Groupe motopropulseur : (Hélice · Turbopropulseur · Turboréacteur · Statoréacteur) · Poste de pilotage : (Manche à balai · Pilote automatique · Affichage tête haute) · Servitude de bord · Avionique : (Communication · Navigation · Radar)
+ 
+Aérodynamique
+Aérofrein · Bandes de décrochage · Bord de fuite · Couche limite · Dispositif hypersustentateur · Effet de sol · Finesse · Générateur de tourbillons · Instabilité de Crow · Portance · Profil · Saumon · Tourbillon marginal · Traînée · Turbulence de sillage · Winglet (Ailerette)
+ 
+Mécanique du vol
+Roulis · Tangage · Lacet · Stabilité longitudinale · Commande de vol : (Gouverne · Aileron · Élevon · Flaperon)
+ 
+Pilotage
+Décollage · Croisière · Atterrissage · Amerrissage · Catapultage · Appontage · Contrôle aérien
+ 
+Type d'avion
+Ligne · Fret · Régional · Affaire · Tourisme · Militaire (combat ou soutien)
+ 
+Catégorie
+Avion à réaction · Avion suborbital · ADAC · ADAV · Avion à effet de sol · Avion à propulsion nucléaire · Hydravion · Avion amphibie · Planeur · Drone · ULM · Aile volante · Corps portant · Modèle réduit
+ 
+
+ Portail de l’aéronautique   Portail de la physique  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Aérodynamique&oldid=173324764 ».
+Catégorie : AérodynamiqueCatégories cachées : Article à référence souhaitéePortail:Aéronautique/Articles liésPortail:Transports/Articles liésPortail:Physique/Articles liésPortail:Sciences/Articles liésArticle de qualité en serbe
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 27 juillet 2020 à 17:18.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

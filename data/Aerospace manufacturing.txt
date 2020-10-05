@@ -1,0 +1,806 @@
+
+
+
+Construction aéronautique — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+العربيةČeštinaCymraegDeutschEnglishفارسیNorsk bokmålOccitanРусскийSvenskaTiếng Việt
+Modifier les liens
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Construction aéronautique}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+ Hangar principal où est réalisé l'assemblage des bombardiers B-25, à l'usine North American Aviation, de Kansas City en octobre 1942 (Seconde Guerre mondiale).
+La construction aéronautique regroupe les métiers de la conception, de la fabrication et de la commercialisation des aéronefs, tels les avions, les hydravions ou les hélicoptères. Elle est une des activités du secteur aéronautique et spatial.
+
+[TITLE]{Sommaire}
+
+1 Histoire
+
+1.1 Le regroupement des industriels de l'aéronautique
+
+
+2 Les produits fabriqués
+
+2.1 Caractéristiques
+2.2 Usages
+
+
+3 Les étapes de la fabrication
+
+3.1 La fabrication en série
+3.2 Lancement d'un nouveau modèle
+
+
+4 Les entreprises
+
+4.1 Avionneurs
+4.2 Hélicoptéristes
+4.3 Motoristes
+4.4 Équipementiers
+
+
+5 Notes et références
+
+
+[TITLE]{Histoire[modifier | modifier le code]}
+Au cours de la première moitié du XXe siècle, la construction aéronautique était répartie dans l'ensemble du monde industrialisé. La Première Guerre mondiale vit la production alors artisanale d'aéronefs devenir une véritable industrie. À la fin de celle-ci en 1918, la France possède alors la première industrie aéronautique au monde et a fabriqué au cours de celle-ci un total de 52 000 avions et 90 000 moteurs d'avions[1].
+On assiste à une certaine prédominance aux États-Unis dans la construction d'avions civils à partir des années 1920/1930 puis le complexe militaro-industriel des États-Unis se développa rapidement au début des années 1940 et surpassa ses rivaux. De la fin de la Seconde Guerre mondiale aux années 1980, l'industrie aéronautique civile et militaire est dominée par les États-Unis, vivement concurrencé et quelquefois dépassé dans ce dernier domaine par l'Union des républiques socialistes soviétiques dans le cadre d'une course à l'armement tandis que la France, avec les appareils de Dassault est dans le peloton de tête.
+Au niveau civil, l'Europe réussit plusieurs innovations : Le Comet du britannique De Havilland sera le premier avion civil à réacteurs; la Caravelle, de Sud-Aviation, inaugure un nouvel emplacement pour les réacteurs ; la France et le Royaume-Uni lancent conjointement Concorde, premier transporteur civil volant à Mach 2. L'Europe réussit ensuite à partir des années 1980, via Airbus fondé au début des années 1970, à établir une concurrence efficace dans le domaine du transport civil et être à égalité ou surpassant Boeing depuis les années 1990 dans le domaine des avions de ligne ; certains États maintiennent ou développent une industrie militaire nationale soit pour préserver leur indépendance nationale, soit pour développer leur recherche et développement, soit parce que les grandes puissances militaires leur refusent l'accès à leur production. La primauté des États-Unis s'explique par la taille du marché intérieur (militaire et civil) entraînant l'amortissement plus rapide des coûts de production à l'exportation et par la maîtrise des techniques avancées nécessaires au développement des nouveaux appareils ou de systèmes.
+Bien que les aéronefs soient connus sous le nom du constructeur de la cellule, très approximativement, celle-ci ne représente au début du XXIe siècle que 25 % du coût d'un appareil ; la propulsion intervient pour 25 % et la plus grande part, 50 % voire plus sur un avion multirôle militaire, revient aux équipements de bord.
+À la fin des années 2000 et début des années 2010, en moyenne annuelle, il se construit dans le monde pour l'aviation commerciale et d'affaires environ 1500 avions de plus de 100 places, 1000 avions à vocation régionale et 1000 jets d'affaires[2].
+
+[TITLE]{Le regroupement des industriels de l'aéronautique[modifier | modifier le code]}
+L'importance des investissements et la longueur des cycles nécessaires pour développer un nouvel appareil ont précipité le regroupement des industriels à travers des rachats et fusions. Ce mouvement est très visible pour les fabricants de cellules et moteurs, un peu moins pour les équipementiers.
+En France il ne subsiste que deux constructeurs de cellules : Aérospatiale absorbé depuis 2000 par European Aeronautic Defence and Space Company et Dassault - unique producteur d'avions de combat français -, un constructeur de moteurs : SNECMA et un équipementier majeur : Thales. Aérospatiale, créée en 1970 est issue de plus d'une douzaine de sociétés créées avant la Seconde Guerre mondiale (Arsenal, Amiot/Caudron, Farman/Hanriot, Potez, Bloch, Blériot, Dyle/Bacalan, Loire/Nieuport, Lioré et Olivier, Chantiers aéronavals Étienne Romano, Dewoitine, Mauboussin (Fouga), Morane-Saulnier) dont les noms évoquent les pionniers de l'aviation et qui ont été nationalisées en 1936.
+Au Royaume-Uni un constructeur : British Aerospace et un motoriste : Rolls-Royce ont suivi un parcours identique ; British Aerospace, par exemple, est issue d'Avro, Blackburn, De Havilland, Hawker, Armstrong, Vickers, Bristol, etc.
+En Allemagne, un constructeur, la DASA (Deutsche Aerospace AG)  issue de la fusion de Messerschmitt, Bölkow et Dornier forme le second pilier d'EADS. En 2010, le secteur aérospatial emploie en Allemagne près de 6 200 personnes et réalise un chiffre d'affaires d'environ 2 milliards d'euros[3],
+L'Europe, avec European Aeronautic Defence and Space Company, rassemble depuis 2000 les activités des constructeurs Aerospatiale, DASA et CASA et se classe parmi les 2 grands constructeurs mondiaux avec Boeing.
+Aux États-Unis, si en 1940, il y avait 17 constructeurs dans l’aéronautique militaire américaine, depuis la fin du XXe siècle, ils n’étaient plus que trois : Boeing, Northrop Grumman, et Lockheed Martin[4]. Un mouvement identique de concentration a entraîné les fusions au sein de Boeing (Boeing, McDonnell, Douglas, North American), General Dynamics (Gulfstream), Northrop Grumman (Northrop, Grumman, Westinghouse, Teledyne-Ryan, TRW), Lockheed-Martin (Lockheed, Martin Marietta) pour les cellules, Rockwell Collins pour les équipements, United Technologies et General Electric pour les moteurs. L'industrie aérospatiale des États-Unis représente, en 2008, environ 3 100 entreprises employant 503 900 personnes[5]. En mai 2011, elle emploie 473 120 personnes[6].
+En parallèle à ces restructurations émergent dans les pays industrialisés [REF]{(en Chine avec Comac, Amérique du Sud avec Embraer au Brésil) de nouveaux constructeurs. L'évolution de l'industrie aéronautique des pays issus du bloc soviétique (Europe de l'Est, Russie, etc.) et de ses pays satellites reste à déterminer. En Russie, l'OAK est créé en février 2006 (en russe : Объединённая авиастроительная корпорация ou Compagnie aéronautique unifiée)}, un consortium rassemblant les principales unités de constructions civiles et militaires de Russie : Soukhoï, MiG, Iliouchine, Tupolev, Yakovlev, Beriev ou encore Irkout. D'importants sites ex-soviétiques tel l'association de construction aéronautique de Tachkent périclitent.
+Enfin, le Japon se lance également avec Mitsubishi Heavy Industries, le biréacteur Mitsubishi MRJ est un projet déjà très avancée. Kawasaki Heavy Industries développe également un projet de biréacteur.
+Pour le moment, beaucoup de ces constructeurs sont dépendants de l'industrie américaine et européenne pour leurs moteurs et équipements.
+Dans le domaine des hélicoptères, le groupe Eurocopter est au début du XXIe siècle le premier fabricant d'hélicoptères civil au monde. Il a été créé en 1992 à partir de la fusion des divisions hélicoptères du français Aérospatiale Matra et de l'allemand DaimlerChrysler Aerospace AG (DASA). En 2001, Eurocopter avait une part de marché mondiale de 40 % et de 30 % aux États-Unis. La part de marché mondiale sur le marché civil et parapublic est de 52 %[7], loin devant ses premiers compétiteurs Bell, Agusta, Boeing et Sikorsky.
+Les constructeurs américains étant leaders dans le domaine militaire tandis que l'entreprise russe Mil, regroupé avec les autres constructeurs russe dans une holding Hélicoptères Russie, fait excellente figure.
+
+ Entrée de l'usine Airbus de Toulouse-Saint-Martin.
+[TITLE]{Les produits fabriqués[modifier | modifier le code]}
+[TITLE]{Caractéristiques[modifier | modifier le code]}
+Les principaux produits fabriqués par l'industrie aéronautique sont pour les avions, les hélicoptères et les ballons, pilotés ou nom, les drones prenant une part de plus en plus importante depuis la fin des années 2000.
+Il existe plusieurs milliers de types d'avions et d'hélicoptères différents. Ils se distinguent entre eux par leur taille, leur poids, leur motorisation, leurs équipements intérieurs et leurs performances telles que leur vitesse, l'autonomie en vol et la maniabilité.
+Il existe deux grands types de ballons : la montgolfière pour les loisirs et les ballons de transport de système de mesure, en particulier, pour la météorologie.
+
+[TITLE]{Usages[modifier | modifier le code]}
+Les aéronefs sont des moyens de transport et leurs usages suivent en conséquence ceux de ces moyens, comme les navires, les camions ou les automobiles.
+On distingue :
+
+l'aviation civile et l'aviation militaire
+le transport des personnes et le transport des marchandises
+les activités de loisirs et les activités professionnels.
+Ainsi, les engins fabriqués par cette industrie ont des usages très variés. Une compagnie aérienne transporte ses passagers en avion. Le courrier est aussi acheminé par avion. L'armée utilise des engins de combat et de transport de troupes ou de moyens logistiques. Une montgolfière sert à se promener. Les grandes plantations sont traitées à l'insecticide à l'aide de petits avions. Les secours en montagne sont assurés par des hélicoptères. Les exemples sont nombreux.
+
+[TITLE]{Les étapes de la fabrication[modifier | modifier le code]}
+[TITLE]{La fabrication en série[modifier | modifier le code]}
+La fabrication en série consiste à produire et assembler un engin déjà mis au point. Les ailes, la carlingue, le moteur, les équipements électriques et électroniques, les aménagements intérieurs sont fabriqués par des équipementiers puis acheminés sur le site de l'assembleur. Certains équipements, tels que le moteur, sont communs à différents modèles d'avions, voire communs à différents constructeurs, parfois concurrents entre eux.
+La fabrication en série est l'étape ultime d'un long processus de mise au point.
+
+[TITLE]{Lancement d'un nouveau modèle[modifier | modifier le code]}
+Le lancement commercial d'un nouvel aéronef suit un long processus de mise au point technique et d'homologation.
+Au cours de cette étape, on teste des profils, des alliages, des procédés d'assemblage, des performances, des équipements, des outils d'aide au pilotage et, si l'engin est destiné à la défense, des moyens militaires.
+La première étape consiste à dessiner les plans et à construire une maquette. Certains bureaux d'études sont spécialisés dans cette activité. La maquette subit souvent des tests en soufflerie. La deuxième étape est celle des tests en vol avec une véritable machine. C'est celle du pilote d'essai. La dernière étape est celle des tests publics et de l'homologation. Pour les engins civils, cette dernière étape se fait avec des passagers sous le contrôle des autorités de l'aviation civile. Pour les engins militaires, elle est prise en charge directement par les armées intéressées par l'engin.
+Les salons aéronautiques internationaux, sont des évènements propices à la présentation de ces nouveaux modèles.
+
+[TITLE]{Les entreprises[modifier | modifier le code]}
+[TITLE]{Avionneurs[modifier | modifier le code]}
+Article détaillé : Liste de constructeurs aéronautiques et spatiaux.
+ Principaux avionneurs : 
+
+
+Compagnie
+Consortium / Groupe
+
+Nationalité
+Date de création
+
+Activités
+
+
+Airbus
+Airbus Group
+ Europe
+1971
+Aviation civile et militaire
+
+
+ATR
+Airbus Group / Leonardo
+ France
+1981
+Aviation civile
+
+
+Bombardier Aéronautique
+Bombardier Inc.
+ Canada
+1986
+Aviation civile
+
+
+Boeing
+Boeing
+ États-Unis
+1916
+Aérospatiale, aviation civile et militaire
+
+
+Cessna
+Textron
+ États-Unis
+1927
+Aviation d'affaire
+
+
+Chengdu
+Avic
+ Chine
+1969
+Aviation civile et militaire
+
+
+Comac
+Comac
+ Chine
+2008
+Aviation civile
+
+
+Embraer
+Embraer
+ Brésil
+1969
+Aviation civile et militaire
+
+
+Dassault Aviation
+Groupe Dassault
+ France
+1929
+Aviation d'affaire et militaire
+
+
+Gulfstream Aerospace
+General Dynamics
+ États-Unis
+1958
+Aviation d'affaire
+
+
+Iliouchine
+OAK
+ Russie
+1933
+Aviation militaire
+
+
+Irkout
+OAK
+ Russie
+1934
+Aviation civile
+
+
+Lockheed Martin
+Lockheed Martin
+ États-Unis
+1995
+Aviation militaire
+
+
+Mikoyan-Gourevitch
+OAK
+ Russie
+1939
+Aviation militaire
+
+
+Mitsubishi Heavy Industries
+Mitsubishi
+ Japon
+1934
+Aérospatiale, aviation civile et militaire
+
+
+Pilatus Aircraft
+Pilatus Aircraft
+ Suisse
+1939
+Aviation d'affaires et avions d'entrainement
+
+
+Saab
+Saab
+ Suède
+1937
+Aérospatiale, aviation civile et militaire
+
+
+Soukhoï
+OAK
+ Russie
+1939
+Aviation civile et militaire
+
+
+Tupolev
+OAK
+ Russie
+1922
+Aviation militaire
+
+[TITLE]{Hélicoptéristes[modifier | modifier le code]}
+Article détaillé : Liste de constructeurs aéronautiques et spatiaux.
+ Principaux constructeurs hélicoptéristes[8] : 
+
+
+Compagnie
+Consortium / Groupe
+
+Nationalité
+Date de création
+
+Activités
+
+
+Airbus Helicopters
+Airbus Group
+ Europe
+1992
+Civil et militaire
+
+
+Bell
+Textron
+ États-Unis
+1935
+Civil et militaire
+
+
+Kamov
+Hélicoptères de Russie
+ Russie
+1948
+Civil et militaire
+
+
+Leonardo Helicopter div.
+Leonardo
+ Italie
+2000[9]
+Civil et militaire
+
+
+Mil
+Hélicoptères de Russie
+ Russie
+1948
+Civil et militaire
+
+
+Sikorsky
+UTC
+ États-Unis
+1923
+Civil et militaire
+
+[TITLE]{Motoristes[modifier | modifier le code]}
+Article détaillé : Liste des motoristes aéronautiques par pays.
+
+
+Compagnie
+Groupe
+
+Nationalité
+Date de création
+
+
+General Electric Aviation
+General Electric
+ États-Unis
+1917
+
+
+Pratt & Whitney
+UTC
+ États-Unis
+1925
+
+
+Rolls-Royce
+Rolls-Royce
+ Royaume-Uni
+1906
+
+
+Safran Aircraft Engines
+Safran
+ France
+1945
+
+
+
+
+
+Aero Engine Corporation of China
+-
+ Chine
+2016
+
+
+Aviadvigatel
+UEC
+ Russie
+1934
+
+
+Avio
+-
+ Italie
+1908
+
+
+Honeywell Aerospace
+Honeywell
+ États-Unis
+1936
+
+
+IHI Corporation
+JAEC
+ Japon
+1945[10]
+
+
+ITP Aero
+Rolls-Royce
+ Espagne
+1989
+
+
+Lycoming Engines
+Textron
+ États-Unis
+1907
+
+
+MTU Aero Engines
+-
+ Allemagne
+1934
+
+
+Pratt & Whitney Canada
+UTC
+ Canada
+1928
+
+
+Safran Helicopter Engines
+Safran
+ France
+1938
+
+
+UEC Saturn
+UEC
+ Russie
+2001
+
+[TITLE]{Équipementiers[modifier | modifier le code]}
+Article détaillé : Équipementier aéronautique.
+ Principaux équipementiers aéronautiques[11] : 
+
+
+Compagnie
+Consortium
+
+Nationalité
+Date de création
+
+Produits
+
+
+Leonardo Aerosp. Div.
+Leonardo
+ Italie
+2012
+Aérostructures
+
+
+BAE Systems MAI
+BAE Systems
+ Royaume-Uni
+1999
+Composants
+
+
+Collins Aerospace
+UTC
+ États-Unis
+1933
+Avionique
+
+
+Honeywell Aerospace
+Honeywell
+ États-Unis
+1936
+Avionique
+
+
+Latécoère
+Groupe Latécoère
+ France
+1917
+Aérostructures
+
+
+L3 Technologies
+L3 Technologies
+ États-Unis
+1997
+Avionique
+
+
+Parker Aerospace
+Parker-Hannifin
+ États-Unis
+1917
+Hydraulique
+
+
+Safran Landing Systems
+Safran
+ France
+1920
+Fonctions d’atterrissage et de freinage
+
+
+Subaru Aerosp. Div.
+Subaru (ex-Fuji HI)
+ Japon
+1953
+
+
+
+Thales Avs France
+Thales
+ France
+1954
+Avionique
+
+
+Vought
+Triumph Group
+ États-Unis
+1917
+Aérostructures
+
+[TITLE]{Notes et références[modifier | modifier le code]}
+
+↑ Général André Martini, [REF]{L'histoire de l'aviation légère de l'armée de terre 1794-2008}, Paris, Lavauzelle, coll. « Histoire, mémoire et patrimoine », 2005, 427 p. [REF]{(ISBN 2-7025-1277-1)}
+
+↑ Interview d'Olivier Zarouati, président de Zodiac Aérospace, Les Échos, lundi 30 janvier 2012.
+
+↑ Sebastian Ritter, « [REF]{La nouvelle stratégie aérospatiale allemande} », Ambassade de France en Allemagne / ADIT, 12 septembre 2010 [REF]{(consulté le 17 décembre 2010)}
+
+↑ US military aircraft manufacturers 1945-1997 [image]
+
+↑ [REF]{(en) Bureau of Labor Statistics, « [REF]{Aerospace Product and Parts Manufacturing} », Département du Travail des États-Unis, 17 décembre 2009 (consulté le 25 juillet 2011)}
+
+↑ « [REF]{May 2011 National Industry-Specific Occupational Employment and Wage Estimates NAICS 336400 - Aerospace Product and Parts Manufacturing} », sur Bureau of Labor Statistics, 27 mars 2012 [REF]{(consulté le 23 avril 2012)}
+
+↑ (fr) Moisson de commandes pour Eurocopter
+
+↑ Effondrement des livraisons d’hélicoptères en 2019
+
+↑ Date de création d'AgustaWestland
+
+↑ Début des activités aéronautiques
+
+↑ Les 100 meilleurs équipementiers de l'aéronautique
+
+
+
+
+
+v · mIndustries majeures
+ 
+
+Lourde
+Légère
+
+ 
+
+Aéronautique
+Agriculture
+Agroalimentaire
+Alcool
+Armement
+Automobile
+Biotechnologie
+Bois
+Carte de paiement
+Chimique
+Cinéma
+Construction
+Culturelle
+Défense
+Électronique
+Semi-conducteur
+Finance
+Immobilier
+Information
+Logicielle
+Jeu vidéo
+Mécanique
+Métallurgie
+Minière
+Musique
+Papetière
+Pêche
+Pétrolière
+Pharmaceutique
+Plastique
+Santé
+Sécurité
+Spectacle
+Sexe
+Sidérurgie
+Spatiale
+Sport
+Tabac
+Textile
+Tourisme
+
+ 
+
+ Portail de l’aéronautique   Portail de la production industrielle  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Construction_aéronautique&oldid=171435516 ».
+Catégorie : Construction aéronautiqueCatégories cachées : Portail:Aéronautique/Articles liésPortail:Transports/Articles liésPortail:Industrie/Articles liésPortail:Économie/Articles liés
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 29 mai 2020 à 16:04.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

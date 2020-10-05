@@ -1,0 +1,364 @@
+
+
+
+Aerial archaeology - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Aerial archaeology}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+The study of archaeological remains by examining them from altitude.
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. [REF]{(November 2017) (Learn how and when to remove this template message)}
+ Cropmarks at a protohistoric site at Grézac, France
+ Lynchet system near near Bishopstone in Wiltshire
+ Aerial photograph of Barzan, showing the archaeological traces of a neolithic and later, the Gallo-Roman city of Novioregum
+Aerial archaeology is the study of archaeological remains by examining them from altitude.
+
+[TITLE]{Contents}
+
+1 Details
+2 See also
+3 References
+4 External links
+
+
+[TITLE]{Details[edit]}
+The advantages of gaining a good aerial view of the ground had been long appreciated by archaeologists as a high viewpoint permits a better appreciation of fine details and their relationships within the wider site context. Early investigators attempted to gain birdseye views of sites using hot air balloons, scaffolds or cameras attached to kites. Following the invention of the aeroplane and the military importance placed on aerial photography during the First and Second World Wars, archaeologists were able to more effectively use the technique  to discover and record archaeological sites.
+Photographs may be taken either vertically, that is from directly overhead, or obliquely, meaning that they are taken at an angle. In order to provide a three-dimensional effect, an overlapping pair of vertical photographs, taken from slightly offset positions, can be viewed stereoscopically.
+
+ Aerial archeological photograph of the "Nazca monkey" in Peru
+The advantages of aerial photographs to archaeologists are manifold.
+Large sites could for the first time be viewed accurately, in their entirety and within their landscape. This aided the production of drawn plans and also inspired archaeologists to look beyond the discrete monument and to appreciate a site's role within its setting. Photos are taken vertically for the purposes of planning and spatial analysis and obliquely to emphasize certain features or give perspective. Through the process of photogrammetry, vertical photos can be converted into scaled plans.
+Archaeological features may also be more visible from the air than on the ground. In temperate Europe, aerial reconnaissance is one of the most important ways in which new archaeological sites are discovered. Tiny differences in ground conditions caused by buried features can be emphasised by a number of factors and then viewed from the air:
+
+Slight differences in ground levels will cast shadows when the sun is low and these can be seen best from an aeroplane. These are referred to as shadow marks.
+Buried ditches will hold more water and buried walls will hold less water than undisturbed ground, this phenomenon, amongst others, causes crops to grow better or worse, taller or shorter, over each kind of ground and therefore define buried features which are apparent as tonal or colour differences. Such effects are called cropmarks.
+Frost can also appear in winter on ploughed fields where water has naturally accumulated along the lines of buried features. These are known as frostmarks.
+Slight differences in soil colour between natural deposits and archaeological ones can also often show in ploughed fields as soilmarks
+Differences in levels and buried features will also affect the way surface water behaves across a site and can produce a striking effect after heavy rain.
+In cases like the Nazca lines, the features are meaningless from the ground but easily visible from the air.
+Pioneers of aerial archaeology include Roger Agache in Northern France, Antoine Poidebard in Syria, L W B Rees in Jordan O. G. S. Crawford in England and Sir Henry Wellcome in the Sudan, Giacomo Boni in Italy.
+Following in the footsteps of Henry Wellcome, kite aerial photography is now being used on archaeological sites outside the visible spectrum, from the near ultra-violet through to the near and thermal infra-red.
+
+ Kite aerial thermogram revealing features on/under a grassed playing field. Thermal inertia and differential transpiration/evaporation are involved. (https://www.facebook.com/KARSensing/)
+Aerial archaeology is used in the processes of research and investigation in aviation archaeology.
+
+[TITLE]{See also[edit]}
+ Low-level, near infra-red kite aerial photo of the site of Ogilface Castle, West Lothian. This image shows features not visible to the naked eye, including tyre tracks on this short, grazed grass.
+Archaeological field survey
+Cropmark
+Markus Casey
+Shadow marks
+[TITLE]{References[edit]}
+
+
+Bibliography
+Bourgeois, J. and Meganck, M. [REF]{(eds.) (2005)}. Aerial Photography and Archaeology 2003. A Century of Information. Archaeological Reports Ghent University 4. Ghent: Academia Press. ISBN 90-382-0782-4
+Brophy, K. and Cowley, D. [REF]{(eds.) (2005)}. From the air: understanding aerial archaeology. London: The History Press. ISBN 0-7524-3130-7
+Riley, D. N.  [REF]{(1987)}.  Air photography and archaeology. Univ of Pennsylvania. ISBN 0-8122-8087-3
+Wilson, D. R . [REF]{(2000).  Air photo interpretation for archaeologists, London: The History Press. (2nd edn.)}. ISBN 0-7524-1498-4
+[TITLE]{External links[edit]}
+
+
+
+Wikimedia Commons has media related to Aerial archaeology.
+
+Emporia State University: Aerial Archaeology
+Aerial and Remote Sensing Archaeology Link and Reference Site
+Aerial Archaeology. AerialArchaeology.com focuses heavily on near-earth imaging technologies such as kite aerial photography, remote-control powered parachutes, balloons, and model airplanes and helicopters. *** Off-line April 20, 2010 ***
+ACE Foundation
+Kite Aerial Photographers - Archaeology
+Sir Henry Wellcome
+Aerial Archaeology in Northern France
+vteArchaeologyHistory
+Antiquarianism
+Johann Joachim Winckelmann
+Richard Hoare
+Heinrich Schliemann
+Arthur Evans
+John Lloyd Stephens
+William Henry Holmes
+Augustus Pitt Rivers
+Flinders Petrie
+Mortimer Wheeler
+Dorothy Garrod
+Max Uhle
+Alfred V. Kidder
+George Bass
+Methodology
+Survey
+Excavation
+Post-excavation
+Sub-disciplinesChronological
+Prehistoric
+Protohistoric
+Biblical
+Classical
+Medieval
+Post-Medieval
+Historical
+Contemporary
+Geographic
+African
+American
+Asian
+Australian
+Oceania
+Egyptian
+Near Eastern
+Methodological
+Aerial
+Archaeogenetics
+Archaeobotany
+Bioarchaeology
+aDNA
+Calceology
+Computational
+Environmental
+Experimental
+Forensic
+Geoarchaeology
+Osteology
+Paleopathology
+Stone artefact archaeology
+Underwater
+Zooarchaeology
+Thematic
+Archaeoastronomy
+Archaeometry
+Battlefield
+Conflict
+Feminist
+Gender
+Indigenous
+Industrial
+Landscape
+Maritime
+Mortuary
+Nazi
+Phenomenology
+Pseudoarchaeology
+
+ Category
+ History portal
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Aerial_archaeology&oldid=967816871"
+Categories: Archaeological sub-disciplinesMethods in archaeologyAerial photographyHidden categories: Articles with short descriptionShort description is different from WikidataArticles lacking in-text citations from November 2017All articles lacking in-text citationsCommons category link is on WikidataAC with 0 elements
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+In other projects
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+БългарскиČeštinaDanskDeutschFrançaisMagyarМакедонскиPolskiPortuguêsShqipTürkçe
+Edit links
+
+
+
+
+
+
+ This page was last edited on 15 July 2020, at 13:55 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

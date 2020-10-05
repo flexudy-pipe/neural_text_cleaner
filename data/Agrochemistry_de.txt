@@ -1,0 +1,359 @@
+
+
+
+Agrochemie – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Agrochemie}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+ Traktor bei der Ausbringung von Pflanzenschutzmitteln.
+ Versprühung von Pflanzenschutzmittel mit einem Flugzeug; diese Form der Anwendung ist in der EU verboten.
+Die Agrochemie (auch Agrarchemie, Agrikulturchemie) ist ein Forschungs- und Entwicklungszweig der Chemie und gleichzeitig ein großindustrieller Produktionsbereich. Sie befasst sich mit Nutztier-Tiergesundheit, Schädlingsabwehr, Nutzpflanzenschutz und -Düngung, Schadpflanzenreduktion und den chemischen Vorgängen in land- und forstwirtschaftlich genutzten Böden (Bodenchemie) zur Verbesserung der Bodenfruchtbarkeit.
+Gängige Lehrmeinung ist, dass ohne agrochemische Produkte wie Dünger und Pflanzenschutzmittel die Produktion von Feldfrüchten und Getreide bei wachsender Weltbevölkerung, geringer werdenden Anbauflächen und erhöhter Nachfrage nach Biokraftstoffen die weltweite Nachfrage nicht befriedigen könnte.[1][2]
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Geschichte
+2 Anwendung
+3 Agrarchemie und Ökologie
+4 Siehe auch
+5 Weblinks
+6 Einzelnachweise
+
+
+[TITLE]{Geschichte[Bearbeiten | Quelltext bearbeiten]}
+Schon seit Beginn des Pflanzenbaus sucht der Mensch nach Methoden, das Pflanzenwachstum zu verbessern und das Saatgut und die Ernte vor Schädigungen zu bewahren mit dem Ziel, die Ausbeute und Qualität der Ernte zu steigern und die Ernährung der Bevölkerung sicherzustellen. In der Antike begann der Mensch sich chemischer Methoden, vor allem der Düngung, zu bedienen. Die Babylonier verwendeten organische Düngemittel wie Stallmist oder Gülle sowie pflanzliche Produkte wie Kompost, die Ägypter nutzten den bei Überschwemmungen zurückbleibenden Nilschlamm als mineralischen Dünger. Homer erwähnte um 800 vor Christus in der Odyssee die Verwendung von Kuhdung als Dünger. Plinius der Ältere berichtete über die Verwendung eines kalkhaltigen Mergel als anorganischen Mineraldünger durch die Ubier sowie über die Gründüngung, bei der die Römer Hülsenfrüchte wie Ackerbohnen zur Bodenverbesserung unterpflügten.
+
+
+
+„Der Boden, auf dem Ackerbohnen angebaut werden, freut sich gleich, als ob er eine Düngung erhalten hätte.“
+
+
+– Plinius der Ältere: [REF]{Naturalis historia}
+Im Mittelalter, am Ende des ersten Jahrtausends nutzten Menschen in Mitteleuropa Holzaschedünger als Lieferant von Kalium (siehe auch terra preta).
+Neben der ausreichenden Pflanzenernährung war die Vernichtung der Ernte durch Insekten und Pilzbefall ein ernstes Problem. Im Altertum setzten Bauern in Öl suspendierten Schwefel sowie Arsen als Insektizid ein.[3] Um 1637 begannen die Menschen Methoden gegen den Pilzbefall von Getreidesamen zu entwickeln [REF]{(Beizen). Basierend auf der Entdeckung, dass aus der See zurückgewonnenes Saatgut keinen Pilzbefall aufwies, entwickelten sie eine Methode, Saatgut mit Salzwasser und Kalk zu behandeln.[4]  Im Jahr 1755 beschrieb Mathieu Tillet (1714–1791)} in seinem Werk Dissertation sur la cause qui corrompt et noircit les grains de blé dans les épis; et sur les moyens de prévenir ces accidents die Behandlung von Weizensamen mit Kalk und Salz gegen die später von Charles und Louis Tulasne nach ihm benannten Pilze Tilletia tritici und Tilletia laevis.[4]
+Im Jahr 1798 entwickelte der Ökonom und Demograph Thomas Robert Malthus die These, dass die Nahrungsmittelproduktion nur arithmetisch steigen könnte, während die Weltbevölkerung geometrisch wachsen würde. Demnach würde ein Zeitpunkt eintreten, von dem an die Ernteerträge nicht mehr für die Ernährung der gesamten Erdbevölkerung ausreichen. Um dieselbe Zeit empfahlen Alexander von Humboldt den Einsatz von Guano und Thaddäus Haenke den Einsatz von Chilesalpeter zur Düngung.
+Erste systematische Untersuchungen zur Agrochemie führte Carl Sprengel ab 1828 durch, angeregt durch seine Tätigkeit als Schüler Thaers in Möglin, dem Vater rationeller Landwirtschaft Albrecht Daniel Thaer. Er begründete die Mineraltheorie "...denn es ist nicht zu bestreiten, wenn eine Pflanze 12 Stoffe zu ihrer Ausbildung bedarf, so wird sie nimmer  aufkommen, wenn nur ein einziger an dieser Zahl fehlt, und stets kümmerlich wird sie wachsen, wenn einer derselben nicht in derjenigen Menge vorhanden ist, als es die Natur der Pflanze erheischt".[5]
+Carl Sprengel wurde zum Begründer der Mineraldüngung. Basierend auf seiner wissenschaftlichen Arbeit wurden vor allem in England und Deutschland Unternehmen gegründet, die mineralische Dünger herstellten. So wurde Superphosphat im Jahr 1846 in England und ab 1855 in Deutschland hergestellt. Des Weiteren wurden große Mengen von Salpeter aus Chile sowie Guano aus Peru importiert. Kurz darauf wurde erkannt, dass Ammoniumsulfat, ein Nebenprodukt der Kokerei sich als Stickstoffdünger eignet. Mit der Entwicklung des Haber-Bosch-Verfahrens im Jahr 1909, für das Fritz Haber und Carl Bosch mit dem Nobelpreis für Chemie ausgezeichnet wurden, stand Stickstoffdünger im großen Maßstab zur Verfügung. Neben den wichtigen Mineraldünger-Bestandteilen wie Stickstoff (als Ammonium-, Nitrat- oder Amidstickstoff), Phosphor, Kalium wurde bald die Bedeutung der Spurenelemente wie Zink, Bor, Mangan, Kupfer und Molybdän entdeckt.
+Unkräuter wurden ab Mitte des 18. Jahrhunderts teilweise durch Salze wie Eisensulfat, Kupfersulfat und Schwefelsäure, später auch Natriumchlorat und Dinitro-ortho-kresol bekämpft.[6] Bis zur Entwicklung der Herbizids 2,4-Dichlorphenoxyessigsäure wurden Unkräuter jedoch meist durch mechanische Bearbeitung entfernt. Ab 1945 erfolgte die Entwicklung einer ganzen Reihe von Herbizidwirkstoffen wie Carbamate, Triazine, Sulfonylharnstoffe und Aminosäurederivate.[3]
+Schädlinge wie Phytophthora infestans vernichteten in den 1840er Jahren in Irland mehrfach die gesamte Kartoffelernte, was zu einer Hungersnot mit vielen Toten führte. Ereignisse wie diese führten zu einer intensiven Forschungstätigkeit auf dem Gebiet der Agrochemie.
+
+[TITLE]{Anwendung[Bearbeiten | Quelltext bearbeiten]}
+Als Wirkstoffe werden verschiedene Chemikaliengruppen eingesetzt. Zum Einsatz kommen neben rein organischen Stoffen wie Amiden, Aniliden, Carbamaten, Pyrethroiden oder Benzimidazolen auch organische Zinn- und Phosphorverbindungen, Mineralöle und viele weitere Stoffe. Eine Herausforderung stellt die Formulierung dar. Einsatzfertige Agrochemikalien bestehen häufig aus einem Gemisch mehrerer Wirkstoffe sowie Emulgatoren, Stabilisatoren und anderen Nicht-Wirkstoffkomponenten, die den Einsatz eines Wirkstoffes als Pflanzenschutzmittel erst ermöglichen.
+Hauptprodukte sind wie:
+
+Herbizide
+Insektizide
+Molluskizide
+Beizen
+Fungizide
+sowie mineralische Düngemittel.
+Führende Großunternehmen der Branche sind dabei, die Agrochemie durch die Biotechnologie und den Einsatz genmanipulierter Pflanzen zu ergänzen.
+Multinationale Konzerne der Agrochemie sind unter anderen BASF Crop Protection, Bayer, Corteva, FMC, und die ChemChina-Töchter Adama und Syngenta.
+
+[TITLE]{Agrarchemie und Ökologie[Bearbeiten | Quelltext bearbeiten]}
+Die agrochemische Industrie steht im mitteleuropäischen Raum seit den späten 1980er Jahren in der Kritik durch die Förderung von industrieller Landwirtschaft und Gentechnik ökologische und Nachhaltigkeits-Grundsätze zu verletzen und Schäden an Mensch und Natur anzurichten (z. B. durch DDT). Oft wird Agrarchemie in der heutigen Ausprägung als unvereinbar mit Nachhaltigkeit und ökologischer Landwirtschaft betrachtet, wobei allerdings der gezielte und wohldosierte Einsatz von modernen Agrochemikalien helfen kann, Ernteausfälle und damit den Welthunger zu bekämpfen. Zudem ist eine Radikalabkehr von heutigen Praktiken kurzfristig auch aufgrund von Ernteausfällen kaum realistisch. Ziel muss es hingegen sein, Konzepte zu entwickeln die Schäden an Mensch, Natur und Umwelt vermeiden.[7][8]
+
+[TITLE]{Siehe auch[Bearbeiten | Quelltext bearbeiten]}
+Ernährungssicherung
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Commons: Agrochemie – Sammlung von Bildern, Videos und Audiodateien
+Wiktionary: Agrochemie – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ Jerry Cooper, Hans Dobson: [REF]{The benefits of pesticides to mankind and the environment}. In: [REF]{Crop Protection}. Band 26, Nr. 9, September 2007, S. 1337–1348, doi:10.1016/j.cropro.2007.03.022. 
+
+↑ W. Luck: [REF]{Homo investigans: Der soziale Wissenschaftler}. Springer-Verlag, 1976, ISBN 978-3-642-85298-5, S. 93 (Google Books): „Schon heute schätzt man, daß die Hälfte der Erdbevölkerung von der Erntesteigerung durch die synthetischen Düngemittel der Chemiker lebt“ 
+
+↑ a b Winnacker-Küchler: Chemische Technik, Ernährung, Gesundheit, Konsumgüter, 5. Auflage, Band 8, S. 216 ff.
+
+↑ a b V. Morton, T. Staub: A Short History of Fungicides [REF]{(Memento des Originals vom 16. April 2016 im Internet Archive)}  Info: Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft. Bitte prüfe Original- und Archivlink gemäß Anleitung und entferne dann diesen Hinweis.@1@2Vorlage:Webachiv/IABot/www.apsnet.org.
+
+↑ Carl Sprengel und die von ihm geschaffene Mineraltheorie als Fundament der neuen Pflanzenernährungslehre, Wolfenbüttel 1950, 1. Auflage, S. 129, Stichwort:Mineraltheorie.
+
+↑ Ullmanns Encyklopädie der technischen Chemie, 4. Auflage, Band 18, S. 5, Stichwort:Pflanzenschutzmittel, Toxikologie.
+
+↑ Jürgen Weber: [REF]{Nachhaltigkeit und Controlling}. John Wiley & Sons, 2012, ISBN 3-527-50652-7, S. 39 (eingeschränkte Vorschau in der Google-Buchsuche). 
+
+↑ Johannes Friedrich Diehl: [REF]{Chemie in Lebensmitteln Rückstände, Verunreinigungen, Inhalts- und Zusatzstoffe}. John Wiley & Sons, 2012, ISBN 3-527-66084-4 (eingeschränkte Vorschau in der Google-Buchsuche). 
+
+
+
+Teilbereiche der Chemie
+
+Allgemeine Chemie ·
+Anorganische Chemie ·
+Biochemie ·
+Organische Chemie ·
+Physikalische Chemie ·
+Technische Chemie ·
+Theoretische Chemie
+
+
+Agrochemie ·
+Analytische Chemie ·
+Atmosphärenchemie ·
+Bauchemie ·
+Bioanorganische Chemie ·
+Biogeochemie ·
+Bioorganische Chemie ·
+Biophysikalische Chemie ·
+Chemoinformatik ·
+Chemometrik ·
+Elektrochemie ·
+Femtochemie ·
+Festkörperchemie ·
+Geochemie ·
+Kernchemie ·
+Klinische Chemie ·
+Kohlechemie ·
+Kolloidchemie ·
+Kombinatorische Chemie ·
+Kosmochemie ·
+Lebensmittelchemie ·
+Magnetochemie ·
+Medizinische Chemie ·
+Meereschemie ·
+Metallorganische Chemie ·
+Naturstoffchemie ·
+Oberflächenchemie ·
+Oleochemie ·
+Petrochemie ·
+Pharmazeutische Chemie ·
+Photochemie ·
+Physikalische Organische Chemie ·
+Polymerchemie ·
+Quantenchemie ·
+Radiochemie ·
+Supramolekulare Chemie ·
+Stereochemie ·
+Strahlenchemie ·
+Strukturchemie ·
+Textilchemie ·
+Thermochemie ·
+Umweltchemie
+
+
+
+Normdaten [REF]{(Sachbegriff): GND: 4000788-1 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Agrochemie&oldid=199136174“
+Kategorien: AgrochemieUmweltschutzTeilgebiet der ChemieVersteckte Kategorie: Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-08
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+العربيةAsturianuБеларускаяБеларуская (тарашкевіца)‎БългарскиCatalàČeštinaΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiGalegoहिन्दीHrvatskiՀայերեն日本語ქართულიҚазақшаКыргызчаമലയാളംਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSlovenčinaSlovenščinaСрпски / srpskiதமிழ்ТоҷикӣTürkçeУкраїнськаOʻzbekcha/ўзбекчаTiếng Việt中文
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 21. April 2020 um 20:21 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,274 @@
+
+
+
+Akademischer Stammbaum – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Akademischer Stammbaum}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Ein akademischer Stammbaum stellt analog zu einem Familienstammbaum das Verhältnis von akademischen Lehrern und Schülern dar. Damit lassen sich „wissenschaftliche Schulen“ aufzeigen, die oftmals auf bekannte Persönlichkeiten zurückführbar sind, die eine Wissenschaft begründet oder geprägt haben. Für die Mathematik versucht das Projekt Mathematics Genealogy Project[1][2] dies zu erbringen, für die theoretische Chemie das Projekt Theoretical Chemistry Genealogy Project.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Methodik
+2 Beispiele
+3 Weblinks
+4 Einzelnachweise
+
+
+[TITLE]{Methodik[Bearbeiten | Quelltext bearbeiten]}
+Zur Aufstellung eines akademischen Stammbaumes werden möglichst umfänglich Dissertationen eines Fachbereiches erfasst und zu einem Stammbaum verknüpft.[3] Als Eltern eines Wissenschaftlers werden die Betreuer seiner Dissertation, ggf. seiner Postdoktorate und Habilitation angesetzt, als seine Kinder die Wissenschaftler, die bei ihm promoviert oder habilitiert haben, oder als Postdoktorand von ihm betreut wurden. Auf diese Art lassen sich „wissenschaftliche Schulen“ aufzeigen, die oft auf bekannte Wissenschaftler zurückführen, die eine Wissenschaft oder einen Zweig davon begründet, oder stark geprägt haben. So führen sowohl im Mathematics Genealogy Project wie im Theoretical Chemistry Genealogy Project Zweige auf Carl Friedrich Gauß zurück. Bis ins 18./19. Jahrhundert hinein war es in den Naturwissenschaften nicht selten der Fall, dass keine (schriftliche) Dissertation angefertigt wurde, hier werden anstelle von Dissertationen Schüler/Lehrer-Verhältnisse angesetzt, um Traditionen und Schulen zu untersuchen. Gelegentlich werden Wissenschaftler, die die  gleichen akademischen Lehrern hatten als akademische Geschwister bezeichnet.[4]
+
+
+[TITLE]{Beispiele[Bearbeiten | Quelltext bearbeiten]}
+Bei Werner Heisenberg wurden viele junge Wissenschaftler promoviert, und er betreute auch eine große Zahl Postdoktoranden, die seine akademischen Kinder oder Nachfahren wurden. Er selber wurde bei Arnold Sommerfeld promoviert, war bei David Hilbert und Niels Bohr Postdoktorand und habilitierte sich bei Max Born, die so seine akademischen Eltern wurden. Eine Übersicht gibt sein akademischer Stammbaum als Liste[5] und als Baumstruktur[6]
+Auch bei dem Chemiker Robert B. Woodward wurde eine beträchtliche Anzahl von Wissenschaftlern promoviert, und auch er betreute viele Postdoktoranden, seine akademischen Kinder. Seine eigene  Doktorprüfung legte er bei Avery Adrian Morton und James Flack Norris ab. Bei Elmer P. Kohler war er Postdoktorand. Sie sind also seine akademischen Eltern. Eine Liste[7] und eine Baumstruktur[8] zeigen die Zusammenhänge auf.
+Mit dem Mathematics Genealogy Project lässt sich zeigen, dass Carl Friedrich Gauß [REF]{(1777–1855), der selber nur zwölf Doktoranden betreute, über diese inzwischen (Oktober  2019)} mehr als 94.000 „wissenschaftliche Nachkommen“ hat.[9] Da die Datenbank noch keinen vollständigen Datensatz mit allen Doktoranden aller 'Nachfahren' von Gauß enthält und sich die Zahl mit jeder Dissertation bei seinen Nachfahren vergrößert, wird diese Zahl weiterhin steigen. Im Dezember 2017 betrug sie noch rund 81.000.
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Commons: Akademischer Stammbaum – Sammlung von Bildern, Videos und Audiodateien
+Projekt eines umfänglichen akademischen Stammbaumes der Universität Kassel, abgerufen am 27. Dezember 2017.
+The Academic Family Tree Academic Tree ist ein umfangreiches Projekt, das 38 wissenschaftliche Fächer umfasst, abgerufen am 27. Dezember 2017.
+SCIENTIFIC GENEALOGY MASTER LIST ist eine Projekt der Naturwissenschaftlichen Fakultät der Universität York, abgerufen am 27. Dezember 2017.
+Chemical Genealogy Database Homepage der Universität Illinois, abgerufen am 27. Dezember 2017.
+Peter Hall On the origin of theses New Scientist 14. Oktober 1995, abgerufen am 27. Dezember 2017.
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ Homepage des Mathematics Genealogy Project, abgerufen am 27. Dezember 2017.
+
+↑ A Labor of Love: The Mathematics Genealogy Project Allyn Jackson in Notices of the AMS September 2007, abgerufen am 27. Dezember 2017.
+
+↑ The Academic Family Tree stellt Stammbäume aus 38 wissenschaftlichen Disziplinen auf, abgerufen am 26. Dezember 2017.
+
+↑ Priya Narayan Mathematics Genealogy NetworksMaster thesis 2010-2011 University of Oxford Seite 31 abgerufen am 18. Oktober 2019
+
+↑ Akademischer Stammbaum Heisenbergs als Liste; abgerufen am 29. Dezember 2017.
+
+↑ Akademischer Stammbaum Heisenbergs als Baumstruktur; abgerufen am 29. Dezember 2017.
+
+↑ Akademischer Stammbaum Woodward als Liste; abgerufen am 29. Dezember 2017.
+
+↑ Akademischer Stammbaum Woodward als Baumstruktur; abgerufen am 29. Dezember 2017.
+
+↑ Eintrag von Carl Friedrich Gauß im, Mathematics Genealogy Project; abgerufen am 18. Oktober 2019.
+
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Akademischer_Stammbaum&oldid=197585074“
+Kategorien: GenealogieWissenschaftsgeschichte
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+БългарскиEnglishEsperantoPortuguês
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 8. März 2020 um 23:49 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

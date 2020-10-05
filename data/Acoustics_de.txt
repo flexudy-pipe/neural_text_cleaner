@@ -1,0 +1,361 @@
+
+
+
+Akustik – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Akustik}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Die Akustik (von griechisch ἀκούειν (ausgesprochen: „akuein“) ‚hören‘ bzw. akoustikós, ‚das Gehör betreffend‘) ist die Lehre vom Schall und seiner Ausbreitung. Im Wissenschaftsgebiet sind eine Vielzahl damit zusammenhängender Gesichtspunkte enthalten, so die Entstehung und Erzeugung, die Ausbreitung, die Beeinflussung und die Analyse von Schall, seine Wahrnehmung durch das Gehör und die Wirkung auf Menschen und Tiere. Akustik ist ein interdisziplinäres Fachgebiet, das auf Erkenntnissen aus zahlreichen Fachgebieten aufbaut, unter anderem der Physik, der Psychologie, der Nachrichtentechnik und der Materialwissenschaft. Akustik wird auch (unscharf) in drei Teilgebiete unterteilt:[1]
+
+Die physikalische Akustik (oft auch nur als „Akustik“ bezeichnet) umfasst insbesondere Teilgebiete der klassischen Mechanik,
+die physiologische Akustik behandelt Schallaufnahme und Schallübertragung in den Gehörorganen und
+die psychologische Akustik die Umsetzung der akustischen Nervenreizung in die Hörempfindung.
+Zu den wichtigsten Anwendungen der Akustik gehören die Erforschung und Minderung von Lärm, das Bemühen, einen Wohlklang hervorzurufen oder eine akustische Information, etwa einen Ton, zu übertragen. Außerdem ist der Einsatz von Schall zur Diagnose oder zu technischen Zwecken eine wichtige Anwendung der Akustik.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Geschichte
+2 Teilgebiete
+3 Analysemethoden
+
+3.1 Frequenzanalyse
+3.2 Resonanzanalyse
+3.3 Ordnungsanalyse
+
+
+4 Laborräume
+
+4.1 Reflexionsarmer Raum
+4.2 Freifeldraum
+4.3 Hallraum
+
+
+5 Akustik in der Natur
+
+5.1 Akustik bei Lebewesen
+5.2 Lautlehre
+
+
+6 Berufsausbildung
+7 Literatur
+8 Weblinks
+9 Einzelnachweise
+
+
+[TITLE]{Geschichte[Bearbeiten | Quelltext bearbeiten]}
+Als eine erste systematische Beschäftigung mit der Akustik gilt die Einführung von Tonsystemen und Stimmungen in der Musik im 3. Jahrtausend v. Chr. in China. Aus der abendländischen Antike ist eine wissenschaftliche Beschäftigung mit der Akustik unter anderem von Pythagoras von Samos (ca. 570–510 v. Chr.) überliefert, der den Zusammenhang von Saitenlänge und Tonhöhe beim Monochord mathematisch analysierte, manche ihm zugeschriebene Erkenntnisse, wie etwa Pythagoras in der Schmiede, sind allerdings eher als Legende einzustufen. Chrysippos von Soli (281–208 v. Chr.) erkannte den Wellencharakter von Schall durch einen Vergleich mit Wellen auf der Wasseroberfläche. Der römische Architekt Vitruv (ca. 80–10 v. Chr.) analysierte die Schallausbreitung in Amphitheatern und vermutete die Ausbreitung von Schall als Kugelwelle. Er beschrieb ebenfalls die Wirkungsweise von Helmholtz-Resonatoren zur Absorption tieffrequenten Schalls.
+
+ Helmholtz-Resonator aus Messing von ca. 1900
+Leonardo da Vinci [REF]{(1452–1519) erkannte unter anderem, dass Luft als Medium zur Ausbreitung des Schalls erforderlich ist und dass sich Schall mit einer endlichen Geschwindigkeit ausbreitet. Von Marin Mersenne (1588–1648) stammt neben anderen wissenschaftlichen Erkenntnissen zur Natur des Schalls auch die erste Angabe einer experimentell bestimmten Schallgeschwindigkeit. Galileo Galilei (1564–1642) beschrieb den für die Akustik wichtigen Zusammenhang zwischen Tonhöhe und Frequenz. Joseph Sauveur (1653–1716) führte die Bezeichnung „Akustik“ für die Lehre vom Schall ein. Isaac Newton (1643–1727) berechnete als erster die Schallgeschwindigkeit auf Grund theoretischer Überlegungen, während Leonhard Euler (1707–1783) eine Wellengleichung für Schall in der heute verwendeten Form fand. Ernst Florens Friedrich Chladni (1756–1827)} gilt als Begründer der modernen experimentellen Akustik; er fand die Chladnischen Klangfiguren, die Eigenschwingungen von Platten sichtbar machen.
+Mit Beginn des 19. Jahrhunderts setzte eine intensive Beschäftigung mit der Akustik ein und zahlreiche Wissenschaftler widmeten sich dem Thema. So fand Pierre-Simon Laplace [REF]{(1749–1827) das adiabatische Verhalten von Schall, Georg Simon Ohm (1789–1854) postulierte die Fähigkeit des Gehörs, Klänge in Grundtöne und Harmonische aufzulösen, Hermann von Helmholtz (1821–1894) erforschte die Tonempfindung und beschrieb den Helmholtz-Resonator und John William Strutt, 3. Baron Rayleigh (1842–1919)} veröffentlichte die „Theory of Sound“ mit zahlreichen mathematisch begründeten Erkenntnissen, die den Schall, seine Entstehung und Ausbreitung betreffen.
+In der zweiten Hälfte des 19. Jahrhunderts werden erste akustische Mess- und Aufzeichnungsgeräte entwickelt, so der Phonautograph von Édouard-Léon Scott de Martinville [REF]{(1817–1897) und später der Phonograph von Thomas Alva Edison (1847–1931). August Kundt (1839–1894)} entwickelte das Kundtsche Rohr und setzte es zur Messung des Schallabsorptionsgrades ein.
+Ab dem Beginn des 20. Jahrhunderts kam es zur breiten Anwendung der vorhandenen theoretischen Erkenntnisse zur Akustik. So entwickelte sich die von Wallace Clement Sabine begründete wissenschaftliche Raumakustik mit dem Ziel, die Hörsamkeit von Räumen zu verbessern. Die Erfindung der Elektronenröhre 1907 ermöglichte den breiten Einsatz elektroakustischer Übertragungstechnik. Paul Langevin [REF]{(1872–1946) verwendete Ultraschall zur technischen Ortung von Objekten unter Wasser (Sonar). Heinrich Barkhausen (1881–1956)} erfand das erste Gerät zur Messung der Lautstärke. Seit etwa 1930 erscheinen wissenschaftliche Fachzeitschriften, die sich ausschließlich Themen der Akustik widmen.
+Zu einer der wichtigsten Anwendungen der Akustik entwickelt sich in der ersten Hälfte des 20. Jahrhunderts auch die Minderung von Lärm, so wird zum Beispiel der Schalldämpfer für die Abgasanlage von Kraftfahrzeugen immer weiter verbessert. Mit der Einführung von Strahltriebwerken um 1950 und der für den erfolgreichen Einsatz notwendigen Lärmminderung entwickelte sich die Aeroakustik, die wesentlich durch die Arbeiten von Michael James Lighthill [REF]{(1924–1998)} begründet wurde.
+
+[TITLE]{Teilgebiete[Bearbeiten | Quelltext bearbeiten]}
+ Abgasschalldämpfer an einem Pkw
+Innerhalb der Akustik werden eine Vielzahl unterschiedlicher Aspekte behandelt:
+
+Aeroakustik beschäftigt sich mit der Entstehung und Ausbreitung aerodynamisch erzeugter Geräusche und deren Minderung
+Audiometrie dient in der Medizin zur Vermessung von Parametern des menschlichen Gehörs
+Bioakustik bezeichnet das Forschungsfeld der Tierstimmenforschung
+Elektroakustik beschäftigt sich mit der Aufnahme, Verarbeitung und Wiedergabe von Schall
+Fahrzeugakustik behandelt alle Fragestellungen zum Thema Innen- und Außengeräusch von Fahrzeugen
+Hydroakustik beschäftigt sich mit Wasserschall
+Lärmforschung beschäftigt sich mit allen Aspekten der Lärmerzeugung, -minderung und -wahrnehmung
+Musikalische Akustik befasst sich mit der Erzeugung und Wahrnehmung von Musik
+Optoakustik
+Ozeanische Akustik als Teil der Meereskunde befasst sich mit Signalen aus der Unterwasserwelt der Meere, das Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung (AWI) in Bremerhaven unterhält eine entsprechende Arbeitsgruppe[2][3]
+Phonetik beschäftigt sich mit der Sprachverarbeitung und -kommunikation
+Physikalische Akustik behandelt die physikalischen Grundlagen der Akustik
+Psychoakustik behandelt Themen zur Schallwahrnehmung und zur subjektiven Beurteilung von Schall und zur Objektivierung der subjektiven Wahrnehmung, in der Musikwissenschaft auch mit Hilfe der Musikpsychologie
+Raumakustik und Bauakustik behandeln die Fragestellungen der Schallübertragung in Gebäuden und der Beschallung von Zuhörerräumen
+Technische Akustik behandelt Geräusche von Maschinen und Anlagen
+Thermoakustik behandelt die Wechselwirkung von thermischer Energie und akustischen Schwingungen
+[TITLE]{Analysemethoden[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Frequenzanalyse[Bearbeiten | Quelltext bearbeiten]}
+Neben der Betrachtung zeitgemittelter Schallfeld- und Schallenergiegrößen wird oft die zeitliche Auslenkung gemessen, z. B. das Drucksignal, und einer Frequenzanalyse unterzogen. Für den Zusammenhang des so erhaltenen Frequenzspektrums mit dem Klang siehe Klangspektrum. Die zeitliche Veränderung innerhalb eines Schallereignisses wird durch Kurzzeit-Fourier-Transformation zugänglich. Die Veränderungen des Spektrums beim Prozess der Schallabstrahlung, -ausbreitung und Messung bzw. Wahrnehmung werden durch den jeweiligen Frequenzgang beschrieben. Den Frequenzgang des Gehörs berücksichtigen Frequenzbewertungskurven.
+
+[TITLE]{Resonanzanalyse[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Akustische Resonanzanalyse
+Die akustische Resonanzanalyse wertet die entstehenden Resonanzfrequenzen aus, wenn ein Körper durch eine impulshafte Anregung wie etwa einen Schlag in Schwingung versetzt wird. Ist der Körper ein schwingungsfähiges System, so bilden sich über einen gewissen Zeitraum bestimmte charakteristischen Frequenzen aus, der Körper schwingt in den so genannten natürlichen Eigen- oder Resonanzfrequenzen – kurz Resonanzen.
+
+[TITLE]{Ordnungsanalyse[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Ordnungsanalyse
+Bei der Ordnungsanalyse werden Geräusche oder Schwingungen von rotierenden Maschinen analysiert, wobei im Gegensatz zur Frequenzanalyse hierbei der Energiegehalt des Geräusches nicht über der Frequenz, sondern über der Ordnung aufgetragen wird. Die Ordnung entspricht dabei einem Vielfachen der Drehzahl.
+
+[TITLE]{Laborräume[Bearbeiten | Quelltext bearbeiten]}
+ Reflexionsarmer Raum (Freifeldraum) der TU Dresden – 1000 m3 Gesamtvolumen
+[TITLE]{Reflexionsarmer Raum[Bearbeiten | Quelltext bearbeiten]}
+Ein reflexionsarmer Raum, manchmal physikalisch unrichtig auch „schalltoter“ Raum genannt, besitzt Absorptionsmaterial an Decke und Wänden, so dass nur minimale Reflexionen auftreten und Bedingungen wie in einem Direktfeld D (Freifeld oder freiem Schallfeld) herrschen, wobei der Schalldruck mit 1/r  nach dem Abstandsgesetz von einer Punktschallquelle abnimmt. Solche Räume eignen sich für Sprachaufzeichnungen und für die Lokalisation von Schallquellen. Wird auf einer gedachten Hüllfläche um die Schallquelle die senkrecht durch diese Fläche tretende Schallintensität gemessen, so kann die Schallleistung der Quelle bestimmt werden.
+
+[TITLE]{Freifeldraum[Bearbeiten | Quelltext bearbeiten]}
+Ein Freifeldraum ist die spezielle Ausführung eines reflexionsarmen Raumes. Hier ist jedoch zusätzlich auch der Boden mit absorbierendem Material bedeckt. Da der Boden durch diese Maßnahme nicht mehr begehbar ist, wird meistens ein schalldurchlässiges Gitter darüber angeordnet, das den Zugang zum Messobjekt ermöglicht. Derartige Räume werden in der akustischen Messtechnik eingesetzt, um gezielte Schallquellenanalysen – auch unter dem Messobjekt – durchführen zu können.
+
+[TITLE]{Hallraum[Bearbeiten | Quelltext bearbeiten]}
+ Hallraum der TU Dresden
+Ein Hallraum dagegen wird so konstruiert, dass an jedem beliebigen Punkt im Schallfeld Reflexionen gleicher Größe aus allen Richtungen zusammentreffen. In einem idealen Hallraum herrscht daher mit Ausnahme des Bereiches direkt um die Schallquelle (siehe Hallradius) an jedem Ort derselbe Schalldruck. Ein solches Schallfeld wird Diffusfeld genannt. Da die Schallstrahlen aus allen Richtungen gleichzeitig einfallen, ist in einem Diffusfeld keine Schallintensität vorhanden. Um Resonanzen in einem Hallraum zu vermeiden, wird er im Allgemeinen ohne parallel zueinander stehende Wände und Decken gebaut. Über Nachhallzeit-Messungen oder durch Referenzschallquellen kann der Raum kalibriert werden. Hierbei wird die Differenz zwischen dem an einem beliebigen Ort im Raum, weit genug außerhalb des Hallradius gemessenen Schalldruckpegel und dem Schallleistungspegel einer Schallquelle bestimmt. Diese Differenz ist frequenzabhängig und bleibt unverändert, solange sich der Aufbau des Raumes und der Absorptionsgrad der Wände nicht ändern. In einem Hallraum kann daher die Schallleistung einer Quelle theoretisch mit einer einzigen Schalldruckmessung bestimmt werden. Dieses ist z. B. für Fragestellungen im Bereich des Schallschutzes sehr nützlich.
+
+[TITLE]{Akustik in der Natur[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Akustik bei Lebewesen[Bearbeiten | Quelltext bearbeiten]}
+Die meisten höheren Tiere besitzen einen Hörsinn. Schall ist ein wichtiger Kommunikationskanal, da er praktisch unmittelbare Fernwirkung besitzt. Mit Lautäußerungen ist den Tieren ein Mittel zur Reviermarkierung, Partner- oder Rudelsuche, zum Auffinden von Beute und zur Mitteilung von Stimmungen, Warnsignalen usw. gegeben. Der menschliche Hörbereich liegt zwischen der Hörschwelle und der Schmerzschwelle (etwa 0 dB HL bis 110 dB HL).
+
+[TITLE]{Lautlehre[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Phonetik
+Bei der Erzeugung von Lauten im Rahmen der Lautlehre unterscheidet man im Allgemeinen zwischen stimmhaften und stimmlosen Phonemen. Bei den stimmhaften Phonemen, die als Vokale bezeichnet werden, werden beim Kehlkopf durch Vibration der Stimmbänder die „Roh“klänge erzeugt, die dann im Rachen- und Nasenraum durch verschiedene willkürlich beeinflussbare oder unveränderliche individualspezifische Resonanzräume moduliert werden. Bei stimmlosen Phonemen, den Konsonanten, ruhen die Stimmbänder, wobei der Laut durch Modulation des Luftstromes zustande kommt. Beim Flüstern werden selbst die Vokale nur durch Modulation des Spektrums des Rauschens eines hervorgepressten Luftstromes gebildet, wobei die Stimmbänder ruhen.
+
+[TITLE]{Berufsausbildung[Bearbeiten | Quelltext bearbeiten]}
+Fachleute für Akustik werden als Akustiker/in oder Akustikingenieur/in bezeichnet. Die englischen Berufsbezeichnungen sind acoustical engineer oder acoustician. Der übliche Zugang zu diesem Arbeitsfeld ist ein Studium im Bereich Physik oder ein entsprechendes ingenieurwissenschaftliches Studium. Hörgeräteakustiker/innen arbeiten im Fachbereich der Medizintechnik und verwenden in ihrem Beruf sowohl physikalisches als auch medizinisches Fachwissen. 
+
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Friedrich Zamminer: [REF]{Die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik}. Ricker, 1855.  Online
+Wilhelm von Zahn: Über die akustische Analyse der Vocalklänge [REF]{(= Programm der Thomasschule in Leipzig 1871)}. A. Edelmann, Leipzig 1871.
+Dieter Ullmann: [REF]{Chladni und die Entwicklung der Akustik von 1750–1860}. Birkhäuser, Basel 1996, ISBN 3-7643-5398-8 (Science Networks Historical Studies 19). 
+Hans Breuer: [REF]{dtv-Atlas Physik, Band 1. Mechanik, Akustik, Thermodynamik, Optik}. dtv-Verlag, München 1996, ISBN 3-423-03226-X. 
+Heinrich Kuttruff: [REF]{Akustik}. Hirzel, Stuttgart 2004, ISBN 3-7776-1244-8. 
+Gerhard Müller und Michael Möser: [REF]{Taschenbuch der Technischen Akustik}. 3. Auflage. Springer, Berlin 2003, ISBN 3-540-41242-5. 
+Ivar Veit: [REF]{Technische Akustik}. Vogel-Verlag, Würzburg 2005, ISBN 3-8343-3013-2. 
+Jens Ulrich und Eckhard Hoffmann: [REF]{Hörakustik – Theorie und Praxis}. DOZ-Verlag, 2007, ISBN 978-3-922269-80-9. 
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Commons: Akustik – Sammlung von Bildern, Videos und Audiodateien
+Wiktionary: Akustik – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Wikibooks: Grundlagen der Akustik – Lern- und Lehrmaterialien
+Einführung in die Raumakustik und Beschallungstechnik
+Begriffsdefinitionen aus Akustik und Beschallungstechnik
+Musikalische Akustik (PDF; 264 kB)
+Akustik-Gehör-Psychoakustik
+Akustik und Musik – beinhaltet weiterführende Links mit Grafik- und Klangbeispielen
+Glossar Akustik mit Fachbegriffen [REF]{(PDF; 1516 kB)}
+Sammlung von Fachartikeln in der Tontechnik 
+Informationen der Bundesagentur für Arbeit über den Beruf Akustiker/in bzw. Akustikingenieur/in
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ H. Backhaus: Akustik (Handbuch der Physik, Band 8), 1927; Nachdruck online in Auszügen verfügbar: H. Backhaus, J. Friese, E.M.v. Hornbostel, A. Kalähne, H. Lichte, E. Lübcke, E. Meyer, E. Michel, C. V. Raman, H. Sell, F. Trendelenburg: [REF]{Akustik}. Springer-Verlag,  13. März 2013, ISBN 978-3-642-47352-4, S. 477.
+
+↑ awi.de, Ozeanische Akustik [REF]{(4. März 2017)}
+
+↑ deutschlandfunk.de, Hörspiel, 17. Dezember 2017: In darkness let me dwell - Lieder aus der Finsternis [REF]{(4. März 2017)}
+
+
+Normdaten [REF]{(Sachbegriff): GND: 4000988-9 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Akustik&oldid=201656518“
+Kategorie: Akustik
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+CommonsWikibooksWikinews
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+العربيةAsturianuAzərbaycancaBoarischБеларускаяБългарскиবাংলাBosanskiCatalàکوردیČeštinaЧӑвашлаCymraegDanskZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiNa Vosa VakavitiFrançaisGaeilgeGalegoעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենBahasa IndonesiaIdoItaliano日本語Қазақша한국어КыргызчаLatinaLëtzebuergeschLietuviųLatviešuМакедонскиമലയാളംBahasa MelayuPlattdüütschNederlandsNorsk nynorskNorsk bokmålPolskiPiemontèisPortuguêsRomânăРусскийSicilianuSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТыва дылУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语中文粵語
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 7. Juli 2020 um 15:51 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

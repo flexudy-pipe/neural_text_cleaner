@@ -1,0 +1,813 @@
+
+
+
+Agnosticisme — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Agnosticisme}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+Sauter à la navigation
+Sauter à la recherche
+Certaines informations figurant dans cet article ou cette section devraient être mieux reliées aux sources mentionnées dans les sections « Bibliographie », « Sources » ou « Liens externes » [REF]{(août 2020)}.
+Améliorez sa vérifiabilité en les associant par des références à l'aide d'appels de notes.
+
+
+L’agnosticisme, ou pensée de l'interrogation, est une conception selon laquelle l'esprit humain ne peut accéder à l'absolu[1],[2],[N 1]. Selon les agnostiques, il est impossible de trancher le débat sur l'existence d'un dieu ou d'une divinité. Il n'y a aucune preuve définitive sur le sujet et il n'est pas possible de se prononcer. 
+Les agnostiques tendent à n'accorder aucune transcendance ni aucune valeur sacrée aux religions (prophète, messie, textes sacrés...) et à leurs institutions (clergé, rituels, prescriptions diverses...). Ils voient en effet les religions comme de pures constructions sociales et culturelles qui auraient surtout eu, selon certains, pour fonction d'assurer la cohésion et l'ordre dans les sociétés humaines traditionnelles, par exemple au travers de la menace de l'enfer, de la promesse du paradis, de la notion de péché[3] ou du principe du bouc émissaire. 
+En d'autres termes, aux yeux d'un agnostique, les religions sont bien trop « humaines » du fait de leurs modes de fonctionnement et des dynamiques anthropologiques sur lesquelles elles reposent (soutien psychologique face à la mort, analogie très anthropocentrique d'un dieu bâtisseur de l'univers...) pour qu'elles puissent avoir un quelconque lien direct avec une éventuelle et hypothétique forme d'intelligence surnaturelle.
+
+[TITLE]{Sommaire}
+
+1 Termes proches
+2 Étymologie
+3 Positions philosophiques
+4 Religions
+
+4.1 Religions théistes
+
+4.1.1 Judaïsme
+4.1.2 Christianisme
+4.1.3 Islam
+
+
+4.2 Religions non-théistes
+
+
+5 Autres positions philosophiques sur Dieu
+6 Critiques
+7 Nombres
+8 Médias
+9 Notes et références
+
+9.1 Notes
+9.2 Références
+9.3 Bibliographie
+9.4 Articles connexes
+9.5 Liens externes
+
+
+
+
+[TITLE]{Termes proches[modifier | modifier le code]}
+Les termes suivants sont proches, mais néanmoins distincts, de l'agnosticisme.
+
+Le déisme, qui postule un être transcendant — un « dieu » indéfinissable — qui n'interagit pas avec le monde, tout en restant à l'écart de toute religion révélée et ritualisée. Même s'il peut considérer que la vérité sur cet être transcendant est inconnaissable, le déisme prend position en faveur de son existence. C'était la position officielle de Benjamin Franklin, reflétée par son épitaphe[N 2].
+L'athéisme, qui considère qu'il n'y a pas de dieu, ou en tout cas pas de raison de supposer qu'il y en ait un. Richard Dawkins présente l'agnosticisme comme simplement la version politiquement correcte de l'athéisme, proposant une démonstration qu'elle ne s'en distingue en rien concrètement[réf. souhaitée].
+L’antithéisme, qui est une opposition active au théisme.
+Le scepticisme philosophique, qui considère en général que la vérité sur ce qui échappe à l'expérience ne peut être connue avec certitude. Selon cette attitude philosophique, et selon la formule de Bertrand Russell « on ne doit prendre position que sur preuve, et s'en abstenir lorsque la preuve fait défaut »[4].
+ Pierre Simon Marquis de Laplace [REF]{(1745-1827)}, mathématicien et astronome.
+L'apathéisme, qui considère que la question de l'existence ou de l'inexistence de dieu ne possède pas d'intérêt ni d'utilité pratique. Un exemple est la célèbre réponse du mathématicien Pierre-Simon de Laplace interrogé par Napoléon sur l'absence de dieu dans son système du monde : « Sire, je n'ai pas eu besoin de cette hypothèse ».
+Ainsi, le déisme est bien un théisme même s'il peut, pour certains, incorporer une certaine notion de scepticisme. Bertrand Russell et Richard Dawkins, tous les deux non-croyants, ne prétendent pas que la question de l'inexistence de dieu, comme celle de son existence est connaissable. Car si toute croyance n'est pas forcément une connaissance, toute connaissance est classiquement définie comme croyance vraie et justifiée. Comme d'autres[5], ils estiment ainsi l'agnosticisme compatible avec l'athéisme mais aussi avec le théisme, puisque alors, là où l'agnostique ne se prononce pas c'est sur la connaissance de dieu. Reconnaître cette position ne nécessite d'ailleurs pas d'être agnostique et athée. Les agnostiques s'opposent aux croyants, qui considérent probable ou certaine et connaissable l'existence de telles divinités, mais éventuellement aussi aux athées estimant que l'improbabilité ou l'impossibilité d'existence de dieu est également inconnaissable. Ainsi certains agnostiques se disent athées, et d'autres théistes, alors que d'autres encore se disent ni l'un, ni l'autre. Si le degré de scepticisme varie selon les individus, il est intéressant de remarquer que:
+
+premièrement, ceux qui affirment connaître (gnosis ou γνῶσις signifiant l'action de connaître en grec ancien) peuvent, paradoxalement, en théorie, avoir un niveau de doute plus élevé que les agnostiques étant donné que pour certains de ceux-ci, la certitude totale n'est pas nécessaire à la connaissance ou, réciproquement, que pour certains agnostiques un niveau très élevé de certitude n'est pas suffisant pour qu'une croyance atteigne la valeur de connaissance
+et que, deuxièmement, les agnostiques s'accordent pour dire qu'il n'existe pas de preuve définitive suffisante pour qu'une croyance en l'existence ou de l'inexistence de dieu atteigne la valeur de connaissance, et affirment l'impossibilité de se prononcer en matière de connaissance, et même parfois de croyance, malgré le fait qu'une connaissance soit un cas particulier de croyance soit classiquement admis par certains en philosophie, même après Edmund Gettier.
+[TITLE]{Étymologie[modifier | modifier le code]}
+ Thomas Henry Huxley, l'inventeur du mot « agnostique ».
+ David Hume [REF]{(1711 - 1776)}, historien et philosophe.
+Le terme « agnosticisme » (parfois incorrectement écrit « agnostisme » par une fausse étymologie), vient du grec αγνωστικισμός, agnôstikismós, lui-même tiré de agnôstos (ignorant), la gnôsis étant la connaissance ; il désigne la privation de connaissance ou l'impossibilité de connaître ce qui dépasse l'expérience[6]. Il s'agit donc d'une position plutôt épistémologique qui met éventuellement en question la légitimité de la métaphysique, de la révélation, de la divination, etc. L'agnosticisme n'est pas à confondre avec une opposition systématique et spécifique au gnosticisme, qui est une doctrine liée aux débuts du christianisme, mais elle a un sens beaucoup plus général. Antérieurement au christianisme, le mot « agnostique » désignait une personne qui n'avait pas été initiée à la « gnose », c'est-à-dire à une croyance mystique en un « savoir parfait et absolu ».
+
+Le mot « agnostique »[7] a été forgé en 1869, dans une intention « polémique », par Thomas Henry Huxley [REF]{(1825-1895)} pour signifier : 
+« l'antithèse évocatrice du « gnostique » dans l'histoire de l'Église, qui professait en savoir tant sur les choses mêmes à propos desquelles j'étais ignorant… »
+
+ Il voulait que le terme fasse comprendre que la métaphysique est « vide de sens » ; comme le pensait déjà le philosophe empiriste David Hume qui recommande, à la fin de son « Enquête sur l'Entendement Humain », de jeter aux flammes les livres de théologie ou de métaphysique scolastique.
+[TITLE]{Positions philosophiques[modifier | modifier le code]}
+L'Agnosticisme Provisoire en Pratique (APP)[8]
+Peut-être qu'il sera possible, un jour, de savoir si Dieu existe ou non. Les éléments dont nous disposons à l'heure actuelle sont encore insuffisants, mais l'on peut espérer que des preuves indiscutables et scientifiquement établies seront un jour acquises.
+C'est là la position de ce qui peut être nommé l’Agnosticisme Provisoire en Pratique, en abrégé APP. L'agnosticisme provisoire en pratique estime que si un ou des dieux ont « créé » le monde, ils l'ont fait en cohérence avec les principes qui régissent « leur propre dimension », de manière que leur œuvre (donc, l'univers) soit « en cohérence » par rapport à leur intention, et surtout, que d'éventuelles interventions divines postérieures à cette « production » initiale (illustrées par exemple, par « des révélations à des prophètes consignées dans des Écritures », « des miracles », « des personnes s'affirmant en contact direct avec Dieu ») soient envisageables. De cette manière, on peut supposer que l'existence d'une divinité reste à la portée de notre Raison, et cette hypothétique existence constitue donc une question que la Science pourra éventuellement résoudre un jour, notamment par le moyen de l'étude de ses éventuelles interventions sur notre Terre. En attendant, les partisans de cet agnosticisme peuvent établir des probabilités sur l'existence de(s) dieu(x) en se basant sur les seuls éléments de preuves accessibles pour l'instant (récits, miracles, fossiles[N 3]...), et en confrontant les arguments des diverses positions. L'agnosticisme provisoire en pratique prendra fin quand sera apportée à la question du divin une réponse scientifiquement irréfutable[N 4].
+
+L'Agnosticisme Définitif de Principe (ADP)
+
+« Il est impossible de savoir si un ou des dieux existent, que cette question soit abordée de manière scientifique ou non. La vérité à ce sujet est en dehors des lois scientifiques, rationnelles, physiques et matérielles qui régissent cet univers présent et toutes les « prétendues » preuves avancées par l'Homme sont insuffisantes. L'existence de Dieu ne peut donc être démontrée. [réf. souhaitée] »
+
+
+La phrase précédente synthétise le courant agnostique qu'est l'« Agnosticisme Définitif de Principe », en abrégé ADP. Cette thèse s'appuie sur certains phénomènes et paradoxes que la Science, la logique se révèlent actuellement incapables d'expliquer[N 5], mais surtout sur l'idée que l'Humanité vivant sur la planète Terre ne représente qu'une part infime de l'univers, et même tellement infime qu'elle ne sera jamais en mesure de l'appréhender totalement et de prouver l'existence ou non de(s) dieu(x). Aussi, si un ou des dieux avaient créé le monde, ses intentions « divines » ne devraient guère se concentrer sur nous, et donc notre Esprit ne peut absolument pas être le reflet du sien ou des leurs. Plus on se rend compte de la complexité du monde dans lequel nous vivons, plus le(s) Créateur(s) supposés en être à l'origine doivent être complexes et puissants comparés à nous, et moins alors il devient probable que l'Humanité bénéficie d'une attention divine particulière (et encore moins donc un individu). La notion de preuves devient ainsi complètement ridicule : même si un croyant argue des miracles décrits dans ses textes sacrés (et même si un prophète en faisait la démonstration), il pourra toujours lui être objecté qu'il s'agit d'une technologie inconnue ou magie qui n'a pas nécessairement de lien avec une divinité. L'ADP insiste sur « la vanité » de l'homme se croyant capable de répondre à la question de l'existence de(s) dieu(x). Pour ses tenants les plus extrêmes, la question de l'existence de(s) dieu(x) est extra-rationnelle et ne peut donc faire l'objet d'une étude rationnelle et, pour ce motif même, elle ne peut pas être discutée[9].
+En pratique, les tenants de l'APP auront plutôt tendance à regarder les religions et leurs témoignages avec le même scepticisme que d'autres preuves plus scientifiques ; leurs convictions étant ouvertes à l'arrivée de toutes preuves infirmant ou confirmant l'existence de Dieu. 
+En revanche, si les tenants de l'ADP partagent la même indécision quant à l'existence d'une existence supérieure (au-delà de l'aspect 'rationnel'), ils auront tendance à rejeter totalement et définitivement tout caractère sacré des religions (clergé, livres sacrés, miracles mis en avant dans la liturgie...). Et ce, à la fois parce qu'ils considèrent ces institutions comme de pures constructions sociales mais aussi parce que, pour eux, l'Univers est si immense, si complexe et nos capacités de perception et de compréhension si limitées, que postuler une intervention divine sous la forme de messie ou de prophète est une absurdité, qui devrait par elle-même nous rappeler le caractère humainement construit et non divinement révélé des religions. Il faut donc bien distinguer, au sein du débat agnostique, la question de l'existence d'une intelligence supérieure de celle du caractère transcendantal ou non des religions et des institutions religieuses humaines. 
+N.B. : Le refus de se prononcer, dans l'agnosticisme définitif de principe, n'implique pas une mise en équiprobabilité des hypothèses d'existence et d'inexistence de Dieu. On parlera plutôt dans ce cas d'un agnosticisme provisoire en pratique parfaitement neutre et impartial, car quand bien même il s'affirmerait aussi sceptique que l'agnosticisme définitif de principe face à toute éventuelle preuve à venir sur la question, à partir du moment où sont fixées des probabilités, il fait l'hypothèse d'un dieu intra-rationnel, c'est-à-dire qui peut être appréhendé par la raison.
+
+Agnosticisme et religion
+L'agnostique peut choisir par convention sociale de s'affilier, malgré tout, à une croyance religieuse, alors qu'il n'a ni la certitude de l'existence d'une intelligence supérieure ni le respect dû aux rituels et aux hommes d'Église ; mais cela lui évitera une éventuelle exclusion sociale, plus ou moins probable en fonction de la religiosité de son groupe social d'appartenance.
+Certains agnostiques peuvent même se revendiquer ouvertement chrétiens ou musulmans dans une logique d'affirmation identitaire et culturelle sans rapport avec la croyance religieuse. Ils peuvent agir par cynisme politique ou par croyance en une supériorité civilisatrice de leur religion. L'agnosticisme n'est pas lui-même un système unifié, et donc sujet à interprétation dans sa pratique.
+
+[TITLE]{Religions[modifier | modifier le code]}
+La conception philosophique même de l'agnosticisme fait qu'un agnostique ne peut pas éprouver de « l'animosité » à l'égard d'un croyant. L'agnostique peut toutefois être « critique » quant à certains préceptes religieux, et quant aux actions des fidèles qui revendiquent « l'accomplissement de la volonté divine ». Mais la plupart des agnostiques y sont totalement indifférents. L'agnosticisme n'est donc pas antithéiste. À l'inverse, toute tentative de prosélytisme à leur égard est mal perçue car nul ne peut prétendre apporter la preuve de l'existence de Dieu (en l'état actuel des connaissances de l'Homme ou à jamais, selon les individus). Un croyant croit autant en Dieu qu'un agnostique assume sa conception philosophique, même si ce dernier la considère comme plus objective. En fait, l'attitude d'un agnostique est surtout fonction du « degré de scepticisme » de sa position. Un partisan de l'agnosticisme provisoire en pratique aura tendance à être plutôt tolérant et compréhensif, car il « conçoit » les arguments des croyants, et reconnaît, plus ou moins, la possibilité de leur position. À l'opposé, un partisan de l'agnosticisme définitif de principe tendra vers une attitude plus critique, considérant les arguments religieux comme intégralement infondés et irrecevables, et n'affiche donc au mieux que de l'indifférence, si ce n'est, parfois, du mépris. Les plus radicaux en appellent d'ailleurs à une certaine restriction de l'activité publique des institutions religieuses, car ils estiment qu'elles ne devraient pas être autorisées à véhiculer des théories cosmogoniques infondées (aujourd'hui, ou à jamais) en les présentant comme « vérité absolue ». L'agnosticisme est donc souvent attaché au concept de laïcité ; et, sans être antireligieux, il reconnaît souvent sa conviction comme étant plus ou moins teintée d'anticléricalisme[10].
+En réalité, il faut savoir que l'opposition entre croyants et agnostiques concerne davantage la question de l'intervention de Dieu dans les affaires humaines que celle de son existence. La plupart des religions affirment tenir leur savoir de révélations par leur dieu, ce qui en fait une « connaissance sacrée », hors de portée de l'analyse scientifique. Or, un agnostique tient d'abord compte des informations apportées par les sciences (c'est-à-dire les connaissances démontrées ou prouvées) et, malgré la difficulté pour elle d'étudier le domaine religieux (en vertu du principe du NOMA[N 6]), la Science apporte, chaque jour, d'importantes informations fiables sur la nature de notre environnement et nous enseigne à relativiser la place de l'homme dans l'univers. L'écart observé tend à devenir tellement grand qu'il discrédite l'hypothèse de l'ingérence des dieux dans les affaires humaines, et donc aussi la plupart des révélations dont se prévalent les religions. Il est envisageable que le(s) dieu(x) des religions puissent être des entités de nature supérieure, mais il est invraisemblable qu'ils aient créé l'Univers en s'intéressant d'aussi près à l'humanité telle que cela est décrit dans les Écrits religieux, qui font presque toujours référence d'une part à la « création » et « au fonctionnement du Monde » et, d'autre part, à des interventions ponctuelles et localisées de leur(s) dieu(x)[N 7]. Il y a donc un problème de disproportion dans les rapports dieu(x)/Hommes tels que décrits par les religions. Par conséquent, l'agnosticisme tend plutôt à considérer les religions comme des constructions sociales et culturelles, qui auraient surtout la fonction de permettre la cohésion sociale (le mot « religion » vient entre autres du latin « religare » = relier : Relier Dieu et les Hommes, mais aussi les Hommes entre eux). En l'absence de preuves établies scientifiquement, l'agnosticisme soutient qu'on ne peut prendre au sérieux les affirmations des religions comme des indices objectifs de l'existence de(s) dieu(x)[N 8].
+L'agnosticisme adopte ainsi une attitude de « parfaite neutralité » envers les religions, du moins tant qu'elles respectent les droits fondamentaux de la personne humaine. L'annulation des sacrements ou assimilés (telle la débaptisation dans le Christianisme) n’est nullement nécessaire aux agnostiques, ces derniers n'attachent pas d’importance aux divers rites religieux. Les fêtes religieuses, comme Pâques, Noël, Yom Kippour, ou l'Aïd al-Adha peuvent être tout aussi bien célébrées. Elles sont perçues, tout simplement, comme des fêtes traditionnelles. De même, un agnostique peut se rendre à l'intérieur des édifices religieux si bon lui semble, afin, par exemple, d'y contempler l'architecture, ou pour des raisons de convention sociale. Il n'y a aucune interdiction ou doctrine liée au fait d'être agnostique, puisque l'agnosticisme ne suit, par définition, aucun « précepte absolu », si ce n'est « suivez votre raison aussi loin qu'elle vous mènera et ne prétendez pas que des conclusions sont certaines quand elles ne sont pas démontrées ou quand elles sont indémontrables »[11]. C'est pourquoi l'agnosticisme peut se concilier avec une certaine pratique religieuse ; chacun étant libre, à défaut de certitude scientifique, de suivre sa foi, comme il lui plaira. En cela, l'agnosticisme rejoint l'adage de Blaise Pascal : « Le Cœur a ses raisons que la Raison ne connaît pas. » Il faut donc plutôt assimiler l'agnosticisme à un courant de pensée philosophique qu'à une religion.
+
+[TITLE]{Religions théistes[modifier | modifier le code]}
+Ces religions sont les premières visées par la pensée de l'agnosticisme. Ce sont leurs conceptions de Dieu que l'agnosticisme a d'abord étudié et à partir desquelles il a construit sa pensée. Néanmoins, on remarquera que les controverses sont presque toutes restées limitées au christianisme.
+
+[TITLE]{Judaïsme[modifier | modifier le code]}
+La plupart des penseurs et exégètes juifs considèrent que l'on peut arriver à « trouver » Dieu par sa seule raison, l'exemple type étant le patriarche Abraham. Cependant, selon la Bible, Dieu fait des miracles pour que l'on croie en lui et en son omnipotence, notamment dans l'Exode[réf. nécessaire].
+
+[TITLE]{Christianisme[modifier | modifier le code]}
+Les relations entre le christianisme et l'agnosticisme sont faites à la fois de confrontations et de tolérances. L'exemple le plus évocateur est le débat qui eut lieu entre les représentants des Églises et les défenseurs de la théorie de l'évolution de Charles Darwin. Après quelques débats passionnés, l'Église catholique reconnut la plausibilité de la théorie (en admettant qu'Adam et Ève pouvaient être des symboles) d'abord comme hypothèse, puis comme davantage qu'une hypothèse[12]. Il n'en existe pas moins dans quelques milieux protestants une persistance du créationnisme, entre autres chez les mouvements évangéliques américains, qui est en totale opposition avec la conception philosophique de l'agnosticisme. En effet, le créationnisme se propose de donner une valeur scientifique à des affirmations purement dogmatiques (comme la Création du monde en une semaine), relevant de la foi et non d'une démarche inductive et rationnelle, comme le relève la position agnostique. L'agnosticisme se montre alors d'autant plus critique que le « créationnisme » se rend coupable de confusion entre foi et empirisme (rompant ainsi avec le NOMA).
+
+[TITLE]{Islam[modifier | modifier le code]}
+Le Coran condamne les « mécréants » ainsi que les « faux croyants », nommés les « hypocrites », mais pas spécifiquement les agnostiques. L'histoire de la théologie musulmane est d'ailleurs jalonnée de doutes : au VIe siècle, Burzoe, ministre du roi sassanide Khosro Ier, exprime ses doutes concernant la vérité des religions de son époque, soupçonnant leurs enseignements d'être vides de sens, et considérant les croyants comme les victimes d'une illusion. Cette pensée a influencé très tôt l'islam, initiant une tradition de libre-pensée et de littérature sceptique qui a conduit au scepticisme des missionnaires ismaëliens, ainsi qu'à celui d'Al-Ghazâlî au XIe – XIIe siècle[13]. Cependant, le doute, en islam, ne porte pas sur l'existence même de Dieu, mais sur la définition d'une pratique de son culte sur Terre. Si, comme le pensent des théologiens de plusieurs religions et quelques philosophes comme Platon ou Plotin, le sentiment du dieu unique est inné en la nature humaine, il n'y a pas besoin de preuve de son existence ; les révélations ne concernent alors que les modalités du culte à lui rendre, par gratitude d'abord, et accessoirement pour obtenir une éventuelle rédemption dans la vie éternelle.
+Toutefois, il reste possible que, dans la recherche intellectuelle de Dieu, le doute quant à son existence même soit temporairement toléré par l'islam (soit dans le cadre de la pensée spéculative, soit dans un moment de désarroi), mais la condition reste d'aboutir, finalement, au monothéisme définitif, et donc la reconnaissance soumise à Allah par le biais des enseignements attribués à Mahomet son prophète[N 9]. De ce fait, ce sont plus particulièrement l'athéisme et l'agnosticisme définitif de principe, c'est-à-dire le refus inébranlable de reconnaître Allah, qui sont absolument condamnés. Mahomet a conseillé ses disciples (« sahâba », compagnons) de ne pas se polariser sur des questions qui les dépassent. Selon le livre « At-Targhîb wa At-Tarhîb », Mahomet conseille à ses compagnons : « Méditez sur la création de Dieu, ne méditez point sur Son Essence, car vous ne l’estimerez pas comme Il doit l’être »[14]. Concrètement, cette idée a été reprise par les théologiens musulmans rationalistes sous la forme d'un « agnosticisme religieux », qui affirme l'existence d'un fossé infranchissable entre Dieu et sa création qu'il transcende, rendant impossible toute prédiction ou connaissance à son sujet. En cela, ils rejoignent partiellement l'agnosticisme définitif de principe, qui préconise de délaisser totalement les réflexions sur le divin[N 10]. Cet agnosticisme partiel, en rappelant les limites conceptuelles humaines, s'accorde sur ce point avec les religions dites de la révélation. En effet, la révélation ne se définit pas comme un phénomène objectif librement observable par tous, mais comme une « confidence » divine seulement adressée à une minorité très restreinte d'humains ayant la chance d'être élus pour recevoir des révélations inaccessibles humainement, par la grâce de Dieu[style à revoir]. Hors de la révélation, personne n’a le droit, dans cette optique, d’affirmer — a fortiori d'imposer — quelque interprétation que ce soit concernant des questionnements dépassant en principe l'entendement humain ; de sorte que l'on ne pourrait rien attendre de l'analyse scientifique et rationnelle sur ces sujets.
+
+[TITLE]{Religions non-théistes[modifier | modifier le code]}
+Certaines traditions religieuses réfutent la croyance en un dieu créateur. Parmi les religions non théistes, sont encore pratiquées de nos jours le bouddhisme et le jaïnisme, tandis que le courant athée du Sâmkhya ne le serait plus[15]. Ces trois points de vue non théistes partagent la même croyance dans la loi du karma, loi de causalité correspondant à ce qui pourrait être attribué à un créateur dans le contexte théiste[16]. Ces religions sont plus difficiles à appréhender pour l'agnosticisme car elles ne font pas référence expressément à une ou des divinités. Or, si l'agnosticisme s'intéresse à toute religion, il se penche plus sur « les signes de l'existence de dieu(x) créateur(s) et/ou interventionniste(s) » à travers les faits allégués par les religions que sur leurs contenus dogmatiques, d'où dérivent les rites et traditions (qui ont un aspect d'abord et surtout social). Cependant, les religions au sens large, ont toutes en commun de proposer une « autorité » morale dont elles présentent souvent l'origine comme transcendante à l'Homme, c'est-à-dire divine. La vision agnostique consiste toujours à douter de la divinité de cette « source d'autorité ».
+Le bouddhisme, même s'il ne vénère pas forcément de dieu, propose néanmoins une cosmogonie (une organisation du monde) et une vision de la vie après la mort, c'est-à-dire des affirmations fondées uniquement sur des « dogmes », ce qui peut en faire une « religion ». Le concernant, l'agnosticisme s'intéresse surtout à la notion de karma, fondamentale dans la pensée bouddhiste, selon laquelle tous les êtres vivants sont pris dans un cycle de réincarnations perpétuelles, dans lequel ils ne peuvent « progresser » que par la réalisation d'actions vertueuses, et cela, dans l'espoir d'échapper à ce cycle des réincarnations pour atteindre le Nirvāna. L'agnostique pourrait remarquer que si la progression des individus est conditionnée par la valeur de leurs actions, cela signifie qu'il existe « quelque chose » (une entité transcendante) définissant le Bien et le Mal, et régulant les parcours des individus en fonction de la proportion de Bien et de Mal présents dans leurs actions[N 11]. Le point de vue agnostique consiste à mettre en doute l'existence de ces entités transcendantes, et moins à contester l'idée de cycle de réincarnation (difficilement formalisable en l'absence de définition claire de l'identité là où la mémoire ne subsiste pas), ainsi que les idées de hiérarchisation et de progression des êtres telle qu'elles sont définies dans beaucoup de variantes du bouddhisme[N 12], compte tenu des éléments de connaissance actuelle (avec une plus ou moins grande perspective de recueillir de nouveaux éléments selon les points de vue). Quant à l'affiliation, elle reste affaire de convention sociale, comme indiqué plus haut.
+
+[TITLE]{Autres positions philosophiques sur Dieu[modifier | modifier le code]}
+Cette section ne cite pas suffisamment ses sources [REF]{(janvier 2016)}. Pour l'améliorer, ajoutez des références vérifiables [comment faire ?] ou le modèle {{Référence nécessaire}} sur les passages nécessitant une source.
+
+L’agnosticisme est, à l’origine, en opposition aux religions, induisant le doute sur la connaissance de(s) dieu(x), dans le sens où il doute de son(leur) existence, avant de douter de son(leur) inexistence. Il va donc, dans un premier temps, dans le même sens que l’athéisme. Cependant, à partir du moment où l’athéisme affirme l’inexistence de(s) dieu(x), l’agnosticisme ne peut encore aujourd’hui, ou à jamais, le suivre, en l’absence de preuves suffisantes. Inversement, il ne peut pas suivre non plus les diverses formes de déismes, qui affirment l’existence d’un être suprême, d’un(de) dieu(x) indéfinissable(s), dans le sens où nulle personne ou nul mouvement religieux ne peut se prétendre être le dépositaire exclusif de sa volonté ; car eux aussi affirment sans preuves. Dans les deux cas, aucune certitude n’est établie, car il n’existe encore ou n’existera jamais aucun fait reconnu et établi scientifiquement qui permettrait de statuer sur la question. Quant aux démarches de purs raisonnements formulés par les deux partis, ils sont inutiles car impuissants à prouver quoi que ce soit, car ils ne relèvent que de la « Raison pure », et ne peuvent pas, de toute façon, surpasser la valeur, déjà insuffisante, de l’argument ontologique.
+Cependant, cette position ne relève pas exclusivement de l'indifférence religieuse (comme c'est le cas de l'apathéisme), car l'agnosticisme reconnaît malgré tout l'impact que pourrait avoir l'existence d'une divinité, ne serait-ce qu'en termes d'eschatologie (ce sont peut-être l'Au-delà et l'éternité qui sont en jeu). Selon les degrés de scepticisme, les partisans restent plus ou moins attentifs à l'arrivée de tout nouvel élément sur la question.
+Concrètement, du moins dans l'APP, il n'y a pas réellement d'agnostiques qui accordent personnellement une valeur égale aux deux hypothèses. On parlera d'agnostiques athées pour ceux qui penchent en faveur de l'inexistence de(s) dieu(x) et d'agnostique théistes pour ceux qui penchent en faveur de son(leur) existence.
+
+[TITLE]{Critiques[modifier | modifier le code]}
+Un reproche récurrent contre les agnostiques est que leur philosophie consiste à demeurer dans l'indécision, le compromis de l'entre-deux, le mol oreiller du doute mentionné par Montaigne dans ses Essais. En refusant de prendre position sur un sujet aussi sensible que le divin, ils chercheraient à ne se fâcher avec personne. La plupart des religions y voient d'ailleurs un « réservoir d'incroyants » à convertir[réf. nécessaire], tandis que certains athées les considèreraient comme coincés dans une progression inachevée vers l'athéisme, voire le qualifient d'« athéisme faible »[N 13], comme le reste des irréligions, d'ailleurs. Cette raillerie contre une posture dite de l'« hésitation » simplifie évidemment le choix agnostique qui se rapproche plutôt d'une forme de sagesse de la prudence face à l'ignorance[17]. Selon l'expression de Bertrand Russell dans ses « Essais sceptiques » : « l'attitude rationnelle consiste à n'admettre que sur preuves, et à suspendre son jugement là où la preuve fait défaut »[4].
+Selon Friedrich Engels, dans l'introduction anglaise de Socialisme utopique et socialisme scientifique, l'agnosticisme est un matérialisme[18] « honteux », c'est-à-dire que l'agnostique comme Thomas Huxley[N 14],[19] a honte de son matérialisme et rejette dès lors moralement le matérialisme[N 15],[19], ainsi pour le lecteur anglais de la fin du XIXe siècle, « Agnosticisme serait tolérable, mais matérialisme est absolument inadmissible[19]. »
+
+[TITLE]{Nombres[modifier | modifier le code]}
+En 2010, 639 millions de personnes dans le monde seraient agnostiques[20],[21]. Un sondage de l'institut Harris Interactive[22], publié par le Financial Times, daté de décembre 2006, dénombre 32 % d'agnostiques en France, soit autant que d'athées[23] soit environ 21 millions en France en 2013.
+
+[TITLE]{Médias[modifier | modifier le code]}
+Protagoras est resté célèbre pour son agnosticisme avoué et un certain relativisme[24].
+D'éminents artistes, intellectuels et scientifiques se sont revendiqués agnostiques. On peut par exemple citer : Blaise Cendrars[25], Charles Darwin[26],[27],[28],[29], Émile Durkheim[30], Thomas Edison[N 16], Albert Einstein[31],[N 17],[32], Charlie Chaplin[33], Carl Sagan[34], Marie Curie[35], Thomas Henry Huxley[N 18],[36], Claude Bernard[37], Émile Littré, Clarence Darrow, Lucien Rebatet [38]
+
+[TITLE]{Notes et références[modifier | modifier le code]}
+[TITLE]{Notes[modifier | modifier le code]}
+
+↑ « Personne qui professe que ce qui n'est pas expérimental, que l'absolu, est inconnaissable, sceptique en matière de métaphysique et de religion », Dictionnaire Dixel, 2010.
+
+↑ « Le corps de B. Franklin, imprimeur, (Tel la couverture d'un vieux livre, dépouillé de ses feuilles, de son titre et de sa dorure) Repose ici, pâture pour les vers. Mais l'ouvrage ne sera pas perdu et reparaîtra, c'est la foi de Franklin, dans une nouvelle édition, plus élégante, revue et corrigée par l'auteur. »
+
+↑ Les fossiles sont des traces de l'évolution, qui pose le principe que la vie s'est développée par tâtonnement. L'agnosticisme provisoire en pratique admet donc dans le sens de l'apparition de la vie "par hasard" [REF]{(il cherche à ne pas entrer en contradiction avec la théorie de l'évolution dont T.A Huxley était un propagateur), par tâtonnement des combinaisons chimiques entre atomes, et non par l'action consciente d'une entité transcendante et supérieure. Il y a d'ailleurs de fortes présomptions que la vie soit arrivée sur terre par l'intermédiaire d'un corps céleste (http://cosmologica.over-blog.com/categorie-11036045.html)}
+
+↑ La question de l'existence de Dieu étant cependant si complexe, il est peu probable qu'une preuve parvienne un jour à convaincre la totalité des adeptes. On peut considérer que l'agnosticisme définitif de principe est vouée à perdre toujours plus de partisans au fur à mesure que des preuves s'accumuleront dans un sens ou un autre, sans jamais disparaître pour les plus sceptiques. Concrètement, elle doit donc tendre à se confondre avec l'agnosticisme définitif de principe
+
+↑ Un exemple évident est celui du paradoxe de l'Espace-Temps : Comment le Monde peut-il exister si l'Espace et le Temps sont infiniment grands et petits ? Plus précisément, on peut aussi citer la matière noire, la taille et l'évolution de l'univers, la réalité au niveau subatomique, etc.
+
+↑ "Non-Overlapping Magisteria" ("Non-empiètement des magistères") ; concept énoncé par Stephen Jay Gould dans Et Dieu dit : « Que Darwin soit ! »
+
+↑ . On pensera notamment aux révélations des prophètes
+
+↑ se reporter à l'article sur les « cultes du cargo »
+
+↑ L'acte de soumission restant exclusivement réservé à Dieu
+
+↑ Encyclopaedia of Islam, THREE
+
+↑ Cette notion de bien et de mal défini par une entité transcendante est cependant plus proche du christianisme que du bouddhiste qui ne suppose pas d'entité externe pour définir ce qui est positif et négatif : les résultats sont juste constatés a posteriori, ou les intentions déterminées a priori par l'acteur lui-même). Le raisonnement théiste est considéré comme propre à l'Occident, et le bouddhisme ne l'admet ni ne le contredit : le 14e dalaï-lama conseille par exemple aux catholiques : « Étudiez si vous le désirez le bouddhisme, mais gardez votre religion ».
+
+↑ . On pourra faire alors l'hypothèse que si la réincarnation existe, elle est "aléatoire" et elle peut alors peut-être faire l'objet de prévisions statistiques, fondées sur nos connaissances actuelles de la biodiversité
+
+↑ Kenny, Anthony [REF]{(2006). « Worshipping an Unknown God ». Ratio 19 (4) : 442. doi:10.1111/j.1467-9329.2006.00339.x. (en)} « Those who fail to believe in God because they think that the truth-value of ‘God exists’ is uncertain may be called agnostic negative atheists, or agnostics for short. » En français : « Ceux qui ne parviennent pas à croire en Dieu parce qu'ils pensent que la vérité-valeur « Dieu existe » est incertaine peuvent être appelés athées négatifs agnostiques, ou agnostiques tout court. »
+
+↑ Note de l'introduction d'Engels du Socialisme utopique et socialisme scientifique par Paul Lafargue, « Herbert Spencer, Huxley, les philosophes et les savants du darwinisme, pour ne pas choquer la respectabilité de leurs compatriotes, se nommèrent agnostiques, voulant dire, par ce mot grec, qu'ils étaient privés de toute connaissance sur Dieu, la matière, les causes finales, la chose en soi, etc. Des farceurs le traduisirent en anglais : know-nothing, ne connaît rien! Auguste Comte avait également débarrassé son positivisme de ces questions gênantes, pour ne pas déplaire à la bourgeoisie française, qui reniait la philosophie du XVIIIe siècle et qui, comme le chien de la Bible, retournait à son vomissement (P.L.) »
+
+↑ Engels, introduction de Socialisme utopique et socialisme scientifique : « En fait, qu'est-ce que c'est que l'agnosticisme, sinon un matérialisme honteux ? La conception de la nature qu'a l'agnostique est entièrement matérialiste. Le monde naturel tout entier est gouverné par des lois et n'admet pas l'intervention d'une action extérieure ; mais il ajoute par précaution : « Nous ne possédons pas le moyen d'affirmer ou d'infirmer l'existence d'un être suprême quelconque au-delà de l'univers connu. » »
+
+↑ (en) Voir la réflexion de Thomas Edison au sujet de Dieu [Thomas Alva Edison, Columbian Magazine], ce dernier mettant clairement en doute son existence dans la mesure où aucune preuve scientifique n'a été apportée Lire en ligne
+
+↑ Toutefois quelques années plus tard, Einstein affirmera : Ce que vous avez lu sur mes convictions religieuses était un mensonge, bien sûr, un mensonge qui est répété systématiquement. Je ne crois pas en un dieu personnel et je n’ai jamais dit le contraire de cela, je l’ai plutôt exprimé clairement. S’il y a quelque chose en moi que l’on puisse appeler « religieux » ce serait alors mon admiration sans bornes pour les structures de l’univers pour autant que notre science puisse le révéler. [REF]{(Albert Einstein - 1879-1955 - Albert Einstein : le côté humain édité par Helen Dukas et Banesh Hoffman, lettre du 24 mars 1954)}
+
+↑ Thomas Henry Huxley fut décrit par les religieux de son temps comme un athée, ce dernier réfuta cette qualification s'estimant agnostique. Bien qu'il soit l'inventeur du terme agnostique, Luc Perino le définit comme athée dans Charles Darwin, Télérama hors série, Paris, 2009, p. 58.
+
+
+
+[TITLE]{Références[modifier | modifier le code]}
+
+↑ Définitions lexicographiques et étymologiques de « Agnosticisme »  du Trésor de la langue française informatisé, sur le site du Centre national de ressources textuelles et lexicales
+
+↑ Définition semblable, voir Philippe Godard, Le Dico des religions, La Martinière, Paris, 2009, p. 17.
+
+↑ Liliane Voyé, [REF]{Sociologie construction du monde, construction d'une discipline}, Bruxelles, De Boeck universite, 1998 [REF]{(ISBN 978-2-804-12434-2, lire en ligne)}, p. 105
+
+↑ a et b Bertrand Russell, Essais sceptiques, Introduction : la valeur du scepticisme
+
+↑ Flint 1903, pp. 49–51: "The atheist may however be, and not unfrequently is, an agnostic. There is an agnostic atheism or atheistic agnosticism, and the combination of atheism with agnosticism which may be so named is not an uncommon one."
+
+↑ Jacqueline Lalouette, « Agnosticisme et athéisme », in Dictionnaire des faits religieux, éd. PUF/Quadrige, 2010, p. 14
+
+↑ Dawkins 2009, p. 67
+
+↑ https://www.ladissertation.com/Religion-et-Spiritualit%C3%A9/Religion/Lagnosticisme-155975.htm
+
+↑ Dawkins 2009, p. 64-74
+
+↑ (en) Routledge, [REF]{Encyclopedia of Philosophy}
+
+↑ Dawkins 2009, p. 68. T.H. Huxley cité dans Richard Dawkins
+
+↑ http://www.hominides.com/html/theories/jean_paul_evolution
+
+↑ Erreur et délivrance, Beirut 1969, 12–4
+
+↑ « [REF]{Épître du Credo chapitre : Méditer sur l’Essence de Dieu} », sur islamophile
+
+↑ Dalaï-lama et Nicholas Vreeland [REF]{(trad. Carisse Busquet, postface Richard Gere), [REF]{L'art du bouddhisme : pratiquer la sagesse au quotidien}, Paris, R. Laffont, 2013 (ISBN 9782221132203, OCLC 843384331)}, p. 24
+
+↑ Dalaï Lama 2013, p. 25
+
+↑ « [REF]{L'homme debout} », sur www.atheisme.free.fr
+
+↑ Lénine in Matérialisme et empiriocriticisme : « ... chez Huxley, et son agnosticisme n'est que la feuille de vigne de son matérialisme. » au chapitre 4.2
+
+↑ a b et c « [REF]{Socialisme utopique et socialisme scientifique} » [PDF], sur classiques.uqac.ca, p. 15-18
+
+↑ D'après l'Atlas des Religions de La Vie et Le Monde et de l'étude Atlas of Global Christianity 2010 réalisée par Todd M. Johnson et Kenneth R. Ross, de l'Université d'Édimbourg
+
+↑ « [REF]{L'athéisme et l'agnosticisme} », sur L'internaute
+
+↑ (en) Times/Harris Poll, « [REF]{Religious Views and Beliefs Vary Greatly by Country, According to the Latest Financial} »
+
+↑ « [REF]{Enquête Harris Interactive complète} » [PDF], sur harrisinteractive.com
+
+↑ Bonazzi 2009, p. 49 ; Kahn 1998 ; Poster 2005
+
+↑ Cendrars en énigme, sur fabula.org Lire en ligne
+
+↑ Charles Darwin, L’Origine des espèces [édition du Bicentenaire], trad. A. Berra sous la direction de P. Tort, coord. par M. Prum. Précédé de Patrick Tort, « Naître à vingt ans. Genèse et jeunesse de L’Origine ». Paris, Champion Classiques, 2009.
+
+↑ Charles Darwin et Jean-Michel Goux [REF]{(traduction de l'anglais, revue et complétée), [REF]{L'autobiographie}, Paris, Seuil, 2008 (ISBN 978-2-020-97901-6)}, p. 89
+
+↑ Dans la Présentation par Jean-Marc Drouin, Charles Darwin, L'Origine des espèces, Flammarion, Paris, 2008, p. 26
+
+↑ Charles Darwin [REF]{(trad. Maxime Rovere, préf. Maxime Rovere), [REF]{Écrits intimes}, Paris, Éd. Payot & Rivages, coll. « Rivages poche » (no 647), 2009 (ISBN 978-2-743-61928-2)}, p. 17 préface
+
+↑ Liliane Voyé, [REF]{Sociologie construction du monde, construction d'une discipline}, Bruxelles, De Boeck universite, 1998 [REF]{(ISBN 978-2-804-12434-2, lire en ligne)}, p. 105
+
+↑ Dawkins 2009, p. 24. Qualifie Albert Einstein d'athée. L'intéressé déclara dans une lettre à M. Berkowitz datée du 25 octobre 1950: Ma position concernant Dieu est celle d’un agnostique. Lire en ligne.
+
+↑ Laurent Lemire, [REF]{Le siècle d'Albert Einstein}, Paris, Perrin, 2008 [REF]{(ISBN 978-2-262-01978-5)}, p. 37.
+
+↑ (en) The Religious Affiliation of Charlie Chaplin Lire en ligne
+
+↑ Dawkins 2009, p. 64
+
+↑ Jean-Pierre Camilleri et Jean Coursaget, [REF]{Pionniers de la radiothérapie}, Les Ulis [REF]{(Essonne), EDP sciences, 2005, 226 p. (ISBN 978-2-868-83811-7, présentation en ligne)}, p. 67
+
+↑ Dawkins 2009, p. 67-68. L'évoque comme agnostique. Dans ce même livre, des écrits de T. H. Huxley sont repris, ce dernier définissant et défendant le concept d'agnosticisme.
+
+↑ Georges Minois, [REF]{L'Église et la science histoire d'un malentendu.}, t. 1 : De saint Augustin à Galilée, Fayard, coll. « Nouvelles études historiques. », 1990, 484 p. [REF]{(OCLC 489639368)}, p. 299
+
+↑ Pascal Alain Ifri, [REF]{Les deux étendards de Lucien Rebatet: dossier d'un chef-d'œuvre maudit}, Lausanne, L'Âge d'Homme, 2001, 205 p. [REF]{(ISBN 9782825114896, lire en ligne)}, p. 130
+
+
+
+[TITLE]{Bibliographie[modifier | modifier le code]}
+[REF]{(en)Thomas Huxley, Collected Essays, vol. V, 2010, 2015 : Science and Christian Tradition. Essays, 7 : "Agnosticism" (1889), 8 : "Agnosticism: A rejoiner" (1889), 9 : "Agnosticism and Christianity" (1889)} [1].
+[REF]{(en) Thomas Huxley, [REF]{Man's place in nature}, New York, Modern Library, 2001 (ISBN 978-0-375-75847-8)}.
+[REF]{(en) Bertrand Russell, [REF]{Why I am not a Christian : and other essays on religion and related subjects}, New York, Simon and Schuster, 1957 (ISBN 978-0-671-20323-8)}.
+[REF]{(en) David Hume, [REF]{Dialogues concerning natural religion}, London New York, Penguin Books, 1990 (ISBN 978-0-140-44536-7)}.
+[REF]{(en) Alfred Jules Ayer, [REF]{Language, truth, and logic}, New York, Dover Publications, 1952 (ISBN 978-0-486-20010-1) - (fr)} trad. française de Joseph Ohana, Langage, Vérité et Logique, Paris, Flammarion, 1956.
+[REF]{(en) George H. Smith, [REF]{Atheism : the case against God}, Buffalo, N.Y, Prometheus Books, 1979 (ISBN 978-0-879-75124-1)}.
+Mauro Bonazzi, [REF]{« Protagoras d'Abdère »}, dans Jean-François Pradeau [REF]{(dir), [REF]{Les Sophistes}, vol. 1, Paris, Flammarion, coll. « GF-Flammarion », 2009, 592 p. (ISBN 2081207133)}, p. 43-50 et 443-472
+(en) Charles H. Kahn, « [REF]{Protagoras} », Routledge Encyclopedia of Philosophy,‎ 1998
+[REF]{(en) Carol Poster, « [REF]{Protagoras} », Internet Encyclopedia of Philosophy, 2005 (consulté le 1er février 11)}
+Anne Boulanger-Pécout, [REF]{De la croyance à la perplexité, Itinéraire d'une agnostique}, Editions Publibook, 2012 [REF]{(ISBN 978-2-7483-8300-3, lire en ligne)}
+Richard Dawkins [REF]{(trad. Marie-France Desjeux-Lefort), [REF]{Pour en finir avec les dieux}, Paris, Perrin, 2009 (ISBN 978-2-262-02986-9)}
+[TITLE]{Articles connexes[modifier | modifier le code]}
+
+Antithéisme
+Athéisme
+Mystérianisme
+Débaptisation
+Déisme
+Humanisme
+Ignorabimus
+Ignosticisme
+Libre-pensée
+Pari de Pascal
+Scepticisme philosophique
+Scepticisme scientifique
+Sunday Assembly
+Théière de Russell
+Théisme
+
+[TITLE]{Liens externes[modifier | modifier le code]}
+Compil histoire. Agnosticisme, athéisme, rationalisme...
+[REF]{(en) Why I am Not a Christian par Bertrand Russell (6 mars 1927)}
+(en) Why I Am An Agnostic dans le chapitre « The Moral Arguments For Deity » par Robert G. Ingersoll, 1896
+(en) Atheism and Agnosticism Sur le site de plato.stanford.edu
+(en) A primer on negative (weak) atheism Sur le site dbskeptic
+Agnosticisme - Agnostique Sur le site atheisme.free.fr
+
+
+v · mAnticléricalisme et anticléricaux
+ 
+Concepts
+
+Cléricalisme
+Ultramontanisme
+Blasphème
+Antireligion
+Libre-pensée
+Agnosticisme
+Athéisme
+Liberté de conscience
+
+ 
+Éléments historiques
+
+Siècle des Lumières
+Déchristianisation
+Belle Époque
+Expulsion des congrégations [REF]{(1880)}
+Expulsion des congrégations [REF]{(1902-1903)}
+Loi de séparation des Églises et de l'État [REF]{(1905)}
+Semaine tragique [REF]{(1909)}
+Cléricalisme du régime de Vichy [REF]{(1940-1944)}
+Scandale de Notre-Dame [REF]{(1950)}
+
+ 
+Anticléricaux notoires
+
+Francisco Bilbao
+Georges Brassens
+Cabu
+Jean Chandioux
+Charb
+Léo Ferré
+Francisco Ferrer
+Denis Diderot
+Léon Gambetta
+Giuseppe Garibaldi
+Victor Hugo
+François-Jean Lefebvre de La Barre
+Michel Onfray
+Donatien Alphonse François de Sade
+Siné
+Eugène Sue
+Voltaire
+Jean Yanne
+
+ 
+Structures
+
+Anticléricalisme par pays
+Fédération française de la libre-pensée [REF]{(1890)}
+Escuela moderna [REF]{(1901)}
+Union rationaliste [REF]{(1930)}
+Mouvement Palikot [REF]{(2010)}
+
+ 
+Œuvres
+
+La Religieuse, Denis Diderot [REF]{(1780)}
+Catéchisme du curé Meslier, Jean Meslier [REF]{(prétendu), Sylvain Maréchal (présumé) (1790)}
+L'Origine du monde, Gustave Courbet [REF]{(1866)}
+Dieu et l'État, Mikhaïl Bakounine [REF]{(1882)}
+L'album anti-clérical et La Marseillaise anticléricale, Léo Taxil [REF]{(1881)}
+Le Père Duchesne, Ravachol [REF]{(1892)}
+La Lanterne, journal républicain anticlérical, Eugène Ogé [REF]{(1902)}
+L'Âge d'or, Luis Buñuel [REF]{(1930)}
+La Crosse En L'air, Jacques Prévert [REF]{(1946)}
+Mère Jeanne des anges, Jerzy Kawalerowicz [REF]{(1961)}
+Les Diables, Ken Russell [REF]{(1971)}
+Bordel à cul, Jean-Roger Caussimon [REF]{(1975)}
+
+ 
+Presse
+
+La Petite Lune [REF]{(1878)}
+Le Libertaire [REF]{(1895)}
+La Voix de la femme [REF]{(1896)}
+L'Assiette au beurre [REF]{(1901)}
+Les Corbeaux [REF]{(1904)}
+La Calotte [REF]{(1906)}
+Les Hommes du jour [REF]{(1908)}
+L'Idée libre [REF]{(1911)}
+Le Canard enchaîné [REF]{(1915)}
+Charlie Hebdo [REF]{(1970)}
+Siné Mensuel [REF]{(2011)}
+
+ 
+Ouvrages de référence
+
+René Rémond, L'Anticléricalisme en France de 1815 à nos jours [REF]{(1976)}
+Jacqueline Lalouette, La République anticléricale : XIXe-XXe siècles [REF]{(2002)}
+
+ 
+Voir aussi :
+Athéisme
+Anarchisme
+
+
+v · mAthéisme
+ 
+Concepts
+
+Athéisme agnostique
+Athéisme positif et négatif
+Dystéléologie
+Existentialisme athée
+Humanisme séculier
+Irréligion
+Pays
+Amérique latine
+États-Unis
+France
+Libre-pensée
+Matérialisme
+Naturalisme
+Nihilisme
+Nouvel athéisme
+Post-théisme
+Rationalisme
+Religion athée
+
+ 
+Personnalités notoires
+
+Mikhaïl Bakounine
+Charles Bradlaugh
+André Comte-Sponville
+Marcel Conche
+Théodore l'Athée
+Richard Dawkins
+Daniel Dennett
+Denis Diderot
+Ludwig Feuerbach
+Sam Harris
+Helvétius
+Theodor Herzl
+Christopher Hitchens
+Paul Thiry d'Holbach
+Piero Martinetti
+Karl Marx
+Diagoras de Mélos
+Jean Meslier
+Julien Offray de La Mettrie
+Friedrich Nietzsche
+Michel Onfray
+Bertrand Russell
+Marquis de Sade
+George Santayana
+Jean-Paul Sartre
+Arthur Schopenhauer
+
+ 
+Structures collectives
+
+Alliance internationale athée
+American Atheists
+Center for Inquiry
+Conseil central des ex-musulmans
+Convention athée mondiale
+Fédération nationale de la libre pensée
+Fondation Richard Dawkins pour la raison et la science
+Freedom From Religion Foundation
+Libres penseurs athées
+Mouvement des brights
+Project Reason
+Rationalist International
+Rational Response Squad
+Recovering from religion
+Secular Coalition for America
+Secular Student Alliance
+The Atheist Agenda
+Union des athées
+Union internationale humaniste et éthique
+Union rationaliste
+
+ 
+Littérature athée
+
+De la suffisance de la religion naturelle
+Dieu et l'État
+Dieu n'est pas grand
+La Nécessité de l'athéisme
+L'Esprit de l'athéisme
+Lettre sur les aveugles à l'usage de ceux qui voient
+Pour en finir avec Dieu
+Traité d'athéologie
+Traité des trois imposteurs
+
+ 
+Critique de la religion
+
+Critique du christianisme
+Critique de l'islam
+Critique de l'hindouisme
+Critique du bouddhisme
+Critique du judaïsme
+Critique du mormonisme
+Critique des Témoins de Jéhovah
+Critique de la Scientologie
+Sectes
+Superstitions
+
+ 
+Parodie de religion
+
+Aéricanisme
+Culte de Kek
+Dinkoisme
+Discordianisme
+Dudeisme
+Église de Google
+Église de la Très Sainte Consommation
+Église de l'Euthanasie
+Église du Sous-Génie
+Église maradonienne
+Jediisme
+Kopimisme
+Licorne rose invisible
+Matrixisme
+Notre-Dame de l'exonération perpétuelle
+Pastafarisme
+'Pataphysique
+Sœurs de la Perpétuelle Indulgence
+Théière de Russell
+Zuisme
+
+ 
+Relation avec les religions
+
+Antichristianisme (Anticatholicisme, Antiprotestantisme)
+Anticléricalisme
+Antijudaïsme
+Antireligion
+Antithéisme
+Apostasie (Apostasie dans le christianisme, Apostasie dans l'islam, Apostasie dans le judaïsme)
+Arguments sur l'existence de Dieu
+Athéisme d'État
+Athéisme militant
+Débaptisation
+Déchristianisation
+Discrimination contre les athées
+Lutte antisectes
+Sortie de l'Église
+
+ 
+Articles liés
+
+Analyse statistique de l'athéisme
+Appel à l'ignorance
+Athéisme dans la philosophie indienne
+Athéisme juif
+Blasphème
+Critique de l'athéisme
+Endoctrinement
+Foi et raison
+Guerre de religion
+Histoire de l'athéisme en Occident
+Lavage de cerveau
+Manipulation mentale
+Relation entre science et religion
+Scepticisme scientifique
+Syndrome du vrai croyant
+
+ 
+
+Agnosticisme
+Existentialisme
+Humanisme
+Laïcité
+Matérialisme
+Naturalisme
+Rationalisme
+Scepticisme
+
+
+ Portail de la philosophie   Portail de la spiritualité   Portail du scepticisme rationnel   Portail de l’athéisme   Portail des religions et croyances  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Agnosticisme&oldid=174557040 ».
+Catégories : Philosophie de la religionAgnosticismeCritique des croyancesCatégories cachées : Article avec source à lierArticle à référence souhaitéeArticle à référence nécessaireArticle manquant de références depuis janvier 2016Article manquant de références/Liste complètePortail:Philosophie/Articles liésPortail:Sciences humaines et sociales/Articles liésPortail:Spiritualité/Articles liésPortail:Scepticisme rationnel/Articles liésPortail:Athéisme/Articles liésPortail:Religions et croyances/Articles liésArticle de qualité en arabeBon article en espagnolBon article en anglais
+
+
+
+
+
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+AfrikaansAlemannischAragonésالعربيةمصرىAsturianuAzərbaycancaБеларускаяБеларуская (тарашкевіца)‎БългарскиবাংলাBosanskiCatalàCorsuČeštinaCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFryskGaeilgeKriyòl gwiyannenGàidhligGalegoGaelgעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaÍslenskaItaliano日本語PatoisJawaქართულიKabɩyɛҚазақшаಕನ್ನಡ한국어KurdîКыргызчаLatinaLëtzebuergeschLingua Franca NovaLumbaartLietuviųLatviešuМакедонскиമലയാളംमराठीBahasa MelayuMirandésPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorsk bokmålOccitanИронਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSicilianuScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்ТоҷикӣไทยTagalogTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语ייִדיש中文Bân-lâm-gú粵語
+Modifier les liens
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 9 septembre 2020 à 03:10.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,279 @@
+
+
+
+Aerodynamik – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Aerodynamik}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+ Wirbelschleppe, ein aerodynamischer Effekt
+Aerodynamik (von altgriechisch ἀήρ aer, Luft, und δύναµις dynamis, Kraft) ist Teil der Fluiddynamik (Strömungslehre) und beschreibt das Verhalten von Körpern in Luft oder kompressiblen Gasen, bei letzteren spricht man auch von Gasdynamik. Das zweite Teilgebiet der Fluiddynamik, die Hydrodynamik, behandelt dagegen Flüssigkeiten.
+Die Aerodynamik beschreibt die Kräfte, wie den dynamischen Auftrieb, die es beispielsweise Flugzeugen ermöglichen, zu fliegen oder Segelschiffen, mit Hilfe des Windes durchs Wasser zu segeln. Viele weitere Bereiche der Technik, wie zum Beispiel das Bauingenieurwesen oder der Fahrzeugbau, müssen sich mit der Aerodynamik auseinandersetzen.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Spezialgebiete
+2 Theoretische Modelle
+3 Anwendung
+4 Literatur
+5 Weblinks
+
+
+[TITLE]{Spezialgebiete[Bearbeiten | Quelltext bearbeiten]}
+Die Aerodynamik ist ein Untergebiet der Strömungslehre (auch Fluiddynamik) und enthält mehrere Spezialbereiche, die sich auf verschiedene Schwerpunkte spezialisiert haben:
+
+Tragflügeltheorie: Bewegungen eines Flügels in dichtem Gas
+Raumfahrtaerodynamik: Dieses Gebiet befasst sich mit der Aerodynamik bei Flug und Wiedereintritt von Raumflugkörpern
+Überschallaerodynamik: Flugkörper, die sich schneller als der Schall bewegen (Mach 1 bis Mach 3)
+Hyperschallaerodynamik: Flugkörper, die sich mit sehr hoher Geschwindigkeit in dichten Gasen bewegen (Mach 3+)
+Grenzschichttheorie: Es wird die eng anliegende Schicht im Nahbereich um Körper herum betrachtet
+Aerodynamik der Windturbinen: Anwendung der Methodik auf Fragestellungen wie sie sich aus dem Betrieb von Windturbinen ergeben
+Physik des Segelns: Bei der Konstruktion eines Segelschiffes müssen die Strömungslehre um das Segel, die Hydrodynamik des Rumpfes und das Zusammenspiel an der Grenzschicht Wasser-Luft bedacht werden.
+[TITLE]{Theoretische Modelle[Bearbeiten | Quelltext bearbeiten]}
+ Strömung um einen Tragflügel. Diese inkompressible Strömung genügt den Euler-Gleichungen.
+Das umfassendste Modell sind die Navier-Stokes-Gleichungen. Es handelt sich hierbei um ein System von nichtlinearen partiellen Differentialgleichungen 2. Ordnung, die ein newtonsches Fluid komplett beschreiben. Insbesondere sind auch Turbulenz und die hydrodynamische Grenzschicht enthalten.
+Ein einfacheres Modell sind die Euler-Gleichungen, die aufgrund der vernachlässigten Reibung die Grenzschicht nicht abbilden und auch keine Turbulenz enthalten, womit beispielsweise ein Strömungsabriss nicht über dieses Modell simuliert werden kann. Dafür sind wesentlich gröbere Gitter geeignet, um die Gleichungen sinnvoll zu lösen. Für diejenigen Teile der Strömung, in denen die Grenzschicht keine wesentliche Rolle spielt, sind die Euler-Gleichungen dagegen sehr gut geeignet.
+Die Potentialgleichungen schließlich sind vor allem nützlich, wenn grobe Vorhersagen gemacht werden sollen. Bei ihnen wird die Entropie als konstant vorausgesetzt, was bedeutet, dass keine starken Schockwellen auftreten können, da an diesen die Entropie sogar unstetig ist.
+
+[TITLE]{Anwendung[Bearbeiten | Quelltext bearbeiten]}
+Heutzutage findet die aerodynamische Auslegung von Flug- und Fahrzeugen überwiegend am Computer statt. Von großer Bedeutung ist die numerische Strömungssimulation (CFD), bei der durch computergestützte Verfahren mit entsprechendem Rechenaufwand gute Näherungen für reale Strömungsvorgänge erzielt werden können. Für viele Anwendungen sind aufgrund der Komplexität der auftretenden Phänomene Messungen in Windkanälen notwendig, um die Auslegung zu verifizieren.
+
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Cameron Tropea: Aerodynamik I & II, Forschungsberichte Strömungslehre und Aerodynamik, Shaker, Aachen 2004, ISBN 3-8322-3255-9
+Reinhard Kutter: Flugzeug Aerodynamik – technische Lösungen und struktureller Aufbau. Motorbuch, Stuttgart 1990, ISBN 3-87943-956-7
+Czesław A. Marchaj: Aerodynamik und Hydrodynamik des Segelns. Delius Klasing, Bielefeld 1991, ISBN 3-7688-0729-0
+Theodore von Kármán: Aerodynamik – ausgewählte Themen im Lichte der historischen Entwicklung. Interavia, Genf 1956
+Ludwig Prandtl: Vier Abhandlungen zur Hydrodynamik und Aerodynamik. Selbstverlag der Aerodynamischen Versuchsanstalt, Göttingen 1944.
+John D. Anderson: A history of aerodynamics – and its impact on flying machines. Cambridge University Press, Cambridge 2000, ISBN 0-521-45435-2
+Rose McCallen: The aerodynamics of heavy vehicles – trucks, buses, and trains. Springer, Berlin 2004, ISBN 978-3-540-22088-6
+J. Gordon Leishman: Principles of helicopter aerodynamics. Cambridge University Press, Cambridge 2000, ISBN 0-521-66060-2
+John D. Anderson: Fundamentals of aerodynamics. McGraw-Hill, Boston 2007, ISBN 978-0-07-125408-3
+John J. Bertin, Russell M. Cummings: Aerodynamics for engineers. Pearson Prentice Hall, Upper Saddle River, NJ 2009, ISBN 978-0-13-235521-6
+Alois P. Schaffarczyk: Introduction to Wind Turbine Aerodynamics. Springer, Berlin, 2014, ISBN 978-3-642-36408-2
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Commons: Aerodynamik – Sammlung von Bildern, Videos und Audiodateien
+Wiktionary: Aerodynamik – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+DLR Institut für Aerodynamik und Strömungstechnik
+NASA, Willkommen beim Anfängerkurs für Aerodynamik (englisch)
+Aerodynamik für Studenten (englisch)
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Aerodynamik&oldid=196664465“
+Kategorie: Aerodynamik
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+AfrikaansالعربيةAsturianuAzərbaycancaتۆرکجهBoarischБеларускаяБългарскиBosanskiCatalàНохчийнکوردیČeštinaCymraegDanskΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano日本語ქართულიҚазақшаಕನ್ನಡ한국어कॉशुर / کٲشُرКыргызчаLatinaLatviešuമലയാളംМонголBahasa Melayuမြန်မာဘာသာNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsRomânăРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்ТоҷикӣไทยTürkçeУкраїнськаOʻzbekcha/ўзбекчаTiếng Việt吴语中文粵語
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 9. Februar 2020 um 17:50 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,414 @@
+
+
+
+Luft- und Raumfahrttechnik – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Luft- und Raumfahrttechnik}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Die Luft- und Raumfahrttechnik als Teil der Ingenieurwissenschaften und Verkehrstechnik befasst sich mit der Entwicklung und dem Betrieb bzw. Unterhalt von Flugzeugen, Flugkörpern, Raumfahrzeugen und Satelliten. Diese Systeme werden unter Berücksichtigung der technischen, wissenschaftlichen und ökologischen Aspekte weiterentwickelt.
+Dabei wird eine möglichst günstige Verknüpfung (Integration) von Komponenten und Teilsystemen angestrebt. Diese Integration erstreckt sich z. B. auf
+
+den strukturellen Aufbau eines möglichst leichten Fluggeräts
+die günstigste aerodynamische Form
+Triebwerke und deren Untersysteme
+Systeme für Energieversorgung, Steuerung, Datenübertragung und Kommunikation
+Untersysteme der Grundausrüstung, die Funktion und Sicherheit gewährleisten
+die Einsatz- sowie Nutzausrüstung (unterschiedlich je nach Art und Aufgabe des Systems)
+Je nach Einsatzprofil können weitere Anforderungen hinzukommen, z. B. in thermischer Hinsicht oder um den Bedingungen des Weltraums widerstehen zu können.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Geschichte der Luft- und Raumfahrttechnik
+2 Unternehmen und Institutionen
+
+2.1 Unternehmen und Institutionen in Deutschland
+2.2 Unternehmen und Institutionen in Österreich
+2.3 Unternehmen und Institutionen in der Schweiz
+
+
+3 Lehrinhalte
+4 Studienmöglichkeiten
+
+4.1 Deutschland
+
+4.1.1 Universitäten
+4.1.2 Fachhochschulen
+
+
+4.2 Österreich
+
+4.2.1 Höhere Technische Lehranstalten
+4.2.2 Universitäten
+4.2.3 Hochschulen für angewandte Wissenschaften
+
+
+4.3 Niederlande
+
+4.3.1 Technische Universitäten
+4.3.2 Hochschulen für angewandte Wissenschaften
+
+
+
+
+5 Siehe auch
+6 Literatur
+7 Weblinks
+8 Einzelnachweise
+
+
+[TITLE]{Geschichte der Luft- und Raumfahrttechnik[Bearbeiten | Quelltext bearbeiten]}
+Siehe separate Artikel Aeronautik, Geschichte der Luftfahrt und Geschichte der Raumfahrt.
+
+[TITLE]{Unternehmen und Institutionen[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Unternehmen und Institutionen in Deutschland[Bearbeiten | Quelltext bearbeiten]}
+Airbus Group
+Bundesverband der Deutschen Luft- und Raumfahrtindustrie
+Deutsche Gesellschaft für Luft- und Raumfahrt
+Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+Diehl Aerospace
+Diehl Aircabin
+Extra Aircraft
+Grob Aircraft
+ Hensoldt
+IABG
+Liebherr
+Lufthansa Technik
+MT Aerospace
+MTU Aero Engines
+OHB
+Rheinmetall
+Rockwell Collins
+Rolls-Royce Deutschland
+Saarschmiede GmbH
+Scholz Mechanik GmbH
+Zeppelin Luftschifftechnik
+[TITLE]{Unternehmen und Institutionen in Österreich[Bearbeiten | Quelltext bearbeiten]}
+AMES
+FACC AG
+Diamond Aircraft
+RUAG Aerospace Austria
+[TITLE]{Unternehmen und Institutionen in der Schweiz[Bearbeiten | Quelltext bearbeiten]}
+Pilatus Aircraft
+RUAG
+[TITLE]{Lehrinhalte[Bearbeiten | Quelltext bearbeiten]}
+Neben den Grundlagen des klassischen Maschinenbaus wie Mathematik, Physik, Chemie, Elektrotechnik, Regelungstechnik, Werkstoffkunde u. a. gehören die folgenden Lehrinhalte zum Studium der Luft- und Raumfahrttechnik:
+
+ggfs. Astronomie
+Gasdynamik
+Luftfahrtantriebe bzw. Raumfahrtantriebe
+Luftfahrtmechanik bzw. Raumflugmechanik
+Luftfahrzeugbau bzw. Raumfahrzeugbau
+Strömungslehre
+Turbomaschinen
+Daneben werden vielfach weitere Wahlpflichtfächer, ggfs. auch aus dem nichttechnischen Bereich, verlangt.
+
+[TITLE]{Studienmöglichkeiten[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Deutschland[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Universitäten[Bearbeiten | Quelltext bearbeiten]}
+Grundlegende Studiengänge (Bachelor):
+
+Universität der Bundeswehr München: Luft- und Raumfahrttechnik (B.Sc.)
+Universität Stuttgart: Luft- und Raumfahrttechnik (B.Sc.)
+Universität Würzburg: Luft- und Raumfahrtinformatik (B.Sc.)
+Weiterführende Studiengänge (Master):
+
+RWTH Aachen: Luft- und Raumfahrttechnik (M.Sc.)
+TU Berlin: Luft- und Raumfahrttechnik (M.Sc.)
+TU Braunschweig: Luft- und Raumfahrttechnik (M.Sc.)
+TU Dresden: Luft- und Raumfahrttechnik (Diplom)
+TU München: Luft- und Raumfahrt (M.Sc.)
+TU Hamburg-Harburg: Flugzeug-Systemtechnik (M.Sc.)
+Universität der Bundeswehr München: Luft- und Raumfahrttechnik (M.Sc.)
+Universität Stuttgart: Luft- und Raumfahrttechnik (M.Sc.)
+Universität Würzburg: Space Science and Technology, Luft- und Raumfahrtinformatik (M.Sc.)
+[TITLE]{Fachhochschulen[Bearbeiten | Quelltext bearbeiten]}
+Grundständige Studiengänge (Bachelor):
+
+FH Aachen: Luft- und Raumfahrttechnik (B.Eng.)
+Hochschule Bremen: Luft- und Raumfahrttechnik (B.Eng.)
+Hochschule für Angewandte Wissenschaften Hamburg: Flugzeugbau (B.Sc.)
+Technische Hochschule Ingolstadt: Luftfahrttechnik (B.Eng.)
+Hochschule für angewandte Wissenschaften München: Luft- und Raumfahrttechnik (B.Sc.)
+Hochschule Osnabrück: Aircraft and Flight Engineering (B.Sc.)
+Hochschule RheinMain: Elektro- und Luftfahrttechnik (B.Eng.)
+Weiterführende Studiengänge (Master):
+
+FH Aachen: Aerospace Engineering (M.Sc.)
+Hochschule Bremen: Aerospace Technologies (M.Sc.)
+Hochschule für Angewandte Wissenschaften Hamburg: Flugzeugbau (M.Sc.)
+Technische Hochschule Ingolstadt: Luftfahrttechnik (M.Eng.)
+Ernst-Abbe-Hochschule Jena: Raumfahrtelektronik (M.Eng.)
+Hochschule für angewandte Wissenschaften München: Luft- und Raumfahrttechnik (M.Sc.)
+[TITLE]{Österreich[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Höhere Technische Lehranstalten[Bearbeiten | Quelltext bearbeiten]}
+Es gibt in Österreich zwei HTL mit der Fachrichtung Flugtechnik:
+
+HTL Kapfenberg
+HTBLA Eisenstadt
+[TITLE]{Universitäten[Bearbeiten | Quelltext bearbeiten]}
+Der Masterstudiengang "Space Science and Earth from Space" beinhaltet die Vertiefungen Solar System Physics, Earth System from Space und Satellite Systems, welche sich mit Weltraumtechnik und Wissenschaften beschäftigen.  
+
+Technische Universität Graz[1]
+Universität Graz
+einzelne Lehrveranstaltungen, wie z. B. Einführung in den Flugzeugbau, Entwerfen von Flugzeugen, Moderne Weltraumantriebe - Advanced Space Propulsion Systems, Dynamik und Steuerung von Raumfahrzeugen u. a. als Freies Wahlfach oder im Rahmen eines Techn. Physik-, Maschinenbau-, o. ä. Studiums:
+
+Technische Universität Wien[2]
+[TITLE]{Hochschulen für angewandte Wissenschaften[Bearbeiten | Quelltext bearbeiten]}
+Eigenständiger Bachelor- und Masterstudiengang Luftfahrt/Aviation [REF]{(bis 2007: Diplomstudiengang mit Abschluss als „Diplomingenieur (FH) Luftfahrt/Aviation“)}:
+
+FH JOANNEUM Graz[3]
+Der Masterstudiengang Aerospace Engineering wird von der Fachhochschule Wiener Neustadt angeboten.
+
+FH Wiener Neustadt[4]
+[TITLE]{Niederlande[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Technische Universitäten[Bearbeiten | Quelltext bearbeiten]}
+TU Delft
+[TITLE]{Hochschulen für angewandte Wissenschaften[Bearbeiten | Quelltext bearbeiten]}
+INHolland
+[TITLE]{Siehe auch[Bearbeiten | Quelltext bearbeiten]}
+Flug- und Raumfahrtmedizin
+Flugzeugbau
+Maschinenbau
+Raumfahrttechnik
+Technik
+Verkehrstechnik
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Matthias Blazek: „Vor 75 Jahren begann in Trauen die Forschung in der Luft- und Raumfahrttechnik – Raketenpionier Eugen Sänger arbeitete in der Heide an der Entwicklung schubstarker Antriebe“. Sachsenspiegel 31, Cellesche Zeitung vom 4. August 2012
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Deutsches Zentrum für Luft- und Raumfahrt
+European Space Agency
+Luftraumexperten
+Deutsche Gesellschaft für Luft- und Raumfahrt
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ Masterstudium Space Sciences and Earth from Space - TU Graz. Abgerufen am 2. Februar 2020. 
+
+↑ [1], [2], [3], [4] tiss.tuwien.ac.at, abgerufen am 25. Juni 2011.
+
+↑ Luftfahrt / Aviation (Bachelor)@fh-joanneum.at, abgerufen am 24. Juni 2011.
+
+↑ Aerospace Engineering Programm
+
+
+Normdaten [REF]{(Sachbegriff): GND: 4474144-3 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Luft-_und_Raumfahrttechnik&oldid=203325726“
+Kategorien: VerkehrstechnikLuftfahrttechnikRaumfahrttechnikStudienfach
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+AfrikaansالعربيةAsturianuBrezhonegCatalàCorsuEnglishEsperantoEspañolEestiEuskaraفارسیFrançaisGalegoעבריתहिन्दीKreyòl ayisyenBahasa IndonesiaItaliano日本語ಕನ್ನಡ한국어LatinaLëtzebuergeschNederlandsPortuguêsRomânăРусскийSarduSimple EnglishShqipСрпски / srpskiSvenskaதமிழ்తెలుగుไทยTürkmençeTagalogTürkçeУкраїнськаاردوTiếng Việt中文
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 2. September 2020 um 08:45 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,630 @@
+
+
+
+Agroecology - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Agroecology}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+The study of ecological processes in agriculture
+Agroecology (a-grō-ē-ˈkä-lə-jē) is an applied science that studies ecological processes applied to agricultural production systems. Bringing ecological principles to bear can suggest new management approaches in agroecosystems. The term is often used imprecisely, as the term can be used as a science, a movement, or a agricultural practice.[1] Agroecologists study a variety of agroecosystems. The field of agroecology is not associated with any one particular method of farming, whether it be organic, integrated, or conventional, intensive or extensive, although some use the name specifically for alternative agriculture.
+
+[TITLE]{Contents}
+
+1 Definition
+
+1.1 Varieties
+
+
+2 History
+
+2.1 Overview
+2.2 Pre-WWII academic thought
+2.3 Post-WWII academic thought
+2.4 Social Movements
+
+
+3 By region
+
+3.1 Latin America
+3.2 Africa
+3.3 Europe
+
+
+4 Debate
+5 See also
+6 References
+7 Further reading
+8 External links
+
+8.1 Topic
+8.2 Organisations
+8.3 Courses
+
+
+
+
+[TITLE]{Definition[edit]}
+Agroecology is defined by the OECD as "the study of the relation of agricultural crops and environment."[2] Dalgaard et al. refer to agroecology as the study of the interactions between plants, animals, humans and the environment within agricultural systems.[3] Francis et al. also use the definition in the same way, but thought it should be restricted to growing food.[4]
+Agroecology is a holistic approach that foster to reconcile agriculture and local communities with natural processes for the common benefit of nature and livelihoods.
+Agroecology is inherently multidisciplinary, including sciences such as agronomy, ecology, environmental science, sociology, economics, history and others.[3] Agroecology uses different sciences to understand elements of ecosystems such as soil properties and plant-insect interactions, as well as using social sciences to understand the effects of farming practices on rural communities, economic constraints to developing new production methods, or cultural factors determining farming practices.[citation needed] The system properties of agroecosystems studied may include: productivity, stability, sustainability and equitability.[5] Agroecology is not limited to any one scale; it can range from individual gene to entire population, or from a single field to globally.[3]
+Wojtkowski differentiates the ecology of natural ecosystems with agroecology claiming that economics has no role in the functioning of natural systems, whereas economics ultimately controls agroecology. Humans are the primary governing force for organisms within planned and managed environments.[6][7] Wojtkowski discusses the application of agroecology in agriculture, forestry and agroforestry in his 2002 book.[6]
+
+[TITLE]{Varieties[edit]}
+Buttel identifies four varieties of agroecology in a 2003 conference paper. The main varieties he calls ecosystem agroecology which he claims derives from the ecosystem ecology of Howard T. Odum and focusses less on the rural sociology, and agronomic agroecology which he identifies as being oriented towards developing knowledge and practices to agriculture more sustainable. The third long-standing variety Buttel calls ecological political economy which he defines as critiquing the politics and economy of agriculture and weighted to radical politics. The smallest and newest variety Buttel coins agro-population ecology, which he says is very similar to the first, but is derived from the science of ecology primarily based on the more modern theories of population ecology such as population dynamics of constituent species, and their relationships to climate and biogeochemistry, and the role of genetics.[8]
+Dalgaard et al. identify different points of view: what they call early "integrative" agroecology, such as the investigations of Henry Gleason or Frederic Clements. The second version they cite Hecht [REF]{(1995)} as coining "hard" agroecology which they identify as more reactive to environmental politics but rooted in measurable units and technology. They themselves name "soft" agroecology which they define as trying to measure agroecology in terms of "soft capital" such as culture or experience.[3]
+The term agroecology may used by people for a science, movement or practice.[1][9] Using the name as a movement became more common in the 1990s, especially in the Americas.[9][10][11] Miguel Altieri, whom Buttel groups with the "political" agroecologists,[8] has published prolifically in this sense.[9] He has applied agroecology to sustainable agriculture,[12] alternative agriculture[13][14] and traditional knowledge.[15]
+
+[TITLE]{History[edit]}
+[TITLE]{Overview[edit]}
+The history of agroecology depends on whether you are referring to it as a body of thought or a method of practice, as many indigenous cultures around the world historically used and currently use practices we would now consider utilizing knowledge of agroecology. Examples include Maori, Nahuatl, and many other indigenous peoples.[16]
+Famously, the Mexica people that inhabited Tenochtitlan pre-colonization of the Americas used a process called chinampas that in many ways mirrors the use of composting in sustainable agriculture today.[17] The use of agroecological practices such as nutrient cycling and intercropping occurs across hundreds of years and many different cultures.[18] Indigenous peoples also currently make up a large proportion of people using agroecological practices, and those involved in the movement to move more farming into an agroecological paradigm.[19]
+
+[TITLE]{Pre-WWII academic thought[edit]}
+According to Gliessman and Francis et al., agronomy and ecology were first linked with the study of crop ecology by Klages in 1928. This work is a study of where crops can best be grown.[4][20][21]
+Wezel et al. say the first mention of the term agroecology was in 1928, with the publication of the term by Basil Bensin.[9] Dalgaard et al. claim the German zoologist Friederichs was the first to use the name in 1930 in his book on the zoology of agriculture and forestry,[3][22] followed by American crop physiologist Hansen in 1939, both using the word for the application of ecology within agriculture.[3]
+
+[TITLE]{Post-WWII academic thought[edit]}
+Tischler's 1965 book Agrarökologie may be the first to be titled 'agroecology'. He analyzed the different components (plants, animals, soils and climate) and their interactions within an agroecosystem as well as the impact of human agricultural management on these components.[23]
+Gliessman describes that post-WWII ecologists gave more focus to experiments in the natural environment, while agronomists dedicated their attention to the cultivated systems in agriculture, but in the 1970s agronomists saw the value of ecology, and ecologists began to use the agricultural systems as study plots, studies in agroecology grew more rapidly.[20] More books and articles using the concept of agroecosystems and the word agroecology started to appear in 1970s.[9] According to Dalgaard et al., it probably was the concept of "process ecology" such as studied by Arthur Tansley in the 1930s which inspired Harper's 1974 concept of agroecosystems, which they consider the foundation of modern agroecology.[3] Dalgaard et al. claim Frederic Clements's investigations on ecology using social sciences, community ecology and a "landscape perspective" is agroecology, as well as Henry Gleason's investigations of the population ecology of plants using different scientific disciplines.[3] Ethnobotanist Efraim Hernandez X.'s work on traditional knowledge in Mexico in the 1970s led to new education programs in agroecology.[4]
+Works such as Silent Spring, and  The Limits to Growth caused the public to be aware of the environmental costs of agricultural production, which caused more research in sustainability starting in the 1980s.[3] The view that the socio-economic context are fundamental was used in the 1982 article Agroecologia del Tropico Americano by Montaldo, who argues that this context cannot be separated from agriculture when designing agricultural practices.[4] In 1985 Miguel Altieri studied how the consolidation of the farms and cropping systems impact pest populations, and Gliessman how socio-economic, technological, and ecological components gave rise to producer choices of food production systems.[4]
+In 1995 Edens et al. in Sustainable Agriculture and Integrated Farming Systems considered the economics of systems, ecological impacts, and ethics and values in agriculture.[4]
+
+[TITLE]{Social Movements[edit]}
+Several social movements have adopted agroecology as part of their larger organizing strategy. Groups like la Via Campesina have used agroecology as a method for achieving food sovereignty.[24] Agroecology has also been utilized by farmers to resist global agricultural development patterns associated with the green revolution.[24]
+
+[TITLE]{By region[edit]}
+[TITLE]{Latin America[edit]}
+Main article: Agroecology in Latin America
+Agroecological techniques played an important role in alleviating the food crisis in Cuba following the dissolution of the Soviet Union.[25] Cuban organopónicos, part of Cuba's urban agriculture, have been studied in terms of agroecology.[26]
+Josep Garí studied the agroecology of the indigenous peoples of the Pastaza region in Brazil.[18] The local agroecology evolves with new knowledge and resources, such as that provided by development projects, research initiatives and exchanges of crops. Indigenous peoples advocated development policies and programmes to support their systems, rather than replace them.[27]
+
+[TITLE]{Africa[edit]}
+Garí wrote two papers for the FAO in the early 2000s about using an agroecological approach which he called "agrobiodiversity" to empower farmers to cope with the impacts of the AIDS on rural areas in Africa.[28][29]
+In 2011 the 1st encounter of agroecology trainers took place in Zimbabwe and issued the Shashe Declaration.
+
+[TITLE]{Europe[edit]}
+The European Commission supports the use of sustainable practices, such as precision agriculture, organic farming, agroecology, agroforestry and stricter animal welfare standards through the Green Deal and the Farm to Fork Strategy[30].
+
+[TITLE]{Debate[edit]}
+Within those academic research areas that focus on topics related to agriculture or ecology such as agronomy, veterinarian science, environmental science, and others, there is much debate regarding what model of agriculture or agroecology should be supported through policy. Agricultural departments of different countries support agroecology to varying degrees with the UN being perhaps its biggest proponent. 
+
+[TITLE]{See also[edit]}
+
+
+Agriculture and agronomy portal
+Ecology portal
+
+Agricultural biodiversity
+Agriculture in Concert with the Environment
+Agroecological restoration
+Agroecology in Latin America
+Agroecology in West Africa
+Agroecosystem
+Agrophysics
+Climate change and agriculture
+Community development
+Conventional agriculture
+Climate change and agriculture
+Climate change adaptation
+Edaphology
+Ecological economics
+Ecology of contexts
+Ecosystem services
+Environmental economics
+Environmental engineering
+Environmental impact assessment
+Environmental impact of agriculture
+Food-feed system
+Genetic erosion
+Human ecology
+Landscape ecology
+Life cycle analysis
+Nutrient management
+Political ecology
+Pollinator decline
+Rural development
+Social metabolism
+Soil science
+Sustainable agriculture
+Sustainable development
+
+[TITLE]{References[edit]}
+
+
+^ a b Wezel, A., Bellon, S., Doré, T., Francis, C., Vallod, D., David, C. [REF]{(2009)}. Agroecology as a science, a movement or a practice. A review. Agronomy for Sustainable Development
+
+^ [REF]{"Agro-ecology". Glossary of Statistical Terms. OECD. February 22, 2003.}
+
+^ a b c d e f g h i Dalgaard, Tommy, and Nicholas Hutchings, John Porter. "Agroecology, Scaling and Interdisciplinarity." Agriculture Ecosystems and Environment 100[REF]{(2003)}: 39-51.
+
+^ a b c d e f [REF]{Francis;  et al. [REF]{(2003). "Agroecology: the ecology of food systems". Journal of Sustainable Agriculture. 22 (3)}: 99–118. doi:10.1300/J064v22n03_10.}
+
+^ Conway, Gordon R. 1985. Agroecosystem analysis. Agricultural Administration, 20, 31-55.
+
+^ a b Wojtkowski, Paul A. [REF]{(2002)} Agroecological Perspectives in Agronomy, Forestry and Agroforestry. Science Publishers Inc., Enfield, New Hampshire, 356p.
+
+^ Wojtkowski, Paul A. [REF]{(2006)} Introduction to Agroecology: Principles and Practices. Haworth Press, Binghamton, NY, 404p.
+
+^ a b [REF]{Buttel, Frederick H. [REF]{(2003). "Envisioning the Future Development of Farming in the USA: Agroecology between Extinction and Multifunctionality?" (PDF)}. New Directions in Agroecology Research and Education. University of Wisconsin-Madison. pp. 1–14.}
+
+^ a b c d e Wezel, A., Soldat, V. [REF]{(2009). A quantitative and qualitative historical analysis of the scientific discipline agroecology. International Journal of Agricultural Sustainability 7 (1)}: 3-18. |doi=10.3763/ijas.2009.040
+
+^ Wibblemann et al. [REF]{(2013) Mainstreaming Agroecology: Implications for Global Food and Farming Systems. [REF]{"Archived copy" (PDF). Archived from the original (PDF) on 2016-05-22. Retrieved 2015-05-19.}CS1 maint: archived copy as title (link)}
+
+^ Vandermeer, J. 1995. The ecological basis of alternative agriculture. Annu. Rev. Ecol. Syst. 26: 201-224
+
+^ Agroecology.org Archived 2006-04-22 at the Wayback Machine
+
+^ Altieri, M.A. 1987. Agroecology: the scientific basis of alternative agriculture. Boulder: Westview Press
+
+^ Altieri, M.A. 1992. Agroecological foundations of alternative agriculture in California. Agriculture, Ecosystems and Environment 39: 23-53
+
+^ Miguel Altieri Applying Agroecology to Enhance the Productivity of Peasant Farming Systems in Latin America
+
+^ [REF]{"Indigenous Agroecology". Maramatanga.}
+
+^ [REF]{"Chinampa Agricultural System of Mexico City" (PDF). FAO.org. July 7, 2017.}
+
+^ a b [REF]{Garí, Josep [REF]{(2001)}. "Biodiversity and Indigenous Agroecology in Amazonia: The Indigenous Peoples of Pastaza". Etnoecologica. 5: 21–37.}
+
+^ Suárez-Torres, J., Suárez-López, J. R., López-Paredes, D., Morocho, H., Cachiguango-Cachiguango, L. E., & Dellai, W. [REF]{(2017, June 1)}. Agroecology and Health: Lessons from Indigenous Populations. Current Environmental Health Reports. https://doi.org/10.1007/s40572-017-0146-z
+
+^ a b Gliessman, Stephen. R  Agroecology: Ecological Processes in Sustainable Agriculture. Ann Arbor: Sleeping Bear Press, 1998.
+
+^ Klages, K.H.W. 1928. Crop ecology and ecological crop geography in the agronomic curriculum. J. Amer. Soc. Agron. 20:336-353.
+
+^ Friederichs, K. [REF]{(1930)} Die Grundfragen und Gesetzmäßigkeiten der land- und forstwirtschaftlichen Zoologie. Vol. 1: Ökologischer Teil, Vol. 2: Wirtschaftlicher Teil. Verlagsbuchhandlung Paul Parey, Berlin, Germany, 417 and 443 pp.
+
+^ Tischler, W. [REF]{(1965)}. Agrarökologie. Gustav Fischer Verlag, Jena, Germany, 499 pp.
+
+^ a b [REF]{Giraldo, Omar Felipe; Rosset, Peter M. [REF]{(2018-03-19). "Agroecology as a territory in dispute: between institutionality and social movements". The Journal of Peasant Studies. 45 (3)}: 545–564. doi:10.1080/03066150.2017.1353496. ISSN 0306-6150.}
+
+^ [REF]{Funes, Fernando; García, Luis; Bourque, Martin; Pérez, Nilda; Rosset, Peter [REF]{(January 2002)}. Sustainable Agriculture and Resistance: Transforming Food Production in Cuba. Oakland, CA: Food First Books. ISBN 978-0-935028-87-4.}
+
+^ [REF]{Cederlöf, Gustav [REF]{(2016). "Low-carbon food supply: The ecological geography of Cuban urban agriculture and agroecological theory" (PDF). Agriculture and Human Values. 33 (4)}: 771–784. doi:10.1007/s10460-015-9659-y.}
+
+^ Garí, Josep A. [REF]{(2000)}. The Political Ecology of Biodiversity. DPhil Dissertation, University of Oxford.
+
+^ Garí, Josep A. [REF]{(2003)}. Agrobiodiversity strategies to combat food insecurity and HIV/AIDS impact in rural Africa. FAO / Population and Development Service, Rome.
+
+^ Garí, Josep A. [REF]{(2004)}. Plant diversity, sustainable rural livelihoods and the HIV/AIDS crisis. Bangkok: UNDP & FAO, 2004. Published in English and Chinese. ISBN 974-92021-4-7.
+
+^ [REF]{"EUR-Lex - 52019DC0640 - EN - EUR-Lex". eur-lex.europa.eu. Retrieved 2020-06-24.}
+
+
+[TITLE]{Further reading[edit]}
+Buttel, F.H. and M.E. Gertler 1982. Agricultural structure, agricultural policy and environmental quality. Agriculture and Environment 7: 101-119.
+Carrol, C. R., J.H. Vandermeer and P.M. Rosset. 1990. Agroecology. McGraw Hill Publishing Company, New York.
+Paoletti, M.G., B.R. Stinner, and G.G. Lorenzoni, ed. Agricultural Ecology and Environment. New York: Elsevier Science Publisher B.V., 1989.
+Robertson, Philip, and Scott M Swinton. "Reconciling agricultural productivity and environmental integrity: a grand challenge for agriculture." Frontiers in Ecology and the Environment 3.1 [REF]{(2005)}: 38-46.
+Advances in Agroecology Book Series
+
+Soil Organic Matter in Sustainable Agriculture [REF]{(Advances in Agroecology) by Fred Magdoff and Ray R. Weil (Hardcover - May 27, 2004)}
+Agroforestry in Sustainable Agricultural Systems [REF]{(Advances in Agroecology) by Louise E. Buck, James P. Lassoie, and Erick C.M. Fernandes (Hardcover - Oct 1, 1998)}
+Agroecosystem Sustainability: Developing Practical Strategies [REF]{(Advances in Agroecology) by Stephen R. Gliessman (Hardcover - Sep 25, 2000)}
+Interactions Between Agroecosystems and Rural Communities [REF]{(Advances in Agroecology) by Cornelia Flora (Hardcover - Feb 5, 2001)}
+Landscape Ecology in Agroecosystems Management [REF]{(Advances in Agroecology) by Lech Ryszkowski (Hardcover - Dec 27, 2001)}
+Integrated Assessment of Health and Sustainability of Agroecosystems [REF]{(Advances in Agroecology) by Thomas Gitau, Margaret W. Gitau, David Waltner-ToewsClive A. Edwards June 2008 | Hardback: 978-1-4200-7277-8 (CRC Press)}
+Multi-Scale Integrated Analysis of Agroecosystems [REF]{(Advances in Agroecology) by Mario Giampietro 2003 | Hardback: 978-0-8493-1067-6 (CRC Press)}
+Soil Tillage in Agroecosystems [REF]{(Advances in Agroecology) edited by Adel El Titi 2002 | Hardback: 978-0-8493-1228-1 (CRC Press)}
+Tropical Agroecosystems [REF]{(Advances in Agroecology) edited by John H. Vandermeer 2002 | Hardback: 978-0-8493-1581-7 (CRC Press)}
+Structure and Function in Agroecosystem Design and Management [REF]{(Advances in Agroecology) edited by Masae Shiyomi, Hiroshi Koizumi 2001 | Hardback: 978-0-8493-0904-5 (CRC Press)}
+Biodiversity in Agroecosystems [REF]{(Advances in Agroecology) edited by Wanda W. Collins, Calvin O. Qualset 1998 | Hardback: 978-1-56670-290-4 (CRC Press)}
+Sustainable Agroecosystem Management: Integrating Ecology, Economics and Society. [REF]{(Advances in Agroecology) edited by Patrick J. Bohlen and Gar House 2009 | Hardback: 978-1-4200-5214-5 (CRC Press)}
+[TITLE]{External links[edit]}
+[TITLE]{Topic[edit]}
+Agroecology
+International Agroecology Action Network
+Spain
+The 10 elements of Agroecology
+[TITLE]{Organisations[edit]}
+Agroecology Europe - A European association for Agroecology
+[TITLE]{Courses[edit]}
+University of Wisconsin–Madison
+Montpellier, France
+University of Illinois at Urbana-Champaign
+Penn State
+European Master Agroecology
+Norwegian University of Life Sciences
+UC Santa Cruz Center for Agroecology & Sustainable Food Systems
+vteAgriculture
+Agritech
+Horticulture
+General
+Agribusiness
+Agricultural cooperative
+Agricultural supplies
+Agricultural science
+Agricultural engineering
+Agroforestry
+Agronomy
+Animal husbandry
+Animal-free agriculture
+Contract farming
+Extensive farming
+Farm
+Feed ratio
+Free range
+Intensive farming
+animals
+pigs
+crops
+Mechanised agriculture
+Organic farming
+Permaculture
+Sustainable agriculture
+Universities and colleges
+Urban agriculture
+History
+Prehistory
+Neolithic Revolution
+Agriculture in Mesoamerica
+Austronesian expansion
+Ancient history
+Ancient Egypt
+Ancient Greece
+Ancient Rome
+Post-classical
+Arab Agricultural Revolution
+Columbian exchange
+Modern history
+British Agricultural Revolution
+Green Revolution
+Organic
+Monoculture
+Types
+Agrivoltaic
+Aquaculture
+Cattle
+Dairy farming
+Fur farming
+Goat farming
+Grazing
+Convertible husbandry
+Rotational grazing
+Hydroponics
+Insect farming
+Livestock
+Paddy field
+Pig farming
+Poultry farming
+Orchards
+Sheep farming
+Terrace
+Wildlife farming
+Environmental impact
+Agricultural expansion
+Agricultural pollution
+Agricultural wastewater
+Overgrazing
+Environmental impact of irrigation
+Overdrafting
+Climate change and agriculture
+Categories
+Agriculture by country
+Agriculture companies
+Biotechnology
+Livestock
+Meat industry
+Poultry farming
+Agriculture and the environment
+
+ Category
+ Portal
+ Wikiproject
+
+vteEnvironmental social scienceFields
+Ecological anthropology
+Ecological economics
+Environmental anthropology
+Environmental economics
+Environmental communication
+Environmental history
+Environmental politics
+Environmental psychology
+Environmental sociology
+Human ecology
+Human geography
+Political ecology
+Regional science
+Related
+Agroecology
+Anthrozoology
+Behavioral geography
+Community studies
+Demography
+Design
+ecological
+environmental
+Ecological humanities
+Economics
+energy
+thermo
+Environmental
+education
+ethics
+law
+science
+studies
+Ethnobiology
+botany
+ecology
+zoology
+Forestry
+Industrial ecology
+Integrated geography
+Permaculture
+Rural sociology
+Science, technology and society
+science studies
+Sustainability
+science
+studies
+Systems ecology
+Urban
+ecology
+geography
+metabolism
+studies
+Applied
+Architecture
+landscape
+sustainable
+Ecopsychology
+Engineering
+ecological
+environmental
+Green criminology
+Health
+environmental
+epidemiology
+occupational
+public
+Management
+environmental
+fisheries
+forest
+natural resource
+waste
+Planning
+environmental
+land use
+regional
+spatial
+urban
+Policy
+energy
+environmental
+
+ Environment portal
+ Category
+Concepts
+Degrees
+Journals
+Research institutes
+Scholars
+
+Authority control 
+GND: 4000769-8
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Agroecology&oldid=980056204"
+Categories: AgroecologySustainable agricultureAgronomyAgricultureAgricultural soil scienceSubfields of ecologyEnvironmental social scienceOrganic farmingHabitat management equipment and methodsSustainable food systemEnvironmental conservationHidden categories: CS1 maint: archived copy as titleWebarchive template wayback linksArticles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from October 2019Wikipedia articles with GND identifiers
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+In other projects
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربيةAsturianuAzərbaycancaБългарскиCatalàDanskDeutschEestiEspañolEuskaraفارسیFrançaisՀայերենहिन्दीBahasa IndonesiaItalianoҚазақшаLatviešuBahasa MelayuNederlandsPolskiPortuguêsRomânăРусскийSlovenščinaСрпски / srpskiSvenskaУкраїнськаWinaray中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 24 September 2020, at 10:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

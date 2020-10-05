@@ -1,0 +1,321 @@
+
+
+
+Rechnungswesen – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Rechnungswesen}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+ Abgrenzung der Grundbegriffe des betriebswirtschaftlichen Rechnungswesens hinsichtlich des Gesamtvermögens, des betriebsnotwendigen Vermögens, des Geldvermögens und der Kasse.[1]
+Das Rechnungswesen (RW oder auch REWE) oder (seltener) Unternehmensrechnung ist ein Teilgebiet der Betriebswirtschaftslehre und dient der systematischen Erfassung, Überwachung und informatorischen Verdichtung der durch den betrieblichen Leistungsprozess entstehenden Geld- und Leistungsströme.
+Zum einen werden Geld- und Güterströme in einem Unternehmen dokumentiert, um gegenüber Außenstehenden Rechenschaft ablegen zu können (externes Rechnungswesen), zum Beispiel gegenüber dem Finanzamt, den Banken oder auch Kostenträgern im Gesundheitswesen. Zum anderen soll das Rechnungswesen dem Unternehmer aber auch die Daten liefern, die zur Steuerung und Planung des Unternehmens notwendig sind (internes Rechnungswesen). In der Schul- und Berufsausbildung mehrerer deutscher Bundesländer wird Rechnungswesen im Fach Kaufmännische Steuerung und Kontrolle (KSK) gelehrt.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Bereiche des Rechnungswesens
+
+1.1 Externes Rechnungswesen
+1.2 Internes Rechnungswesen
+1.3 Betriebswirtschaftliche Statistik und Vergleichsrechnung
+1.4 Planungsrechnung
+
+
+2 Rechtliche Grundlagen des Externen Rechnungswesens
+
+2.1 Deutschland
+2.2 Schweiz
+
+
+3 Siehe auch
+4 Literatur
+5 Weblinks
+6 Einzelnachweise
+
+
+[TITLE]{Bereiche des Rechnungswesens[Bearbeiten | Quelltext bearbeiten]}
+Das Rechnungswesen untergliedert sich in folgende vier Teilbereiche:
+
+[TITLE]{Externes Rechnungswesen[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Rechnungslegung
+Das externe Rechnungswesen (Rechnungslegung) bildet die finanzielle Situation des Unternehmens nach außen ab. Es stellt die Vermögens-, Finanz- und Ertragslage des Unternehmens im Jahresabschluss (Bilanz, Gewinn- und Verlustrechnung), der Kapitalflussrechnung und weiteren Instrumenten, die nicht notwendigerweise zahlenorientiert sind, wie dem Anhang und dem Lagebericht dar. Rechtliche Grundlage ist in Deutschland das Handelsgesetzbuch (HGB) und in Österreich das Unternehmensgesetzbuch (UGB)
+Die Buchführung ist der Teil des Rechnungswesens, der die im Unternehmen anfallenden Geschäftsvorfälle (z. B. der Einkauf von Waren und der Verkauf von Produkten) aufzeichnet.
+
+[TITLE]{Internes Rechnungswesen[Bearbeiten | Quelltext bearbeiten]}
+→ Hauptartikel: Controlling
+Das interne Rechnungswesen, auch als Controlling bezeichnet, beschäftigt sich mit der Planung, Kontrolle und Koordination bewerteter Unternehmensprozesse im Hinblick auf die Maximierung des Unternehmenserfolgs. Die so ermittelten Informationen sollen der objektiven Fundierung von Entscheidungen des Managements dienen. Dazu werden die Quellen des Erfolgs eines Unternehmens, insbesondere mit Hilfe der Kosten- und Leistungsrechnung und der Investitionsrechnung, analysiert und zu einem Controllingkonzept ausgebaut.
+Das interne Rechnungswesen ist prinzipiell nicht an die handels- und steuerrechtlichen Auflagen und Publizitätspflichten des externen Rechnungswesens gebunden, deshalb kann es auch mit abweichenden und zusätzlichen Bewertungsansätzen arbeiten. Neben unterschiedlichen Bewertungsansätzen für Faktorpreise sind abweichende Kosten unter dem Begriff kalkulatorische Kosten einzuordnen. Kalkulatorische Kosten können Zins (inkl. Risiko), Unternehmerlohn, Abschreibung, Miete etc. sein. Ferner ist die Betrachtung im Gegensatz zum externen Rechnungswesen überwiegend zukunftsorientiert, d. h., sie operiert mit Standard- und Planwerten. In der Regel werden auch die Komponenten des Gesamterfolgs auf Ebene der einzelnen Produkte und Dienstleistungen ermittelt und analysiert.
+
+Betriebsabrechnung (kalkulatorische Buchführung)
+Kostenartenrechnung
+Kostenstellenrechnung
+Kostenträgerrechnung
+kurzfristige Erfolgsrechnung (Betriebsergebnisrechnung)
+Selbstkostenrechnung (Kostenträgerstückrechnung)
+[TITLE]{Betriebswirtschaftliche Statistik und Vergleichsrechnung[Bearbeiten | Quelltext bearbeiten]}
+Betriebswirtschaftliche Statistik
+Einzelbetrieblicher Vergleich
+Soll-Ist-Vergleich
+Verfahrensvergleich
+Zeitvergleich
+Zwischenbetrieblicher Vergleich (siehe Benchmark)
+[TITLE]{Planungsrechnung[Bearbeiten | Quelltext bearbeiten]}
+Die Planungsrechnung beschäftigt sich mit unternehmens- und betriebsbezogener Vorschaurechnung unter Anwendung betriebswirtschaftlicher Methoden. Sie dient der Entscheidungsvorbereitung für diverse Bereiche und Strategien der Unternehmen.
+
+[TITLE]{Rechtliche Grundlagen des Externen Rechnungswesens[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Deutschland[Bearbeiten | Quelltext bearbeiten]}
+Wichtigste rechtliche Grundlagen zum Rechnungswesen in Deutschland ist für den handelsrechtlichen Einzel- und Konzernabschluss das Handelsgesetzbuch (§§ 238 ff. HGB). Auch die Empfehlungen des Deutschen Rechnungslegungs Standards Committees (DRSC) sind in bestimmten Fällen im Rahmen der Konzernrechnungslegung relevant. Der handelsrechtliche Einzelabschluss – zu erstellen von jedem Kaufmann – hat die Funktion der Bemessung von Ausschüttungsansprüchen der Eigentümer; der Konzernabschluss hat insbesondere Informationsfunktion und dient weder der Ausschüttungs-, noch der Steuerbemessung.  
+Ferner haben kapitalmarktorientierte Konzern-Mutterunternehmen mit Sitz in einem der Mitgliedsstaaten der EU ihren Konzernabschluss nach den International Financial Reporting Standards (IFRS) zu erstellen, was diese Unternehmen in Deutschland von der Konzernrechnungslegung nach dem HGB befreit.
+Für Zwecke der Steuerbemessung haben Gewerbetreibende, die entweder Kaufmann im Sinne des HGB sind oder bestimmte Größenkriterien erfüllen (nach § 141 AO), eine eigenständige Steuerbilanz zu erstellen, die sich am Einzelabschluss nach HGB orientiert (Maßgeblichkeitsprinzip). Hierbei sind neben dem HGB die Vorschriften des Steuerrechts zu beachten, insbesondere das Einkommensteuergesetz (EStG) und das Körperschaftsteuergesetz (KStG) und die dazugehörigen Durchführungsverordnungen.
+
+[TITLE]{Schweiz[Bearbeiten | Quelltext bearbeiten]}
+In der Schweiz hat die Rechnungslegung mindestens nach Obligationenrecht (OR) zu erfolgen. Um eine größere Transparenz für die Anleger zu erhalten, wurden die Fachempfehlungen zur Rechnungslegung (FER oder Swiss GAAP FER, nicht zu verwechseln mit IFRS) als Mindeststandard eingeführt, nach dem Unternehmen ihre Bilanzen und Erfolgsrechnungen aufbauen und gliedern. Speziell in der Schweiz ist auch die Problematik der stillen Reserven zu beachten.
+
+[TITLE]{Siehe auch[Bearbeiten | Quelltext bearbeiten]}
+Buchhaltung
+Carbon Accounting
+Zur Geschichte des Rechnungswesens, vgl. auch Geschichte der Buchführung
+Erfolgsrechnung
+Wirtschaftsprüfer
+Finanzbuchhaltung
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Adolf G. Coenenberg u. a.: [REF]{Jahresabschluss und Jahresabschlussanalyse: Betriebswirtschaftliche, handelsrechtliche, steuerrechtliche und internationale Grundlagen; HGB, IAS/IFRS, US-GAAP, DRS}. 22. Auflage. Schäffer-Poeschel Verlag, Stuttgart 2012, ISBN 978-3-7910-3182-8. 
+Michael Griga, Raymund Krauleidis: Bilanzen erstellen und lesen für Dummies. 2. Auflage, Wiley-VCH, 2010, ISBN 978-3-527-70598-6.
+Gerhard Scherrer: Rechnungslegung nach neuem HGB. 3. Auflage, Vahlen 2010, ISBN 978-3-8006-3787-4.
+Volker Schultz:  Basiswissen Rechnungswesen: Buchführung, Bilanzierung, Kostenrechnung, Controlling.  Beck-Wirtschaftsberater im dtv, Band 50957. 8. Auflage, C.H. Beck, München 2017, ISBN 978-3-423-50957-2.
+Jürgen Weber, Barbara E. Weißenberger: Einführung in das Rechnungswesen: Bilanzierung und Kostenrechnung. 8. Auflage, Schäffer-Poeschel, Stuttgart 2010, ISBN 978-3-7910-2923-8.
+Jochen Langenbeck: Kosten- und Leistungsrechnung. 2. Auflage, Herne 2011, ISBN 978-3-482-58672-9.
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Wiktionary: Rechnungswesen – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Commons: Rechnungswesen – Sammlung von Bildern, Videos und Audiodateien
+Skripten und Lehrmaterial
+
+Geschichte der doppelten Buchhaltung von Reto Sutter (PDF; 729 kB)
+Schweiz
+
+buchen.ch – Das 1×1 doppelte Buchhaltung und Rechnungswesen nach Schweizer Methode
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ Sönke Peters [REF]{(Begründer), Rolf Brühl, Johannes N. Stelling: [REF]{Betriebswirtschaftslehre. Einführung}. 12., durchgesehene Auflage. Oldenbourg Wissenschaftsverlag, München u. a. 2005, ISBN 3-486-57685-2 (Google Books)}. 
+
+
+Normdaten [REF]{(Sachbegriff): GND: 4048732-5 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Rechnungswesen&oldid=202848469“
+Kategorien: RechnungswesenSteuerrecht
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+Afrikaansالعربيةمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиবাংলাBosanskiCatalàChavacano de ZamboangaČeštinaCymraegDanskZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiNa Vosa VakavitiFrançaisGaeilge贛語GàidhligGalegoעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語ქართულიಕನ್ನಡ한국어КыргызчаЛезгиLingálaLietuviųLatviešuМакедонскиമലയാളംМонголBahasa Melayuမြန်မာဘာသာनेपालीNederlandsNorsk nynorskNorsk bokmålOccitanPolskiپښتوPortuguêsRomânăРусскийScotsسنڌيSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaGagana SamoaShqipСрпски / srpskiSundaSvenskaKiswahiliதமிழ்ไทยTagalogTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng Việt吴语IsiXhosaייִדיש中文文言Bân-lâm-gú粵語
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 17. August 2020 um 09:09 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

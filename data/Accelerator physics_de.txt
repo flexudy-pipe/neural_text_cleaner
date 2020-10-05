@@ -1,0 +1,255 @@
+
+
+
+Beschleunigerphysik – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Beschleunigerphysik}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Die Beschleunigerphysik ist ein interdisziplinäres Gebiet, das sich mit der Auslegung, dem Aufbau und Betrieb von Teilchenbeschleunigern befasst.[1][2] In Deutschland arbeiten etwa 800 Personen im Bereich der Beschleunigerphysik[3]. Etwa die Hälfte davon ist Teil des Komitees für Beschleunigerphysik und wird durch dessen Sprecher vertreten[4].
+Beschleunigerphysik kann grob umschrieben werden als
+
+Untersuchung der Bewegung, Manipulation und Beobachtung relativistischer, geladener Teilchenstrahlen und deren
+physikalischer Eigenschaften wie Energie, Raumladungsdichte, Emittanz, sowie deren
+Wechselwirkung mit elektromagnetischen Feldern der Beschleunigerstrukturen.
+Es existieren daher unter anderem Überschneidungen mit den Gebieten
+
+Hochfrequenztechnik (zur Auslegung von Beschleunigungsstrukturen als Hohlraumresonatoren im Mikrowellenbereich),
+Optik mit den Schwerpunkten Laserphysik (Laser-Teilchen-Wechselwirkung) und geometrische Optik (zur Untersuchung der Führungs- und Fokussiereigenschaften von Magneten) und
+Computertechnologie mit dem Schwerpunkt Digitale Signalverarbeitung (beispielsweise zur automatisierten Strahlmanipulation).
+Nicht zur Beschleunigerphysik zählen die mit Hilfe von Teilchenbeschleunigern durchgeführten Experimente zum Beispiel der Hochenergiephysik, Festkörperphysik oder Kernphysik.
+
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Beschleuniger und Speicherringe - Grundlagen der Teilchenphysik, abgerufen am 2. Mai 2014
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ D. A. Edwards, M. J. Syphers, An Introduction to the Physics of High-Energy Accelerators, Wiley, 1993, ISBN 0-471-55163-5.
+
+↑ Frank Hinterberger, Physik der Teilchenbeschleuniger und Ionenoptik, Springer, 2008, ISBN 978-3-540-75281-3.
+
+↑ TIARA Needs for Accelerator Scientists Report
+Burrows, P. (JAI, University of Oxford) et al. 2013
+
+↑  Wahlprotokoll der Wahl zum Komitee für Beschleunigerphysik 2013 [REF]{(Memento vom 13. April 2014 im Internet Archive)}. Website des Komitees für Beschleunigerphysik, abgerufen am 12. April 2014
+
+
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Beschleunigerphysik&oldid=201799035“
+Kategorie: Beschleunigerphysik
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+العربيةΕλληνικάEnglishفارسیFrançaisहिन्दीItaliano한국어МакедонскиPlattdüütschPortuguêsРусскийSvenskaTagalogTürkçeУкраїнськаTiếng Việt
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 12. Juli 2020 um 07:23 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

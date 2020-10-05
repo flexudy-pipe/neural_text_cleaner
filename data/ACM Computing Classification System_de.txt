@@ -1,0 +1,223 @@
+
+
+
+ACM Computing Classification System – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{ACM Computing Classification System}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Das ACM Computing Classification System ist eine von der Association for Computing Machinery (ACM) entwickelte und gepflegte Klassifikation für die Informatik.
+Sie ist, was sowohl Zielsetzung, als auch grundlegende Struktur und Umfang der Klassifikation betrifft, in etwa vergleichbar mit der Mathematics Subject Classification (MSC), dem Pendant der Mathematik. Das System ist primär in eine 3-Level-Hierarchie untergliedert, wobei jede Kategorie durch einen Großbuchstaben (A–K) und einer darauffolgenden Nummerierung identifiziert wird. Es existiert ein weiterer, schlüsseloser Level, welcher die der jeweiligen Kategorie zugeordneten Fachgebiete auflistet. Die erste Version der Klassifikation erschien im Jahr 1964. Es folgten Überarbeitungen in den Jahren 1982, 1983, 1987, 1991, 1998 und 2012.
+Zurzeit gibt es keine aktuelle deutsche Übersetzung der Klassifikation. Da alle Kategorien der Klassifikation durch einen eindeutigen Schlüssel identifiziert werden können, ist eine Übersetzung für eine Einordnung von Artikeln zur Kategorie nicht notwendig.
+
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+The 2012 ACM Computing Classification System, abgerufen am 29. März 2018.
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=ACM_Computing_Classification_System&oldid=185413591“
+Kategorien: InformatikKlassifikation
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+EnglishFrançaisItalianoУкраїнська
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 5. Februar 2019 um 19:42 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

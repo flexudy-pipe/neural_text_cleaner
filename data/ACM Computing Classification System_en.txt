@@ -1,0 +1,415 @@
+
+
+
+ACM Computing Classification System - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{ACM Computing Classification System}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+The ACM Computing Classification System (CCS) is a subject classification system for computing devised by the Association for Computing Machinery (ACM). The system is comparable to the Mathematics Subject Classification (MSC) in scope, aims, and structure, being used by the various ACM journals to organise subjects by area.
+
+[TITLE]{Contents}
+
+1 History
+2 Structure
+3 See also
+4 References
+5 External links
+
+
+[TITLE]{History[edit]}
+The system has gone through seven revisions, the first version being published in 1964, and revised versions appearing in 1982, 1983, 1987, 1991, 1998, and the now current version in 2012.
+
+[TITLE]{Structure[edit]}
+The ACM Computing Classification System, version 2012, has a revolutionary change in some areas, for example, in "Software" that now is called "Software and its engineering" which has three main subjects:
+
+Software organization and properties. This subject addresses properties of the software itself.
+Software notations and tools. This subject covers programming languages and other tools for writing programs.
+Software creation and management. This subject covers human activities including software management.
+It is hierarchically structured in four levels. Thus, for example, one branch of the hierarchy contains:
+
+Computing methodologies
+Artificial intelligence
+Knowledge representation and reasoning
+Ontology engineering
+[TITLE]{See also[edit]}
+Mathematics Subject Classification (MSC)
+Physics and Astronomy Classification Scheme (PACS)
+arXiv, a preprint server that uses a somewhat different subdivision of topics in its computer science subject areas but also allows papers to be classified using the ACM system
+PhySH (Physics Subject Headings)
+[TITLE]{References[edit]}
+[REF]{Coulter, Neal [REF]{(1997), "ACM's computing classification system reflects changing times", Communications of the ACM, New York, NY, USA: ACM, 40 (12)}: 111–112, doi:10.1145/265563.265579}.
+[REF]{Coulter, Neal [REF]{(chair); French, James; Glinert, Ephraim; Horton, Thomas; Mead, Nancy; Ralston, Anthony; Rada, Roy; Rodkin, Craig; Rous, Bernard; Tucker, Allen; Wegner, Peter; Weiss, Eric; Wierzbicki, Carol (January 21, 1998), "Computing Classification System 1998: Current Status and Future Maintenance Report of the CCS Update Committee" (PDF)}, Computing Reviews, New York, NY, USA: ACM: 1–5}.
+[REF]{Mirkin, Boris; Nascimento, Susana; Pereira, Luis Moniz [REF]{(2008), "Representing a Computer Science Research Organization on the ACM Computing Classification System",  in Eklund, Peter; Haemmerlé, Ollivier (eds.), Supplementary Proceedings of the 16th International Conference on Conceptual Structures (ICCS-2008) (PDF)}, CEUR Workshop Proceedings, 354, RWTH Aachen University, pp. 57–65}.
+[TITLE]{External links[edit]}
+ACM Computing Classification System is the homepage of the system, including links to four complete versions of the system, for 1964 [1], 1991 [2], 1998 [3], and the current 2012 version [4].
+The ACM Computing Research Repository uses a classification scheme that is much coarser than the ACM subject classification, and does not cover all areas of CS, but is intended to better cover active areas of research. In addition, papers in this repository are
+classified according to the ACM subject classification.
+
+
+This computer science article is a stub. You can help Wikipedia by expanding it.vte
+vteACM Computing Classification SystemThe 2012 version of the ACM classification has the following main categories.General and referenceDocument types • Cross-computing tools and techniquesHardwarePrinted circuit boards • Communication hardware, interfaces and storage • Integrated circuits • Very large scale integration design • Power and energy • Electronic design automation • Hardware validation • Hardware test • Robustness • Emerging technologiesComputer systems organizationArchitectures • Embedded and cyber-physical systems • Real-time systems • Dependable and fault-tolerant systems and networksNetworksNetwork architectures • Network protocols • Network components • Network algorithms • Network performance evaluation • Network properties • Network services • Network typesSoftware and its engineeringSoftware organization and properties • Software notations and tools • Software creation and managementTheory of computationModels of computation • Formal languages and automata theory • Computational complexity and cryptography • Logic • Design and analysis of algorithms • Randomness, geometry and discrete structures • Theory and algorithms for application domains • Semantics and reasoningMathematics of computingDiscrete mathematics • Probability and statistics • Mathematical software • Information theory • Mathematical analysis • Continuous mathematicsInformation systemsData management systems • Information storage systems • Information systems applications • World Wide Web • Information retrievalSecurity and privacyCryptography • Formal methods and theory of security • Security services • Intrusion/anomaly detection and malware mitigation • Security in hardware • Systems security • Network security • Database and storage security • Software and application security • Human and societal aspects of security and privacyHuman-centered computingHuman–computer interaction • Interaction design • Collaborative and social computing • Ubiquitous and mobile computing • Visualization • AccessibilityComputing methodologiesSymbolic and algebraic manipulation • Parallel computing methodologies • Artificial intelligence • Machine learning • Modeling and simulation • Computer graphics • Distributed computing methodologies • Concurrent computing methodologiesApplied computingElectronic commerce • Enterprise computing • Physical sciences and engineering • Life and medical sciences • Law, social and behavioral sciences • Computer forensics • Arts and humanities • Computers in other domains • Operations research • Education • Document management and text processingSocial and professional topicsProfessional topics • Computing/technology policy • User characteristicsProper nouns: people, technologies and companiesCompanies • Organizations • People in computing • Technologies
+vteComputer scienceNote: This template roughly follows the 2012 ACM Computing Classification System.Hardware
+Printed circuit board
+Peripheral
+Integrated circuit
+Very Large Scale Integration
+Systems on Chip (SoCs)
+Energy consumption (Green computing)
+Electronic design automation
+Hardware acceleration
+Computer systemsorganization
+Computer architecture
+Embedded system
+Real-time computing
+Dependability
+Networks
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+Software organization
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+Software notationsand tools
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+Software development
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software maintenance
+Programming team
+Open-source model
+Theory of computation
+Model of computation
+Formal language
+Automata theory
+Computability theory
+Computational complexity theory
+Logic
+Semantics
+Algorithms
+Algorithm design
+Analysis of algorithms
+Algorithmic efficiency
+Randomized algorithm
+Computational geometry
+Mathematicsof computing
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+Informationsystems
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+Security
+Cryptography
+Formal methods
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+Human–computerinteraction
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+Concurrency
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+Artificialintelligence
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+Machine learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Cross-validation
+Graphics
+Animation
+Rendering
+Image manipulation
+Graphics processing unit
+Mixed reality
+Virtual reality
+Image compression
+Solid modeling
+Appliedcomputing
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video games
+Word processing
+Operations research
+Educational technology
+Document management
+
+ Book
+ Category
+ Outline
+WikiProject
+ Commons
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ACM_Computing_Classification_System&oldid=972575670"
+Categories: Computer science stubsAssociation for Computing MachineryClassification systemsComputer science literature1964 in computingComputer-related introductions in 1964Association for Computing Machinery publicationsHidden categories: All stub articles
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+DeutschFrançaisItalianoУкраїнська
+Edit links
+
+
+
+
+
+
+ This page was last edited on 12 August 2020, at 20:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

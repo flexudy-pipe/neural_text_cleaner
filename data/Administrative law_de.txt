@@ -1,0 +1,361 @@
+
+
+
+Verwaltungsrecht (Deutschland) – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Verwaltungsrecht (Deutschland)}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Das Verwaltungsrecht ist das Recht der Exekutive, der Staatsverwaltung, und als solches – neben dem Staatsrecht – eine Teilmaterie des öffentlichen Rechts. Das Verwaltungsrecht regelt die Rechtsbeziehungen des Staates zu seinen Bürgern, aber auch die Funktionsweise der Institutionen der Verwaltung und ihr Verhältnis zueinander. Innerhalb des Verwaltungsrechts wird üblicherweise zwischen allgemeinem und besonderem Verwaltungsrecht unterschieden. Dabei legt das allgemeine Verwaltungsrecht die Grundlagen und Grundsätze der Verwaltung und ihrer Tätigkeit fest. Das besondere Verwaltungsrecht stellt fachspezifische Rechtsregeln für spezielle Tätigkeiten einzelner Verwaltungszweige auf (z. B. Baurecht, Kommunalrecht, Straßenverkehrsrecht).
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Verwalten
+2 Grundsätze des Verwaltungsrechts
+3 Das allgemeine Verwaltungsrecht
+4 Das besondere Verwaltungsrecht
+5 Verwaltungsprozessrecht
+6 Literatur
+7 Weblinks
+
+
+[TITLE]{Verwalten[Bearbeiten | Quelltext bearbeiten]}
+Verwalten ist das Besorgen eigener oder fremder Angelegenheiten. Die Staatsverwaltung ist die Erfüllung öffentlicher Aufgaben durch die Organe des Staates. Sie bildet einen Teil der Staatsgewalt, die sich in Gesetzgebung, Rechtsprechung und Verwaltung äußert (vgl. Gewaltenteilung in Dreiteilung der Gewalten, Montesquieu; 8, 63). Die öffentliche Verwaltung umfasst die Tätigkeiten, die der Staat oder ein anderes öffentlich-rechtliches Gemeinwesen (insbes. ein Verband) zur Erreichung seiner Zwecke unter eigener Rechtsordnung entfaltet und die weder Gesetzgebung noch Rechtsprechung sind (Model-Creifelds: S. 229).
+
+[TITLE]{Grundsätze des Verwaltungsrechts[Bearbeiten | Quelltext bearbeiten]}
+Grundsatz vom Vorrang des Gesetzes: kein Handeln gegen das Gesetz
+Grundsatz vom Vorbehalt des Gesetzes: kein Handeln ohne Gesetz
+Grundsatz der Verhältnismäßigkeit: die Verwaltung darf nicht stärker in die Rechte der Bürger eingreifen, als es der Zweck der Maßnahme erfordert
+Siehe auch: Ermessen, Beurteilungsspielraum und unbestimmter Rechtsbegriff
+[TITLE]{Das allgemeine Verwaltungsrecht[Bearbeiten | Quelltext bearbeiten]}
+Das allgemeine Verwaltungsrecht regelt die grundlegenden Rechtsinstitute und Verfahrensweisen, die dem Grunde nach in jedem Verwaltungsverfahren – unabhängig von dem jeweiligen Sachgebiet – anzutreffen sind und benötigt werden können.
+Im Einzelnen betrifft das allgemeine Verwaltungsrecht
+
+die Rechtsquellen des Verwaltungsrechts
+Völker- und Europarecht
+Verfassungsrecht
+einfache Gesetze
+Rechtsverordnungen
+Satzungen
+Verwaltungsvorschriften
+die Handlungsformen der Verwaltung, namentlich
+den Verwaltungsakt,
+den Verwaltungsrealakt,
+den öffentlich-rechtlichen Vertrag,
+verwaltungsrechtliche Schuldverhältnisse wie
+das verwaltungsrechtliche Verwahrungsverhältnis
+die öffentlich-rechtliche Geschäftsführung ohne Auftrag
+das Verfahren für das Zustandekommen von Verwaltungsakten, insbesondere
+das nicht-förmliche Verwaltungsverfahren, vor allem die Rechte und Pflichten der Verfahrensbeteiligten,
+die besonderen Verfahrenarten wie
+das förmliche Verwaltungsverfahren
+das Planfeststellungsverfahren
+das Rechtsbehelfsverfahren
+die zwangsweise Durchsetzung von Verwaltungsentscheidungen (Verwaltungsvollstreckung), insbesondere
+das Zwangsgeld,
+die Ersatzvornahme,
+den unmittelbaren Zwang
+die Nutzung einer Anstalt des öffentlichen Rechts und die Nutzung öffentlicher Sachen
+das Recht der öffentlich-rechtlichen Schadensersatz- und Entschädigungsleistungen, insbesondere
+Amtshaftung
+Enteignung und Aufopferung
+Folgenbeseitigungsanspruch
+die Organisation der Verwaltung wie die
+Bundesverwaltung
+Landesverwaltung
+Kommunalverwaltung
+Das allgemeine Verwaltungsrecht ist kodifiziert für die Verwaltungstätigkeit der Bundesbehörden im (Bundes-)Verwaltungsverfahrensgesetz (VwVfG) und für die Verwaltungstätigkeit der Landesbehörden in den entsprechenden Landesverwaltungsverfahrensgesetzen, die allerdings mit dem Bundes-Verwaltungsverfahrensgesetz weitgehend inhaltsgleich sind. Für einzelne Aspekte des allgemeinen Verwaltungsrechts sind daneben Spezialgesetze einschlägig, so etwa die Verwaltungs-Vollstreckungsgesetze des Bundes und der Länder für die zwangsweise Durchsetzung von Verwaltungsentscheidungen. Bis heute sind einzelne Teile jedoch auch noch nicht kodifiziert.
+
+[TITLE]{Das besondere Verwaltungsrecht[Bearbeiten | Quelltext bearbeiten]}
+Das besondere Verwaltungsrecht ist das „spezielle Verwaltungsrecht“, das auf die Erfordernisse jeweils bestimmter, sachlicher Verwaltungsaufgaben besonders zugeschnitten ist. Die Bestimmungen des besonderen Verwaltungsrechts treten neben das allgemeine Verwaltungsrecht, indem sie auf dessen Bestimmungen aufbauen, sie ergänzen oder auch modifizieren. Umgekehrt vervollständigt das allgemeine Verwaltungsrecht das besondere dort, wo letzteres keine eigenständigen Regelungen getroffen hat.
+Die folgende Aufstellung gibt eine mögliche, verbreitete systematische Strukturierung des besonderen Verwaltungsrechts wieder, ohne dass diese Aufstellung vollständig, in jeder Hinsicht überschneidungsfrei oder gar die einzig richtige wäre. Sind einzelne Materien vorrangig mit einem bestimmten Gesetz verbunden, so ist auch dieses (in Klammern) angegeben:
+
+das Ordnungsrecht bzw. das Recht der Gefahrenabwehr
+das allgemeine Polizei- und Ordnungsrecht
+das Recht der Nachrichtendienste
+das Bauordnungsrecht (die Landesbauordnungen)
+das Versammlungsrecht
+das Ausländerrecht
+das Kommunalrecht
+das sog. Kommunalverfassungsrecht (in den Gemeinde- und Kreisordnungen)
+das Kommunalwahlrecht
+das Kommunale Abgabenrecht
+das Raumordnungs-, Bau- und Fachplanungsrecht
+das Raumordnungs- und Landesplanungsrecht (das Raumordnungsgesetz – ROG)
+das Städtebaurecht (das Baugesetzbuch – BauGB)
+das Wirtschaftsverwaltungs- und Wirtschaftsaufsichtsrecht
+das Gewerberecht (die Gewerbeordnung – GewO), einschließlich
+des Gaststättenrechts (das Gaststättengesetz – GastG),
+des Handwerksrechts (die Handwerksordnung – HandwO),
+das Beförderungsrecht (das Personenbeförderungsgesetz – PBefG, das Güterkraftverkehrsgesetz – GüKG, das Allgemeine Eisenbahngesetz – AEG, das Bundeswasserstraßengesetz – WaStrG),
+das Energierecht (verschiedene Gesetze, da sehr komplex)
+das Kartellrecht (das Gesetz gegen Wettbewerbsbeschränkungen – GWB),
+das Telekommunikationsrecht (das Telekommunikationsgesetz – TKG)
+das Umweltrecht, insbesondere
+das Immissionsschutzrecht (das Bundes-Immissionsschutzgesetz – BImSchG),
+das Abfallrecht (das Kreislaufwirtschaftsgesetz – KrWG),
+das Wasserrecht (das Wasserhaushaltsgesetz – WHG – und die Landeswassergesetze),
+das Bodenschutzrecht (das Bundes-Bodenschutzgesetz – BBodSchG)
+das Arzneimittelrecht
+das Arzneimittelrecht (das Arzneimittelgesetz (Deutschland) für Human- und Tierarzneimittel – AMG mit dem Prinzip der Gefährdungshaftung), es beinhaltet essentielle Verordnungen:
+die GCP-Verordnung zur Umsetzung der europäischen Richtlinie 2001/20/EG über die Anwendung der guten klinischen Praxis
+die Arzneimittel- und Wirkstoffherstellungsverordnung [REF]{(eine Umsetzung der Guten Herstellungspraxis (EU-GMP-Leitfaden für Arzneimittel, Richtlinie 2003/94/EG))}
+das Betäubungsmittelrecht (das Betäubungsmittelgesetz (Deutschland) – BtMG und das Neue-psychoaktive-Stoffe-Gesetz – NpSG)
+das Apothekenrecht (das Apothekengesetz (Deutschland) – ApoG)
+das Arzneimittelwerberecht (Heilmittelwerbegesetz – HWG), auch im Zusammenhang mit dem Gesetz gegen den unlauteren Wettbewerb (dies gehört jedoch zur Kategorie Lauterkeitsrecht)
+alle weiteren ergänzenden Verordnungen und Verwaltungsvorschriften zu obigen Gesetzen; weiterhin gibt es auch relevante Empfehlungen (PEI, BfArM) und Leitfäden (ICH-GCP, ALCOA-C, GVP etc.)
+z. B.: Arzneimittelverschreibungsverordnung, Arzneimittel- und Wirkstoffherstellungsverordnung, Betäubungsmittel-Verschreibungsverordnung, Apothekenbetriebsordnung, GCP-Verordnung
+das Medizinproduktrecht (das Medizinproduktegesetz – MPG)
+das Bildungsrecht, insbesondere das Schul- und das Hochschulrecht
+das öffentliche Dienstrecht
+das Beamtenrecht
+das Wehr- und Zivildienstrecht
+das Sozialrecht mit z. T. abweichendem Verwaltungsverfahren im Zehnten Buch Sozialgesetzbuch (SGB X)
+das Steuerrecht und sonstige Abgabenrecht mit ebenfalls z. T. abweichendem Verwaltungsverfahren in der Abgabenordnung
+das gesamte Verkehrsrecht (mit Ausnahme des Verkehrszivilrechts und des Verkehrsstrafrechts)
+das Straßenverkehrsrecht
+das Straßen- und Wegerecht
+Das besondere Verwaltungsrecht ist – abhängig von der Verteilung der Gesetzgebungskompetenzen – sowohl durch Bundes- als auch durch Landesgesetze geregelt. Landesrecht ist dabei vorzugsweise im Gefahrenabwehr- und Kommunalrecht anzutreffen, während das Umweltrecht, das Planungsrecht und das Wirtschaftsverwaltungsrecht vorrangig auf Bundesebene geregelt sind. Neben die bundesgesetzlichen Bestimmungen tritt allerdings häufig ausführendes oder ergänzendes Landesrecht.
+Darüber hinaus wird das besondere Verwaltungsrecht in vielen Bereichen durch europäisches Recht überlagert und beeinflusst.
+
+[TITLE]{Verwaltungsprozessrecht[Bearbeiten | Quelltext bearbeiten]}
+Das Verwaltungsprozessrecht regelt den Rechtsschutz gegenüber den Handlungen oder Unterlassungen der Verwaltung vor der Verwaltungsgerichtsbarkeit. Es ist in der Verwaltungsgerichtsordnung (VwGO) gesetzlich geregelt.
+
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Becker, Bernd, Öffentliche Verwaltung. Percha 1989.
+Harald Hofmann, Jürgen Gerke, Uta Hildebrandt: Allgemeines Verwaltungsrecht mit Sozialverwaltungsverfahren,Bescheidtechnik, Verwaltungsvollstreckung und Rechtsschutz. 11. Auflage, 2016, Kohlhammer, ISBN 978-3-555-018720.
+Mario Martini: Verwaltungsprozessrecht und Allgemeines Verwaltungsrecht, 6. Aufl., München 2017, ISBN 978-3-8006-4998-3
+Hartmut Maurer: Allgemeines Verwaltungsrecht, 18. Aufl., München 2011, ISBN 978-3-406-61452-1
+Franz-Joseph Peine: Allgemeines Verwaltungsrecht, 7. Aufl., Heidelberg 2004, ISBN 3-8114-0819-4
+Steffen Detterbeck: Allgemeines Verwaltungsrecht mit Verwaltungsprozessrecht, 11. Aufl., München 2013, ISBN 978-3-406-64748-2
+Markus Engert: Die historische Entwicklung des Rechtsinstituts Verwaltungsakt. Frankfurt am Main 2002, ISBN 3-631-39690-2
+Model/Creifelds: Staatsbürger-Taschenbuch: Alles Wissenswerte über Europa, Staat, Verwaltung, Recht und Wirtschaft mit zahlreichen Schaubildern, 31. neubearbeitete Aufl., München 2003, ISBN 3-406-50997-5
+Külpmann, Christoph (Hrsg.): Besonderes Verwaltungsrecht im Assessorexamen, München 2011, ISBN 978-3-406-61612-9
+Eberhard Schmidt-Aßmann: Das allgemeine Verwaltungsrecht als Ordnungsidee, Grundlagen und Aufgaben der verwaltungsrechtlichen Systembildung, 2. Aufl., Berlin/Heidelberg 2004. Rezension zur 1. Auflage im Springer Verlag, Berlin 1998: Das haben wir schon immer so gemacht. Eberhard Schmidt-Aßmann sucht Konstanten des Verwaltungsrechts. FAZ, 31. Dezember 1999
+Eberhard Schmidt-Aßmann (Hrsg.): Besonderes Verwaltungsrecht, 13. Aufl., Berlin 2005, ISBN 3-89949-195-5
+Wolfgang Hoffmann-Riem, Eberhard Schmidt-Aßmann, Andreas Voßkuhle (Hrsg.): Grundlagen des Verwaltungsrechts (GVwR). 2 Bände. C.H. Beck, München 2006–2008, ISBN 3-406-53912-2, ISBN 978-3-406-54718-8
+Michael Stolleis: Geschichte des öffentlichen Rechts in Deutschland. 3 Bände, München 1988–1999
+Hans-Peter Vierhaus: Beweisrecht im Verwaltungsprozess, München 2011, Verlag C. H. Beck, ISBN 978-3-406-62025-6
+Mike Wienbracke, Allgemeines Verwaltungsrecht, 3. Aufl., Heidelberg 2012, ISBN 978-3-8114-7114-6
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Website des Bundesverwaltungsgerichts mit Entscheidungssammlung
+Hans-Uwe Erichsen, Wolfgang Martens [REF]{(Hrsg.): Allgemeines Verwaltungsrecht Walter de Gruyter, Berlin und New York, 1975. ISBN 3-11-004901-5 (zum damaligen Stand der Wissenschaft)}
+Sabine Gretscher: Die ”allgemeinen Grundsätze des Verwaltungsrechts” und die deutsche Rechtsquellenlehre Jena, Univ.-Diss. 2004
+Mario Martini: Die Handlungsinstrumente der öffentlichen Verwaltung. Knowledge-Map 4/II, 2008 (PDF; 91 kB)
+Ulrich Stelkens: Einführung in das Verwaltungsrecht. § 1 Einführung, Grundbegriffe, Grundfragen Deutsche Universität für Verwaltungswissenschaften Speyer, 2017
+Ulrich Battis: Deutsche Verwaltungsrechtswissenschaft in der Reform Bonner Rechtsjournal 2011, S. 41–45
+
+
+
+Bitte den Hinweis zu Rechtsthemen beachten!
+
+Normdaten [REF]{(Sachbegriff): GND: 4063351-2 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Verwaltungsrecht_(Deutschland)&oldid=194648167“
+Kategorien: Verwaltungsrecht (Deutschland)Verwaltungsrecht nach StaatRechtsstaat
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+Esperanto
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 5. Dezember 2019 um 10:24 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

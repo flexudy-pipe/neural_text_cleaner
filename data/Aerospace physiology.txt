@@ -1,0 +1,294 @@
+
+
+
+Aerospace physiology - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Aerospace physiology}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+Aerospace physiology is the study of the effects of high altitudes on the body, such as different pressures and levels of oxygen. At different altitudes the body may react in different ways, provoking more cardiac output, and producing more erythrocytes. These changes cause more energy waste in the body, causing muscle fatigue, but this varies depending on the level of the altitude.
+
+[TITLE]{Contents}
+
+1 Effects of altitude
+2 g-forces
+3 Hypoxia (medical)
+
+3.1 General effects
+3.2 Mountaineering disease
+
+
+4 Adaptation to low oxygen environments
+5 References
+6 External links
+
+
+[TITLE]{Effects of altitude[edit]}
+The physics that affect the body in the sky or in space are different from the ground.  For example, barometric pressure is different at different heights. At sea level barometric pressure is 760 mmHg; at 3.048 m above sea level, barometric pressure is 523 mmHg, and at 15.240 m, the barometric pressure is 87 mmHg.  As the barometric pressure decreases, atmospheric partial pressure decreases also. This pressure is always below 20% of the total barometric pressure. At sea level, alveolar partial pressure of oxygen is 104 mmHg, reaching 6000 meters above the sea level. This pressure will decrease up to 40 mmHg in a non-acclimated person, but in an acclimated person, it will decrease as much as 52 mmHg. This is because alveolar ventilation will increase more in the acclimated person.[1] Aviation physiology can also include the effect in humans and animals exposed for long periods of time inside pressurized cabins[2]
+The other main issue with altitude is hypoxia, caused by both the lack of barometric pressure and the decrease in oxygen as the body rises.[3] With exposure at higher altitudes, alveolar carbon dioxide partial pressure [REF]{(PCO2) decreases from 40 mmHg (sea level) to lower levels. With a person acclimated to sea level, ventilation increases about five times and the carbon dioxide partial pressure decreases up to 6 mmHg. In an altitude of 3040 meters, arterial saturation of oxygen elevates to 90%, but over this altitude arterial saturation of oxygen decreases rapidly as much as 70% (6000 m)}, and decreases more at higher altitudes.[4]
+
+[TITLE]{g-forces[edit]}
+g-forces are mostly experienced by the body during flight, especially high speed flight and space travel. This includes positive g-force, negative g-force and zero g-force, caused by simple acceleration, deceleration and centrifugal acceleration. When an airplane turns, centrifugal acceleration is determined by ƒ=mv2/r. This indicates that if speed increases, centrifugal acceleration force also increases in proportion to the square of the speed.[5]
+When an aviator is submitted to positive g-force in acceleration, the blood will move to the inferior part of the body, meaning that if the g-force is elevated, all the blood pressure in veins will increase. This means less blood reaches the heart, affecting its ability to function, with decreased circulation.[6]
+The effects for negative g-force can be more dangerous producing hyperemia and also psychotic episodes. In space, G forces are almost zero, which is called microgravity, meaning that the person is floating in the interior of the vessel. This happens because the gravity acts on the spaceship and in the body equally, both are pulled with the same forces of acceleration and also in the same direction.[7]
+
+[TITLE]{Hypoxia (medical)[edit]}
+[TITLE]{General effects[edit]}
+Hypoxia occurs when the bloodstream lacks oxygen. In an aerospace environment, this occurs because there is little or no oxygen. The work capacity of the body is reduced, decreasing the movement of all muscles (skeletal and cardiac muscles). The decrease in work capacity is related to the decrease of the oxygen of transportation velocity.[8] Some acute effects from hypoxia include: dizziness, laxity, mental fatigue, muscle fatigue and euphoria. These effects will affect a non-acclimated person starting in an altitude of 3650 meters above sea level. These effects will increase and can result in cramps or convulsions at an altitude of 5500 meters and will end in an altitude at 7000 meters with a coma.[8]
+
+[TITLE]{Mountaineering disease[edit]}
+One type of hypoxia related syndrome is mountaineering disease. A non-acclimated person that stays for a significant amount of time at a high altitude can develop high erythrocytes and hematocrit. Pulmonary arterial pressure will increase even if the person is acclimated, presenting dilatation of the right side of the heart. Peripheral arterial pressure is decreased, leading to congestive cardiac insufficiency, and death if exposure is long enough.[9] These effects are produced by a decrease of erythrocytes, which causes a significant increase of viscosity in blood. This causes diminished blood flow in tissues, so oxygen distribution decreases. The vasoconstriction of the pulmonary arterioles is caused by hypoxia in the right portion of the heart. Arteriole spasms include the major part of the blood flow through the pulmonary vessels, producing a short circuit in the blood flow giving less oxygen in blood. The person will recover if there is an administration of oxygen or if s/he is taken to low altitudes.[10]
+Mountaineering disease and pulmonary edema are most common in those who climb rapidly to a high altitude. This illness starts from a few hours up to two or three days after ascension to a high altitude. There exist two cases: acute cerebral edema and acute pulmonary edema. The first one is caused by the vasodilatation of the cerebral blood vessels produced by the hypoxia; the second one is caused by the vasoconstriction of the pulmonary arterioles, caused by the hypoxia.[9]
+
+[TITLE]{Adaptation to low oxygen environments[edit]}
+Hypoxia is the principal stimulus that increases the number of erythrocytes, increasing the hematocrit from 40 up to 60%, with an increase of the hemoglobin concentration in blood from 15 g/dl up to 20–21 g/dl. Also the blood volume increases 20% producing an increase of the corporal hemoglobin up 15% or more.[3] A person that stays for a period of time at higher altitudes acclimates, producing fewer effects over the human body.[3] There are several mechanisms that help with acclimation, which are an increase of pulmonary ventilation, higher erythrocytes levels, increase of the pulmonary diffusion capacity and increase of the vascularization of the peripheral tissues.[11]
+Arterial chemical receptors are stimulated by exposure to a low partial pressure and hence increase alveolar ventilation, up to a maximum of 1.65 times. Almost immediately, compensation for the higher altitude begins with an increase of pulmonary ventilation eliminating a large amount CO2. Carbon dioxide partial pressure reduces and corporal fluids pH increase. These actions inhibit the respiratory center of the encephalic trunk, but later this inhibition disappears and the respiratory center responds to the stimulation of the peripheral chemical receptors because of the hypoxia increasing ventilation up to six times.[12]
+Cardiac output increases up to 30% after a person rises to a high altitude, but it will decrease back to normal levels, depending on the increase of the hematocrit. The quantity of oxygen that goes to the peripheral tissues its relatively normal. Also a disease called "angiogenia" appears.[13]
+The kidneys respond to low carbon dioxide partial pressure by decreasing the secretion of hydrogen ions, and increasing the excretion of bicarbonate. This respiratory alkalosis reduces the concentration of HCO3 and return plasma pH to normal levels. The respiratory center responds to the stimulation of the peripheral chemical receptors produced by the hypoxia after the kidneys have recover the alkalosis.[14]
+
+[TITLE]{References[edit]}
+
+
+^ GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011;527
+
+^ GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011; 527
+
+^ a b c GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011; 528
+
+^ GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011;528
+
+^ GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011;531
+
+^ BORON, Walter. Et al. "Medical Physiology" 3 ed. España. Elsevier Saunders: 2012; 220
+
+^ BORON, Walter. Et al. Medical Physiology 3 ed. España. Elsevier Saunders: 2012; 224
+
+^ a b BEST &TAYLOR. Bases fisiológicas de la práctica médica. 11 ed. España. gElservier Saunders: 2006; 230
+
+^ a b BEST &TAYLOR. Bases fisiológicas de la práctica médica. 11 ed. España. gElservier Saunders: 2006; 228
+
+^ DOUGLAS, C. R. Tratado De Fisiologia Aplicada As Ciencias Da Saude. 5 Ed. Sp. Robe Ed Belman Ed. Imp. Exp. 2002.
+
+^ BORON, Walter. Et al. Medical Physiology 3 ed. España. Elsevier Saunders: 2012;221
+
+^ BORON, Walter. Et al. Medical Physiology 3 ed. España. Elsevier Saunders: 2012; 223
+
+^ GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011; 530
+
+^ GUYTON, A.C., HALL, J.E "Tratado De Fisiologia Médica" 10. Ed. Rj . Elsevier Saunders: 2011; 532
+
+
+[TITLE]{External links[edit]}
+Airman Education Programs: Aerospace Physiology Training
+FAA: Aircrew Health and Safety Videos
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Aerospace_physiology&oldid=923992825"
+Categories: Aviation medicineAerospacePhysiologyHidden categories: Use American English from January 2014All Wikipedia articles written in American English
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربيةBahasa Indonesia
+Edit links
+
+
+
+
+
+
+ This page was last edited on 1 November 2019, at 02:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

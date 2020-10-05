@@ -1,0 +1,351 @@
+
+
+
+Accompaniment - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Accompaniment}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Accompaniment" – news · newspapers · books · scholar · JSTOR [REF]{(July 2018) (Learn how and when to remove this template message)}
+ A waltz melody, which is usually in triple meter, is often supported by an "oom-pah-pah"-style accompaniment, which consists of a bass note in beat one followed by a chord that is played twice in beats two and three. Play (help·info)
+ "Walking basslines", so-named because they rise and fall in a regular pattern, are a widely used style of accompaniment bassline in jazz, blues and rockabilly. Play (help·info)
+ A guitarist playing the basso continuo accompaniment part for Baroque music composer Antonio Vivaldi's Cello concerto in 2008.
+Accompaniment is the musical part which provides the rhythmic and/or harmonic support for the melody or main themes of a song or instrumental piece. There are many different styles and types of accompaniment in different genres and styles of music. In homophonic music, the main accompaniment approach used in popular music, a clear vocal melody is supported by subordinate chords. In popular music and traditional music, the accompaniment parts typically provide the "beat" for the music and outline the chord progression of the song or instrumental piece. 
+The accompaniment for a vocal melody or instrumental solo can be played by a single musician playing an instrument such as piano, pipe organ, or guitar. While any instrument can in theory be used as an accompaniment instrument, keyboard and guitar-family instruments tend to be used if there is only a single instrument, as these instruments can play chords and basslines simultaneously (chords and a bassline are easier to play simultaneously on keyboard instruments, but a fingerpicking guitarist can play chords and a bassline simultaneously on guitar). A solo singer can accompany herself by playing guitar or piano while she sings, and in some rare cases, a solo singer can even accompany himself or herself just using his or her voice and body (e.g., Bobby McFerrin).
+Alternatively, the accompaniment to a vocal melody or instrumental solo can be provided by a musical ensemble, ranging in size from a duo (e.g., cello and piano; guitar and double bass; synthesizer and percussion); a trio (e.g., a rock power trio of electric guitar, electric bass and drum kit; an organ trio); a quartet (e.g., a string quartet in Classical music can accompany a solo singer; a rock band or rhythm section in rock and pop; a jazz quartet in jazz); all the way to larger ensembles, such as concert bands, Big Bands (in jazz), pit orchestras in musical theatre; and orchestras, which, in addition to playing symphonies, can also provide accompaniment to a concerto solo instrumentalist or to solo singers in opera. With choral music, the accompaniment to a vocal solo can be provided by other singers in the choir, who sing harmony parts or countermelodies. 
+Accompaniment parts range from so simple that a beginner can play them (e.g., simple three-note triad chords in a traditional folk song) to so complex that only an advanced player or singer can perform them (e.g., the piano parts in Schubert's Lieder art songs from the 19th century or vocal parts from a Renaissance music motet).
+
+[TITLE]{Contents}
+
+1 Definition
+
+1.1 Accompaniment figure
+1.2 Dialogue accompaniment
+
+
+2 Notation and improvisation
+3 See also
+4 References
+
+
+[TITLE]{Definition[edit]}
+ Mozart's Piano Sonata, K 545 opening. The right hand plays the melody, which is in the top stave. The left hand plays the accompaniment part, which is in the lower stave. In the first bar of the accompaniment part, the pianist plays a C Major chord in the left hand; this chord is arpeggiated (i.e., a chord in which the notes are played one after the other, rather than simultaneously). Play (help·info)
+An accompanist is a musician who plays an accompaniment part. Accompanists often play keyboard instruments (e.g., piano, pipe organ, synthesizer) or, in folk music and traditional styles, a guitar. While sight-reading (the ability to play a notated piece of music without preparing it) is important for many types of musicians, it is essential for professional accompanists. In auditions for musical theater and orchestras, an accompanist will often have to sight read music.
+A number of classical pianists have found success as accompanists rather than soloists; arguably the best known example is Gerald Moore, well known as a Lieder accompanist. In some American schools, the term collaborative piano is used, and hence, the title "collaborative pianist" (or collaborative artist) is replacing the title accompanist, because in many art songs and contemporary classical music songs, the piano part is complex and demands an advanced level of musicianship and technique. The term accompanist also refers to a musician (typically a pianist) who plays for singers, dancers, and other performers at an audition or rehearsal—but who does not necessarily participate in the ensemble that plays for the final performance (which might be an orchestra or a big band).
+
+[TITLE]{Accompaniment figure[edit]}
+An accompaniment figure is a musical gesture used repeatedly in an accompaniment, such as:
+
+Alberti bass and other arpeggio figures
+Ostinati figures (repeated lines) or, in popular music, riffs
+Notated accompaniment may be indicated obbligato (obliged) or ad libitum (at one's pleasure).
+
+[TITLE]{Dialogue accompaniment[edit]}
+Dialogue accompaniment is a form of call and response in which the lead and accompaniment alternate, the accompaniment playing during the rests of the lead and providing a drone or silence during the main melody or vocal.[1]
+
+[TITLE]{Notation and improvisation[edit]}
+The accompaniment instrumentalists and/or singers can be provided with a fully notated accompaniment part written or printed on sheet music. This is the norm in Classical music and in most large ensemble writing (e.g., orchestra, pit orchestra, choir). In popular music and traditional music, the accompaniment instrumentalists often improvise their accompaniment, either based on a lead sheet or chord chart which indicates the chords used in the song or piece (e.g., C Major, d minor, G7, or Nashville Numbers or Roman numerals, such as I, ii, V7, etc.) or by "playing by ear". To achieve a stylistic correct sound the accompaniment pattern should remind or imitate the original version using similar rhythms and patterns. 
+Chord-playing musicians (e.g., those playing guitar, piano, Hammond organ, etc.) can improvise chords, "fill-in" melodic lines and solos from the chord chart. It is rare for chords to be fully written out in music notation in pop and traditional music. Some guitarists, bassists and other stringed instrumentalists read accompaniment parts using tabulature (or "tab"), a notation system which shows the musician where on the instrument to play the notes. Drummers can play accompaniment by following the lead sheet, a sheet music part in music notation, or by playing by ear. 
+In pop and traditional music, bass players, which may be upright bass or electric bass, or another instrument, such as bass synth, depending on the style of music, are usually expected to be able to improvise a bassline from a chord chart or learn the song from a recording. In some cases, an arranger or composer may give a bassist a bass part that is fully written out in music notation. In. some arranged music parts, there is a mix of written-out accompaniment and improvisation. For example, in a big band bass part, the introduction and melody ("head") to a tune may have a fully notated bassline, but then for the improvised solos, the arranger may just write out chord symbols (e.g., Bb G7/c min F7), with the expectation that the bassist improvise her own walking bass part.
+
+[TITLE]{See also[edit]}
+Accordion left hand
+Comping
+Counter-melody
+Figure (music)
+Figured bass (Basso continuo)
+Guitar picking
+Hauptstimme
+Strum
+[TITLE]{References[edit]}
+
+
+
+Wikimedia Commons has media related to Accompaniment.
+
+
+
+^ van der Merwe, Peter [REF]{(1989)}. Origins of the Popular Style: The Antecedents of Twentieth-Century Popular Music, p.320. Oxford: Clarendon Press. ISBN 0-19-316121-4.
+
+
+vteAccompanimentMusical instruments
+Acoustic guitar
+Double bass
+Drum kit
+Electric bass
+Electric guitar
+Electric piano
+Hammond organ
+Piano
+Pipe organ
+Techniques and styles
+Alberti bass
+Arpeggio
+Banjo roll
+Bassline
+Basso continuo
+Chord
+Triadic chord
+Power chord
+Comping
+Counter-melody
+Drone
+Figuration
+Fill
+Groove
+Harmonization
+Obbligato
+Ostinato
+Riff
+Vamp
+Music ensembles
+Backup band
+Musical ensemble
+Orchestra
+Pit orchestra
+Rhythm section
+
+vteHarmony
+Accompaniment
+Alberti bass
+Banjo roll
+Cadence
+Chord
+Chord progression
+Four-part
+Harmonic rhythm
+Harmonization
+List of chords
+List of chord progressions
+Note
+Pitch
+Sequence
+Simultaneity
+Voice leading
+
+Authority control 
+GND: 4344715-6
+LCCN: sh2009003572
+NDL: 00560513
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Accompaniment&oldid=932612289"
+Categories: AccompanimentRhythm sectionHidden categories: Articles needing additional references from July 2018All articles needing additional referencesArticles with hAudio microformatsCommons category link is on WikidataWikipedia articles with GND identifiersWikipedia articles with LCCN identifiersWikipedia articles with NDL identifiers
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+In other projects
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربيةAzərbaycancaБългарскиCatalàDanskDeutschEestiEspañolEsperantoفارسیFrançais한국어ՀայերենItalianoಕನ್ನಡҚазақшаLatinaNederlands日本語Norsk bokmålNorsk nynorskOʻzbekcha/ўзбекчаPolskiPortuguêsРусскийSimple EnglishSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்ТоҷикӣУкраїнськаTiếng Việt中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 27 December 2019, at 04:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

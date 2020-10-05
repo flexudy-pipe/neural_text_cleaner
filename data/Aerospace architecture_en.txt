@@ -1,0 +1,280 @@
+
+
+
+Aerospace architecture - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Aerospace architecture}
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+This article is written like a personal reflection, personal essay, or argumentative essay that states a Wikipedia editor's personal feelings or presents an original argument about a topic. Please help improve it by rewriting it in an encyclopedic style. [REF]{(September 2020) (Learn how and when to remove this template message)}
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. [REF]{(September 2020) (Learn how and when to remove this template message)}
+There do not appear to be enough references currently present in this article to demonstrate notability. However, an editor has performed a search and claims that there are sufficient sources to indicate that this is a notable topic. You can help to improve the article by adding citations to reliable sources. Ideas for references may also be found on the Talk page. [REF]{(September 2020) (Learn how and when to remove this template message)}
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Aerospace architecture" – news · newspapers · books · scholar · JSTOR [REF]{(September 2020) (Learn how and when to remove this template message)}
+
+ (Learn how and when to remove this template message)
+Aerospace architecture is broadly defined to encompass architectural design of non-habitable and habitable structures and living and working environments in aerospace-related facilities, habitats, and vehicles. These environments include, but are not limited to: science platform aircraft and aircraft-deployable systems; space vehicles, space stations, habitats and lunar and planetary surface construction bases; and Earth-based control, experiment, launch, logistics, payload, simulation and test facilities. Earth analogs to space applications may include Antarctic, desert, high altitude, underground, undersea environments and closed ecological systems.
+The American Institute of Aeronautics and Astronautics (AIAA) Design Engineering Technical Committee (DETC) meets several times a year to discuss policy, education, standards, and practice issues pertaining to aerospace architecture. See http://www.spacearchitect.org/
+
+[TITLE]{Contents}
+
+1 The role of Appearance in Aerospace architecture
+2 Habitable Structures within Earth's Atmosphere
+
+2.1 Appearance/esthetics
+
+
+3 Habitable Structures outside of Low-Earth Orbit (LEO)
+
+3.1 Human-Centered Design
+3.2 Past Examples
+
+
+4 External links
+
+
+[TITLE]{The role of Appearance in Aerospace architecture[edit]}
+"The role of design creates and develops concepts and specifications that seek to simultaneously and synergistically optimize function, production, value and appearance." In connection with, and with respect to, human presence and interactions, appearance is a component of human factors and includes considerations of human characteristics, needs and interests.
+Appearance in this context refers to all visual aspects – the statics and dynamics of form(s), color(s), patterns, and textures in respect to all products, systems, services, and experiences. Appearance/esthetics affects humans both psychologically and physiologically and can effect/improving both human efficiency, attitude, and well-being. 
+In reference to non-habitable design the influence of appearance is minimal if not non-existent. However, as the industry of aerospace continues to rapidly grow, and missions to put humans on Mars and back to the Moon are being announced. The role that appearance/esthetics to maintain crew well-being and health of multi-month or year missions becomes a monumental factor in mission success. 
+
+[TITLE]{Habitable Structures within Earth's Atmosphere[edit]}
+[TITLE]{Appearance/esthetics[edit]}
+Appearance/esthetics in aerospace design must at least co-exist, if not be synergistic, with the overall/societal fundamentals/metrics of aerospace engineering design. These metrics, for atmospheric flight consist of overall/societal factors directed toward productivity, safety, environmental issues such as noise/emissions and accessibly/ affordability. Furthermore, technological parameters such as space, weight and drag minimization and propulsion efficiency highly dictate and restrain the boundaries of appearance/esthetic design. Major factors that need to be considered in atmospheric flight design include producability, maintainability, reliability, flyability, inspectability, flexibility, repairability, operability, durability, and airport compatibility. 
+
+[TITLE]{Habitable Structures outside of Low-Earth Orbit (LEO)[edit]}
+What is different concerning space in reference to human-centered design thinking is the nearly complete lack of human presence. Human-centered design influence wholly operates within the context of human interactions; how operations/ missions are ran (operability) or how products, systems, services, or experiences (PSSE’s) affect end users (usability). Currently the human presence involves the space station and the relatively few international rocket systems.
+
+[TITLE]{Human-Centered Design[edit]}
+Due to the large space boom and technological advancements, over the past decade numerous countries and companies have released statements that human expeditions to our solar system are far from done. With long duration confinement in limited interior space in micro-g with little-to-no real variability in environment, attention towards user [crew] subjects well-being, and mental alertness will pose complex human-centered design issues. Mars transit vehicles and surface habitats will constitute highly confined, technical settings characterized by social, emotional and physical deprivation while affording little opportunity to experience privacy and environmental variation. And esthetic/appearance measures for human exploration will emphasize upon “naturalistic countermeasures” to the innate/multitudinous stresses of such expeditions.
+Although human wants, needs, and limitations both physically and mentally need to be evaluated and address when designing for space. Design decisions must at least co-exist, if not be synergistic, with the overall metrics of aerospace engineering design. Ex. The International Space Station Toilet. 
+
+[TITLE]{Past Examples[edit]}
+A study conducted in 1989 (reference 2) found that when given multiple photographs and paintings as potential decoration of the international space station. Test (crew) subjects all individually preferred those with naturalistic, irrespective themes, and a large depth of field. Other examples of human-centered design is using pastel paints on the International Space Station (ISS) to contrast and provide “up/down” cues in micro-g environments or  the concept of dynamically and spatially adjusting lighting color and intensities to conform to daily and even seasonal biorhythms similar to earth to mitigate the societal separation effects experienced in space.
+
+[TITLE]{External links[edit]}
+American Institute of Aeronautics and Astronautics
+[1]
+Design Engineering Technical Committee of the AIAA
+Spacearchitect.org
+Sasakawa International Center for Space Architecture (SICSA)
+MOTHER Aerospace Architecture consultancy
+Architecture and Vision, Design Studio specializing on Aerospace Architecture and Technology Transfer
+LIQUIFER Systems Group, interdisciplinary design team developing architecture, design and systems for Earth and Space
+Synthesis, a fundamental design collaborative with experts from Space Architecture, Engineering and Industrial Design
+Earth2Orbit, Satellite & Launch Services, Human Space Systems, Robotic Systems, Infrastructure and High-Tech Facilities, Consulting
+The Galactic Suite Space Hotel
+Galactic Suite Design Aerospace Architecture and Experiences
+
+
+This article related to an architectural style is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Aerospace_architecture&oldid=980549504"
+Categories: Architectural stylesAerospace engineeringAerospaceArchitectural style stubsHidden categories: Wikipedia articles with style issues from September 2020All articles with style issuesArticles that may contain original research from September 2020All articles that may contain original researchArticles lacking sources from September 2020All articles lacking sourcesArticles with multiple maintenance issuesAll stub articles
+
+
+
+
+
+
+[TITLE]{Navigation menu}
+
+
+
+[TITLE]{
+Personal tools
+}
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+[TITLE]{
+Namespaces
+}
+
+
+
+ArticleTalk
+
+
+
+
+
+[TITLE]{
+Variants
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Views
+}
+
+
+
+ReadEditView history
+
+
+
+
+
+[TITLE]{
+More
+}
+
+
+
+
+
+
+
+[TITLE]{
+Search
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+[TITLE]{
+Contribute
+}
+
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+[TITLE]{
+Tools
+}
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+[TITLE]{
+Print/export
+}
+
+
+
+Download as PDFPrintable version
+
+
+
+
+[TITLE]{
+Languages
+}
+
+
+
+العربية
+Edit links
+
+
+
+
+
+
+ This page was last edited on 27 September 2020, at 04:14 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

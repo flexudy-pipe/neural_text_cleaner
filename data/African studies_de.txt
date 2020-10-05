@@ -1,0 +1,334 @@
+
+
+
+Afrikanistik im deutschen Sprachraum – Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Afrikanistik im deutschen Sprachraum}
+
+aus Wikipedia, der freien Enzyklopädie
+
+
+
+Zur Navigation springen
+Zur Suche springen
+Afrikanistik (auch Afrikawissenschaften) ist die Wissenschaftsdisziplin, die sich mit der Erforschung afrikanischer Sprachen und Kulturen beschäftigt. Im deutschsprachigen Raum war sie lange Zeit auf die wissenschaftliche Erforschung von Sprachen und Literaturen in Afrika beschränkt. Am Zentrum für Afrikastudien in Basel wird seit dem Wintersemester 2002/03 der interdisziplinäre Studiengang African Studies angeboten. Die African Studies in den USA sind als Teil der area studies eher sozialwissenschaftlich geprägt.
+Der für die Afrikanistik mit Abstand bedeutendste Linguist der zweiten Hälfte des 20. Jahrhunderts ist der Amerikaner Joseph Greenberg. Er hat die Klassifikation der afrikanischen Sprachen von Grund auf revolutioniert, indem er sie in vier Sprachfamilien einteilte: Afroasiatisch, Nilosaharanisch, Niger-Kongo und Khoisan. 
+Methodisch ist seine Einteilung aufgrund der gewählten Methode (Lexikostatistik, bzw. Lexikalischer Massenvergleich) hochumstritten, da diese Methode erstens rein statistisch vorgeht und zweitens unzureichendes Material zugrunde legt (ausschließlich Wörterlisten meist zweifelhafter Güte) und drittens in Zeitalter zurückreicht, die mit anderen linguistischen oder archäologischen Methoden niemals erfasst geschweige denn bestätigt werden könnten. Daher wird die Greenberg-Klassifikation heute zwar mangels Alternative als Ordnungssystem (etwa zur Herstellung von systematischen Bibliothekskatalogen) weitgehend akzeptiert, ihr genetischer Aussagegehalt jedoch nur mit starken Vorbehalten angenommen. Im Unterschied zur ursprünglichen Klassifikation wird beispielsweise die Khoisan-Gruppe heute eher als Sprachbund betrachtet.
+Siehe auch die ausführliche Geschichte der Klassifikation der afrikanischen Sprachen im Artikel Afrikanische Sprachen.
+
+[TITLE]{Inhaltsverzeichnis}
+
+1 Anfänge
+2 Deutsche Afrikanistik
+3 Das Fach Afrikanistik an Universitäten in Deutschland
+
+3.1 Afrikanologie an der Universität Bayreuth
+3.2 Afrikawissenschaften an der Humboldt-Universität zu Berlin
+
+
+4 Afrikanistik außerhalb Deutschlands
+
+4.1 Österreich
+4.2 Andere Länder
+
+
+5 Sachgebiete zu diesem Thema
+6 Literatur
+7 Weblinks
+8 Einzelnachweise
+
+
+[TITLE]{Anfänge[Bearbeiten | Quelltext bearbeiten]}
+ Zeitgenössische Illustration des Treffens von Stanley und Livingstone
+Die europäische Afrikanistik beginnt mit den Missionssprachwissenschaften, an deren Anfang die Kikongo-Grammatik des Italieners Brusciotto steht. Fast gleichzeitig erschien das Wörterbuch zum Kenzi-Dialekt von Carradori da Pistoia. Etwas später folgte die Grammatik der altäthiopischen Sprache von Hiob Ludolf, der damit die Äthiopistik begründete. 
+Im 19. Jahrhundert fanden die großen Entdeckungsreisen in das Innere Afrikas statt. Zu den bekannten Afrikaforschern gehören Mungo Park, David Livingstone, Heinrich Barth, Adolf Overweg, Gustav Nachtigal und Georg Schweinfurth. Zur gleichen Zeit befassten sich Missionare mit den afrikanischen Sprachen. Beispielhaft sind hier Johann Gottlieb Christaller und Johann Ludwig Krapf zu nennen. Ein Sprachwissenschaftler, der sogar über die Bantu-Sprachen promoviert hatte, wie Wilhelm Heinrich Immanuel Bleek, war angesichts des akademischen Desinteresses an afrikanischen Sprachen gezwungen, nach Kapstadt auszuwandern und seine Forschungen dort als Bibliothekar fortzusetzen. Auch die umfangreichen sprachwissenschaftlichen Forschungen von Heinrich Barth fanden erst im 20. Jahrhundert die gebührende Anerkennung. Eine besonders große Rolle spielt bis heute das Werk von Sigismund Wilhelm Koelle, dessen „Polyglotta Africana“ [REF]{(1854)} vieles späterer Sprachklassifikationen vorwegnimmt und eines der ersten nicht von rassistischen Untertönen und evolutionistischen Modellen geleiteten komparativen Werke darstellt. Ähnlich große Bedeutung ist Karl Richard Lepsius beizumessen, der im Vorwort seiner „Nubischen Grammatik“ wesentliche Fragen der Sprachgeschichte Afrikas behandelte.
+
+[TITLE]{Deutsche Afrikanistik[Bearbeiten | Quelltext bearbeiten]}
+Es waren aber in erster Linie Carl Meinhof und Diedrich Westermann, die mit ihren Arbeiten zu den Bantu- und Sudan-Sprachen das Bild der deutschen Afrikanistik prägten. Die beiden Theologen waren auch die ersten Professoren für Afrikanistik in Hamburg und Berlin (Seminar für Orientalische Sprachen). In Wien wirkte zur gleichen Zeit der Ägyptologe und Afrikanist Wilhelm Czermak. Die frühe Jahrzehnte der akademischen Afrikanistik waren geprägt von der z. T. sehr hohen Qualität deskriptiver Forschung – etwa Westermanns umfangreiches Werk zum Ewe –, sowie der Debatte um die (genetischen) Beziehungen der einzelnen Sprachen zueinander.
+Von Anfang an war jedoch die Afrikanistik in das politische Programm des Kolonialismus des Deutschen Reiches eingebunden, für das sie praktisch verwertbare Erkenntnisse zu logistischen und propagandistischen Zwecken zur Verfügung zu stellen hatte. Werner Eiselen, der geistige Vater des Bantu Education Act, war in den 20er Jahren Dozent für Bantu-Sprachen am Afrika-Institut in Hamburg.
+Beeinflusst von der Ideologie des deutschen Kolonialismus widmeten sich in dieser Zeit Afrikanisten auch der Entwicklung scheinwissenschaftlicher Theorien, in Deutschland vor allem auch der sogenannten Hamitentheorie, die die Hegemonieansprüche von den Kolonialherren auserwählter „Herrenvölker“ untermauerte, wenn deren Sprache über bestimmte Merkmale (z. B. Nominalklassen) verfügte.
+Dabei ging es im Wesentlichen um eine ideologisch verbrämte Weiterführung evolutionistischer Modelle die sich eine typologische Entwicklung von isolierenden über agglutinierende hin zu flektierenden Sprachen vorstellten. Die an Wilhelm von Humboldt und August Schleicher erinnernden Begrifflichkeiten wurden dabei vollkommen verdreht, indem ein in deren Theorien nicht existierendes chauvinistisches Hierarchiemodell den neuen Modellen zugrundegelegt wurde (vgl. auch die sowjetische Japhetitentheorie). Auf Afrika übertragen wurde dieses Modell sogar extrem rassistisch interpretiert, wobei der isolierende Sprachtyp mit einer „primitiven“ afrikanischen „Urbevölkerung“ verknüpft wurde, die sich dann mit einwandernden viehzüchtenden Sprechern flektierender Sprachen mischten und so einen agglutinierenden Sprachtyp mit Nominalklassen als „Vorstufe“ des grammatischen Genus hervorbrachten.
+Wenngleich bereits Lepsius eine solche Entwicklung überzeugend ausgeschlossen hatte, dienten Sprachen wie das Fulfulde noch in der ersten Hälfte des 20. Jahrhunderts als vermeintlicher Beleg für die Sinnhaftigkeit der Hamitentheorie. Dabei galt vor allem die Anlautmutation des Fulfulde als untrüglicher Hinweis auf eine im Entstehen begriffene Genusdistinktion.
+Während Carl Meinhof an derartigen ideologisch motivierten Modellen festhielt, widersprach August Klingenheben in seinen Studien zum Fulfulde der Hamitentheorie bereits 1924/25. Weitere deutsche Afrikanisten waren der Tschadist Johannes Lukas und der Bantuist Ernst Dammann. Lukas war in Hamburg der Lehrer einer ganzen Generation prägender Afrikanisten (z. B. Herrmann Jungraithmayr, Ekkehard Wolff, Ludwig Gerhardt). Dammann lehrte sowohl in Leipzig als auch in Berlin und Marburg, wo er u. a. Lehrer von Gudrun Miehe war.
+Wie Hilke Meyer-Bahlburg und Ekkehard Wolff zeigen konnten[1], war die Afrikanistik während des Nationalsozialismus tief in das Naziregime verstrickt. Sämtliche bedeutenden Afrikanisten waren frühzeitig in die NSDAP eingetreten, lange bevor man einen politischen Druck als mögliche Rechtfertigung geltend machen kann.
+Eine weitere wichtige Figur der nationalsozialistischen Afrikanistik war Otto Rössler. Neben seinen afrikanistischen Forschungen zur Semitohamitistik trat er jedoch vor allem als Semitist in Erscheinung. In den 40er Jahren war er in Tübingen tätig, wo zu seinen Aufgabengebieten gehörte, die „exekutive Lösung der Judenfrage durch tiefer gehende Kenntnisse“ zu unterstützen. Nach dem Krieg wirkte Rössler zunächst weiter als Professor in Tübingen, sowie bis 1975 in Marburg.
+In der Bundesrepublik Deutschland wurde bis 1986 die historische Verflechtung der Afrikanistik mit Kolonialismus und Nationalsozialismus nicht historisch aufgearbeitet. Die kritische Diskussion der 68er-Bewegung ging spurlos an dem Nischenfach vorüber. Noch heute werden Carl Meinhof, August Klingenheben, Johannes Lukas und Ernst Dammann an manchen Hochschulstandorten als völlig unproblematische Persönlichkeiten in die hehre Ahnenreihe verdienter Afrikanisten eingeordnet und deren Traditionslinie und Forschungsprogramm kontinuierlich modernisiert fortgeschrieben.
+Die Afrikanistik in Deutschland konnte sich in der Nachkriegszeit weiter konsolidieren, wobei neue Institute in Köln, Marburg (später gewechselt nach Frankfurt am Main), und Bayreuth gegründet wurden. Es bestand auch eine Afrikanistik an der Ludwig-Maximilians-Universität München. In dieser Zeit fand eine Stärkung interdisziplinärer Forschung statt, die sowohl deskriptive Grundlagenforschung wie auch Fragen historischer Zusammenhänge kritisch beleuchtende Forschung war. Eine große Rolle spielte bis zum Ende des 20. Jahrhunderts die Auseinandersetzung mit dem afrikalinguistischen Werk Joseph Harold Greenbergs.
+Der in Köln tätige Oswin Köhler gilt heute als Begründer der Khoisanistik. Sein wissenschaftliches Werk hat Bedeutung für eine große Gruppe von Linguisten, die sich mit den sog. click languages des südlichen Afrikas beschäftigen. Schüler Köhlers sind u. a. der Bantuist Wilhelm Möhlig und der Typologe Bernd Heine, die die Kölner Afrikanistik nachhaltig prägten.
+
+[TITLE]{Das Fach Afrikanistik an Universitäten in Deutschland[Bearbeiten | Quelltext bearbeiten]}
+Heute [REF]{(Stand Juni 2019)} ist die Afrikanistik in Deutschland an sieben Hochschulstandorten mit insgesamt 17 Lehrstühlen vertreten.[2] Die schon seit Westermann in der deutschen Afrikanistik bestehende Ausrichtung des Faches – afrikanische Sprachen werden in ihrem kulturellen und sozialgeschichtlichen Kontext betrachtet – lebt an vielen dieser Standorte durchaus fort, was im internationalen Vergleich insgesamt als vorteilhaft gesehen wird. Die starke interdisziplinäre Ausrichtung des Faches hat es zu einer innovativen und sehr produktiven akademischen Disziplin werden lassen, die sich in vielfältigen wissenschaftlichen Großprojekten beteiligt.
+An folgenden deutschen Hochschulen werden Studiengänge im Fach Afrikanistik angeboten:
+
+Universität Bayreuth
+Humboldt-Universität zu Berlin
+Goethe-Universität Frankfurt
+Universität Hamburg
+Universität zu Köln
+Universität Leipzig
+Johannes Gutenberg-Universität Mainz
+Die Afrikanistik ist in Deutschland als Kleines Fach eingestuft, siehe auch Liste der Kleinen Fächer.
+
+[TITLE]{Afrikanologie an der Universität Bayreuth[Bearbeiten | Quelltext bearbeiten]}
+Afrikanologie ist ein interdisziplinärer Aufbaustudiengang innerhalb der Afrikanistik, der auf Empfehlung des Strukturbeirats der Universität Bayreuth eingerichtet wurde. Er beinhaltet sowohl natur-, rechts-, wirtschafts-, sprach- und literatur- wie auch kulturwissenschaftliche Elemente.
+Studierende, die einen Masterabschluss im Fach „Kultur und Gesellschaft Afrikas“ anstreben,[3] können auch Angebote für die Bachelor-Studiengänge „Kultur und Gesellschaft Afrikas“, „Afrikanische Sprachen und Literaturen“ sowie der „Geschichte Afrikas“ wahrnehmen.[4][5]
+Es wird vermutet, dass Angehörige der bayerischen Staatsregierung aufgrund der vielfältigen Afrikainteressen an der Einrichtung des Studiengangs inspirierend mitgewirkt haben; hierbei spielte wohl die Intention eine Rolle, die dortige Universität zu einem Zentrum der Afrikaforschung in Deutschland auszubauen. Bisher, so schreibt „Die Zeit“, sei die Resonanz noch gering; lediglich 12 Studenten hätten das Aufbaustudium bisher absolviert.[6]
+
+[TITLE]{Afrikawissenschaften an der Humboldt-Universität zu Berlin[Bearbeiten | Quelltext bearbeiten]}
+An der Humboldt-Universität zu Berlin gibt es die Möglichkeit für ein Afrikawissenschaften als auch das Bachelorstudium „Regionalstudien Asien/Afrika“ mit Schwerpunkt Afrika, das inhaltlich einem BA Afrikawissenschaften oder BA Afrikanistik entspricht.
+
+[TITLE]{Afrikanistik außerhalb Deutschlands[Bearbeiten | Quelltext bearbeiten]}
+[TITLE]{Österreich[Bearbeiten | Quelltext bearbeiten]}
+Die Afrikanistik an der Universität Wien hat eine lange Tradition, die mit Leo Reinisch begann. Ab 1873 wurden afrikanistische Vorlesungen zu den Themen „Philologie, Alterthumskunde und Linguistik“ angeboten. 1923 wurde ein eigenes Institut für Afrikanistik und Ägyptologie eingerichtet. Mit der Habilitation von Hans Günther Mukarovsky im Bereich der afrikanischen Sprachwissenschaft im Jahr 1963 und der Einrichtung eines Lehrstuhls für Afrikanistik 1977 wurde das Institut für Afrikanistik im Jahr 1978 von der Ägyptologie unabhängig. Die Afrikanistik in Wien beschäftigt sich mit vier Aspekten der Afrikawissenschaften: Geschichts-, Literatur-, Sprachwissenschaft sowie Sprachvermittlung.
+Charakteristisch ist die Einbeziehung Nordafrikas inklusive der Altertumskunde dieses Raumes, vor allem der Meroitistik durch Inge Hofmann und Michael Zach und der Berberologie.
+
+[TITLE]{Andere Länder[Bearbeiten | Quelltext bearbeiten]}
+In anderen Ländern entwickelte sich die Afrikanistik erst nach und nach, hier wären vor allem Clement M. Doke (Südafrika), Ernest Renan (Frankreich) und Malcolm Guthrie (Großbritannien) zu nennen.
+
+[TITLE]{Sachgebiete zu diesem Thema[Bearbeiten | Quelltext bearbeiten]}
+Liste der Afrikaforscher
+[TITLE]{Literatur[Bearbeiten | Quelltext bearbeiten]}
+Siehe die chronologisch geordnete Literatur zum Artikel Afrikanische Sprachen.
+
+Hilke Meyer-Bahlburg, Ekkehard Wolff: Afrikanische Sprachen in Forschung und Lehre. 75 Jahre Afrikanistik in Hamburg [REF]{(1909-1984)}., Dietrich Reimer, Berlin/Hamburg, 1986, ISBN 3-496-00828-8
+Herrmann Jungraithmayr, Wilhelm J.G. Möhlig [REF]{(Hrsg.): Lexikon der Afrikanistik. Dietrich Reimer, Berlin 1983, ISBN 3-496-00146-1 (linguistisch weitgehend veraltet, historisch und biographisch brauchbar)}
+Holger Stoecker: Afrikawissenschaften in Berlin von 1919 bis 1945. Zur Geschichte und Topographie eines wissenschaftlichen Netzwerkes. Franz Steiner Verlag, Stuttgart, 2008, ISBN 978-3-515-09161-9 (Rezension von F. Brahm), (Rezension von Dr. Katrin Bromber, ZMO Berlin)
+Sara Pugach, Africa in Translation: A History of Colonial Linguistics in Germany and Beyond, 1814-1945 [REF]{(Ann Arbor (MI), University of Michigan Press, 2012)}.
+[TITLE]{Weblinks[Bearbeiten | Quelltext bearbeiten]}
+Wiktionary: Afrikanistik – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Wiktionary: Afrikawissenschaft – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Fachverband Afrikanistik
+Vereinigung für Afrikawissenschaften in Deutschland
+ilissAfrica (internet library sub-saharan Africa) Das deutsche Fachportal für die Afrikastudien
+Die Entwicklung der Afrikanistik in Österreich - History of African Studies in Austria
+[TITLE]{Einzelnachweise[Bearbeiten | Quelltext bearbeiten]}
+
+↑ s. Literaturverzeichnis: Hilke Meyer-Bahlburg/Ekkehard Wolff, 1986
+
+↑ Arbeitsstelle Kleine Fächer: Afrikanistik auf dem Portal Kleine Fächer. Abgerufen am 12. Juni 2019. 
+
+↑ Facheinheit Ethnologie: M.A. Kultur und Gesellschaft Afrikas. In: Kulturwissenschaftliche Fakultät der Universität Bayreuth. Abgerufen am 11. Januar 2019.
+
+↑ Bachelorstudiengang (Kernfach): Afrikanische Sprachen, Literaturen und Kunst. In: Institut für Afrikastudien der Universität Bayreuth. Abgerufen am 11. Januar 2019.
+
+↑ Geschichte Afrikas. In: Kulturwissenschaftliche Fakultät der Universität Bayreuth. Abgerufen am 11. Januar 2019.
+
+↑ Sabine Cerbaulet: Universität Bayreuth: Geister, die man rief… Verwaiste Hörsäle und CSU-Filz. In: Die Zeit. Nr. 48, 22. November 1985. Auf Zeit.de, abgerufen am 11. Januar 2019.
+
+
+Normdaten [REF]{(Sachbegriff): GND: 4122766-9 (OGND, AKS)} 
+
+
+
+
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Afrikanistik_im_deutschen_Sprachraum&oldid=190070033“
+Kategorien: AfrikanistikStudienfachAfrikanisch-europäische Beziehungen
+
+
+
+
+
+
+[TITLE]{Navigationsmenü}
+
+
+
+[TITLE]{
+Meine Werkzeuge
+}
+
+
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+
+
+
+
+
+[TITLE]{
+Namensräume
+}
+
+
+
+ArtikelDiskussion
+
+
+
+
+
+[TITLE]{
+Varianten
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Ansichten
+}
+
+
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+
+
+
+
+
+[TITLE]{
+Mehr
+}
+
+
+
+
+
+
+
+[TITLE]{
+Suche
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+HauptseiteThemenportaleZufälliger Artikel
+
+
+
+
+[TITLE]{
+Mitmachen
+}
+
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+
+
+
+
+[TITLE]{
+Werkzeuge
+}
+
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+
+
+
+
+[TITLE]{
+Drucken/­exportieren
+}
+
+
+
+Buch erstellenAls PDF herunterladenDruckversion
+
+
+
+
+[TITLE]{
+In anderen Projekten
+}
+
+
+
+Commons
+
+
+
+
+[TITLE]{
+In anderen Sprachen
+}
+
+
+
+العربيةAsturianuAzərbaycancaБеларускаяCatalàČeštinaEnglishEspañolEestiFrançaisItalianoქართულიҚазақшаКыргызчаLietuviųNederlandsNorsk bokmålИронPolskiPortuguêsРусскийසිංහලTagalogXitsongaУкраїнськаOʻzbekcha/ўзбекчаWinaray
+Links bearbeiten
+
+
+
+
+
+
+ Diese Seite wurde zuletzt am 2. Juli 2019 um 19:27 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies
+
+
+
+
+
+
+
+
+
+

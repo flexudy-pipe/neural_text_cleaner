@@ -1,0 +1,330 @@
+
+
+
+Ingénierie et technologie spatiale — Wikipédia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+
+
+
+		Afficher/cacher la barre latérale
+	
+
+
+
+
+
+
+
+
+[TITLE]{
+Rechercher
+}
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Outils personnels
+}
+
+
+
+Non connectéDiscussionContributionsCréer un compteSe connecter
+
+
+
+
+
+
+
+[TITLE]{
+Navigation
+}
+
+
+
+AccueilPortails thématiquesArticle au hasardContact
+
+
+
+
+[TITLE]{
+Contribuer
+}
+
+
+
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+
+
+
+
+[TITLE]{
+Outils
+}
+
+
+
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+
+
+
+
+[TITLE]{
+Imprimer / exporter
+}
+
+
+
+Créer un livreTélécharger comme PDFVersion imprimable
+
+
+
+
+[TITLE]{
+Dans d’autres projets
+}
+
+
+
+Wikimedia Commons
+
+
+
+
+[TITLE]{
+Dans d’autres langues
+}
+
+
+
+AfrikaansالعربيةAsturianuBrezhonegCatalàCorsuDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیGalegoעבריתहिन्दीKreyòl ayisyenBahasa IndonesiaItaliano日本語ಕನ್ನಡ한국어LatinaLëtzebuergeschLatviešuमराठीBahasa Melayuမြန်မာဘာသာNederlandsPortuguêsRomânăРусскийSarduසිංහලSimple EnglishShqipСрпски / srpskiSvenskaதமிழ்తెలుగుไทยTürkmençeTagalogTürkçeУкраїнськаاردوTiếng Việt中文
+Modifier les liens
+
+
+
+
+[TITLE]{Menu de navigation}
+
+
+
+
+
+[TITLE]{
+Espaces de noms
+}
+
+
+
+ArticleDiscussion
+
+
+
+
+
+[TITLE]{
+Variantes
+}
+
+
+
+
+
+
+
+
+
+
+[TITLE]{
+Affichages
+}
+
+
+
+LireModifierModifier le codeVoir l’historique
+
+
+
+
+
+[TITLE]{
+Plus
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]{Ingénierie et technologie spatiale}
+
+Un article de Wikipédia, l'encyclopédie libre.
+
+
+
+Cet article est une ébauche concernant l’astronautique.
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+Consultez la liste des tâches à accomplir en page de discussion.
+
+
+ Ingénieurs de la NASA pendant la mission Apollo 13
+L'ingénierie et technologie spatiale désigne l'ensemble des fonctions concernant la conception, la construction, l'envoi dans l'espace et le contrôle ultérieur des véhicules spatiaux et des installations terrestres associées. Il s'agit d'un cas particulier d'ingénierie employé dans l'industrie spatiale.
+
+[TITLE]{Sommaire}
+
+1 Principes généraux
+2 Éléments constitutifs de l'ingénierie spatiale
+
+2.1 Disciplines scientifiques
+2.2 Phases d'un projet spatial
+
+
+3 Notes et références
+4 Voir aussi
+
+4.1 Bibliographie
+4.2 Articles connexes
+
+
+
+
+[TITLE]{Principes généraux[modifier | modifier le code]}
+Puisqu'ils se déplacent dans l'espace, les véhicules spatiaux doivent subir des conditions éprouvantes : des forts gradients de température et de pression, de fortes contraintes structurales, des vibrations. Afin de permettre la survie de ces véhicules tout en leur permettant de remplir leur mission, les ingénieurs spatiaux doivent prendre en compte un grand nombre de domaines différents, comme la mécanique des structures, la propulsion, la thermique, la mécanique spatiale. La connaissance de l'ensemble de ces domaines et leur coordination afin de concevoir des véhicules spatiaux constitue l'ingénierie spatiale. La grande diversité des domaines scientifiques pertinents rend difficile la conception entière d'un véhicule par un ingénieur ; le plus souvent, c'est une équipe composée de divers spécialistes et d'ingénieurs qui coordonne leur action qui s'en charge. La conception et la fabrication d'un tel engin est donc un compromis entre les développements techniques, les coûts, les performances, la fiabilité des divers sous-systèmes.
+
+[TITLE]{Éléments constitutifs de l'ingénierie spatiale[modifier | modifier le code]}
+[TITLE]{Disciplines scientifiques[modifier | modifier le code]}
+Voici une liste non exhaustive des diverses sciences et sciences de l'ingénieur qui interviennent en ingénierie spatiale. Il s'agit de voir que chacune de ces composantes, qui rencontre ses propres difficultés et qui cherche à optimiser l'engin spatial de son point de vue, influence directement les autres. L'ensemble de ces disciplines induit divers sous-systèmes dans les véhicules spatiaux ; voir par exemple l'article véhicule spatial.
+
+La mécanique des fluides : pour l'étude de l'atmosphère, qui peut avoir une influence en cas de rentrée atmosphérique ou de satellite en orbite basse. Comme dans les cas précédents, il s'agit souvent d'aérodynamique.
+La mécanique des structures : elle concerne l'étude du comportement dynamique des éléments structuraux des engins spatiaux, tels les treillis de la Station Spatiale Internationale ou les coques qui forment l'enveloppe des lanceurs. Elle permet notamment l'étude des modes de vibration de ces structures, qui sont souvent très importants pour les dimensionner.
+La mécanique spatiale : elle concerne l'étude de la cinématique et de la dynamique du mouvement d'un engin sur son orbite. Elle intervient donc au niveau du vol orbital
+La dynamique du vol : elle intervient lors de la phase de vol suborbital et permet de décrire le comportement d'un engin spatial dans l'atmosphère (en particulier la navette spatiale, qui est la plus proche du comportement d'un avion).
+La propulsion : elle permet de transporter les engins dans l'espace à l'aide de lanceurs et les manœuvres de ces derniers en fournissant des moteurs tels les moteurs fusée ou les moteurs ioniques.
+L'automatique : elle concerne le contrôle de l'attitude des engins spatiaux, de leur dynamique de vol, et de tout autre élément dynamique pouvant être contrôlé par des mesures et des retours d'état (ou Feedback).
+Les mathématiques : vu l'emploi généralisé de formules d'analyse ou de méthodes de calcul scientifique comme la méthode des éléments finis, les mathématiques sont indispensables à la conduite de projets spatiaux, même si leur intervention n'intervient généralement qu'en tant qu'outil de calcul.
+La science des matériaux : elle concerne l'étude et la certification de matériaux aptes à résister aux conditions spatiales extrêmes, tout en étant légers, le poids étant une problématique essentielle dans les missions spatiales. On peut par exemple citer l'utilisation grandissante des matériaux composites dans les tuyères de lanceurs.
+La thermique :  elle concerne l'étude de la chaleur reçue par les engins spatiaux, de sa mesure sur ces engins et des études associées, comme fournir des indications à propos des matériaux à employer en construction pour résister aux écarts de température.
+L'électronique : elle permet la conception de l'ensemble des instruments de bord, aussi bien la charge utile scientifique que les instruments de navigation
+L'informatique : elle permet de concevoir les logiciels qui seront dans les calculateurs de bord et vont permettre à l'engin de se diriger ou d'effectuer sa mission, et ceux qui seront au sol et qui vont permettre de communiquer avec l'engin ou d'analyser les éventuelles données qu'il envoie.
+L'optique : elle permet la conception des systèmes imageurs de la charge utile afin qu'ils puissent délivrer les données souhaitées.
+L'électromagnétisme : elle concerne la propagation des ondes qui transmettent des données, venant de la Terre ou de l'engin, et partant le dimensionnement des systèmes émetteurs et récepteurs nécessaires.
+L'étude des risques et de la fiabilité : elle concerne l'étude des probabilités de casse ou de panne à tous les niveaux d'un engin spatial. En particulier, l'obtention de probabilités de ce type suffisamment faibles est une étape de la certification.
+Les essais et simulations : après la phase de construction de l'engin, il s'agit de tester, sur l'engin lui-même ou à l'aide de programmes de simulation, son aptitude à résister aux conditions qu'il aura à rencontrer, comme le vide, la micro-gravité, les radiations, les vibrations.
+L'ensemble de ces disciplines repose à la fois sur un socle scientifique rigoureux et des résultats tirés de l'expérience.
+
+[TITLE]{Phases d'un projet spatial[modifier | modifier le code]}
+ Modèle de qualification électrique de la sonde Rosetta au Centre européen d'opérations spatiales
+Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue ! Comment faire ?
+Outre ces disciplines, on peut également distinguer des étapes dans la vie d'un projet d'ingénierie spatiale :
+
+La phase d'étude de concept (phase A): On y évalue la faisabilité de la mission envisagée et de la disponibilité des technologies nécessaires
+La phase d'avant projet (Phase B): il s'agit essentiellement d'une phase de conception de haut niveau, où l'on confirme la faisabilité d'un projet par des dimensionnements préliminaires
+La phase de conception proprement dite (Phase C): le projet ayant été accepté par le commanditaire de l'étude préliminaire, l'engin est conçu de façon détaillée.
+La phase de construction (Phase D): Le véhicule est progressivement construit, en construisant souvent des modèles de tests des sous-systèmes. Chaque sous-système est donc testé avant l'assemblage global. Cette étape est nommée intégration pour les satellites.
+La phase de test du véhicule.
+Le lancement vers l'espace.
+Si le véhicule est un lanceur, le cycle de vie s'arrête. Sinon, il reste en orbite et effectue sa mission. S'il s'agit d'un véhicule réutilisable, une étape s'ajoute, la rentrée sur Terre. 
+
+[TITLE]{Notes et références[modifier | modifier le code]}
+[TITLE]{Voir aussi[modifier | modifier le code]}
+[TITLE]{Bibliographie[modifier | modifier le code]}
+[REF]{Techniques et Technologies des véhicules spatiaux : 3 volumes}, Cepadues, 1998, 2294 p. [REF]{(ISBN 978-2-85428-479-9)}
+[REF]{(en) [REF]{Spacecraft Systems Engineering}, John Wiley & Sons Ltd, 2003, 704 p. (ISBN 978-0-470-85102-9)}
+[TITLE]{Articles connexes[modifier | modifier le code]}
+Véhicule spatial
+Vol spatial
+Industrie spatiale
+Ingénierie
+Conception des systèmes de contrôle thermique des satellites ou des sondes spatiales
+Conception des structures des satellites ou des sondes spatiales
+Système de commande d'altitude et d'orbite
+
+
+ Portail de l’astronautique   Portail de la production industrielle  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Ingénierie_et_technologie_spatiale&oldid=170436377 ».
+Catégories : Industrie spatialeTechnologie des véhicules spatiauxIngénierieCatégories cachées : Wikipédia:ébauche astronautiqueArticle avec une section vide ou incomplètePortail:Astronautique/Articles liésPortail:Transports/Articles liésPortail:Sciences/Articles liésPortail:Industrie/Articles liésPortail:Économie/Articles liés
+
+
+
+
+
+
+
+
+
+
+
+ La dernière modification de cette page a été faite le 4 mai 2020 à 18:22.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
