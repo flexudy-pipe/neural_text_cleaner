@@ -10,3 +10,5 @@ We generated synthetic data from Wikipedia pages like this:
 Although most math formulas are not very useful, the intuition here is that this data can be used as a start to train models that can detect math formulas and more from standard files, resulting in better NLP models.
 
 The data folder has English, French and German files from various fields of study. (Do not get fooled by the suffix on the file name. We recommend you do language detection to identify the respective languages.)
+
+I included 100 files as .txt and the rest ~4300 are compressed in 3 parts (scroll at the bottom of /data to find them).
